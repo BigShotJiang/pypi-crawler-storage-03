@@ -1,11 +1,11 @@
 {
   "name": "somu",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A simple high-performance implementation of the Self-Organizing Map (SOM) algorithm in Rust, exposed as a Python module.",
   "author": "Jakub Skalski",
   "license": null,
   "home_page": null,
-  "download_filename": "somu-1.1.0.tar.gz",
-  "download_time": "2025-08-17T21:17:56.200101",
+  "download_filename": "somu-1.1.1.tar.gz",
+  "download_time": "2025-08-17T21:39:24.564873",
   "package_url": "https://pypi.org/project/somu/"
 }
