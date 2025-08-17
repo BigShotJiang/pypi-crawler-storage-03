@@ -1,14 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T09:51:19.175398
-- **Total Packages**: 78
-- **Total Size**: 2.15 MB
+- **Download Time**: 2025-08-17T10:19:45.495835
+- **Total Packages**: 68
+- **Total Size**: 15.95 MB
 
 ## Packages List
+- statements-manager
+- shoebill-ai
+- coralearn
+- mlexplainer
+- Navygram
+- llmswap
+- aydie-prompt-forge
+- maleo-metadata
+- qumas
+- xpander-sdk
+- dev-agents
+- iphone-framer
+- lib2opds
+- ncalib
+- click-cadquery
+- ai-edge-torch-nightly
+- kode-kronical
+- maleo-soma
+- quickinsights
+- pyclsp
+- pyezvizapi
+- print9
+- playlist2podcast
+- tigram-nt-bot
+- nymcard-push-notification
+- vanna-gz
+- cachedict
+- fasttask-manager
+- ramifice
+- ddgs
+- arkparse
+- omnara
+- nichexpert
+- linkmerce
+- test-pip-ok
+- docstring_parser_swig
+- pyglowx
+- ComicGUISpider
+- nonebot_plugin_suggarchat
+- skimly
+- topstack-sdk
 - agentprobe
 - flomo-cli
-- skimly
 - exprmat
 - onepiece-lang
 - dbt-toolbox
@@ -17,70 +57,20 @@
 - Tobigram
 - my-mcp-servers
 - BusMessageParser
-- maleo-metadata
 - shushpy
 - pybirdsreynolds
 - file-state-manager
 - igwn-robot-auth
 - material-palettes-generator
-- nymcard-push-notification
 - openalgo-backtrader
 - dbgear-editor
 - pip-conf-mirror
 - minjiang-client
 - gcslock
-- maleo-soma
 - qwak-inference
-- deckard
 - dycw-utilities
 - bhp-pro
 - tianxiu2b2t-utils
 - zeldarose
 - cirrondly-cli
 - sankarsan-test-pkg
-- legit-api-client
-- aa-srp
-- tbp-nightly
-- ugbio-srsnv
-- ugbio-single-cell
-- ugbio-ppmseq
-- ugbio-omics
-- ugbio-mrd
-- ugbio-methylation
-- ugbio-freec
-- ugbio-filtering
-- ugbio-featuremap
-- ugbio-core
-- ugbio-comparison
-- ugbio-cnv
-- ugbio-cloud-utils
-- polars-hist-db
-- cf-dns-xethhung12
-- ipilot
-- drf-simple-api-errors
-- cloudstructs
-- dew-py
-- textfsm-jinja
-- retab
-- dedsec-cli
-- autogluon
-- ramses-rf
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- kxy-framework
-- autogluon.common
-- frogml-inference
-- mujoco-toolbox
-- pyntegritydb
-- mteb
-- djresttoolkit
-- pyclsp
-- edit-python-pe
-- easy-audit-logging
-- internal
-- shoggoth
-- gnetclisdk
-- mcp-server-booking
