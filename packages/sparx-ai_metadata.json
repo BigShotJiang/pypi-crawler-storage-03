@@ -1,11 +1,11 @@
 {
   "name": "sparx-ai",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A collection of Generative AI code examples and utilities",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/sparx-ai",
-  "download_filename": "sparx_ai-0.1.0.tar.gz",
-  "download_time": "2025-08-17T20:42:29.019413",
+  "download_filename": "sparx_ai-1.0.0.tar.gz",
+  "download_time": "2025-08-17T20:53:02.347901",
   "package_url": "https://pypi.org/project/sparx-ai/"
 }

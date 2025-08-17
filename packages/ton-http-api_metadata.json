@@ -1,0 +1,11 @@
+{
+  "name": "ton-http-api",
+  "version": "2.0.59",
+  "summary": "HTTP API for TON (The Open Network)",
+  "author": "K-Dimentional Tree",
+  "license": null,
+  "home_page": "https://github.com/toncenter/ton-http-api",
+  "download_filename": "ton_http_api-2.0.59.tar.gz",
+  "download_time": "2025-08-17T20:52:58.117563",
+  "package_url": "https://pypi.org/project/ton-http-api/"
+}
