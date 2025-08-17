@@ -1,0 +1,11 @@
+{
+  "name": "resourcemap",
+  "version": "0.0.1",
+  "summary": "Python package that allows you to use application resources without worrying about where they are stored.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "resourcemap-0.0.1.tar.gz",
+  "download_time": "2025-08-17T13:16:42.092288",
+  "package_url": "https://pypi.org/project/resourcemap/"
+}

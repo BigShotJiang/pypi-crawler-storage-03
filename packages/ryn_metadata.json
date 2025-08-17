@@ -1,0 +1,11 @@
+{
+  "name": "ryn",
+  "version": "0.2.5",
+  "summary": "Ryn SDK: data, model, and trainer interfaces",
+  "author": "AIP MLOPS Team",
+  "license": null,
+  "home_page": "https://github.com/AIP-MLOPS/rayen",
+  "download_filename": "ryn-0.2.5.tar.gz",
+  "download_time": "2025-08-17T13:16:47.240447",
+  "package_url": "https://pypi.org/project/ryn/"
+}

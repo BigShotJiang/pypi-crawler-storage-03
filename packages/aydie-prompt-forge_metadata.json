@@ -1,11 +1,11 @@
 {
   "name": "aydie-prompt-forge",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "summary": "A modern toolkit for creating, managing, and testing LLM prompts as code.",
-  "author": "Aditya (Aydie) Dinesh K",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aydie_prompt_forge-1.2.1.tar.gz",
-  "download_time": "2025-08-17T10:43:20.501830",
+  "download_filename": "aydie_prompt_forge-2.0.0.tar.gz",
+  "download_time": "2025-08-17T13:16:42.658875",
   "package_url": "https://pypi.org/project/aydie-prompt-forge/"
 }

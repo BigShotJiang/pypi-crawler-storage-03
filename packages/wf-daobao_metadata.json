@@ -1,0 +1,11 @@
+{
+  "name": "wf-daobao",
+  "version": "20250817.4.1",
+  "summary": "pyinstaller_打包模块",
+  "author": "xwf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wf_daobao-20250817.4.1.tar.gz",
+  "download_time": "2025-08-17T13:16:38.064898",
+  "package_url": "https://pypi.org/project/wf-daobao/"
+}

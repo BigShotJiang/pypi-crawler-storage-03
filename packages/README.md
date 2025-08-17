@@ -1,14 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T12:38:14.169938
-- **Total Packages**: 94
-- **Total Size**: 26.24 MB
+- **Download Time**: 2025-08-17T13:17:26.498496
+- **Total Packages**: 87
+- **Total Size**: 5.85 MB
 
 ## Packages List
+- gha-utils
+- ap-cfg
+- wf-daobao
+- deepdoctection
+- mignonFramework
+- parsehub
+- django-revolution
+- prompt-automation
+- brownllama
+- resourcemap
+- aydie-prompt-forge
+- pytest-robotframework
+- cubing-algs
+- questions-gen
+- webassets
+- sportsball
+- qe-connector
+- pipmaster
+- ryn
+- xync-schema
+- matrice
+- hf-model-tool
+- indie
+- pytest-rmysql
+- tensorcircuit-nightly
+- crashlens
+- py-agent-tools
+- purifyllm
+- hydrolib-core
+- lexia
+- ftmq
+- APasm
+- cppsage
+- stix2extensions
+- dotevals
+- davidkhala.utils
+- unifyai
+- openevolve
+- lightrun
+- fastapi-myauth
+- anystore
+- deploy-time-build
+- dotevals-datasets
+- leap-model-parser
+- langunittest
+- inventree-brother-plugin
+- quickinsights
 - inmanta-module-files
 - littledarwin
-- APasm
 - graphql-server
 - sec-edgar-mcp
 - yeref
@@ -17,10 +63,8 @@
 - openaivec
 - cmd-habit-tracker
 - obe
-- qe-connector
 - graph-games-proto
 - code-loader
-- stix2extensions
 - maleo-metadata
 - beswarm
 - mcp-filesystem-server
@@ -29,13 +73,11 @@
 - deep-rehab-pile
 - hamta-texttools
 - maleo-soma
-- aydie-prompt-forge
 - passagemath-topcom
 - passagemath-tdlib
 - passagemath-tachyon
 - passagemath-sympow
 - passagemath-symbolics
-- quickinsights
 - passagemath-standard-no-symbolics
 - passagemath-sirocco
 - passagemath-singular
@@ -51,52 +93,3 @@
 - passagemath-msolve
 - passagemath-meataxe
 - passagemath-mcqd
-- passagemath-maxima
-- passagemath-macaulay2
-- passagemath-lrslib
-- passagemath-linbox
-- passagemath-libecm
-- passagemath-libbraiding
-- passagemath-lcalc
-- passagemath-latte-4ti2
-- passagemath-kissat
-- passagemath-kenzo
-- passagemath-groups
-- passagemath-glucose
-- passagemath-giac
-- passagemath-gfan
-- passagemath-sws2rst
-- passagemath-standard
-- passagemath-setup
-- passagemath-gap
-- passagemath-repl
-- passagemath-frobby
-- passagemath-pari-seadata-small
-- passagemath-fricas
-- passagemath-pari-seadata-big
-- passagemath-flint
-- passagemath-pari-seadata
-- passagemath-pari-nftables
-- passagemath-eclib
-- passagemath-pari-nflistdata
-- passagemath-ecl
-- passagemath-pari-galpol
-- passagemath-docbuild
-- passagemath-pari-galdata
-- passagemath-doc-pdf
-- passagemath-pari-elldata
-- passagemath-doc-html
-- passagemath-gap-pkg-transgrp-data
-- passagemath-database-polytopes-4d
-- passagemath-gap-pkg-tomlib-data
-- passagemath-gap-pkg-irredsol-data
-- passagemath-gap-pkg-ctbllib-data
-- passagemath-database-cremona-ellcurve
-- passagemath-environment
-- passagemath-coxeter3
-- passagemath-database-symbolic-data
-- abstract-paths
-- passagemath-conf
-- passagemath-database-odlyzko-zeta
-- passagemath-database-mutation-class
-- passagemath-database-kohel

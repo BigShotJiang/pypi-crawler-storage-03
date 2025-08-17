@@ -1,0 +1,11 @@
+{
+  "name": "lexia",
+  "version": "1.1.0",
+  "summary": "Clean, minimal package for Lexia platform integration",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/lexia",
+  "download_filename": "lexia-1.1.0.tar.gz",
+  "download_time": "2025-08-17T13:16:53.708620",
+  "package_url": "https://pypi.org/project/lexia/"
+}
