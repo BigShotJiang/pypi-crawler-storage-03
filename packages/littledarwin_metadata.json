@@ -1,0 +1,11 @@
+{
+  "name": "littledarwin",
+  "version": "0.11.0",
+  "summary": "LittleDarwin Mutation Analysis Framework",
+  "author": "Ali Parsai",
+  "license": "GNU GPLv3",
+  "home_page": "https://littledarwin.parsai.net/",
+  "download_filename": "littledarwin-0.11.0.tar.gz",
+  "download_time": "2025-08-17T12:37:25.252969",
+  "package_url": "https://pypi.org/project/littledarwin/"
+}

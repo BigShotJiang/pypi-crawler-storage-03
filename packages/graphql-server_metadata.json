@@ -1,0 +1,11 @@
+{
+  "name": "graphql-server",
+  "version": "3.0.0",
+  "summary": "A library setting up a GraphQL server in a variety of frameworks",
+  "author": "Syrus Akbary",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphql_server-3.0.0.tar.gz",
+  "download_time": "2025-08-17T12:37:26.297156",
+  "package_url": "https://pypi.org/project/graphql-server/"
+}

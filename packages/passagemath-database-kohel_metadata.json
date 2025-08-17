@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-database-kohel",
+  "version": "10.6.5",
+  "summary": "passagemath: Database of modular and Hilbert polynomials",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_database_kohel-10.6.5.tar.gz",
+  "download_time": "2025-08-17T12:38:13.669079",
+  "package_url": "https://pypi.org/project/passagemath-database-kohel/"
+}
