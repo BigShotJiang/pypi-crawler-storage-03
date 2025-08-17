@@ -1,0 +1,11 @@
+{
+  "name": "tensortracker",
+  "version": "0.1.0",
+  "summary": "Diff and patch safetensors models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensortracker-0.1.0.tar.gz",
+  "download_time": "2025-08-17T23:18:23.913027",
+  "package_url": "https://pypi.org/project/tensortracker/"
+}

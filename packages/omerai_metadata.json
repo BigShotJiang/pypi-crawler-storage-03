@@ -1,11 +1,11 @@
 {
   "name": "omerai",
-  "version": "0.0.1",
+  "version": "0.0.7",
   "summary": "AI image generator — DreamRender",
   "author": "Omer",
   "license": null,
   "home_page": null,
-  "download_filename": "omerai-0.0.1.tar.gz",
-  "download_time": "2025-08-17T22:53:09.251301",
+  "download_filename": "omerai-0.0.7.tar.gz",
+  "download_time": "2025-08-17T23:18:16.838167",
   "package_url": "https://pypi.org/project/omerai/"
 }
