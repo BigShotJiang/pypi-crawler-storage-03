@@ -1,0 +1,11 @@
+{
+  "name": "wyze-sdk-aldilaff",
+  "version": "2.2.1",
+  "summary": "The Wyze Labs API Platform SDK for Python (fork with HL_A19C2 support).",
+  "author": "Faisal Aldilaijan (fork), Shaun Tarves (original)",
+  "license": "The Unlicense",
+  "home_page": "https://github.com/aldilaff/wyze-sdk",
+  "download_filename": "wyze_sdk_aldilaff-2.2.1.tar.gz",
+  "download_time": "2025-08-17T06:23:52.256736",
+  "package_url": "https://pypi.org/project/wyze-sdk-aldilaff/"
+}

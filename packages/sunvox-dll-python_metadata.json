@@ -1,0 +1,11 @@
+{
+  "name": "sunvox-dll-python",
+  "version": "0.3.7.2.1.2.1",
+  "summary": "Python ctypes-based wrapper for the SunVox library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sunvox_dll_python-0.3.7.2.1.2.1.tar.gz",
+  "download_time": "2025-08-17T06:23:52.866101",
+  "package_url": "https://pypi.org/project/sunvox-dll-python/"
+}

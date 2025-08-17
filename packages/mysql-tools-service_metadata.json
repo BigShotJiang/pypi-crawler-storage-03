@@ -1,0 +1,11 @@
+{
+  "name": "mysql-tools-service",
+  "version": "0.1.5",
+  "summary": "mysql的增删改查、xlsx文件的url转为json",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysql_tools_service-0.1.5.tar.gz",
+  "download_time": "2025-08-17T06:23:55.208185",
+  "package_url": "https://pypi.org/project/mysql-tools-service/"
+}

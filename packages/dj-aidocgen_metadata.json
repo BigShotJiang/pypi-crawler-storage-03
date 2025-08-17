@@ -1,0 +1,11 @@
+{
+  "name": "dj-aidocgen",
+  "version": "0.1.1",
+  "summary": "CLI генератор документации для Django endpoints: Markdown + Structurizr PNG или Mermaid",
+  "author": "bda82",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_aidocgen-0.1.1.tar.gz",
+  "download_time": "2025-08-17T06:24:05.598151",
+  "package_url": "https://pypi.org/project/dj-aidocgen/"
+}
