@@ -1,0 +1,11 @@
+{
+  "name": "pyautocausal",
+  "version": "0.1.0",
+  "summary": "Automated causal inference pipelines for data scientists",
+  "author": "Nicholas Topousis",
+  "license": "MIT",
+  "home_page": "https://github.com/NickyTops23/pyautocausal",
+  "download_filename": "pyautocausal-0.1.0.tar.gz",
+  "download_time": "2025-08-17T19:15:12.717946",
+  "package_url": "https://pypi.org/project/pyautocausal/"
+}

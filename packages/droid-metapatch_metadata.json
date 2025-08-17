@@ -1,0 +1,11 @@
+{
+  "name": "droid-metapatch",
+  "version": "3.0.0",
+  "summary": "DROID patch generator",
+  "author": "Allan Eising",
+  "license": null,
+  "home_page": null,
+  "download_filename": "droid_metapatch-3.0.0.tar.gz",
+  "download_time": "2025-08-17T19:14:55.175956",
+  "package_url": "https://pypi.org/project/droid-metapatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chapter-by-chapter",
+  "version": "0.2.0",
+  "summary": "Serializes classic literature to Mastodon",
+  "author": "Bryan L. Fordham",
+  "license": "AGPL 3.0",
+  "home_page": "https://codeberg.org/bfordham/chapter-by-chapter",
+  "download_filename": "chapter_by_chapter-0.2.0.tar.gz",
+  "download_time": "2025-08-17T19:15:11.132253",
+  "package_url": "https://pypi.org/project/chapter-by-chapter/"
+}

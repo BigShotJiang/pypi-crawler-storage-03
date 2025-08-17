@@ -1,11 +1,11 @@
 {
   "name": "cachedict",
-  "version": "0.0.5.1",
+  "version": "0.0.6",
   "summary": "Python cache dict.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/cachedict",
-  "download_filename": "cachedict-0.0.5.1.tar.gz",
-  "download_time": "2025-08-17T16:22:29.743740",
+  "download_filename": "cachedict-0.0.6.tar.gz",
+  "download_time": "2025-08-17T19:15:08.580293",
   "package_url": "https://pypi.org/project/cachedict/"
 }

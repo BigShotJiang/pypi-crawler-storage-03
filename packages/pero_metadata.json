@@ -1,11 +1,11 @@
 {
   "name": "pero",
-  "version": "0.26.0",
+  "version": "0.26.1",
   "summary": "Draw consistently with various backends",
   "author": "Martin Strohalm",
   "license": "MIT",
   "home_page": "https://github.com/xxao/pero",
-  "download_filename": "pero-0.26.0.tar.gz",
-  "download_time": "2025-08-17T16:22:12.761176",
+  "download_filename": "pero-0.26.1.tar.gz",
+  "download_time": "2025-08-17T19:14:46.849884",
   "package_url": "https://pypi.org/project/pero/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pertpy",
+  "version": "1.0.2",
+  "summary": "Perturbation Analysis in the scverse ecosystem.",
+  "author": "Lukas Heumos, Lilly May, Stefan Peidli, Johannes Ostner, Gregor Sturm, Emma Dann, Yuge Ji, Xinyue Zhang, Xichen Wu, Tessa Green, Antonia Schumacher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pertpy-1.0.2-py3-none-any.whl",
+  "download_time": "2025-08-17T19:15:15.315246",
+  "package_url": "https://pypi.org/project/pertpy/"
+}

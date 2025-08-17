@@ -1,0 +1,11 @@
+{
+  "name": "pygameprogress",
+  "version": "0.1.0",
+  "summary": "Modular progress bar system for Pygame projects",
+  "author": "Wilder",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pygameprogress",
+  "download_filename": "pygameprogress-0.1.0.tar.gz",
+  "download_time": "2025-08-17T19:14:57.764123",
+  "package_url": "https://pypi.org/project/pygameprogress/"
+}

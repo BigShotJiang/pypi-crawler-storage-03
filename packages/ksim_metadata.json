@@ -1,11 +1,11 @@
 {
   "name": "ksim",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "A modular and easy-to-use framework for training policies in simulation.",
   "author": "K-Scale Labs",
   "license": null,
   "home_page": "https://github.com/kscalelabs/ksim",
-  "download_filename": "ksim-0.2.8.tar.gz",
-  "download_time": "2025-08-17T11:41:10.944721",
+  "download_filename": "ksim-0.2.9.tar.gz",
+  "download_time": "2025-08-17T19:14:51.001222",
   "package_url": "https://pypi.org/project/ksim/"
 }

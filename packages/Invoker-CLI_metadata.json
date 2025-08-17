@@ -1,0 +1,11 @@
+{
+  "name": "Invoker-CLI",
+  "version": "1.0.0a35",
+  "summary": "Invoker-CLI is a command-line tool that provides a secure, encrypted keyring for managing and executing your Python scripts.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "invoker_cli-1.0.0a35.tar.gz",
+  "download_time": "2025-08-17T19:14:47.362628",
+  "package_url": "https://pypi.org/project/Invoker-CLI/"
+}

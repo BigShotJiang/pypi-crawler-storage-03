@@ -1,0 +1,11 @@
+{
+  "name": "docker-tidy",
+  "version": "3.0.13",
+  "summary": "Keep docker hosts tidy.",
+  "author": "Robert Kaussow",
+  "license": "Apache-2.0",
+  "home_page": "https://docker-tidy.geekdocs.de/",
+  "download_filename": "docker_tidy-3.0.13.tar.gz",
+  "download_time": "2025-08-17T19:14:58.807492",
+  "package_url": "https://pypi.org/project/docker-tidy/"
+}

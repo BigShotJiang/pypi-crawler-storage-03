@@ -1,0 +1,11 @@
+{
+  "name": "pxr-trace",
+  "version": "25.8",
+  "summary": "Performance tracking library used in OpenUSD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_trace-25.8.tar.gz",
+  "download_time": "2025-08-17T19:14:53.622937",
+  "package_url": "https://pypi.org/project/pxr-trace/"
+}

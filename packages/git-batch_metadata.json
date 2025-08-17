@@ -1,0 +1,11 @@
+{
+  "name": "git-batch",
+  "version": "4.0.12",
+  "summary": "Clone single branch from all repositories listed in a file.",
+  "author": "Robert Kaussow",
+  "license": "MIT",
+  "home_page": "https://github.com/thegeeklab/git-batch/",
+  "download_filename": "git_batch-4.0.12.tar.gz",
+  "download_time": "2025-08-17T19:15:00.349020",
+  "package_url": "https://pypi.org/project/git-batch/"
+}
