@@ -1,0 +1,11 @@
+{
+  "name": "weather001",
+  "version": "0.1.1",
+  "summary": "A weather application using MCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weather001-0.1.1.tar.gz",
+  "download_time": "2025-08-17T08:25:02.682735",
+  "package_url": "https://pypi.org/project/weather001/"
+}

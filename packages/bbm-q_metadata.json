@@ -1,11 +1,11 @@
 {
   "name": "bbm-q",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Ultra-minimal.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bbm_q-0.1.4.tar.gz",
-  "download_time": "2025-08-17T07:38:36.831379",
+  "download_filename": "bbm_q-0.1.5.tar.gz",
+  "download_time": "2025-08-17T08:25:11.221979",
   "package_url": "https://pypi.org/project/bbm-q/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "getoutvideo",
+  "version": "1.1.1",
+  "summary": "Extract and process YouTube video transcripts with AI",
+  "author": "GetOutVideo API",
+  "license": "MIT",
+  "home_page": "https://github.com/keboom/GetOutVideo-api",
+  "download_filename": "getoutvideo-1.1.1.tar.gz",
+  "download_time": "2025-08-17T08:25:00.760453",
+  "package_url": "https://pypi.org/project/getoutvideo/"
+}

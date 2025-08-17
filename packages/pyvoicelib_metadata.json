@@ -1,11 +1,11 @@
 {
   "name": "pyvoicelib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple Python voice library for Voice Assistant",
   "author": "Shay Yazirofi",
   "license": "MIT",
   "home_page": "https://github.com/Yazirofi/pyvoicelib",
-  "download_filename": "pyvoicelib-0.1.1.tar.gz",
-  "download_time": "2025-08-17T07:38:31.640599",
+  "download_filename": "pyvoicelib-0.1.2.tar.gz",
+  "download_time": "2025-08-17T08:25:10.709640",
   "package_url": "https://pypi.org/project/pyvoicelib/"
 }

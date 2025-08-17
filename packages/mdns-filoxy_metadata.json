@@ -1,0 +1,11 @@
+{
+  "name": "mdns-filoxy",
+  "version": "1.0.3",
+  "summary": "This is mdns-filoxy, the mDNS filter proxy!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdns_filoxy-1.0.3.tar.gz",
+  "download_time": "2025-08-17T08:24:54.958553",
+  "package_url": "https://pypi.org/project/mdns-filoxy/"
+}

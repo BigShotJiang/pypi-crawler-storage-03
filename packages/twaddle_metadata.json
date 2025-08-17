@@ -1,0 +1,11 @@
+{
+  "name": "twaddle",
+  "version": "1.1.0",
+  "summary": "Text generation and templating",
+  "author": "Chris Hengler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twaddle-1.1.0.tar.gz",
+  "download_time": "2025-08-17T08:24:57.526178",
+  "package_url": "https://pypi.org/project/twaddle/"
+}
