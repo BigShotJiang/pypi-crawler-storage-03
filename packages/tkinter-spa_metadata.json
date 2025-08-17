@@ -1,0 +1,11 @@
+{
+  "name": "tkinter-spa",
+  "version": "1.0.0",
+  "summary": "A Single Page Application framework for Tkinter",
+  "author": "wbarillon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tkinter_spa-1.0.0.tar.gz",
+  "download_time": "2025-08-17T13:54:29.070131",
+  "package_url": "https://pypi.org/project/tkinter-spa/"
+}

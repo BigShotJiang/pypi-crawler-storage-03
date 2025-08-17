@@ -1,11 +1,11 @@
 {
   "name": "Gen-EpiX",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "summary": "Genomic Epidemiology platform for disease X",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gen_epix-4.0.0.tar.gz",
-  "download_time": "2025-08-17T06:23:33.415154",
+  "download_filename": "gen_epix-5.0.0.tar.gz",
+  "download_time": "2025-08-17T13:54:26.903076",
   "package_url": "https://pypi.org/project/Gen-EpiX/"
 }
