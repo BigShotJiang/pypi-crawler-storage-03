@@ -1,11 +1,11 @@
 {
   "name": "qumas",
-  "version": "0.1.1",
-  "summary": "QuMAS: Quasar Microlens AnalysiS",
+  "version": "0.1.2",
+  "summary": "QuMAS: Quasar Microlensing AnalysiS",
   "author": "Felipe Avila-Vera",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "qumas-0.1.1.tar.gz",
-  "download_time": "2025-08-17T10:43:07.665819",
+  "download_filename": "qumas-0.1.2.tar.gz",
+  "download_time": "2025-08-17T10:53:29.226030",
   "package_url": "https://pypi.org/project/qumas/"
 }

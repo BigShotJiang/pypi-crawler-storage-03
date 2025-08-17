@@ -1,11 +1,11 @@
 {
   "name": "material-palettes-generator",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "summary": "Generate Material Design color palettes in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "material_palettes_generator-1.1.2.tar.gz",
-  "download_time": "2025-08-17T09:39:38.120615",
+  "download_filename": "material_palettes_generator-1.2.0.tar.gz",
+  "download_time": "2025-08-17T10:53:24.075566",
   "package_url": "https://pypi.org/project/material-palettes-generator/"
 }

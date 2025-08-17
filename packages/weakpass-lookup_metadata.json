@@ -1,0 +1,11 @@
+{
+  "name": "weakpass-lookup",
+  "version": "0.1.1",
+  "summary": "A tool to crack some hashes through the Weakpass API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weakpass_lookup-0.1.1.tar.gz",
+  "download_time": "2025-08-17T10:53:22.007563",
+  "package_url": "https://pypi.org/project/weakpass-lookup/"
+}
