@@ -1,39 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T10:19:45.495835
-- **Total Packages**: 68
-- **Total Size**: 15.95 MB
+- **Download Time**: 2025-08-17T10:43:42.134372
+- **Total Packages**: 71
+- **Total Size**: 5.83 MB
 
 ## Packages List
+- fastapi-docshield
+- letta-nightly
+- kode-kronical
+- abstract-flask
+- zlang
+- envdetect
+- maleo-soma
+- maos-cli
+- legit-api-client
+- NlpToolkit-MorphologicalAnalysis
+- deckard
+- fipiranfunds
+- qumas
+- blurhash
+- audio-glitch-detector
+- mcp-deep-research
+- py-agent-tools
+- omnata-plugin-runtime
+- fastdevcli-slim
+- fast-dev-cli
+- universal-mcp-fpl
+- autohack-next
+- pyclsp
+- aird
+- python-confetti
+- omnipkg
+- algomanim
+- asciinema-scene
+- nonebot_plugin_suggarchat
+- pyezvizapi
+- qrpa
+- axon-api
+- print9
+- fasttask-manager
+- aydie-prompt-forge
+- TkinterLite
+- coralearn
+- thermolib
+- agentprobe
+- dew-py
+- prek
 - statements-manager
 - shoebill-ai
-- coralearn
 - mlexplainer
 - Navygram
 - llmswap
-- aydie-prompt-forge
 - maleo-metadata
-- qumas
 - xpander-sdk
-- dev-agents
 - iphone-framer
 - lib2opds
 - ncalib
 - click-cadquery
 - ai-edge-torch-nightly
-- kode-kronical
-- maleo-soma
 - quickinsights
-- pyclsp
-- pyezvizapi
-- print9
 - playlist2podcast
 - tigram-nt-bot
 - nymcard-push-notification
 - vanna-gz
 - cachedict
-- fasttask-manager
 - ramifice
 - ddgs
 - arkparse
@@ -44,33 +75,5 @@
 - docstring_parser_swig
 - pyglowx
 - ComicGUISpider
-- nonebot_plugin_suggarchat
 - skimly
 - topstack-sdk
-- agentprobe
-- flomo-cli
-- exprmat
-- onepiece-lang
-- dbt-toolbox
-- stigg-api-client-v2
-- stigg-api-client
-- Tobigram
-- my-mcp-servers
-- BusMessageParser
-- shushpy
-- pybirdsreynolds
-- file-state-manager
-- igwn-robot-auth
-- material-palettes-generator
-- openalgo-backtrader
-- dbgear-editor
-- pip-conf-mirror
-- minjiang-client
-- gcslock
-- qwak-inference
-- dycw-utilities
-- bhp-pro
-- tianxiu2b2t-utils
-- zeldarose
-- cirrondly-cli
-- sankarsan-test-pkg

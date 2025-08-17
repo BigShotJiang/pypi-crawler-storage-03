@@ -1,0 +1,11 @@
+{
+  "name": "maos-cli",
+  "version": "0.8.5",
+  "summary": "Orchestrate swarms of Claude subagents with natural language",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maos_cli-0.8.5.tar.gz",
+  "download_time": "2025-08-17T10:43:04.750108",
+  "package_url": "https://pypi.org/project/maos-cli/"
+}

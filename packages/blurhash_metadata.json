@@ -1,0 +1,11 @@
+{
+  "name": "blurhash",
+  "version": "1.1.5",
+  "summary": "Pure-Python implementation of the blurhash algorithm.",
+  "author": "Lorenz Diener",
+  "license": "MIT",
+  "home_page": "https://github.com/halcy/blurhash-python",
+  "download_filename": "blurhash-1.1.5.tar.gz",
+  "download_time": "2025-08-17T10:43:08.250376",
+  "package_url": "https://pypi.org/project/blurhash/"
+}

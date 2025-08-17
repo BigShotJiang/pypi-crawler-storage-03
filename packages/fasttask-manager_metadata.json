@@ -1,11 +1,11 @@
 {
   "name": "fasttask-manager",
-  "version": "0.2.7",
+  "version": "0.3.1",
   "summary": "fasttask's manager ",
   "author": "Irid",
   "license": null,
   "home_page": "https://github.com/iridesc/fasttask_manager",
-  "download_filename": "fasttask_manager-0.2.7-py2.py3-none-any.whl",
-  "download_time": "2025-08-17T10:19:23.840847",
+  "download_filename": "fasttask_manager-0.3.1-py2.py3-none-any.whl",
+  "download_time": "2025-08-17T10:43:19.916329",
   "package_url": "https://pypi.org/project/fasttask-manager/"
 }

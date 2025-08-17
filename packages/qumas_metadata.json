@@ -1,11 +1,11 @@
 {
   "name": "qumas",
-  "version": "0.1.0",
-  "summary": "SHEAP: Spectral Handling and Estimation of AGN Parameters",
+  "version": "0.1.1",
+  "summary": "QuMAS: Quasar Microlens AnalysiS",
   "author": "Felipe Avila-Vera",
   "license": "AGPL-3.0-only",
   "home_page": null,
-  "download_filename": "qumas-0.1.0.tar.gz",
-  "download_time": "2025-08-17T10:19:13.937429",
+  "download_filename": "qumas-0.1.1.tar.gz",
+  "download_time": "2025-08-17T10:43:07.665819",
   "package_url": "https://pypi.org/project/qumas/"
 }
