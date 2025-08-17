@@ -1,0 +1,11 @@
+{
+  "name": "llama-layer-collector",
+  "version": "1.0.15",
+  "summary": "A tool for loading and computing on parts of Llama models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_layer_collector-1.0.15.tar.gz",
+  "download_time": "2025-08-17T14:16:52.068444",
+  "package_url": "https://pypi.org/project/llama-layer-collector/"
+}

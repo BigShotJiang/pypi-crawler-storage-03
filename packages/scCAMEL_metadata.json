@@ -1,0 +1,11 @@
+{
+  "name": "scCAMEL",
+  "version": "0.43b0",
+  "summary": "scCAMEL: single cell Cross- Annotation and Multimodal Estimation on Lineage trajectory;License: GPL version 3;Developed by: Yizhou Hu, Department of Laboratory Medicine, Karolinska Institutet;Tutorials and other informations in :https://sccamel.readthedocs.io/",
+  "author": "Yizhou Hu",
+  "license": null,
+  "home_page": "https://sccamel.readthedocs.io/",
+  "download_filename": "sccamel-0.43b0.tar.gz",
+  "download_time": "2025-08-17T14:16:46.389500",
+  "package_url": "https://pypi.org/project/scCAMEL/"
+}

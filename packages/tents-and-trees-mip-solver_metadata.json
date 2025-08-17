@@ -1,0 +1,11 @@
+{
+  "name": "tents-and-trees-mip-solver",
+  "version": "0.1.1",
+  "summary": "A Tents and Trees puzzle solver using Mixed Integer Programming (MIP)",
+  "author": "Rasmus Ørnstrup Mikkelsen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tents_and_trees_mip_solver-0.1.1.tar.gz",
+  "download_time": "2025-08-17T14:17:00.853951",
+  "package_url": "https://pypi.org/project/tents-and-trees-mip-solver/"
+}

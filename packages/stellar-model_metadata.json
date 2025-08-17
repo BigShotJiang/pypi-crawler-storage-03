@@ -1,0 +1,11 @@
+{
+  "name": "stellar-model",
+  "version": "0.7.0",
+  "summary": "Parse the raw Stellar data into Python models.",
+  "author": "overcat",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/StellarCN/stellar-model",
+  "download_filename": "stellar_model-0.7.0.tar.gz",
+  "download_time": "2025-08-17T14:16:59.321356",
+  "package_url": "https://pypi.org/project/stellar-model/"
+}
