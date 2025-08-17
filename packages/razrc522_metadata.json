@@ -1,0 +1,11 @@
+{
+  "name": "razrc522",
+  "version": "1.0.0",
+  "summary": "Modern Python library for RC522 RFID reader - updated for current Python and kernel versions 6+",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "razrc522-1.0.0.tar.gz",
+  "download_time": "2025-08-17T21:17:36.381501",
+  "package_url": "https://pypi.org/project/razrc522/"
+}

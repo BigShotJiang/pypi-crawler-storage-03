@@ -1,0 +1,11 @@
+{
+  "name": "pxr-work-dev",
+  "version": "25.8",
+  "summary": "C++ headers and CMake config for developing with pxr-work",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_work_dev-25.8.tar.gz",
+  "download_time": "2025-08-17T21:17:46.001052",
+  "package_url": "https://pypi.org/project/pxr-work-dev/"
+}

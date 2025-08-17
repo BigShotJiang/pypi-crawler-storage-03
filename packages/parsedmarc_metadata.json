@@ -1,0 +1,11 @@
+{
+  "name": "parsedmarc",
+  "version": "8.18.6",
+  "summary": "A Python package and CLI for parsing aggregate and forensic DMARC reports",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parsedmarc-8.18.6.tar.gz",
+  "download_time": "2025-08-17T21:17:56.834283",
+  "package_url": "https://pypi.org/project/parsedmarc/"
+}

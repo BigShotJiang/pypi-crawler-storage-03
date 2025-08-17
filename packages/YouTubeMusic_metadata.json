@@ -1,0 +1,11 @@
+{
+  "name": "YouTubeMusic",
+  "version": "2025.8.19",
+  "summary": "A YouTube Music Search Package With Artist, Channel, and Video Details",
+  "author": "ABHISHEK THAKUR",
+  "license": null,
+  "home_page": "https://github.com/YouTubeMusicAPI/YouTubeMusic",
+  "download_filename": "youtubemusic-2025.8.19.tar.gz",
+  "download_time": "2025-08-17T21:17:42.910232",
+  "package_url": "https://pypi.org/project/YouTubeMusic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python-gitlab-submodule",
+  "version": "0.4.0",
+  "summary": "python-gitlab-submodule : List project submodules and get the commits they point to with python-gitlab.",
+  "author": "Valentin François",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ValentinFrancois/python-gitlab-submodule",
+  "download_filename": "python_gitlab_submodule-0.4.0.tar.gz",
+  "download_time": "2025-08-17T21:18:02.213509",
+  "package_url": "https://pypi.org/project/python-gitlab-submodule/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sms-dashboard",
+  "version": "0.1.0",
+  "summary": "A web-based dashboard for managing and monitoring SMS messages, built with Flask and MySQL.",
+  "author": "Mohammad Ahmadi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sms_dashboard-0.1.0.tar.gz",
+  "download_time": "2025-08-17T21:17:35.214065",
+  "package_url": "https://pypi.org/project/sms-dashboard/"
+}
