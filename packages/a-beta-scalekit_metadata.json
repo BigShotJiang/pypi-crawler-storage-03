@@ -1,0 +1,11 @@
+{
+  "name": "a-beta-scalekit",
+  "version": "3.0.0",
+  "summary": "Scalekit official Python SDK",
+  "author": "Team Scalekit",
+  "license": "MIT",
+  "home_page": "https://github.com/scalekit-inc/scalekit-sdk-python",
+  "download_filename": "a_beta_scalekit-3.0.0.tar.gz",
+  "download_time": "2025-08-17T19:51:04.509509",
+  "package_url": "https://pypi.org/project/a-beta-scalekit/"
+}

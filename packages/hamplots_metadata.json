@@ -1,11 +1,11 @@
 {
   "name": "hamplots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Realtime plots for ham radio band conditions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hamplots-1.0.0.tar.gz",
-  "download_time": "2025-08-17T17:16:52.788782",
+  "download_filename": "hamplots-1.0.1.tar.gz",
+  "download_time": "2025-08-17T19:51:03.477391",
   "package_url": "https://pypi.org/project/hamplots/"
 }

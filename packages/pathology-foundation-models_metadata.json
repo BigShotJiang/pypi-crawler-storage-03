@@ -1,0 +1,11 @@
+{
+  "name": "pathology-foundation-models",
+  "version": "0.0.3",
+  "summary": "Interface for calling foundation models for histopathology image analysis",
+  "author": "Igor Borja",
+  "license": null,
+  "home_page": "https://github.com/IgorPBorja/pathology-foundation-models",
+  "download_filename": "pathology_foundation_models-0.0.3.tar.gz",
+  "download_time": "2025-08-17T19:51:07.198645",
+  "package_url": "https://pypi.org/project/pathology-foundation-models/"
+}
