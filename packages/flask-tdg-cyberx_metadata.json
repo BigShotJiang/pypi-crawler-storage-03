@@ -1,11 +1,11 @@
 {
   "name": "flask-tdg-cyberx",
-  "version": "3.300.39",
+  "version": "3.100.2",
   "summary": "A simpl",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flask_tdg_cyberx-3.300.39.tar.gz",
-  "download_time": "2025-08-17T13:54:22.912292",
+  "download_filename": "flask_tdg_cyberx-3.100.2.tar.gz",
+  "download_time": "2025-08-17T15:50:31.032728",
   "package_url": "https://pypi.org/project/flask-tdg-cyberx/"
 }

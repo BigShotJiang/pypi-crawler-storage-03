@@ -1,0 +1,11 @@
+{
+  "name": "api-blueprint-generator",
+  "version": "1.0.0",
+  "summary": "Generate production-ready APIs from a simple Markdown specification.",
+  "author": "James The Giblet",
+  "license": null,
+  "home_page": "https://github.com/your_username/Project-API-Blueprint-Strategy",
+  "download_filename": "api_blueprint_generator-1.0.0.tar.gz",
+  "download_time": "2025-08-17T15:50:32.591322",
+  "package_url": "https://pypi.org/project/api-blueprint-generator/"
+}

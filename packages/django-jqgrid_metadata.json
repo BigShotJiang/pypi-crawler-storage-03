@@ -1,0 +1,11 @@
+{
+  "name": "django-jqgrid",
+  "version": "1.2.9",
+  "summary": "A Django app for integrating jqGrid with Django REST Framework",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/coder-aniket/django-jqgrid",
+  "download_filename": "django_jqgrid-1.2.9.tar.gz",
+  "download_time": "2025-08-17T15:50:36.791052",
+  "package_url": "https://pypi.org/project/django-jqgrid/"
+}
