@@ -1,11 +1,11 @@
 {
   "name": "brownllama",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "Standard PIP Package for GCP integration apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brownllama-0.1.26.tar.gz",
-  "download_time": "2025-08-17T13:16:41.509817",
+  "download_filename": "brownllama-0.1.27.tar.gz",
+  "download_time": "2025-08-17T15:18:28.859564",
   "package_url": "https://pypi.org/project/brownllama/"
 }

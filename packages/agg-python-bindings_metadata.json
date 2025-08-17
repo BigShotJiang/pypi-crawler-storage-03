@@ -1,11 +1,11 @@
 {
   "name": "agg-python-bindings",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Python bindings for the Rust graph library 'agg'",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agg_python_bindings-0.1.3.tar.gz",
-  "download_time": "2025-08-17T14:51:37.796049",
+  "download_filename": "agg_python_bindings-0.1.4.tar.gz",
+  "download_time": "2025-08-17T15:18:03.279648",
   "package_url": "https://pypi.org/project/agg-python-bindings/"
 }

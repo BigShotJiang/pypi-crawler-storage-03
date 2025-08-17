@@ -1,11 +1,11 @@
 {
   "name": "aiagents4pharma-ansh",
-  "version": "1.43.1",
-  "summary": "AI Agents for drug discovery, drug development, and other pharmaceutical R&D - fully migrated to UV. TEST",
+  "version": "1.43.3",
+  "summary": "AI Agents for drug discovery, drug development, and other pharmaceutical R&D - fully migrated to UV. TEST3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiagents4pharma_ansh-1.43.1-py3-none-any.whl",
-  "download_time": "2025-08-17T14:41:32.794541",
+  "download_filename": "aiagents4pharma_ansh-1.43.3-py3-none-any.whl",
+  "download_time": "2025-08-17T15:18:30.081611",
   "package_url": "https://pypi.org/project/aiagents4pharma-ansh/"
 }
