@@ -1,11 +1,11 @@
 {
   "name": "cirrondly-cli",
-  "version": "0.1.1",
+  "version": "0.1.111",
   "summary": "Cirrondly agent installer and guard CLI",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "cirrondly_cli-0.1.1.tar.gz",
-  "download_time": "2025-08-17T09:18:39.165423",
+  "download_filename": "cirrondly_cli-0.1.111.tar.gz",
+  "download_time": "2025-08-17T09:39:45.987050",
   "package_url": "https://pypi.org/project/cirrondly-cli/"
 }

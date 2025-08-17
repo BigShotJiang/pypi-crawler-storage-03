@@ -1,11 +1,11 @@
 {
   "name": "gcslock",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcslock-0.0.1.tar.gz",
-  "download_time": "2025-08-17T06:50:32.383866",
+  "download_filename": "gcslock-0.0.2.tar.gz",
+  "download_time": "2025-08-17T09:39:41.804943",
   "package_url": "https://pypi.org/project/gcslock/"
 }

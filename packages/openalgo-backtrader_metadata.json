@@ -1,11 +1,11 @@
 {
   "name": "openalgo-backtrader",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Backtrader integration for OpenAlgo (India) - stores, feeds, and brokers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openalgo_backtrader-0.1.1.tar.gz",
-  "download_time": "2025-08-17T09:19:03.446723",
+  "download_filename": "openalgo_backtrader-0.1.4.tar.gz",
+  "download_time": "2025-08-17T09:39:39.676135",
   "package_url": "https://pypi.org/project/openalgo-backtrader/"
 }
