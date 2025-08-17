@@ -1,0 +1,11 @@
+{
+  "name": "bisos.dockerProc",
+  "version": "0.1",
+  "summary": "bisos.vagrantBaseBoxes: Facilities for Creating and Managing Vagrant Packer Base Boxes",
+  "author": "Mohsen Banan",
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "bisos_dockerproc-0.1.tar.gz",
+  "download_time": "2025-08-17T23:50:47.106744",
+  "package_url": "https://pypi.org/project/bisos.dockerProc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "umsc",
+  "version": "0.4.0",
+  "summary": "Script Converter for Uyghur Language",
+  "author": "Osman Tursun",
+  "license": null,
+  "home_page": "https://github.com/neouyghur/ScriptConverter4Uyghur",
+  "download_filename": "umsc-0.4.0.tar.gz",
+  "download_time": "2025-08-17T23:50:39.927245",
+  "package_url": "https://pypi.org/project/umsc/"
+}
