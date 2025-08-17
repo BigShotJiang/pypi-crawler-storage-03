@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T15:18:44.693537
-- **Total Packages**: 72
-- **Total Size**: 30.66 MB
+- **Download Time**: 2025-08-17T15:40:37.329267
+- **Total Packages**: 78
+- **Total Size**: 17.02 MB
 
 ## Packages List
+- wgutil
+- gukebox
+- pyds-fundamental
+- ai-subtitle
+- match-expression
+- gima
+- vindioai
+- tombi
+- zlang
+- srb
+- loadept-mcp-filesystem
+- licenzy
+- selvage
+- hamplots
+- pygame-animation-player
+- customrandom
+- ambivo-agents
+- rago
+- transpolibre
+- euroncal-shewan
+- superset-chat
+- brain-proxy
+- payloop
+- countries-dictionary
+- enochecker-logs
+- rekuest-next
+- podcast-transcriber
+- copyparty
+- reyweb
+- torchrl-nightly
+- jbutils
+- glpkg
+- pytest-shared-session-scope
+- pydantic-variants
+- clash-tools
+- discord-py-role-panel-lib
+- pyclsp
+- openfl-nightly
+- legit-api-client
+- ryn
+- low-code-api-lib-sdk
 - prompt-automation
 - SimpleLinestring
 - abstract-logins
@@ -16,29 +57,22 @@
 - pylibcue
 - agg-python-bindings
 - slimformers
-- ai-subtitle
 - pytimetk
-- discord-py-role-panel-lib
 - PyFunceble-dev
 - taz-mixlang
-- pydantic-variants
 - reyworm
 - reywechat
-- reyweb
 - reydb
 - fraiseql
 - aiocdek
 - mdbq
 - picarta
 - databank-x
-- brain-proxy
-- hamplots
 - sci-kit
 - chordnet
 - public-apis-mcp
 - tuskitoo
 - agentle
-- jbutils
 - gis-mcp
 - minigun-soren-n
 - inception-helper-func
@@ -46,35 +80,7 @@
 - universal-mcp-google-drive
 - exllamav3
 - gql
-- legit-api-client
 - universal-mcp-fpl
 - awesome-actus-lib
 - mcap-ros2idl-support
 - adpkg
-- brownllama
-- scapi-py
-- aiagents4pharma-ansh
-- scmorph
-- vindioai
-- ai-commiter
-- gitlab-pipeline-analyzer
-- langchain-zeusdb
-- dolze-image-templates
-- markdown-query
-- telenet
-- ryn
-- Backtester-Tushar
-- classy-blocks
-- bd-geoinfo
-- compoundwidgets
-- ciscoconfparse2
-- watchgate-gateway
-- watchgate
-- audit-logging
-- django-chelseru
-- kodexa
-- iphone-framer
-- trops
-- frogml
-- pyxcp
-- packageapi

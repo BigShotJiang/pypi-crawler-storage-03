@@ -1,0 +1,11 @@
+{
+  "name": "rago",
+  "version": "0.14.2",
+  "summary": "RAG framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rago-0.14.2.tar.gz",
+  "download_time": "2025-08-17T15:40:05.372519",
+  "package_url": "https://pypi.org/project/rago/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wgutil",
+  "version": "0.0.2",
+  "summary": "wireguard util",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wgutil-0.0.2.tar.gz",
+  "download_time": "2025-08-17T15:39:56.482538",
+  "package_url": "https://pypi.org/project/wgutil/"
+}

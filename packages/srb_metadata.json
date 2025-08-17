@@ -1,0 +1,11 @@
+{
+  "name": "srb",
+  "version": "0.0.5",
+  "summary": "Space Robotics Bench",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "srb-0.0.5.tar.gz",
+  "download_time": "2025-08-17T15:40:01.196985",
+  "package_url": "https://pypi.org/project/srb/"
+}

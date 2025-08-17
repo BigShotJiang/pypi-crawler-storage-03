@@ -1,11 +1,11 @@
 {
   "name": "github-issue-parser-mcp",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "summary": "An MCP server that parses GitHub issues and returns formatted plain text content",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "github_issue_parser_mcp-1.0.0.tar.gz",
-  "download_time": "2025-08-17T14:41:40.844563",
+  "download_filename": "github_issue_parser_mcp-2.0.0.tar.gz",
+  "download_time": "2025-08-17T15:40:19.957414",
   "package_url": "https://pypi.org/project/github-issue-parser-mcp/"
 }
