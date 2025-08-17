@@ -1,0 +1,11 @@
+{
+  "name": "retab",
+  "version": "0.0.58",
+  "summary": "Retab official python library",
+  "author": "Retab",
+  "license": null,
+  "home_page": "https://github.com/Retab-dev/retab",
+  "download_filename": "retab-0.0.58.tar.gz",
+  "download_time": "2025-08-17T09:18:53.015667",
+  "package_url": "https://pypi.org/project/retab/"
+}

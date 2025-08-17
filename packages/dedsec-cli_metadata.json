@@ -1,0 +1,11 @@
+{
+  "name": "dedsec-cli",
+  "version": "1.0",
+  "summary": "Dedsec UI helpers for Python CLIs",
+  "author": "0xbit",
+  "license": null,
+  "home_page": "https://github.com/0xbitx/dedsec_cli_utils",
+  "download_filename": "dedsec_cli-1.0.tar.gz",
+  "download_time": "2025-08-17T09:18:53.525847",
+  "package_url": "https://pypi.org/project/dedsec-cli/"
+}
