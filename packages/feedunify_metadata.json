@@ -1,0 +1,11 @@
+{
+  "name": "feedunify",
+  "version": "0.3.3",
+  "summary": "A high-performance, unifying library for data ingestion pipelines from multiple sources.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feedunify-0.3.3.tar.gz",
+  "download_time": "2025-08-17T16:22:42.685012",
+  "package_url": "https://pypi.org/project/feedunify/"
+}

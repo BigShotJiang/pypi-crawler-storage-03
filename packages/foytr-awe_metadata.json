@@ -1,0 +1,11 @@
+{
+  "name": "foytr-awe",
+  "version": "0.1.0",
+  "summary": "A simple web framework similar to Flask.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/foytr-awe",
+  "download_filename": "foytr_awe-0.1.0.tar.gz",
+  "download_time": "2025-08-17T16:22:36.523212",
+  "package_url": "https://pypi.org/project/foytr-awe/"
+}

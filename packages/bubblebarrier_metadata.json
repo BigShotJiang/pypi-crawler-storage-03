@@ -1,0 +1,11 @@
+{
+  "name": "bubblebarrier",
+  "version": "1.0.9",
+  "summary": "Barrier calculations for cosmic reionization models",
+  "author": "Hajime Hinata",
+  "license": "MIT",
+  "home_page": "https://github.com/SOYONAOC/BubbleBarrier",
+  "download_filename": "bubblebarrier-1.0.9.tar.gz",
+  "download_time": "2025-08-17T16:22:43.197365",
+  "package_url": "https://pypi.org/project/bubblebarrier/"
+}

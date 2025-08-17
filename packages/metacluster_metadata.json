@@ -1,0 +1,11 @@
+{
+  "name": "metacluster",
+  "version": "1.3.0",
+  "summary": "MetaCluster: An Open-Source Python Library for Metaheuristic-based Clustering Problems",
+  "author": "Thieu",
+  "license": "GPLv3",
+  "home_page": "https://github.com/thieu1995/metacluster",
+  "download_filename": "metacluster-1.3.0.tar.gz",
+  "download_time": "2025-08-17T16:22:22.552816",
+  "package_url": "https://pypi.org/project/metacluster/"
+}

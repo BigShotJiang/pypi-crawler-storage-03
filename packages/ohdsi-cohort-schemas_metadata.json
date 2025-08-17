@@ -1,0 +1,11 @@
+{
+  "name": "ohdsi-cohort-schemas",
+  "version": "0.4.1",
+  "summary": "Pydantic models for validating OHDSI/Circe cohort definition schemas",
+  "author": "Chase Sweeting",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/clsweeting/ohdsi-cohort-schemas",
+  "download_filename": "ohdsi_cohort_schemas-0.4.1.tar.gz",
+  "download_time": "2025-08-17T16:22:41.153150",
+  "package_url": "https://pypi.org/project/ohdsi-cohort-schemas/"
+}

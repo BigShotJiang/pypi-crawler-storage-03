@@ -1,0 +1,11 @@
+{
+  "name": "QuantStats",
+  "version": "0.0.74",
+  "summary": "Portfolio analytics for quants",
+  "author": "Ran Aroussi",
+  "license": "Apache Software License",
+  "home_page": "https://github.com/ranaroussi/quantstats",
+  "download_filename": "quantstats-0.0.74.tar.gz",
+  "download_time": "2025-08-17T16:22:40.638279",
+  "package_url": "https://pypi.org/project/QuantStats/"
+}

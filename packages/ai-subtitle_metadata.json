@@ -1,11 +1,11 @@
 {
   "name": "ai-subtitle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A set of UNIX-style tools for generating and translating subtitles using AI.",
   "author": "Lumos",
   "license": null,
-  "home_page": "https://github.com/shdancer/ai-subtitle/tree/main",
-  "download_filename": "ai_subtitle-0.1.1.tar.gz",
-  "download_time": "2025-08-17T15:39:58.040590",
+  "home_page": "https://github.com/shdancer/ai-subtitle",
+  "download_filename": "ai_subtitle-0.1.2.tar.gz",
+  "download_time": "2025-08-17T16:22:25.627148",
   "package_url": "https://pypi.org/project/ai-subtitle/"
 }

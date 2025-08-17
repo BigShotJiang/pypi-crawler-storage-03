@@ -1,11 +1,11 @@
 {
   "name": "TRI-LBM",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": "Large Behavioral Model from Toyota Research",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tri_lbm-0.0.22.tar.gz",
-  "download_time": "2025-08-17T13:43:58.275866",
+  "download_filename": "tri_lbm-0.0.23.tar.gz",
+  "download_time": "2025-08-17T16:22:09.635717",
   "package_url": "https://pypi.org/project/TRI-LBM/"
 }

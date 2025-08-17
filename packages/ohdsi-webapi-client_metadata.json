@@ -1,0 +1,11 @@
+{
+  "name": "ohdsi-webapi-client",
+  "version": "0.4.1",
+  "summary": "Python client for OHDSI WebAPI (MVP: info, sources, vocabulary, concept sets, cohorts).",
+  "author": "Your Name",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/clsweeting/ohdsi-webapi",
+  "download_filename": "ohdsi_webapi_client-0.4.1.tar.gz",
+  "download_time": "2025-08-17T16:22:18.422374",
+  "package_url": "https://pypi.org/project/ohdsi-webapi-client/"
+}

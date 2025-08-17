@@ -1,11 +1,11 @@
 {
   "name": "auth-xjtu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Automated XJTU OpenPlatform OAuth authentication for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "auth_xjtu-0.2.0.tar.gz",
-  "download_time": "2025-08-17T15:50:31.550933",
+  "download_filename": "auth_xjtu-0.2.1.tar.gz",
+  "download_time": "2025-08-17T16:22:21.514496",
   "package_url": "https://pypi.org/project/auth-xjtu/"
 }

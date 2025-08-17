@@ -1,0 +1,11 @@
+{
+  "name": "robin-logistics-env",
+  "version": "2.6.0",
+  "summary": "Professional multi-depot vehicle routing environment for hackathons and competitions with interactive dashboard and headless execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robin_logistics_env-2.6.0.tar.gz",
+  "download_time": "2025-08-17T16:22:30.783642",
+  "package_url": "https://pypi.org/project/robin-logistics-env/"
+}

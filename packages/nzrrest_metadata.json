@@ -1,0 +1,11 @@
+{
+  "name": "nzrrest",
+  "version": "0.1.0",
+  "summary": "Modern async Python framework for AI APIs with native Model Context Protocol (MCP) support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nzrrest-0.1.0.tar.gz",
+  "download_time": "2025-08-17T16:22:23.065320",
+  "package_url": "https://pypi.org/project/nzrrest/"
+}
