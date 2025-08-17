@@ -1,0 +1,11 @@
+{
+  "name": "py-uds-address",
+  "version": "2.0.0",
+  "summary": "Collection of UDS addresses for various ECUs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_uds_address-2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-17T20:42:22.360227",
+  "package_url": "https://pypi.org/project/py-uds-address/"
+}

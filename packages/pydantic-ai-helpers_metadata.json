@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai-helpers",
+  "version": "0.0.2",
+  "summary": "Boring, opinionated helpers for PydanticAI that are so simple you didn't want to even vibe code them. (Unofficial)",
+  "author": "Jan Siml",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_ai_helpers-0.0.2.tar.gz",
+  "download_time": "2025-08-17T20:42:21.848085",
+  "package_url": "https://pypi.org/project/pydantic-ai-helpers/"
+}
