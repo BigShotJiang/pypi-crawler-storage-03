@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T19:29:07.480526
-- **Total Packages**: 80
-- **Total Size**: 2.11 MB
+- **Download Time**: 2025-08-17T19:41:17.847554
+- **Total Packages**: 81
+- **Total Size**: 3.03 MB
 
 ## Packages List
+- miamcpdoc
+- cjm-fasthtml-tailwind
+- bumpwright
+- m24842-ml
+- feedgenerator
+- ryn
+- starhtml
+- mkdocs-platform-plugin
+- retell-sdk
+- cloudglue
+- ruminant
+- folderly
+- keras-image-helper
+- ivmodels
+- ast-tool-py
+- libasterix
 - foundry-sdk
 - python-sample-app-mackes
 - muxu-io-mqtt-application
@@ -17,12 +33,10 @@
 - dars-framework
 - reflex-azure-auth
 - SuperGemini
-- m24842-ml
 - aocref
 - klavis
 - fastapi-autoloader
 - pyvol-terminal
-- ryn
 - depzip
 - stochvolmodels
 - pybiolib
@@ -73,16 +87,3 @@
 - lime-ndt
 - cfq
 - cachedict
-- i18n-check
-- gammarers.aws-secure-frontend-web-app-cloudfront-distribution
-- mcp-server-toggl
-- sportsball
-- chapter-by-chapter
-- tclogger
-- mp4analyzer
-- pyautocausal
-- fremko
-- droidflow
-- fastapi-rest-utils
-- pysme-astro
-- pertpy
