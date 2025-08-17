@@ -1,0 +1,11 @@
+{
+  "name": "casbin-rabbitmq-watcher",
+  "version": "1.6.0",
+  "summary": "Casbin role watcher to be used for monitoring updates to policies for PyCasbin",
+  "author": "Casbin",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/officialpycasbin/rabbitmq-watcher",
+  "download_filename": "casbin_rabbitmq_watcher-1.6.0.tar.gz",
+  "download_time": "2025-08-17T07:38:30.026884",
+  "package_url": "https://pypi.org/project/casbin-rabbitmq-watcher/"
+}

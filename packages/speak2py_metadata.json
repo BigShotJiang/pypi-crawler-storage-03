@@ -1,0 +1,11 @@
+{
+  "name": "speak2py",
+  "version": "0.3.0",
+  "summary": "Stateful natural-language → pandas/matplotlib, offline-first.",
+  "author": "Varun Pulipati",
+  "license": "MIT",
+  "home_page": "https://github.com/varunpuli/speak2py",
+  "download_filename": "speak2py-0.3.0.tar.gz",
+  "download_time": "2025-08-17T07:38:40.700255",
+  "package_url": "https://pypi.org/project/speak2py/"
+}

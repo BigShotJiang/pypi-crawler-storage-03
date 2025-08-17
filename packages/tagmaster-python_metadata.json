@@ -1,0 +1,11 @@
+{
+  "name": "tagmaster-python",
+  "version": "1.0.0",
+  "summary": "A comprehensive Python client for the Tagmaster classification API with project management, category management, AI classification, and analytics",
+  "author": "Tagmaster",
+  "license": "MIT",
+  "home_page": "https://github.com/tagmaster/tagmaster-python",
+  "download_filename": "tagmaster_python-1.0.0.tar.gz",
+  "download_time": "2025-08-17T07:38:42.852573",
+  "package_url": "https://pypi.org/project/tagmaster-python/"
+}
