@@ -1,7 +1,7 @@
 {
-  "download_time": "2025-08-17T18:27:26.528461",
+  "download_time": "2025-08-17T18:50:32.980809",
   "total_packages_downloaded": 86,
-  "total_size_mb": 31.75,
+  "total_size_mb": 2.49,
   "packages": [
     "loadept-mcp-filesystem",
     "makepkg",
