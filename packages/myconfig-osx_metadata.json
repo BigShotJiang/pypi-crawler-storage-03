@@ -1,0 +1,11 @@
+{
+  "name": "myconfig-osx",
+  "version": "1.0.0",
+  "summary": "macOS configuration backup and restore tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "myconfig_osx-1.0.0.tar.gz",
+  "download_time": "2025-08-17T17:40:39.847093",
+  "package_url": "https://pypi.org/project/myconfig-osx/"
+}

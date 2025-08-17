@@ -1,11 +1,11 @@
 {
   "name": "onepiece-lang",
-  "version": "0.1.4",
-  "summary": null,
-  "author": null,
+  "version": "0.1.6",
+  "summary": "OnePiece Language: A fun, themed programming language inspired by One Piece",
+  "author": "Hash",
   "license": null,
-  "home_page": null,
-  "download_filename": "onepiece_lang-0.1.4.tar.gz",
-  "download_time": "2025-08-17T10:19:32.697818",
+  "home_page": "https://github.com/yourusername/onepiece-lang",
+  "download_filename": "onepiece_lang-0.1.6.tar.gz",
+  "download_time": "2025-08-17T17:40:55.535232",
   "package_url": "https://pypi.org/project/onepiece-lang/"
 }

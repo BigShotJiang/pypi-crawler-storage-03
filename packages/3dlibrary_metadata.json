@@ -1,0 +1,11 @@
+{
+  "name": "3dlibrary",
+  "version": "0.2",
+  "summary": "Saf Python 3D kütüphanesi (OpenGL kullanmadan, v0.2)",
+  "author": "Mehmet",
+  "license": null,
+  "home_page": "https://github.com/kullaniciadi/3dlibrary",
+  "download_filename": "3dlibrary-0.2.tar.gz",
+  "download_time": "2025-08-17T17:40:39.258547",
+  "package_url": "https://pypi.org/project/3dlibrary/"
+}

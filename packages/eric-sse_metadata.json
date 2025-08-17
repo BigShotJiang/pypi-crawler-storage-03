@@ -1,0 +1,11 @@
+{
+  "name": "eric-sse",
+  "version": "2.0.0.3",
+  "summary": "A lightweight message dispatcher based on SSE protocol data transfer objects format",
+  "author": "Luca Stretti",
+  "license": "MIT",
+  "home_page": "https://laxertu.github.io/eric",
+  "download_filename": "eric_sse-2.0.0.3.tar.gz",
+  "download_time": "2025-08-17T17:40:48.747975",
+  "package_url": "https://pypi.org/project/eric-sse/"
+}
