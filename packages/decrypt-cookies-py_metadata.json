@@ -1,0 +1,11 @@
+{
+  "name": "decrypt-cookies-py",
+  "version": "0.1.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/saying121/tidy-browser/tree/master/crates/decrypt-cookies",
+  "download_filename": "decrypt_cookies_py-0.1.0-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2025-08-17T11:41:04.185130",
+  "package_url": "https://pypi.org/project/decrypt-cookies-py/"
+}

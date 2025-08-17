@@ -1,11 +1,11 @@
 {
   "name": "TkinterLite",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "summary": "tkinter库的简化版",
   "author": "YanXinle",
   "license": null,
   "home_page": "https://github.com/Yanxinle1123/LeleEasyTkinter",
-  "download_filename": "tkinterlite-3.2.0.tar.gz",
-  "download_time": "2025-08-17T10:43:21.086841",
+  "download_filename": "tkinterlite-3.2.1.tar.gz",
+  "download_time": "2025-08-17T11:41:11.456813",
   "package_url": "https://pypi.org/project/TkinterLite/"
 }
