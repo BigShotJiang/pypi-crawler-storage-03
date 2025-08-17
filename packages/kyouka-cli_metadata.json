@@ -1,0 +1,11 @@
+{
+  "name": "kyouka-cli",
+  "version": "1.0.0",
+  "summary": "yt tl ripoff for ur terminal",
+  "author": "vyx",
+  "license": "MIT",
+  "home_page": "https://github.com/lyraxial/kyouka",
+  "download_filename": "kyouka_cli-1.0.0.tar.gz",
+  "download_time": "2025-08-17T20:20:52.192024",
+  "package_url": "https://pypi.org/project/kyouka-cli/"
+}

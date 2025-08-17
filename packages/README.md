@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T19:51:42.363880
-- **Total Packages**: 85
-- **Total Size**: 20.1 MB
+- **Download Time**: 2025-08-17T20:21:18.208578
+- **Total Packages**: 78
+- **Total Size**: 19.89 MB
 
 ## Packages List
+- lm-deluge
+- dslash
+- forktex
+- HoloCapture
+- growatt-public-api
+- slvrov-tools
+- pdfkb-mcp
+- bootwrap
+- asyncflow-sim
+- foundry-sdk
+- brain-proxy
+- m24842-ml
+- translink-mcp
+- forecast-pert
+- accusnv
+- PyFinitDiff
+- pyrekordbox
+- asciiquarium-redux
+- ireland-nta-mcp
+- langgraph_openai_serve
+- FiberFusing
+- inmanta-module-podman
+- PyQrackIsing
+- tqdm-joblib
+- austaltools
+- pdf2markdown
+- muxu-io-mqtt-connector
+- lium-cli
+- kyouka-cli
+- hamplots
+- gen-tries
+- opensod-modelplus
+- ryn
+- langroid
+- yakari
+- omnara
+- ugly-bot
+- pysme-astro
+- rupython
+- eventdispatch
+- chirality-framework
 - pitia
 - scikit-lib
 - bijux-cli
@@ -14,9 +55,7 @@
 - maxs
 - autobyteus
 - symjit
-- m24842-ml
 - workbench
-- hamplots
 - ap-cfg
 - a-beta-scalekit
 - pex
@@ -25,7 +64,6 @@
 - pygpt-net
 - pathology-foundation-models
 - transpolibre
-- foundry-sdk
 - aws-vibe-guru
 - vllm-cli
 - muxu-io-mqtt-logger
@@ -34,7 +72,6 @@
 - cjm-fasthtml-tailwind
 - bumpwright
 - feedgenerator
-- ryn
 - starhtml
 - mkdocs-platform-plugin
 - retell-sdk
@@ -47,47 +84,3 @@
 - libasterix
 - python-sample-app-mackes
 - muxu-io-mqtt-application
-- gammarers.aws-secure-flow-log-bucket
-- pipmaster
-- arcane-mage
-- makepkg
-- vsjetpack
-- dars-framework
-- reflex-azure-auth
-- SuperGemini
-- aocref
-- klavis
-- fastapi-autoloader
-- pyvol-terminal
-- depzip
-- stochvolmodels
-- pybiolib
-- omnigenome
-- omnigenbench
-- masque
-- kaiserlift
-- browseversa
-- ut-arr
-- ap-mail
-- pero
-- Invoker-CLI
-- scikit-plots
-- puretorch
-- xai-easy
-- mbake
-- pyrauli
-- ksim
-- pylrctool
-- tumblrbot
-- pxr-trace-dev
-- lusid-sdk
-- pxr-trace
-- lionagi
-- mistralai
-- droid-metapatch
-- langchain-logseq
-- aisert
-- api-marketplace-client
-- brownllama
-- pygameprogress
-- open-web-calendar

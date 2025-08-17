@@ -1,0 +1,11 @@
+{
+  "name": "tqdm-joblib",
+  "version": "0.0.5",
+  "summary": "Tracking progress of joblib.Parallel execution",
+  "author": null,
+  "license": "CC-BY-SA-4.0",
+  "home_page": null,
+  "download_filename": "tqdm_joblib-0.0.5.tar.gz",
+  "download_time": "2025-08-17T20:20:49.602363",
+  "package_url": "https://pypi.org/project/tqdm-joblib/"
+}

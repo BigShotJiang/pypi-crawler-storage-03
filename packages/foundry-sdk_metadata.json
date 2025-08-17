@@ -1,11 +1,11 @@
 {
   "name": "foundry-sdk",
-  "version": "0.0.219",
+  "version": "0.0.223",
   "summary": "A collection of tools and utilities for ETL and training pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "foundry_sdk-0.0.219.tar.gz",
-  "download_time": "2025-08-17T19:51:08.232881",
+  "download_filename": "foundry_sdk-0.0.223.tar.gz",
+  "download_time": "2025-08-17T20:20:41.821681",
   "package_url": "https://pypi.org/project/foundry-sdk/"
 }

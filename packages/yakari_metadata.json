@@ -1,0 +1,11 @@
+{
+  "name": "yakari",
+  "version": "0.1.1",
+  "summary": "Interactive command building tool.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yakari-0.1.1.tar.gz",
+  "download_time": "2025-08-17T20:20:55.306201",
+  "package_url": "https://pypi.org/project/yakari/"
+}
