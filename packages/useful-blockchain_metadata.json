@@ -1,0 +1,11 @@
+{
+  "name": "useful-blockchain",
+  "version": "1.0.0",
+  "summary": "Easy Blockchain: A simple blockchain implementation in Python.",
+  "author": "Teppei Fukutomi",
+  "license": "MIT",
+  "home_page": "https://github.com/T3pp31/easyblockchain",
+  "download_filename": "useful_blockchain-1.0.0.tar.gz",
+  "download_time": "2025-08-17T07:17:41.235427",
+  "package_url": "https://pypi.org/project/useful-blockchain/"
+}
