@@ -1,0 +1,11 @@
+{
+  "name": "muxu-io-mqtt-application",
+  "version": "1.1.0",
+  "summary": "A comprehensive asynchronous MQTT application library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "muxu_io_mqtt_application-1.1.0.tar.gz",
+  "download_time": "2025-08-17T19:28:23.497065",
+  "package_url": "https://pypi.org/project/muxu-io-mqtt-application/"
+}

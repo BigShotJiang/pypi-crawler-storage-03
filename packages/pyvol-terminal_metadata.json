@@ -1,0 +1,11 @@
+{
+  "name": "pyvol-terminal",
+  "version": "0.0.1",
+  "summary": "A package that generates a terminal for display realtime volatility analytics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvol_terminal-0.0.1.tar.gz",
+  "download_time": "2025-08-17T19:28:31.108674",
+  "package_url": "https://pypi.org/project/pyvol-terminal/"
+}

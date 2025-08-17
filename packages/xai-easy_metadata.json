@@ -1,11 +1,11 @@
 {
   "name": "xai-easy",
-  "version": "1.1.5",
+  "version": "1.1.4",
   "summary": "A lightweight package for Explainable AI on ML models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xai_easy-1.1.5.tar.gz",
-  "download_time": "2025-08-17T19:14:49.443963",
+  "download_filename": "xai_easy-1.1.4.tar.gz",
+  "download_time": "2025-08-17T19:28:40.344472",
   "package_url": "https://pypi.org/project/xai-easy/"
 }
