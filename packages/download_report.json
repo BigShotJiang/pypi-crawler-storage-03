@@ -1,8 +1,10 @@
 {
-  "download_time": "2025-08-17T11:15:47.876859",
+  "download_time": "2025-08-17T11:29:49.994115",
   "total_packages_downloaded": 77,
-  "total_size_mb": 14.3,
+  "total_size_mb": 0.09,
   "packages": [
+    "wokwi-client",
+    "maos-cli",
     "print9",
     "intuned-sdk-dev-rauf",
     "intuned-sdk-dev-bot",
@@ -25,7 +27,6 @@
     "omnata-plugin-runtime",
     "numseq",
     "mapply",
-    "maos-cli",
     "chatnificent",
     "aird",
     "sillywalk",
@@ -78,7 +79,6 @@
     "axon-api",
     "fasttask-manager",
     "aydie-prompt-forge",
-    "TkinterLite",
-    "thermolib"
+    "TkinterLite"
   ]
 }

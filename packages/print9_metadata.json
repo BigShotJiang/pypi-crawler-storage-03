@@ -1,11 +1,11 @@
 {
   "name": "print9",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "A short description of print9",
   "author": "Vincent de Neuf",
   "license": "MIT",
   "home_page": "https://github.com/vincentdeneuf/print9",
-  "download_filename": "print9-0.1.4.tar.gz",
-  "download_time": "2025-08-17T11:15:07.578759",
+  "download_filename": "print9-0.1.6.tar.gz",
+  "download_time": "2025-08-17T11:29:07.801708",
   "package_url": "https://pypi.org/project/print9/"
 }
