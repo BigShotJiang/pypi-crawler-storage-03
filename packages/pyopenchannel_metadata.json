@@ -1,11 +1,11 @@
 {
   "name": "pyopenchannel",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "A comprehensive Python library for open channel flow analysis and design",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyopenchannel-0.3.1.tar.gz",
-  "download_time": "2025-08-17T06:23:32.832263",
+  "download_filename": "pyopenchannel-0.4.0.tar.gz",
+  "download_time": "2025-08-17T07:50:10.198260",
   "package_url": "https://pypi.org/project/pyopenchannel/"
 }
