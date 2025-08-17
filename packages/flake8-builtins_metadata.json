@@ -1,0 +1,11 @@
+{
+  "name": "flake8-builtins",
+  "version": "3.0.0",
+  "summary": "Check for python builtins being used as variables or parameters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_builtins-3.0.0.tar.gz",
+  "download_time": "2025-08-17T06:50:46.462485",
+  "package_url": "https://pypi.org/project/flake8-builtins/"
+}

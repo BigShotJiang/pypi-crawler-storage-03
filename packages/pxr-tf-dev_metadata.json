@@ -1,0 +1,11 @@
+{
+  "name": "pxr-tf-dev",
+  "version": "25.8",
+  "summary": "C++ headers and CMake config for developing with pxr-tf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_tf_dev-25.8.tar.gz",
+  "download_time": "2025-08-17T06:50:33.413510",
+  "package_url": "https://pypi.org/project/pxr-tf-dev/"
+}
