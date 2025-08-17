@@ -1,0 +1,11 @@
+{
+  "name": "watchgate-gateway",
+  "version": "0.1.0",
+  "summary": "Secure MCP gateway with auditing and access control (core gateway without TUI)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "watchgate_gateway-0.1.0.tar.gz",
+  "download_time": "2025-08-17T14:51:43.471716",
+  "package_url": "https://pypi.org/project/watchgate-gateway/"
+}

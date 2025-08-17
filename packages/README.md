@@ -1,34 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T14:42:07.281844
-- **Total Packages**: 79
-- **Total Size**: 29.09 MB
+- **Download Time**: 2025-08-17T14:52:12.481333
+- **Total Packages**: 73
+- **Total Size**: 17.09 MB
 
 ## Packages List
+- vindioai
+- scapi-py
+- mcap-ros2idl-support
+- ai-commiter
+- gitlab-pipeline-analyzer
+- langchain-zeusdb
+- adpkg
+- dolze-image-templates
+- agg-python-bindings
+- markdown-query
+- telenet
+- ryn
+- Backtester-Tushar
+- jbutils
+- classy-blocks
+- bd-geoinfo
+- compoundwidgets
+- ciscoconfparse2
+- watchgate-gateway
+- watchgate
 - ddi-fw
 - audit-logging
-- ryn
 - rtdi-ducktape
 - django-chelseru
 - pytimetk
 - kodexa
 - iphone-framer
 - trops
-- ai-commiter
 - frogml
 - gql
 - pyxcp
-- ciscoconfparse2
 - packageapi
 - cista
 - spotipy-anon
-- aiagents4pharma-ansh
-- compoundwidgets
 - graph-generator-assistant
 - clash-tools
 - mdbq
-- jbutils
 - legit-api-client
 - reaction-metrics-exporter
 - firegex
@@ -43,7 +57,6 @@
 - gitllama
 - scCAMEL
 - autoeda-sujay
-- bd-geoinfo
 - noahs-raspberry-pi-python-ide
 - qwak-core
 - methodical
@@ -66,22 +79,3 @@
 - pytest-sbase
 - selenium-base
 - seleniumbase
-- genieutils-py
-- droidflow
-- lane4text
-- pendragondi-api-pro
-- leap-model-parser
-- stellar-model
-- pypackindex
-- agentine
-- tents-and-trees-mip-solver
-- code-loader
-- match-expression
-- fbgemm-gpu-nightly-cpu
-- mlarena
-- bpmn-neo4j-lib-test
-- graph-games-proto
-- abstract-logins
-- mignonFramework
-- shapes-geometry
-- djresttoolkit

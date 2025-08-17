@@ -1,0 +1,11 @@
+{
+  "name": "vindioai",
+  "version": "0.2.2",
+  "summary": "Quantum Vision Theory in Deep Learning for Object Recognition",
+  "author": "Vindio AI Software Ltd. - Cem Direkoglu and Melike Sah",
+  "license": null,
+  "home_page": "https://github.com/vindioai/QVBlock",
+  "download_filename": "vindioai-0.2.2-py3-none-any.whl",
+  "download_time": "2025-08-17T14:51:33.655176",
+  "package_url": "https://pypi.org/project/vindioai/"
+}

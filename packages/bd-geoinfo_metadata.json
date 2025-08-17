@@ -1,11 +1,11 @@
 {
   "name": "bd-geoinfo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A simple Python library for fetching geographical information about Bangladesh.",
   "author": "Asaduzzaman Asad",
   "license": null,
   "home_page": "https://github.com/zyxasaduzzaman/BD_GEOINFO",
-  "download_filename": "bd_geoinfo-0.0.2.tar.gz",
-  "download_time": "2025-08-17T14:41:44.585336",
+  "download_filename": "bd_geoinfo-0.0.3.tar.gz",
+  "download_time": "2025-08-17T14:51:41.904654",
   "package_url": "https://pypi.org/project/bd-geoinfo/"
 }
