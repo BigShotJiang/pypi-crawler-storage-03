@@ -1,0 +1,11 @@
+{
+  "name": "peprock",
+  "version": "2.0.0",
+  "summary": "Foundational Python library",
+  "author": "Jakob Keller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peprock-2.0.0.tar.gz",
+  "download_time": "2025-08-17T18:27:11.972498",
+  "package_url": "https://pypi.org/project/peprock/"
+}

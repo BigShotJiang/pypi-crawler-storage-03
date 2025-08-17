@@ -1,0 +1,11 @@
+{
+  "name": "TunEd",
+  "version": "0.3.0",
+  "summary": "Command line Tuner",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tuned-0.3.0.tar.gz",
+  "download_time": "2025-08-17T18:27:14.601847",
+  "package_url": "https://pypi.org/project/TunEd/"
+}

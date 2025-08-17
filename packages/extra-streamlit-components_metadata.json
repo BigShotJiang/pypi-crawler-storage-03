@@ -1,0 +1,11 @@
+{
+  "name": "extra-streamlit-components",
+  "version": "0.1.81",
+  "summary": "An all-in-one place, to find complex or just natively unavailable components on streamlit.",
+  "author": "Mohamed Abdou",
+  "license": null,
+  "home_page": "https://github.com/Mohamed-512/Extra-Streamlit-Components",
+  "download_filename": "extra_streamlit_components-0.1.81.tar.gz",
+  "download_time": "2025-08-17T18:26:55.242642",
+  "package_url": "https://pypi.org/project/extra-streamlit-components/"
+}

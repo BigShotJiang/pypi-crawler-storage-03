@@ -1,0 +1,11 @@
+{
+  "name": "swift-book-pdf",
+  "version": "1.4.1",
+  "summary": "A tool to generate a PDF version of The Swift Programming Language book.",
+  "author": "Evangelos Kassos",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swift_book_pdf-1.4.1.tar.gz",
+  "download_time": "2025-08-17T18:27:08.805078",
+  "package_url": "https://pypi.org/project/swift-book-pdf/"
+}

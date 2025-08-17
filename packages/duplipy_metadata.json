@@ -1,0 +1,11 @@
+{
+  "name": "duplipy",
+  "version": "0.2.5",
+  "summary": "DupliPy is a quick and easy-to-use package that can handle text formatting and data augmentation tasks for NLP in Python, with added support for image augmentation.",
+  "author": "Infinitode Pty Ltd",
+  "license": null,
+  "home_page": "https://github.com/infinitode/duplipy",
+  "download_filename": "duplipy-0.2.5.tar.gz",
+  "download_time": "2025-08-17T18:27:08.282031",
+  "package_url": "https://pypi.org/project/duplipy/"
+}

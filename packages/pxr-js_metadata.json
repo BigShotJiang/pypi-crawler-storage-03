@@ -1,0 +1,11 @@
+{
+  "name": "pxr-js",
+  "version": "25.8",
+  "summary": "JSON interface library used in OpenUSD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_js-25.8.tar.gz",
+  "download_time": "2025-08-17T18:26:54.702429",
+  "package_url": "https://pypi.org/project/pxr-js/"
+}

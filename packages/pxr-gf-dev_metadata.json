@@ -1,0 +1,11 @@
+{
+  "name": "pxr-gf-dev",
+  "version": "25.8",
+  "summary": "C++ headers and CMake config for developing with pxr-gf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_gf_dev-25.8.tar.gz",
+  "download_time": "2025-08-17T18:26:48.375770",
+  "package_url": "https://pypi.org/project/pxr-gf-dev/"
+}

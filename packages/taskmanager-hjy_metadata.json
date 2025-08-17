@@ -1,0 +1,11 @@
+{
+  "name": "taskmanager-hjy",
+  "version": "0.3.0",
+  "summary": "基于RQ + ai_runner_hjy + 云Redis的通用任务管理解决方案，让异步任务处理变得毫不费力",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taskmanager_hjy-0.3.0.tar.gz",
+  "download_time": "2025-08-17T18:27:05.153970",
+  "package_url": "https://pypi.org/project/taskmanager-hjy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "urdf2mjcf",
+  "version": "0.2.39",
+  "summary": "The urdf2mjcf project",
+  "author": "Benjamin Bolte",
+  "license": null,
+  "home_page": "https://github.com/kscalelabs/urdf2mjcf",
+  "download_filename": "urdf2mjcf-0.2.39.tar.gz",
+  "download_time": "2025-08-17T18:27:02.554278",
+  "package_url": "https://pypi.org/project/urdf2mjcf/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zstandard",
+  "version": "0.24.0",
+  "summary": "Zstandard bindings for Python",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "zstandard-0.24.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-17T18:26:49.445025",
+  "package_url": "https://pypi.org/project/zstandard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flyer-composer",
+  "version": "1.0",
+  "summary": "Rearrange PDF pages to print as flyers on one paper",
+  "author": "Hartmut Goebel",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "http://crazy-compilers.com/flyer-composer",
+  "download_filename": "flyer_composer-1.0.tar.gz",
+  "download_time": "2025-08-17T18:27:21.418497",
+  "package_url": "https://pypi.org/project/flyer-composer/"
+}

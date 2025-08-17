@@ -1,0 +1,11 @@
+{
+  "name": "metis-agent",
+  "version": "0.17.4",
+  "summary": "A comprehensive framework for building powerful AI agents with enhanced developer experience, intelligent project awareness, and enterprise-grade security",
+  "author": "Metis OS Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/metisos/metisos_agentV1",
+  "download_filename": "metis_agent-0.17.4.tar.gz",
+  "download_time": "2025-08-17T18:26:57.340670",
+  "package_url": "https://pypi.org/project/metis-agent/"
+}

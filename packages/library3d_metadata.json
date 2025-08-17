@@ -1,0 +1,11 @@
+{
+  "name": "library3d",
+  "version": "0.25",
+  "summary": "Saf Python 3D kütüphanesi (OpenGL kullanmadan, v0.25)",
+  "author": "Mehmet",
+  "license": null,
+  "home_page": "https://github.com/kullaniciadi/library3d",
+  "download_filename": "library3d-0.25.tar.gz",
+  "download_time": "2025-08-17T18:26:59.948571",
+  "package_url": "https://pypi.org/project/library3d/"
+}
