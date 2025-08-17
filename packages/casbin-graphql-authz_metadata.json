@@ -1,0 +1,11 @@
+{
+  "name": "casbin-graphql-authz",
+  "version": "1.4.0",
+  "summary": "graphql-authz is an casbin authorization middleware for GraphQL",
+  "author": "Ezequiel Grondona",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/officialpycasbin/graphql-authz",
+  "download_filename": "casbin_graphql_authz-1.4.0.tar.gz",
+  "download_time": "2025-08-17T08:46:26.785100",
+  "package_url": "https://pypi.org/project/casbin-graphql-authz/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pybirdsreynolds",
+  "version": "1.99.19",
+  "summary": "pybirdsreynolds is an interactive simulation of the Reynolds Boids model.",
+  "author": "thib1984",
+  "license": "MIT",
+  "home_page": "https://github.com/thib1984/pybirdsreynolds",
+  "download_filename": "pybirdsreynolds-1.99.19.tar.gz",
+  "download_time": "2025-08-17T08:46:14.459613",
+  "package_url": "https://pypi.org/project/pybirdsreynolds/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "alphabet2kana",
+  "version": "0.1.7",
+  "summary": "Convert English alphabet to Katakana",
+  "author": "shihono",
+  "license": null,
+  "home_page": "https://github.com/shihono/alphabet2kana",
+  "download_filename": "alphabet2kana-0.1.7.tar.gz",
+  "download_time": "2025-08-17T08:46:19.623784",
+  "package_url": "https://pypi.org/project/alphabet2kana/"
+}

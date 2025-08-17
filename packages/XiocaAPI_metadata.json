@@ -1,0 +1,11 @@
+{
+  "name": "XiocaAPI",
+  "version": "0.2.2",
+  "summary": "Асинхронный и синхронный клиент для Xioca API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xiocaapi-0.2.2.tar.gz",
+  "download_time": "2025-08-17T08:46:15.488930",
+  "package_url": "https://pypi.org/project/XiocaAPI/"
+}
