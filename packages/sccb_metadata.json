@@ -1,0 +1,11 @@
+{
+  "name": "sccb",
+  "version": "0.1.0",
+  "summary": "Shortcut Clipboard + Command Binder",
+  "author": "Ajinkya Dhamdhere",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sccb-0.1.0.tar.gz",
+  "download_time": "2025-08-17T22:18:13.329866",
+  "package_url": "https://pypi.org/project/sccb/"
+}

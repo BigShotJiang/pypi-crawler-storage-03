@@ -1,11 +1,11 @@
 {
   "name": "LinuxServerStatsTelegramBot",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "summary": "Telegram bot manager to show linux server stats",
   "author": "Juares Vermelho Diaz",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "LinuxServerStatsTelegramBot-1.0.10.tar.gz",
-  "download_time": "2025-08-17T21:39:21.248298",
+  "download_filename": "LinuxServerStatsTelegramBot-1.0.11.tar.gz",
+  "download_time": "2025-08-17T22:18:12.236175",
   "package_url": "https://pypi.org/project/LinuxServerStatsTelegramBot/"
 }

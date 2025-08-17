@@ -1,0 +1,11 @@
+{
+  "name": "TCR2HLA",
+  "version": "0.1.0",
+  "summary": "Estimate HLA genotype probability from TCRb repertoire data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcr2hla-0.1.0.tar.gz",
+  "download_time": "2025-08-17T22:18:14.509822",
+  "package_url": "https://pypi.org/project/TCR2HLA/"
+}
