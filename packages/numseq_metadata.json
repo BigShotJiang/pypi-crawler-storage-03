@@ -1,0 +1,11 @@
+{
+  "name": "numseq",
+  "version": "0.1.0",
+  "summary": "Librărie pentru secvențe numerice",
+  "author": "Luca Vlad",
+  "license": null,
+  "home_page": "https://github.com/vladluca70/NumSeq--Python-Library",
+  "download_filename": "numseq-0.1.0.tar.gz",
+  "download_time": "2025-08-17T11:15:18.088386",
+  "package_url": "https://pypi.org/project/numseq/"
+}

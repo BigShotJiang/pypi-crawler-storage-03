@@ -1,0 +1,11 @@
+{
+  "name": "boxai",
+  "version": "0.0.0",
+  "summary": "Librarie for sandbox ai",
+  "author": "mourad mourafiq",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/mmourafiq/sandboxai",
+  "download_filename": "boxai-0.0.0.tar.gz",
+  "download_time": "2025-08-17T11:15:14.421216",
+  "package_url": "https://pypi.org/project/boxai/"
+}
