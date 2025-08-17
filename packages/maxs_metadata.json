@@ -1,11 +1,11 @@
 {
   "name": "maxs",
-  "version": "0.17.0",
+  "version": "0.20.0",
   "summary": "minimalist ai agent",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maxs-0.17.0.tar.gz",
-  "download_time": "2025-08-17T22:18:23.243574",
+  "download_filename": "maxs-0.20.0.tar.gz",
+  "download_time": "2025-08-17T22:42:57.791895",
   "package_url": "https://pypi.org/project/maxs/"
 }

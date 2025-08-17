@@ -1,0 +1,11 @@
+{
+  "name": "valaw",
+  "version": "0.1.8",
+  "summary": "An asynchronous API wrapper for VALORANT's API",
+  "author": "Jet612",
+  "license": null,
+  "home_page": "https://github.com/Jet612/valaw",
+  "download_filename": "valaw-0.1.8.tar.gz",
+  "download_time": "2025-08-17T22:43:03.524086",
+  "package_url": "https://pypi.org/project/valaw/"
+}

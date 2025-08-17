@@ -1,0 +1,11 @@
+{
+  "name": "voxbridge",
+  "version": "1.0.6",
+  "summary": "VoxBridge: convert VoxEdit glTF/GLB assets to engine-ready files for Unity and Roblox",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voxbridge-1.0.6.tar.gz",
+  "download_time": "2025-08-17T22:42:59.334928",
+  "package_url": "https://pypi.org/project/voxbridge/"
+}

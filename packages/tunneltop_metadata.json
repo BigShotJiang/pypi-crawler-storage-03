@@ -1,0 +1,11 @@
+{
+  "name": "tunneltop",
+  "version": "0.4.6",
+  "summary": "A top-like tunnel manager",
+  "author": "terminaldweller",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/terminaldweller/tunneltop",
+  "download_filename": "tunneltop-0.4.6.tar.gz",
+  "download_time": "2025-08-17T22:43:04.035948",
+  "package_url": "https://pypi.org/project/tunneltop/"
+}
