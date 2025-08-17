@@ -1,0 +1,11 @@
+{
+  "name": "st-user-info-panel",
+  "version": "0.1.0",
+  "summary": "Streamlit component for a floating User Info panel anchored to the sidebar. Supports fixed float stick in sidebar, a collapsed avatar chip when the sidebar is hidden, usage stats (messages/tokens/cost), and compact layout.",
+  "author": "agustyawan-arif",
+  "license": null,
+  "home_page": null,
+  "download_filename": "st_user_info_panel-0.1.0.tar.gz",
+  "download_time": "2025-08-17T14:41:42.451323",
+  "package_url": "https://pypi.org/project/st-user-info-panel/"
+}

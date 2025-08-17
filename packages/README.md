@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T14:17:26.423322
-- **Total Packages**: 76
-- **Total Size**: 12.7 MB
+- **Download Time**: 2025-08-17T14:42:07.281844
+- **Total Packages**: 79
+- **Total Size**: 29.09 MB
 
 ## Packages List
+- ddi-fw
+- audit-logging
+- ryn
+- rtdi-ducktape
+- django-chelseru
+- pytimetk
+- kodexa
+- iphone-framer
+- trops
+- ai-commiter
+- frogml
+- gql
+- pyxcp
+- ciscoconfparse2
+- packageapi
+- cista
+- spotipy-anon
+- aiagents4pharma-ansh
+- compoundwidgets
+- graph-generator-assistant
+- clash-tools
+- mdbq
+- jbutils
+- legit-api-client
+- reaction-metrics-exporter
+- firegex
+- fgex
+- overfitting
+- shoebill-ai
+- zlang
+- github-issue-parser-mcp
+- algomanim
+- agentik-framework
+- st-user-info-panel
+- gitllama
 - scCAMEL
+- autoeda-sujay
+- bd-geoinfo
+- noahs-raspberry-pi-python-ide
+- qwak-core
+- methodical
+- nwn
+- jarvis-ai-assistant
 - data4ai
 - core-infinity-stones
 - mgz
@@ -14,7 +56,6 @@
 - zeroshot-engine
 - umepr
 - decrypt-cookies
-- clash-tools
 - freecad-mcp
 - llama-layer-collector
 - pyclsp
@@ -34,7 +75,6 @@
 - pypackindex
 - agentine
 - tents-and-trees-mip-solver
-- pyxcp
 - code-loader
 - match-expression
 - fbgemm-gpu-nightly-cpu
@@ -44,41 +84,4 @@
 - abstract-logins
 - mignonFramework
 - shapes-geometry
-- bd-geoinfo
 - djresttoolkit
-- iphone-framer
-- spotipy-anon
-- keymanager-hjy
-- abdwp
-- atproto
-- tensordict-nightly
-- shinestacker
-- Gen-EpiX
-- pymeu
-- aanalytics2
-- tkinter-spa
-- chromasurr
-- bluer-ugv
-- pytest-rmysql
-- Shourya
-- pycityproto
-- skinport.py
-- hamplots
-- TRI-LBM
-- fastapi-myauth
-- visivo
-- nuklai-cmeta
-- sticker-convert
-- APasm
-- mteam
-- ruststartracker
-- booking-extension
-- pytest-robotframework
-- coords-nsga2
-- haiku.rag
-- ai-commiter
-- inmanta-module-podman
-- tgdata
-- transparentmeta
-- pixBoards
-- onyx-client

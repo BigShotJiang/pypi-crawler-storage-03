@@ -1,11 +1,11 @@
 {
   "name": "agentik-framework",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Agentik — a CLI-first, modular agent framework that runs LLMs via OpenRouter.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentik_framework-1.1.1.tar.gz",
-  "download_time": "2025-08-17T11:29:17.229717",
+  "download_filename": "agentik_framework-1.1.2.tar.gz",
+  "download_time": "2025-08-17T14:41:41.907338",
   "package_url": "https://pypi.org/project/agentik-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rtdi-ducktape",
+  "version": "0.8.1",
+  "summary": "Using DuckDB and Python as high speed ETL tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtdi_ducktape-0.8.1-py3-none-any.whl",
+  "download_time": "2025-08-17T14:41:24.836915",
+  "package_url": "https://pypi.org/project/rtdi-ducktape/"
+}

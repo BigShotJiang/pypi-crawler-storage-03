@@ -1,0 +1,11 @@
+{
+  "name": "packageapi",
+  "version": "0.2.1",
+  "summary": "A simple Tkinter-based Python package installer/checker GUI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "packageapi-0.2.1.tar.gz",
+  "download_time": "2025-08-17T14:41:31.142795",
+  "package_url": "https://pypi.org/project/packageapi/"
+}

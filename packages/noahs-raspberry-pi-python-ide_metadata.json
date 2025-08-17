@@ -1,0 +1,11 @@
+{
+  "name": "noahs-raspberry-pi-python-ide",
+  "version": "0.1.0",
+  "summary": "A custom IDE for editing and running Python code on a raspberry pi from your laptop",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "noahs_raspberry_pi_python_ide-0.1.0.tar.gz",
+  "download_time": "2025-08-17T14:41:45.126002",
+  "package_url": "https://pypi.org/project/noahs-raspberry-pi-python-ide/"
+}
