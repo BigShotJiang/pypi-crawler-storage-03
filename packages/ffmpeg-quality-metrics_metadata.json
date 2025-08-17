@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-quality-metrics",
+  "version": "3.7.0",
+  "summary": "Calculate video quality metrics with FFmpeg (SSIM, PSNR, VMAF)",
+  "author": "Werner Robitza",
+  "license": "MIT",
+  "home_page": "https://github.com/slhck/ffmpeg-quality-metrics",
+  "download_filename": "ffmpeg_quality_metrics-3.7.0-py3-none-any.whl",
+  "download_time": "2025-08-17T17:50:46.299944",
+  "package_url": "https://pypi.org/project/ffmpeg-quality-metrics/"
+}

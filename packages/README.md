@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T17:41:22.950689
-- **Total Packages**: 79
-- **Total Size**: 16.25 MB
+- **Download Time**: 2025-08-17T17:51:21.348026
+- **Total Packages**: 81
+- **Total Size**: 4.57 MB
 
 ## Packages List
+- torchvista
+- eegdash
+- qcodespp
+- brownllama
+- edq-utils
+- aiohomematic
+- llmswap
+- swmjupyter
+- rds-tunnel
+- termcopy
+- r2r
+- lumera
+- universal-mcp-hubspot
+- muxu-io-mqtt-connector
+- aiocdek
+- foundry-sdk
+- ffmpeg-quality-metrics
 - dmasyncwrapper
 - jupyter-remote-kernel
 - velocity-python
@@ -14,7 +31,6 @@
 - zoom-meeting-sdk
 - rxiv-maker
 - bhp-pro
-- foundry-sdk
 - code-puppy
 - abstract-logins
 - easy-utils-dev
@@ -26,7 +42,6 @@
 - pymotego
 - sdkForMovies
 - py-caelus
-- lumera
 - pytensorlite
 - devhub-tools
 - schemathesis
@@ -52,7 +67,6 @@
 - pydantic-variants
 - jaxtorch
 - bumpwright
-- llmswap
 - pytorch-metric-learning
 - loglocal
 - notte-sdk
@@ -73,15 +87,3 @@
 - eztools-kit
 - pynaim
 - epoch-engine
-- SignalIntegrity
-- bce-python-sdk-next
-- pyclsp
-- thoth-qdrant
-- sif2jax
-- zlang
-- literary
-- django-jqgrid
-- plc-simulator
-- spider-mcp-client
-- gohumanloop
-- letschatty
