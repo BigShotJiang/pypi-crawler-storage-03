@@ -1,0 +1,11 @@
+{
+  "name": "tracetorch",
+  "version": "0.3.0",
+  "summary": "An extension to PyTorch: SNN layers that function on traces.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracetorch-0.3.0.tar.gz",
+  "download_time": "2025-08-17T13:44:33.491640",
+  "package_url": "https://pypi.org/project/tracetorch/"
+}

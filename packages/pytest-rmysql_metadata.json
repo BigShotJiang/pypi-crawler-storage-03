@@ -1,11 +1,11 @@
 {
   "name": "pytest-rmysql",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "This is a plugin which is able to connet MySQL easyly.",
   "author": "cometfishfis",
   "license": "Apache License",
   "home_page": null,
-  "download_filename": "pytest_rmysql-0.1.2.tar.gz",
-  "download_time": "2025-08-17T13:16:50.194966",
+  "download_filename": "pytest_rmysql-0.1.4.tar.gz",
+  "download_time": "2025-08-17T13:44:09.886161",
   "package_url": "https://pypi.org/project/pytest-rmysql/"
 }

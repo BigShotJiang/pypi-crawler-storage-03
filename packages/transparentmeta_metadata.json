@@ -1,0 +1,11 @@
+{
+  "name": "transparentmeta",
+  "version": "1.0.0",
+  "summary": "Python library to write, read, and verify transparency metadata in audio files for AI transparency compliance.",
+  "author": "Valerio Velardo",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "transparentmeta-1.0.0.tar.gz",
+  "download_time": "2025-08-17T13:44:07.807218",
+  "package_url": "https://pypi.org/project/transparentmeta/"
+}

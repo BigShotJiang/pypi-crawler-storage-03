@@ -1,0 +1,11 @@
+{
+  "name": "verba",
+  "version": "0.2.1",
+  "summary": "A collection of modules used for language processing and modeling",
+  "author": "tomathon",
+  "license": "GPL-3",
+  "home_page": "https://codeberg.org/tomathon/verba",
+  "download_filename": "verba-0.2.1.tar.gz",
+  "download_time": "2025-08-17T13:44:26.571976",
+  "package_url": "https://pypi.org/project/verba/"
+}

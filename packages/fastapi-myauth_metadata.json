@@ -1,11 +1,11 @@
 {
   "name": "fastapi-myauth",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A flexible and secure authentication library for FastAPI.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fastapi_myauth-1.1.1.tar.gz",
-  "download_time": "2025-08-17T13:16:59.530994",
+  "download_filename": "fastapi_myauth-1.1.2.tar.gz",
+  "download_time": "2025-08-17T13:43:58.801829",
   "package_url": "https://pypi.org/project/fastapi-myauth/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datadigger",
+  "version": "0.1.7",
+  "summary": "The package is geared towards automating text-related tasks and is useful for data extraction, web scraping, and text file management.",
+  "author": "Ramesh Chandra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datadigger-0.1.7.tar.gz",
+  "download_time": "2025-08-17T13:44:35.585110",
+  "package_url": "https://pypi.org/project/datadigger/"
+}
