@@ -1,11 +1,11 @@
 {
   "name": "yaml-to-openstep-plist",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library to convert YAML data to OpenStep plist format.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yaml_to_openstep_plist-0.1.0.tar.gz",
-  "download_time": "2025-08-17T15:50:37.309823",
+  "download_filename": "yaml_to_openstep_plist-0.2.0.tar.gz",
+  "download_time": "2025-08-17T16:46:28.575147",
   "package_url": "https://pypi.org/project/yaml-to-openstep-plist/"
 }

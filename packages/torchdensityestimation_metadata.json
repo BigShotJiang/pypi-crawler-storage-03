@@ -1,0 +1,11 @@
+{
+  "name": "torchdensityestimation",
+  "version": "1.0.0",
+  "summary": "Density Transform Estimation with PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchdensityestimation-1.0.0.tar.gz",
+  "download_time": "2025-08-17T16:46:24.970176",
+  "package_url": "https://pypi.org/project/torchdensityestimation/"
+}

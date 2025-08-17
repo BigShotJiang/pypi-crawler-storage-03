@@ -1,0 +1,11 @@
+{
+  "name": "jtable",
+  "version": "0.11.11",
+  "summary": "Tabulate JSON data and transform them using Jinja templates.",
+  "author": "Vincent Tougne",
+  "license": "MIT",
+  "home_page": "https://github.com/vtougne/jtable",
+  "download_filename": "jtable-0.11.11.tar.gz",
+  "download_time": "2025-08-17T16:46:11.556005",
+  "package_url": "https://pypi.org/project/jtable/"
+}

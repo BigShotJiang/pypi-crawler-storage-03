@@ -1,24 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T16:22:52.331188
-- **Total Packages**: 86
-- **Total Size**: 34.9 MB
+- **Download Time**: 2025-08-17T16:46:55.008932
+- **Total Packages**: 85
+- **Total Size**: 9.05 MB
 
 ## Packages List
+- jtable
+- mlcflow
+- adsonai
+- file-keeper
+- ipynbname
+- mwxlib
+- deep-breath-cli
+- gb2seq
+- gammarers.aws-secure-bucket
+- webhooks-discord-powers
+- pybirdsreynolds
+- guriz
+- llama-cloud
+- webhooks-powers
+- pydantic-variants
+- django-jqgrid
+- aignostics
+- pytensorlite
+- pyclsp
+- code-puppy
+- python-openstackmcp-server
+- cista
+- hamplots
+- mrkwatkins-oakemu
+- alexandria-library
+- payloop
+- torchdensityestimation
+- coffy
+- OctoBot-Services
+- spider-mcp-client
+- velocity-python
+- novacordpy
+- yta-video-opengl
+- yaml-to-openstep-plist
+- causalem
+- simplepycons
+- gelidum
+- logzai-otlp
 - runtime-introspect
 - sp-obs
 - muko
 - TRI-LBM
 - dj-standard-enums
 - aiogram
-- hamplots
 - basepak
 - mindroot
 - pero
 - llmswap
 - langchain-logseq
-- webhooks-powers
 - lynx-logger
 - mediaflow-proxy
 - mignonFramework
@@ -28,7 +64,6 @@
 - fastmcp-calculator
 - ohdsi-webapi-client
 - handless
-- alexandria-library
 - rds-tunnel
 - codeprintio
 - mkdocs-platform-plugin
@@ -38,7 +73,6 @@
 - nzrrest
 - arclet-entari
 - pl-horizontal
-- pyclsp
 - treemapper
 - ai-subtitle
 - ai-commiter
@@ -53,42 +87,7 @@
 - robin-logistics-env
 - askp-cli
 - letschatty
-- code-puppy
 - sarathii
 - copyparty
 - skypilot-nightly
 - evalgate
-- docstring_parser_swig
-- embedid
-- plua
-- foytr-awe
-- darts
-- u8darts
-- bitstruct-annotated
-- airos
-- pyds-fundamental
-- NovaCordpy
-- xpander-sdk
-- QuantStats
-- ohdsi-cohort-schemas
-- wvlet
-- portal-env
-- feedunify
-- bubblebarrier
-- janito
-- z0lib
-- ml-api-client
-- api-blueprint-generator
-- legit-api-client
-- minigun-soren-n
-- massfunc
-- codeaudit
-- requestx
-- superset-chat
-- reydb
-- django-jqgrid
-- yaml-to-openstep-plist
-- omnigenome
-- omnigenbench
-- runtypecheck
-- wgutil
