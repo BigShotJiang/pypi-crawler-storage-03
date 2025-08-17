@@ -1,0 +1,11 @@
+{
+  "name": "plc-simulator",
+  "version": "0.5.0",
+  "summary": "PLC Simulation Environment",
+  "author": "Paul Breen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/paul-breen/plc-simulator",
+  "download_filename": "plc_simulator-0.5.0.tar.gz",
+  "download_time": "2025-08-17T17:17:02.014369",
+  "package_url": "https://pypi.org/project/plc-simulator/"
+}

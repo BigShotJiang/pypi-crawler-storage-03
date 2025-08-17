@@ -1,11 +1,11 @@
 {
   "name": "brain-proxy",
-  "version": "0.1.69",
+  "version": "0.1.71",
   "summary": "OpenAI-compatible FastAPI router with Chroma + LangMem memory.",
   "author": "Pablo Schaffner",
   "license": null,
   "home_page": "https://github.com/puntorigen/brain-proxy",
-  "download_filename": "brain_proxy-0.1.69.tar.gz",
-  "download_time": "2025-08-17T15:40:07.451460",
+  "download_filename": "brain_proxy-0.1.71.tar.gz",
+  "download_time": "2025-08-17T17:16:55.839308",
   "package_url": "https://pypi.org/project/brain-proxy/"
 }

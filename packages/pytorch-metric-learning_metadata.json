@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-metric-learning",
+  "version": "2.9.0",
+  "summary": "The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.",
+  "author": "Kevin Musgrave",
+  "license": null,
+  "home_page": "https://github.com/KevinMusgrave/pytorch-metric-learning",
+  "download_filename": "pytorch-metric-learning-2.9.0.tar.gz",
+  "download_time": "2025-08-17T17:16:41.559485",
+  "package_url": "https://pypi.org/project/pytorch-metric-learning/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dms-variant",
+  "version": "0.1.0",
+  "summary": "Lightweight parser of single- and multi-mutation variants in DMS experiment results",
+  "author": "Jingyou Rao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dms_variant-0.1.0.tar.gz",
+  "download_time": "2025-08-17T17:17:07.113298",
+  "package_url": "https://pypi.org/project/dms-variant/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "transpolibre",
-  "version": "0.8.13",
+  "version": "0.8.14",
   "summary": "Automate translation of gettext PO files using LibreTranslate, Ollama, and local models",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "transpolibre-0.8.13.tar.gz",
-  "download_time": "2025-08-17T15:40:05.896900",
+  "download_filename": "transpolibre-0.8.14.tar.gz",
+  "download_time": "2025-08-17T17:17:05.177745",
   "package_url": "https://pypi.org/project/transpolibre/"
 }
