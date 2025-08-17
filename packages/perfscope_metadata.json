@@ -1,0 +1,11 @@
+{
+  "name": "perfscope",
+  "version": "1.0.6",
+  "summary": "The Ultimate Python Performance Profiler & APM Tool - Production-Ready Performance Monitoring, Memory Tracking, Call Tree Analysis & Bottleneck Detection for Django, Flask, FastAPI, Async Applications, Data Science & Machine Learning",
+  "author": "Sattyam Jain",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "perfscope-1.0.6.tar.gz",
+  "download_time": "2025-08-17T11:51:31.236116",
+  "package_url": "https://pypi.org/project/perfscope/"
+}

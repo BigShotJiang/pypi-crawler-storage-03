@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-17T11:41:46.116086
+- **Download Time**: 2025-08-17T11:52:09.853592
 - **Total Packages**: 81
-- **Total Size**: 13.08 MB
+- **Total Size**: 1.43 MB
 
 ## Packages List
+- abstract-logins
+- exospherehost
+- tagmaster-python
+- pykrait
+- sec-edgar-mcp
+- Crawl4AI
+- APasm
+- itsolve
+- perfscope
+- dicube
+- cpplint-fix
+- xplainable-client
+- filelisting
 - reaction-metrics-exporter
 - wwpdb.utils.align
 - decrypt-cookies-py
@@ -18,7 +31,6 @@
 - xgae
 - ltrans
 - airweave-sdk
-- sec-edgar-mcp
 - umep
 - ksim
 - TkinterLite
@@ -34,7 +46,6 @@
 - openalgo-backtrader
 - hamplots
 - codinsight
-- itsolve
 - print9
 - purifyllm
 - copyparty
@@ -76,14 +87,3 @@
 - Backtester-Tushar
 - nlptoolkit-math-cy
 - xmlist
-- foldifyai
-- weakpass-lookup
-- portal-env
-- coralearn
-- iparq
-- material-palettes-generator
-- llmswap
-- konduktor-nightly
-- unsloth_env_test_wjz718
-- whereabouts
-- trainy-policy-nightly
