@@ -1,0 +1,11 @@
+{
+  "name": "fi-instrumentation-otel",
+  "version": "0.1.14",
+  "summary": "OpenTelemetry instrumentation",
+  "author": "Future AGI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fi_instrumentation_otel-0.1.14.tar.gz",
+  "download_time": "2025-08-18T14:48:08.733156",
+  "package_url": "https://pypi.org/project/fi-instrumentation-otel/"
+}

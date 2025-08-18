@@ -1,0 +1,11 @@
+{
+  "name": "blnk-py",
+  "version": "0.2.0a3",
+  "summary": "Async Python SDK for the Blnk ledger & reconciliation API (typed, Pydantic)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blnk_py-0.2.0a3.tar.gz",
+  "download_time": "2025-08-18T14:47:44.042526",
+  "package_url": "https://pypi.org/project/blnk-py/"
+}

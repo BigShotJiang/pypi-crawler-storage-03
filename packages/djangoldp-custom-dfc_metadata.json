@@ -1,0 +1,11 @@
+{
+  "name": "djangoldp-custom-dfc",
+  "version": "1.0.3",
+  "summary": "djangoldp package for Custom DFC (CQCM)",
+  "author": "Startinblox",
+  "license": "MIT",
+  "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp-custom-dfc",
+  "download_filename": "djangoldp_custom_dfc-1.0.3.tar.gz",
+  "download_time": "2025-08-18T14:47:31.644897",
+  "package_url": "https://pypi.org/project/djangoldp-custom-dfc/"
+}

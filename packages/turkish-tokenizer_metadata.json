@@ -1,0 +1,11 @@
+{
+  "name": "turkish-tokenizer",
+  "version": "0.2.14",
+  "summary": "Turkish tokenizer for Turkish language processing",
+  "author": "M. Ali Bayram",
+  "license": "MIT",
+  "home_page": "https://github.com/malibayram/turkish-tokenizer",
+  "download_filename": "turkish_tokenizer-0.2.14.tar.gz",
+  "download_time": "2025-08-18T14:47:56.929500",
+  "package_url": "https://pypi.org/project/turkish-tokenizer/"
+}

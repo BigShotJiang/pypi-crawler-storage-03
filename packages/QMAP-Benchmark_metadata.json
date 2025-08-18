@@ -1,0 +1,11 @@
+{
+  "name": "QMAP-Benchmark",
+  "version": "0.0.0",
+  "summary": "Benchmark for AMP MIC regression with a Toolkit to split peptide sequences datasets into independent sets based on pseudo identity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qmap_benchmark-0.0.0.tar.gz",
+  "download_time": "2025-08-18T14:47:35.795187",
+  "package_url": "https://pypi.org/project/QMAP-Benchmark/"
+}

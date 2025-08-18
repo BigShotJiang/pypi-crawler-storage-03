@@ -1,0 +1,11 @@
+{
+  "name": "smartfaker",
+  "version": "3.25.1",
+  "summary": "A powerful Asynchronous Python library for generating fake addresses and IBANs, supporting bots, MTProto API frameworks, and Python scripts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartfaker-3.25.1.tar.gz",
+  "download_time": "2025-08-18T14:47:44.556878",
+  "package_url": "https://pypi.org/project/smartfaker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "VL53L3CX",
+  "version": "1.0.1",
+  "summary": "VL53L3CX distance sensor driver for Raspberry Pi",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/FrgyCZ/VL53L3CX-python",
+  "download_filename": "vl53l3cx-1.0.1.tar.gz",
+  "download_time": "2025-08-18T14:47:48.169874",
+  "package_url": "https://pypi.org/project/VL53L3CX/"
+}

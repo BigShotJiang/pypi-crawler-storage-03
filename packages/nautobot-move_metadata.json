@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-move",
+  "version": "3.0.1",
+  "summary": "A Nautobot plugin for moving devices",
+  "author": "Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_move-3.0.1.tar.gz",
+  "download_time": "2025-08-18T14:47:34.745188",
+  "package_url": "https://pypi.org/project/nautobot-move/"
+}
