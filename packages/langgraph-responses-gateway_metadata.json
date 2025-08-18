@@ -1,11 +1,11 @@
 {
   "name": "langgraph-responses-gateway",
-  "version": "0.2.0",
+  "version": "2.0.2",
   "summary": "Expose any LangGraph agent as an OpenAI Responses API endpoint",
   "author": "Jerome Mohanan",
   "license": null,
   "home_page": null,
-  "download_filename": "langgraph_responses_gateway-0.2.0.tar.gz",
-  "download_time": "2025-08-17T23:50:41.984483",
+  "download_filename": "langgraph_responses_gateway-2.0.2.tar.gz",
+  "download_time": "2025-08-18T15:22:49.814912",
   "package_url": "https://pypi.org/project/langgraph-responses-gateway/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "awsgnssroutils",
+  "version": "1.2.6",
+  "summary": "Utilities for access and manipulation of GNSS radio occultation in the AWS Registry of Open Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awsgnssroutils-1.2.6.tar.gz",
+  "download_time": "2025-08-18T15:22:24.817289",
+  "package_url": "https://pypi.org/project/awsgnssroutils/"
+}

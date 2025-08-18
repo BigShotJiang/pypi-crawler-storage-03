@@ -1,11 +1,11 @@
 {
   "name": "bpmn-neo4j-lib-test",
-  "version": "0.0.5a0",
+  "version": "0.0.6a0",
   "summary": "Library untuk mengubah BPMN JSON menjadi Cypher queries untuk Neo4j",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bpmn_neo4j_lib_test-0.0.5a0.tar.gz",
-  "download_time": "2025-08-18T13:25:14.674182",
+  "download_filename": "bpmn_neo4j_lib_test-0.0.6a0.tar.gz",
+  "download_time": "2025-08-18T15:22:34.278492",
   "package_url": "https://pypi.org/project/bpmn-neo4j-lib-test/"
 }

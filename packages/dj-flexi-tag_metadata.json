@@ -1,11 +1,11 @@
 {
   "name": "dj-flexi-tag",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "summary": "Add tags to any model in Django via ModelViewSet",
   "author": "Akinon",
   "license": "MIT",
   "home_page": "https://bitbucket.org/akinonteam/dj-flexi-tag",
-  "download_filename": "dj-flexi-tag-1.1.2.tar.gz",
-  "download_time": "2025-08-18T07:52:12.408483",
+  "download_filename": "dj-flexi-tag-2.0.0.tar.gz",
+  "download_time": "2025-08-18T15:22:05.883862",
   "package_url": "https://pypi.org/project/dj-flexi-tag/"
 }

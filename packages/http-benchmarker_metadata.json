@@ -1,11 +1,11 @@
 {
   "name": "http-benchmarker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Advanced HTTP load testing tool with real-time progress monitoring and detailed performance reports.",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "http_benchmarker-0.1.1.tar.gz",
-  "download_time": "2025-08-18T12:42:32.135533",
+  "download_filename": "http_benchmarker-0.1.2.tar.gz",
+  "download_time": "2025-08-18T15:22:09.984851",
   "package_url": "https://pypi.org/project/http-benchmarker/"
 }

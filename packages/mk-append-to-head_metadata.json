@@ -1,0 +1,11 @@
+{
+  "name": "mk-append-to-head",
+  "version": "0.0.1",
+  "summary": "Append some string to a MkDocs page's <head>.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mk_append_to_head-0.0.1.tar.gz",
+  "download_time": "2025-08-18T15:22:09.407725",
+  "package_url": "https://pypi.org/project/mk-append-to-head/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyprocessors-opennre",
+  "version": "0.5.161",
+  "summary": "Processor based on Huggingface transformers zero-shot classification pipeline",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyprocessors_opennre/",
+  "download_filename": "pyprocessors_opennre-0.5.161.tar.gz",
+  "download_time": "2025-08-18T15:22:23.026756",
+  "package_url": "https://pypi.org/project/pyprocessors-opennre/"
+}

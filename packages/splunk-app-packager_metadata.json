@@ -1,11 +1,11 @@
 {
   "name": "splunk-app-packager",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "A tool to package up your splunk app and deploy it.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "splunk_app_packager-0.0.5.tar.gz",
-  "download_time": "2025-08-18T13:53:44.577066",
+  "download_filename": "splunk_app_packager-0.0.6.tar.gz",
+  "download_time": "2025-08-18T15:22:36.652712",
   "package_url": "https://pypi.org/project/splunk-app-packager/"
 }

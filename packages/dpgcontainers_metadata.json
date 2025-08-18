@@ -1,0 +1,11 @@
+{
+  "name": "dpgcontainers",
+  "version": "0.1.2",
+  "summary": "Functional dataclass implementations for DearPyGUI container types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpgcontainers-0.1.2.tar.gz",
+  "download_time": "2025-08-18T15:22:23.661935",
+  "package_url": "https://pypi.org/project/dpgcontainers/"
+}
