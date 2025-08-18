@@ -1,0 +1,11 @@
+{
+  "name": "multi-browser-crawler",
+  "version": "0.1.1",
+  "summary": "Enterprise-grade browser automation with advanced features",
+  "author": "Spider MCP Team",
+  "license": null,
+  "home_page": "https://github.com/spider-mcp/multi-browser-crawler",
+  "download_filename": "multi_browser_crawler-0.1.1.tar.gz",
+  "download_time": "2025-08-18T01:46:05.376401",
+  "package_url": "https://pypi.org/project/multi-browser-crawler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RoboOp",
+  "version": "0.6.2",
+  "summary": "A microframework designed to get you started quickly building Claude-powered agents, assistants and applications with the Anthropic API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "roboop-0.6.2.tar.gz",
+  "download_time": "2025-08-18T01:46:32.915697",
+  "package_url": "https://pypi.org/project/RoboOp/"
+}

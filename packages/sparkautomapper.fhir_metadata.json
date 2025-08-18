@@ -1,0 +1,11 @@
+{
+  "name": "sparkautomapper.fhir",
+  "version": "3.0.3",
+  "summary": "FHIR extensions for SparkAutoMapper",
+  "author": "Imran Qureshi",
+  "license": null,
+  "home_page": "https://github.com/icanbwell/SparkAutoMapper.FHIR",
+  "download_filename": "sparkautomapper_fhir-3.0.3.tar.gz",
+  "download_time": "2025-08-18T01:46:12.315142",
+  "package_url": "https://pypi.org/project/sparkautomapper.fhir/"
+}

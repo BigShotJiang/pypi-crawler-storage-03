@@ -1,11 +1,11 @@
 {
   "name": "dslash",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "A library which supplements Nextcord by adding support for slash commands.",
   "author": "Artemis",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dslash-0.7.0.tar.gz",
-  "download_time": "2025-08-17T20:20:37.679762",
+  "download_filename": "dslash-0.7.2.tar.gz",
+  "download_time": "2025-08-18T01:46:14.098474",
   "package_url": "https://pypi.org/project/dslash/"
 }

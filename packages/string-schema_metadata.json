@@ -1,0 +1,11 @@
+{
+  "name": "string-schema",
+  "version": "0.1.6",
+  "summary": "A simple, LLM-friendly schema definition library for converting string syntax to structured schemas",
+  "author": "Michael Chen",
+  "license": null,
+  "home_page": "https://github.com/xychenmsn/string-schema",
+  "download_filename": "string_schema-0.1.6.tar.gz",
+  "download_time": "2025-08-18T01:46:07.679410",
+  "package_url": "https://pypi.org/project/string-schema/"
+}

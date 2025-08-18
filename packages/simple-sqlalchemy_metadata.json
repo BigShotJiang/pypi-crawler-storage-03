@@ -1,0 +1,11 @@
+{
+  "name": "simple-sqlalchemy",
+  "version": "0.1.1",
+  "summary": "A simplified, enhanced SQLAlchemy package with common patterns and utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_sqlalchemy-0.1.1.tar.gz",
+  "download_time": "2025-08-18T01:46:03.576785",
+  "package_url": "https://pypi.org/project/simple-sqlalchemy/"
+}

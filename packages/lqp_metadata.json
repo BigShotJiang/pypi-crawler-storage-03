@@ -1,0 +1,11 @@
+{
+  "name": "lqp",
+  "version": "0.1.11",
+  "summary": "A parser for Logical Query Protocol (LQP) S-expressions into Protobuf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lqp-0.1.11.tar.gz",
+  "download_time": "2025-08-18T01:46:00.635115",
+  "package_url": "https://pypi.org/project/lqp/"
+}

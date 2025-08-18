@@ -1,0 +1,11 @@
+{
+  "name": "cloudsense",
+  "version": "0.1.0",
+  "summary": "A minimal web interface for tracking AWS costs with customizable budget alerts and service breakdowns",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudsense-0.1.0.tar.gz",
+  "download_time": "2025-08-18T01:46:20.013733",
+  "package_url": "https://pypi.org/project/cloudsense/"
+}

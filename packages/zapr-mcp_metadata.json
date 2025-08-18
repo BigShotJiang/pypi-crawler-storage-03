@@ -1,0 +1,11 @@
+{
+  "name": "zapr-mcp",
+  "version": "1.0.0",
+  "summary": "Zapr WhatsApp MCP Client for Model Context Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zapr_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-18T01:46:26.443722",
+  "package_url": "https://pypi.org/project/zapr-mcp/"
+}
