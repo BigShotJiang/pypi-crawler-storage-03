@@ -1,0 +1,11 @@
+{
+  "name": "keboola.component",
+  "version": "1.6.11",
+  "summary": "General library for Python applications running in Keboola Connection environment",
+  "author": "Keboola KDS Team",
+  "license": null,
+  "home_page": "https://github.com/keboola/python-component",
+  "download_filename": "keboola.component-1.6.11.tar.gz",
+  "download_time": "2025-08-18T11:40:13.746399",
+  "package_url": "https://pypi.org/project/keboola.component/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vac-code-generator",
+  "version": "0.1.4",
+  "summary": "基于FastMCP框架的验证码生成工具",
+  "author": "MCP Developer",
+  "license": null,
+  "home_page": "https://github.com/mcp-project/verification-code-generator",
+  "download_filename": "vac_code_generator-0.1.4.tar.gz",
+  "download_time": "2025-08-18T11:40:08.014933",
+  "package_url": "https://pypi.org/project/vac-code-generator/"
+}
