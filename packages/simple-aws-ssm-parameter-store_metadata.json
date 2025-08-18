@@ -1,11 +1,11 @@
 {
   "name": "simple-aws-ssm-parameter-store",
-  "version": "0.1.1",
+  "version": "0.2.2",
   "summary": "A Pythonic wrapper library for AWS SSM Parameter Store with enhanced error handling, existence testing, idempotent operations, and comprehensive tag management.",
   "author": "Sanhe Hu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simple_aws_ssm_parameter_store-0.1.1.tar.gz",
-  "download_time": "2025-08-18T04:25:51.592382",
+  "download_filename": "simple_aws_ssm_parameter_store-0.2.2.tar.gz",
+  "download_time": "2025-08-18T20:41:34.268980",
   "package_url": "https://pypi.org/project/simple-aws-ssm-parameter-store/"
 }
