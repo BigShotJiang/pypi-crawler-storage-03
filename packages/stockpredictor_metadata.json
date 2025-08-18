@@ -1,0 +1,11 @@
+{
+  "name": "stockpredictor",
+  "version": "0.2.2",
+  "summary": "A Python library for predicting stock index trends using historical data",
+  "author": "DeviprasadGurrana",
+  "license": null,
+  "home_page": "https://github.com/DeviprasadGurrana/stockpredictor",
+  "download_filename": "stockpredictor-0.2.2.tar.gz",
+  "download_time": "2025-08-18T07:34:16.918160",
+  "package_url": "https://pypi.org/project/stockpredictor/"
+}

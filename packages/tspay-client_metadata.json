@@ -1,0 +1,11 @@
+{
+  "name": "tspay-client",
+  "version": "0.2.1",
+  "summary": "TSPay uchun rasmiy Python klienti",
+  "author": "Muhammadakbar Komilov",
+  "license": null,
+  "home_page": "https://github.com/tspayuz/tspay-client",
+  "download_filename": "tspay_client-0.2.1.tar.gz",
+  "download_time": "2025-08-18T07:34:34.011023",
+  "package_url": "https://pypi.org/project/tspay-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python-arango-async",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Async Python Driver for ArangoDB",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_arango_async-1.0.0.tar.gz",
-  "download_time": "2025-08-18T07:01:07.299851",
+  "download_filename": "python_arango_async-1.0.2.tar.gz",
+  "download_time": "2025-08-18T07:34:22.188559",
   "package_url": "https://pypi.org/project/python-arango-async/"
 }

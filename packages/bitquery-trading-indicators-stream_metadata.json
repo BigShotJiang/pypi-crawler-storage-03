@@ -1,11 +1,11 @@
 {
   "name": "bitquery-trading-indicators-stream",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Real-time trading indicators (RSI, VWAP) streamed from Bitquery GraphQL",
   "author": "Divyasshree",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitquery_trading_indicators_stream-0.1.1.tar.gz",
-  "download_time": "2025-08-18T07:01:19.355662",
+  "download_filename": "bitquery_trading_indicators_stream-0.1.2.tar.gz",
+  "download_time": "2025-08-18T07:34:37.519481",
   "package_url": "https://pypi.org/project/bitquery-trading-indicators-stream/"
 }
