@@ -1,0 +1,11 @@
+{
+  "name": "pyAliceKit",
+  "version": "0.1.0",
+  "summary": "pyAliceKit framework for creating dialog bots on Yandex.Alice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyalicekit-0.1.0.tar.gz",
+  "download_time": "2025-08-18T18:29:57.564798",
+  "package_url": "https://pypi.org/project/pyAliceKit/"
+}

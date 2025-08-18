@@ -1,0 +1,11 @@
+{
+  "name": "overleaf2arxiv",
+  "version": "0.2.2",
+  "summary": "A tool to convert Overleaf projects to arXiv-compatible formats",
+  "author": "Abhay Deshpande",
+  "license": null,
+  "home_page": "https://github.com/abhayd/Overleaf2Arxiv",
+  "download_filename": "overleaf2arxiv-0.2.2.tar.gz",
+  "download_time": "2025-08-18T18:30:26.833534",
+  "package_url": "https://pypi.org/project/overleaf2arxiv/"
+}

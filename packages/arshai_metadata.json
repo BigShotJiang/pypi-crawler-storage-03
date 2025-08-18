@@ -1,11 +1,11 @@
 {
   "name": "arshai",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "A powerful agent framework for building conversational AI systems",
   "author": "Nima Nazarian",
   "license": "MIT",
   "home_page": "https://github.com/nimunzn/arshai",
-  "download_filename": "arshai-1.1.5.tar.gz",
-  "download_time": "2025-08-18T13:25:57.113709",
+  "download_filename": "arshai-1.1.6.tar.gz",
+  "download_time": "2025-08-18T18:30:18.238630",
   "package_url": "https://pypi.org/project/arshai/"
 }
