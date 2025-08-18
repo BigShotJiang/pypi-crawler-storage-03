@@ -1,11 +1,11 @@
 {
   "name": "strands-bitchat",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "Decentralized P2P Encrypted Chat Agent powered by Strands Agents & Bluetooth LE",
   "author": "Cagatay Cali",
   "license": "MIT",
   "home_page": "https://github.com/cagataycali/strands-bitchat",
-  "download_filename": "strands_bitchat-1.0.5.tar.gz",
-  "download_time": "2025-08-18T17:20:02.654281",
+  "download_filename": "strands_bitchat-1.0.7.tar.gz",
+  "download_time": "2025-08-18T21:17:37.996596",
   "package_url": "https://pypi.org/project/strands-bitchat/"
 }

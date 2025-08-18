@@ -1,0 +1,11 @@
+{
+  "name": "Uw-Restclients-Bridge",
+  "version": "1.6.5",
+  "summary": "A library for connecting to the Bridge API",
+  "author": "UW-IT SETS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/uw-it-aca/uw-restclients-bridge",
+  "download_filename": "uw_restclients_bridge-1.6.5.tar.gz",
+  "download_time": "2025-08-18T21:18:20.713456",
+  "package_url": "https://pypi.org/project/Uw-Restclients-Bridge/"
+}

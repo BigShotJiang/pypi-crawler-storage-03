@@ -1,11 +1,11 @@
 {
   "name": "nexus-platform",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "The Ultimate Plugin-Based Application Platform - Build modular, scalable applications with ease",
   "author": "Nexus Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nexus_platform-0.1.3.tar.gz",
-  "download_time": "2025-08-18T13:25:17.958415",
+  "download_filename": "nexus_platform-0.1.5.tar.gz",
+  "download_time": "2025-08-18T21:17:48.654326",
   "package_url": "https://pypi.org/project/nexus-platform/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-yaml-field",
+  "version": "0.1.1",
+  "summary": "Same as Django JSONField but represent it as YAML (internally stores as JSON)",
+  "author": "Kalinin Mitko",
+  "license": null,
+  "home_page": "https://github.com/null-none/django-yaml-field",
+  "download_filename": "django_yaml_field-0.1.1.tar.gz",
+  "download_time": "2025-08-18T21:17:48.121311",
+  "package_url": "https://pypi.org/project/django-yaml-field/"
+}

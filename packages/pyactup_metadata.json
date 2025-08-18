@@ -1,0 +1,11 @@
+{
+  "name": "pyactup",
+  "version": "2.2.4",
+  "summary": "A lightweight Python implementation of a subset of the ACT-R cognitive architecture’s Declarative Memory",
+  "author": "Don Morrison",
+  "license": null,
+  "home_page": "https://dfmorrison.github.io/pyactup-documentation/",
+  "download_filename": "pyactup-2.2.4.tar.gz",
+  "download_time": "2025-08-18T21:18:19.144053",
+  "package_url": "https://pypi.org/project/pyactup/"
+}
