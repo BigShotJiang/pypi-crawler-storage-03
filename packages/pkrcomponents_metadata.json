@@ -1,0 +1,11 @@
+{
+  "name": "pkrcomponents",
+  "version": "4.5.0",
+  "summary": "A Poker Package",
+  "author": "Alexandre MANGWA",
+  "license": "MIT",
+  "home_page": "https://github.com/manggy94/PokerComponents",
+  "download_filename": "pkrcomponents-4.5.0.tar.gz",
+  "download_time": "2025-08-18T16:54:32.486273",
+  "package_url": "https://pypi.org/project/pkrcomponents/"
+}

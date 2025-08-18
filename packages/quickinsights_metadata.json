@@ -1,11 +1,11 @@
 {
   "name": "quickinsights",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "A creative and innovative Python library for data analysis with single command",
   "author": "Eren Ata",
   "license": null,
-  "home_page": "https://github.com/erena6466/quickinsights",
-  "download_filename": "quickinsights-0.1.2.tar.gz",
-  "download_time": "2025-08-17T12:37:40.047189",
+  "home_page": "https://github.com/ErenAta16/quickinsight_library",
+  "download_filename": "quickinsights-0.2.0.tar.gz",
+  "download_time": "2025-08-18T16:54:46.990450",
   "package_url": "https://pypi.org/project/quickinsights/"
 }

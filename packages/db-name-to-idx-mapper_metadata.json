@@ -1,0 +1,11 @@
+{
+  "name": "db-name-to-idx-mapper",
+  "version": "1.0.3a0",
+  "summary": "Cross-platform utility for mapping database names to sequential indices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "db_name_to_idx_mapper-1.0.3a0.tar.gz",
+  "download_time": "2025-08-18T16:54:11.659119",
+  "package_url": "https://pypi.org/project/db-name-to-idx-mapper/"
+}

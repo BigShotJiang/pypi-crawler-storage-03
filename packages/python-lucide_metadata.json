@@ -1,0 +1,11 @@
+{
+  "name": "python-lucide",
+  "version": "0.2.5",
+  "summary": "A Python package for working with Lucide icons",
+  "author": "Mike Macpherson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_lucide-0.2.5.tar.gz",
+  "download_time": "2025-08-18T16:54:35.588646",
+  "package_url": "https://pypi.org/project/python-lucide/"
+}

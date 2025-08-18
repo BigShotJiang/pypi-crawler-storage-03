@@ -1,0 +1,11 @@
+{
+  "name": "pywoudc",
+  "version": "0.3.1",
+  "summary": "High level package providing Pythonic access to WMO WOUDC data services",
+  "author": "Tom Kralidis",
+  "license": "MIT",
+  "home_page": "https://github.com/woudc/pywoudc",
+  "download_filename": "pywoudc-0.3.1.tar.gz",
+  "download_time": "2025-08-18T16:54:30.943717",
+  "package_url": "https://pypi.org/project/pywoudc/"
+}

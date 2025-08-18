@@ -1,0 +1,11 @@
+{
+  "name": "looker-validator",
+  "version": "0.4.0",
+  "summary": "A continuous integration tool for Looker and LookML validation",
+  "author": "Stevan Stankovic",
+  "license": null,
+  "home_page": "https://github.com/stankovicst/looker-validator",
+  "download_filename": "looker_validator-0.4.0.tar.gz",
+  "download_time": "2025-08-18T16:54:07.908678",
+  "package_url": "https://pypi.org/project/looker-validator/"
+}

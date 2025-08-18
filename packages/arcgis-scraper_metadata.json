@@ -1,0 +1,11 @@
+{
+  "name": "arcgis-scraper",
+  "version": "1.0.0",
+  "summary": "An ArcGIS REST API scraper",
+  "author": "Peter Grønbæk Andersen",
+  "license": "MIT",
+  "home_page": "https://github.com/pgroenbaek/arcgis-scraper",
+  "download_filename": "arcgis_scraper-1.0.0.tar.gz",
+  "download_time": "2025-08-18T16:54:27.347235",
+  "package_url": "https://pypi.org/project/arcgis-scraper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flagsmith-flag-engine",
+  "version": "6.1.0",
+  "summary": "Flag engine for the Flagsmith API.",
+  "author": "Flagsmith",
+  "license": "BSD3",
+  "home_page": "https://github.com/Flagsmith/flagsmith-engine",
+  "download_filename": "flagsmith_flag_engine-6.1.0.tar.gz",
+  "download_time": "2025-08-18T16:54:31.455992",
+  "package_url": "https://pypi.org/project/flagsmith-flag-engine/"
+}
