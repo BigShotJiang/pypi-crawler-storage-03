@@ -1,11 +1,11 @@
 {
   "name": "justoneapi",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "summary": "Official Python SDK for Just One API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "justoneapi-1.5.0.tar.gz",
-  "download_time": "2025-08-18T03:39:08.430613",
+  "download_filename": "justoneapi-1.6.0.tar.gz",
+  "download_time": "2025-08-18T13:25:39.738012",
   "package_url": "https://pypi.org/project/justoneapi/"
 }

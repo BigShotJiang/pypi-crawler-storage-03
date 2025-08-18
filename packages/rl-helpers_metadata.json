@@ -1,11 +1,11 @@
 {
   "name": "rl-helpers",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Add your description here",
   "author": "Valter Schütz",
   "license": null,
   "home_page": null,
-  "download_filename": "rl_helpers-0.2.1.tar.gz",
-  "download_time": "2025-08-18T11:18:19.100697",
+  "download_filename": "rl_helpers-0.2.2.tar.gz",
+  "download_time": "2025-08-18T13:25:52.230367",
   "package_url": "https://pypi.org/project/rl-helpers/"
 }

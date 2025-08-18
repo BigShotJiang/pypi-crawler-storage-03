@@ -1,11 +1,11 @@
 {
   "name": "oidfed-collector",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Entity collection endpoint for OpenID Federation",
   "author": "Diana Gudu",
   "license": null,
   "home_page": null,
-  "download_filename": "oidfed_collector-0.3.0.tar.gz",
-  "download_time": "2025-08-18T08:54:36.543765",
+  "download_filename": "oidfed_collector-0.3.1.tar.gz",
+  "download_time": "2025-08-18T13:25:47.935229",
   "package_url": "https://pypi.org/project/oidfed-collector/"
 }
