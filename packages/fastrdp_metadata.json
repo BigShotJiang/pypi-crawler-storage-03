@@ -1,0 +1,11 @@
+{
+  "name": "fastrdp",
+  "version": "0.3.2",
+  "summary": "Implementation of the Ramer-Douglas-Peucker algorithm",
+  "author": "Robert Dahl Jacobsen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastrdp-0.3.2.tar.gz",
+  "download_time": "2025-08-18T19:17:41.567580",
+  "package_url": "https://pypi.org/project/fastrdp/"
+}

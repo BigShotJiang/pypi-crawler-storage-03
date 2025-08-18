@@ -1,11 +1,11 @@
 {
   "name": "pexels-mcp-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "An MCP server for Pexels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pexels_mcp_server-0.0.2.tar.gz",
-  "download_time": "2025-08-18T18:30:16.529462",
+  "download_filename": "pexels_mcp_server-0.0.3.tar.gz",
+  "download_time": "2025-08-18T19:17:11.336046",
   "package_url": "https://pypi.org/project/pexels-mcp-server/"
 }

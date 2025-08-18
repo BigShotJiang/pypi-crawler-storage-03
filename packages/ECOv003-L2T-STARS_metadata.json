@@ -1,0 +1,11 @@
+{
+  "name": "ECOv003-L2T-STARS",
+  "version": "1.7.3",
+  "summary": "ECOSTRESS Collection 3 JPL STARS Data Fusion Product Generating Executable (PGE)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecov003_l2t_stars-1.7.3.tar.gz",
+  "download_time": "2025-08-18T19:17:44.454947",
+  "package_url": "https://pypi.org/project/ECOv003-L2T-STARS/"
+}

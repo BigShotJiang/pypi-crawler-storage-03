@@ -1,0 +1,11 @@
+{
+  "name": "nasa-scrub",
+  "version": "3.0",
+  "summary": "SCRUB is an orchestration and aggregation tool for static code analysis tools.",
+  "author": "Lyle Barner",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/nasa/scrub",
+  "download_filename": "nasa_scrub-3.0.tar.gz",
+  "download_time": "2025-08-18T19:17:18.411552",
+  "package_url": "https://pypi.org/project/nasa-scrub/"
+}

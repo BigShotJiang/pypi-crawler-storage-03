@@ -1,11 +1,11 @@
 {
   "name": "approvaltests",
-  "version": "15.1.1",
+  "version": "15.2.1",
   "summary": "Assertion/verification library to aid testing",
   "author": "ApprovalTests Contributors",
   "license": null,
   "home_page": "https://github.com/approvals/ApprovalTests.Python",
-  "download_filename": "approvaltests-15.1.1.tar.gz",
-  "download_time": "2025-08-17T21:17:41.009116",
+  "download_filename": "approvaltests-15.2.1.tar.gz",
+  "download_time": "2025-08-18T19:17:31.267453",
   "package_url": "https://pypi.org/project/approvaltests/"
 }

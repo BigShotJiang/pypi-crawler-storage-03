@@ -1,0 +1,11 @@
+{
+  "name": "asyncvarlink",
+  "version": "0.2.1",
+  "summary": "asyncio-compatible, type-driven varlink implementation supporting file descriptor passing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncvarlink-0.2.1.tar.gz",
+  "download_time": "2025-08-18T19:17:17.837467",
+  "package_url": "https://pypi.org/project/asyncvarlink/"
+}

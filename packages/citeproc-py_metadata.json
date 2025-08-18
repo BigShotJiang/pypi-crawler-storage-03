@@ -1,0 +1,11 @@
+{
+  "name": "citeproc-py",
+  "version": "0.8.3",
+  "summary": "Citations and bibliography formatter",
+  "author": "Brecht Machiels",
+  "license": "BSD-2-Clause-Views",
+  "home_page": "https://github.com/brechtm/citeproc-py",
+  "download_filename": "citeproc_py-0.8.3.tar.gz",
+  "download_time": "2025-08-18T19:17:28.910439",
+  "package_url": "https://pypi.org/project/citeproc-py/"
+}

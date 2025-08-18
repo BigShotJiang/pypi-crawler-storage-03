@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-ebate",
+  "version": "10.0.0",
+  "summary": "Demo SDK for Binance rebate migration testing (safe PoC)",
+  "author": "TitifelBro47",
+  "license": null,
+  "home_page": "https://github.com/binance/binance-connector-python/blob/f1703c54c3059423a8568b2300597210b19b938e/clients/rebate/docs/migration_guide_rebate_sdk.md",
+  "download_filename": "binance_sdk_ebate-10.0.0.tar.gz",
+  "download_time": "2025-08-18T19:17:16.125570",
+  "package_url": "https://pypi.org/project/binance-sdk-ebate/"
+}

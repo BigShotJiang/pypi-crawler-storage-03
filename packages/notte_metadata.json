@@ -1,11 +1,11 @@
 {
   "name": "notte",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "summary": "Notte, the full-stack web AI agent framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "notte-1.6.3-py3-none-any.whl",
-  "download_time": "2025-08-18T04:25:45.433169",
+  "download_filename": "notte-1.6.4-py3-none-any.whl",
+  "download_time": "2025-08-18T19:17:37.606574",
   "package_url": "https://pypi.org/project/notte/"
 }
