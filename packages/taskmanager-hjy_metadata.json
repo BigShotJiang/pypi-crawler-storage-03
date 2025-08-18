@@ -1,11 +1,11 @@
 {
   "name": "taskmanager-hjy",
-  "version": "0.4.1",
+  "version": "0.4.4",
   "summary": "完全独立的任务管理包 - 基于新包架构，无旧包依赖",
   "author": "hjy",
   "license": null,
   "home_page": "https://github.com/hjy/taskmanager-hjy",
-  "download_filename": "taskmanager-hjy-0.4.1.tar.gz",
-  "download_time": "2025-08-18T07:34:34.589861",
+  "download_filename": "taskmanager-hjy-0.4.4.tar.gz",
+  "download_time": "2025-08-18T07:51:58.053728",
   "package_url": "https://pypi.org/project/taskmanager-hjy/"
 }

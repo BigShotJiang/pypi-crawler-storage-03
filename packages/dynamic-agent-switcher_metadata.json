@@ -1,0 +1,11 @@
+{
+  "name": "dynamic-agent-switcher",
+  "version": "0.1.0",
+  "summary": "A flexible package for switching AI models during agent execution",
+  "author": "Sumit Paul",
+  "license": "MIT",
+  "home_page": "https://github.com/sumitpaul/dynamic-agent-switcher",
+  "download_filename": "dynamic_agent_switcher-0.1.0.tar.gz",
+  "download_time": "2025-08-18T07:52:05.221432",
+  "package_url": "https://pypi.org/project/dynamic-agent-switcher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pemexe",
+  "version": "0.2.0",
+  "summary": "🚀 Python Execution Manager - A powerful, modern tool for managing, scheduling, and executing Python scripts and projects with comprehensive logging, flexible scheduling, and dependency management. Perfect for DevOps, data science, and automation workflows.",
+  "author": "Arian Omrani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pemexe-0.2.0.tar.gz",
+  "download_time": "2025-08-18T07:52:06.755944",
+  "package_url": "https://pypi.org/project/pemexe/"
+}
