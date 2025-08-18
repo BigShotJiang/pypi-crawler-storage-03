@@ -1,0 +1,11 @@
+{
+  "name": "ccfit2",
+  "version": "5.12.4",
+  "summary": "CCFIT2 is a program for fitting AC and DC magnetisation data",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/chilton-group/cc-fit2",
+  "download_filename": "ccfit2-5.12.4.tar.gz",
+  "download_time": "2025-08-18T10:48:13.217844",
+  "package_url": "https://pypi.org/project/ccfit2/"
+}

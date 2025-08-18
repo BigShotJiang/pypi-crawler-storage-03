@@ -1,11 +1,11 @@
 {
   "name": "sumtyme",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Python Client for Embedded Intelligence Platform by sumtyme.ai.",
   "author": "sumteam",
   "license": null,
   "home_page": "https://docs.sumtyme.ai/",
-  "download_filename": "sumtyme-1.1.2.tar.gz",
-  "download_time": "2025-08-18T10:22:53.750977",
+  "download_filename": "sumtyme-1.1.3.tar.gz",
+  "download_time": "2025-08-18T10:48:23.564101",
   "package_url": "https://pypi.org/project/sumtyme/"
 }

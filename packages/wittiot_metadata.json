@@ -1,11 +1,11 @@
 {
   "name": "wittiot",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "summary": "WSView Plus support",
   "author": "PPw096",
   "license": null,
   "home_page": "https://github.com/PPw096/wittiot",
-  "download_filename": "wittiot-1.0.19.tar.gz",
-  "download_time": "2025-08-18T03:39:04.764274",
+  "download_filename": "wittiot-1.0.20.tar.gz",
+  "download_time": "2025-08-18T10:48:25.185805",
   "package_url": "https://pypi.org/project/wittiot/"
 }

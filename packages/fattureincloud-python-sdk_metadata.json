@@ -1,0 +1,11 @@
+{
+  "name": "fattureincloud-python-sdk",
+  "version": "2.1.3",
+  "summary": "Python SDK for the Fatture in Cloud API",
+  "author": "Fatture in Cloud",
+  "license": "MIT",
+  "home_page": "https://github.com/fattureincloud/fattureincloud-python-sdk",
+  "download_filename": "fattureincloud_python_sdk-2.1.3.tar.gz",
+  "download_time": "2025-08-18T10:48:19.765554",
+  "package_url": "https://pypi.org/project/fattureincloud-python-sdk/"
+}
