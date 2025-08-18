@@ -1,11 +1,11 @@
 {
   "name": "casechange_wic",
-  "version": "1.0.0",
-  "summary": "Case Change",
+  "version": "1.0.3",
+  "summary": "Case Change: A package for changing the case of strings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "casechange_wic-1.0.0.tar.gz",
-  "download_time": "2025-08-18T04:56:42.851121",
+  "download_filename": "casechange_wic-1.0.3.tar.gz",
+  "download_time": "2025-08-18T05:26:46.765942",
   "package_url": "https://pypi.org/project/casechange_wic/"
 }

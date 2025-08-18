@@ -1,18 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T04:57:28.462464
-- **Total Packages**: 87
-- **Total Size**: 12.43 MB
+- **Download Time**: 2025-08-18T05:27:12.230067
+- **Total Packages**: 76
+- **Total Size**: 8.44 MB
 
 ## Packages List
-- casechange_wic
+- mm-strapi-mcp
+- airena-player-client
+- ob-metaflow-extensions
+- dataquant
+- strands-bitchat
+- ob-project-utils
+- overfitting
+- pymsgbus
 - velocity-python
+- asgardeo_ai
+- tuneapi
+- tcp-modbus-aio
+- bhp-pro
+- blockchain-payment-mcp
+- qiskit-validation-addon
+- django-searchable-dropdown
+- pydepends
+- devstack-cli
+- eo-tides
+- cvnn-utils
+- t0
+- pkg-32828
+- polars-uuid
+- v3io-frames
+- yt-community-post-archiver
+- aenir
+- Shourya-Arya
+- casechange_wic
+- fremko
+- mrx-runway
+- nautobot-app-livedata
+- jsonAI
+- mcp-airflow-api
+- codewords-client
+- genesis-mcp-core
+- ut-ioc
+- pymovements
+- access-mopper
+- py-create-app
+- wagtail-newsletter-django-backend
+- circuit-synth
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
 - enterprise-models
 - rust-ripser
-- codewords-client
 - robhan-cdk-lib.utils
 - pxr-kind
 - yta-video-opengl
@@ -27,7 +65,6 @@
 - vegomatic
 - harvest-code
 - pysleep
-- blockchain-payment-mcp
 - ErisPulse
 - openaivec
 - maxs
@@ -45,51 +82,3 @@
 - meshagent-openai
 - meshagent-api
 - meshagent
-- meshagent-agents
-- satfarm
-- likelihood
-- hk-cdp
-- Navygram
-- tagmaster-python
-- ozgrav-limerick-generator
-- qrpa
-- whiskerrag
-- dj-redis-panel
-- aveytense
-- pxr-plug-dev
-- momovu
-- one-public-api
-- grain-nightly
-- mcap-ros2idl-support
-- pxr-plug
-- alibabacloud-esa20240910
-- npcsh
-- ozgrav-limerick-generator-test
-- npcpy
-- mdllama
-- gemini-calo
-- voicegain-speech
-- keras-nlp-nightly
-- keras-hub-nightly
-- frogml
-- notte-sdk
-- notte-mcp
-- notte-integrations
-- notte-eval
-- notte-core
-- notte-browser
-- notte-agent
-- notte
-- appodus-utils
-- hybrid-vectorizer
-- autohack-next
-- bosa-server-plugins-binary
-- pytbox
-- odach
-- megatron-core
-- bgp-data-interface
-- whereismyip
-- simple-aws-ssm-parameter-store
-- nonebot_plugin_suggarchat
-- pyUtilsKit
-- pystartgg

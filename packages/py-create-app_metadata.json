@@ -1,0 +1,11 @@
+{
+  "name": "py-create-app",
+  "version": "0.1.4",
+  "summary": "A Quick-style CLI to bootstrap Python projects with venv and interactive package selection.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_create_app-0.1.4.tar.gz",
+  "download_time": "2025-08-18T05:26:52.582117",
+  "package_url": "https://pypi.org/project/py-create-app/"
+}

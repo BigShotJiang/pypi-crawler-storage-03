@@ -1,0 +1,11 @@
+{
+  "name": "asgardeo_ai",
+  "version": "0.2.2",
+  "summary": "Async Python SDK for Asgardeo AI agent authentication",
+  "author": "Thilina Senarath",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asgardeo_ai-0.2.2.tar.gz",
+  "download_time": "2025-08-18T05:26:35.768980",
+  "package_url": "https://pypi.org/project/asgardeo_ai/"
+}

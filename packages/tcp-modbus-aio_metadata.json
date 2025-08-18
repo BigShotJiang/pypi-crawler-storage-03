@@ -1,0 +1,11 @@
+{
+  "name": "tcp-modbus-aio",
+  "version": "0.4.4",
+  "summary": "asyncio client library for tcp modbus devices",
+  "author": "Josh Gruenstein",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tcp_modbus_aio-0.4.4.tar.gz",
+  "download_time": "2025-08-18T05:26:36.826258",
+  "package_url": "https://pypi.org/project/tcp-modbus-aio/"
+}

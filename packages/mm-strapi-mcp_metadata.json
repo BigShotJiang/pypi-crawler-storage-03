@@ -1,0 +1,11 @@
+{
+  "name": "mm-strapi-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server for interacting with Strapi CMS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mm_strapi_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-18T05:26:30.997666",
+  "package_url": "https://pypi.org/project/mm-strapi-mcp/"
+}
