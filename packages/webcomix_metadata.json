@@ -1,0 +1,11 @@
+{
+  "name": "webcomix",
+  "version": "3.11.5",
+  "summary": "Webcomic downloader",
+  "author": "Jean-Christophe Pelletier",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webcomix-3.11.5.tar.gz",
+  "download_time": "2025-08-18T22:41:56.128597",
+  "package_url": "https://pypi.org/project/webcomix/"
+}

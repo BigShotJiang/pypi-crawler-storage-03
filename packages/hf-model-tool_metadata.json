@@ -1,11 +1,11 @@
 {
   "name": "hf-model-tool",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A CLI tool to manage Hugging Face models.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hf_model_tool-0.2.3.tar.gz",
-  "download_time": "2025-08-17T13:16:49.012334",
+  "download_filename": "hf_model_tool-0.2.4.tar.gz",
+  "download_time": "2025-08-18T22:41:29.911549",
   "package_url": "https://pypi.org/project/hf-model-tool/"
 }

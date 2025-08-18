@@ -1,0 +1,11 @@
+{
+  "name": "warctools",
+  "version": "5.0.1",
+  "summary": "Command line tools and libraries for handling and manipulating WARC files (and HTTP contents)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "warctools-5.0.1.tar.gz",
+  "download_time": "2025-08-18T22:41:35.770564",
+  "package_url": "https://pypi.org/project/warctools/"
+}

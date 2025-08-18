@@ -1,0 +1,11 @@
+{
+  "name": "wallapop-auto-adjust",
+  "version": "1.0.0",
+  "summary": "Automatic price adjustment tool for Wallapop sales",
+  "author": "Alexander Serov",
+  "license": "MIT",
+  "home_page": "https://github.com/Alexander-Serov/wallapop-auto-adjust",
+  "download_filename": "wallapop_auto_adjust-1.0.0.tar.gz",
+  "download_time": "2025-08-18T22:41:28.658680",
+  "package_url": "https://pypi.org/project/wallapop-auto-adjust/"
+}
