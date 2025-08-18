@@ -1,11 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T22:52:05.319262
-- **Total Packages**: 80
-- **Total Size**: 27.11 MB
+- **Download Time**: 2025-08-18T23:19:38.379075
+- **Total Packages**: 76
+- **Total Size**: 35.75 MB
 
 ## Packages List
+- accessvis
+- ob-project-utils
+- lollms-client
+- logwatch-analyzer
+- preparse
+- airbyte-source-faker
+- zlang
+- docassemble.EFSPIntegration
+- tt-flash
+- tt-topology
+- tt-tools-common
+- tt-smi
+- ry
+- kaqing
+- moskit-cli
+- posthoganalytics
+- posthog
+- wat
+- cirq-core
+- cirq-web
+- victordb
+- cirq-pasqal
+- cirq-ionq
+- cirq-google
+- cirq-aqt
+- cirq
+- google-cloud-aiplatform
+- wsaplus
+- emmet-api
+- flwr-nightly
+- emmet-builders
+- streamlit-aggrid
+- emmet-core
+- cfncli
+- urarovite
+- linqs-pacai
+- scription
+- fastworkflow
+- kerykeion
+- sccb
+- mcp-airflow-api
+- azure-openai-limits
+- semgrep-mcp
+- osbot-fast-api
+- lionagi
+- vidavis
+- telethon-utils
+- binsync
+- SuPyMode
+- pypomes-sob
+- deriva-ml
+- claude-mpm
+- sensory-data-client
 - arpakitlib
 - pynxtools-apm
 - rss2socials
@@ -15,12 +68,9 @@
 - batch-img
 - fraiseql
 - parsl
-- lionagi
-- logwatch-analyzer
 - py-near
 - agent-starter-pack
 - synthefy
-- sensory-data-client
 - oasm.rtmq2
 - glgrpa
 - sirmordred
@@ -32,57 +82,3 @@
 - web-recruitment-sdk
 - cryoblob
 - h2ogpte
-- fuse-cli
-- lazynwb
-- ErisPulse
-- no-llm
-- Things3-MCP-server
-- PyNinja
-- kaqing
-- methodosintscan
-- ExploTest
-- aquiles-rag
-- streamlit-flowsheet
-- cxc-toolkit
-- wallapop-auto-adjust
-- pex
-- hf-model-tool
-- pyconfix
-- grimoire-elk
-- pywb
-- strix-agent
-- metaspector
-- ltbams
-- seqtok
-- taxoniumtools
-- warctools
-- pyramid-mcp
-- Geminis
-- kittycad
-- numerai-tools
-- elyzo
-- handmark
-- code-puppy
-- SuPyMode
-- pysme-astro
-- hypha
-- arthur-client
-- pulumi-hcloud
-- dayhoff-tools
-- anymap
-- regula-documentreader-webclient
-- toronto-open-data
-- multi-agent-bot
-- rxiv-maker
-- ikigai
-- vectara-agentic
-- canonical-interval
-- h5forest
-- emmet-api
-- pyhxexpress
-- google-ads-mcp-bratrax
-- emmet-builders
-- emmet-core
-- mat-io
-- nef-pipelines
-- gpu-benchmark-tool

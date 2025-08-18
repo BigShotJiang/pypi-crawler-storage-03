@@ -1,0 +1,11 @@
+{
+  "name": "scription",
+  "version": "0.86.27",
+  "summary": "simple script parameter parser",
+  "author": "Ethan Furman",
+  "license": "BSD License",
+  "home_page": "https://github.com/ethanfurman/scription.git",
+  "download_filename": "scription-0.86.27.tar.gz",
+  "download_time": "2025-08-18T23:19:15.394871",
+  "package_url": "https://pypi.org/project/scription/"
+}

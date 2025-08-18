@@ -1,0 +1,11 @@
+{
+  "name": "linqs-pacai",
+  "version": "1.4.1",
+  "summary": "A modified version of the Pacman educational project from the Berkley AI Lab. (Moved to edq-pacai.)",
+  "author": null,
+  "license": "## Pacman\n        \n        ### Licensing Information\n        Do not distribute or publish solutions to this project.  \n        You are free to use and extend these projects for educational purposes provided that:\n         1. You do not distribute or publish solutions.\n         2. You retain this notice.\n         3. You provide clear attribution to UC Berkeley, including a link to http://ai.berkeley.edu.\n         3. You provide clear attribution to the LINQS lab, including a link to this repository: https://github.com/linqs.\n        \n        The Pacman AI projects were developed at UC Berkeley, primarily by John DeNero (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).\n        For more info, see http://ai.berkeley.edu/project_overview.html.\n        \n        ### Modifications\n        All of these files have since been modified (sometimes heavily) by the [LINQS Machine Learning Lab](http://www.linqs.org).\n        ",
+  "home_page": null,
+  "download_filename": "linqs_pacai-1.4.1.tar.gz",
+  "download_time": "2025-08-18T23:19:14.828609",
+  "package_url": "https://pypi.org/project/linqs-pacai/"
+}
