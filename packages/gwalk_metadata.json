@@ -1,0 +1,11 @@
+{
+  "name": "gwalk",
+  "version": "2.3.0",
+  "summary": null,
+  "author": "Vera Del Favero",
+  "license": "MIT Lisence",
+  "home_page": "https://gitlab.com/xevra/gwalk",
+  "download_filename": "gwalk-2.3.0.tar.gz",
+  "download_time": "2025-08-18T16:30:33.808055",
+  "package_url": "https://pypi.org/project/gwalk/"
+}

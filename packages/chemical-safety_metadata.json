@@ -1,0 +1,11 @@
+{
+  "name": "chemical-safety",
+  "version": "1.1.1",
+  "summary": "A package for retreiving chemical safety information",
+  "author": "Demetrios Pagonis",
+  "license": null,
+  "home_page": "https://github.com/dpagonis/chemical_safety",
+  "download_filename": "chemical_safety-1.1.1.tar.gz",
+  "download_time": "2025-08-18T16:30:39.605195",
+  "package_url": "https://pypi.org/project/chemical-safety/"
+}

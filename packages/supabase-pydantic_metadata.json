@@ -1,11 +1,11 @@
 {
   "name": "supabase-pydantic",
-  "version": "0.22.0",
+  "version": "0.22.2",
   "summary": "A Pydantic(+) model generator for Supabase",
   "author": "K Boehm",
   "license": "MIT",
   "home_page": "https://kmbhm1.github.io/supabase-pydantic",
-  "download_filename": "supabase_pydantic-0.22.0.tar.gz",
-  "download_time": "2025-08-18T15:57:27.077839",
+  "download_filename": "supabase_pydantic-0.22.2.tar.gz",
+  "download_time": "2025-08-18T16:30:48.863592",
   "package_url": "https://pypi.org/project/supabase-pydantic/"
 }

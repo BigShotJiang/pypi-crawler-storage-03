@@ -1,11 +1,11 @@
 {
   "name": "img-ops",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Device-aware image operations (CPU/GPU/MPS fallback) with a clean Python API for preprocessing tasks.",
   "author": "migutin83",
   "license": "MIT",
   "home_page": "https://github.com/omigutin/img_ops",
-  "download_filename": "img_ops-0.1.0.tar.gz",
-  "download_time": "2025-08-18T15:45:06.120485",
+  "download_filename": "img_ops-0.1.1.tar.gz",
+  "download_time": "2025-08-18T16:30:45.341216",
   "package_url": "https://pypi.org/project/img-ops/"
 }

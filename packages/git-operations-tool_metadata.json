@@ -1,11 +1,11 @@
 {
   "name": "git-operations-tool",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A comprehensive Git operations tool with advanced features",
   "author": "Dhanushkumar R",
   "license": null,
   "home_page": "https://github.com/Idk507/git_operations_tool",
-  "download_filename": "git_operations_tool-0.2.2.tar.gz",
-  "download_time": "2025-08-18T15:45:08.174638",
+  "download_filename": "git_operations_tool-0.2.3.tar.gz",
+  "download_time": "2025-08-18T16:30:55.146424",
   "package_url": "https://pypi.org/project/git-operations-tool/"
 }

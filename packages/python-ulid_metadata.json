@@ -1,0 +1,11 @@
+{
+  "name": "python-ulid",
+  "version": "3.1.0",
+  "summary": "Universally unique lexicographically sortable identifier",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_ulid-3.1.0.tar.gz",
+  "download_time": "2025-08-18T16:30:29.054290",
+  "package_url": "https://pypi.org/project/python-ulid/"
+}
