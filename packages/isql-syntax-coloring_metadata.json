@@ -1,0 +1,11 @@
+{
+  "name": "isql-syntax-coloring",
+  "version": "0.2",
+  "summary": "Adds syntax highlighting to the code",
+  "author": "Shanmukh Raj",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "isql_syntax_coloring-0.2-py3-none-any.whl",
+  "download_time": "2025-08-18T11:18:07.881915",
+  "package_url": "https://pypi.org/project/isql-syntax-coloring/"
+}

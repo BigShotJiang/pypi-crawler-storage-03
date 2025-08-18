@@ -1,0 +1,11 @@
+{
+  "name": "audit-log-client",
+  "version": "1.4.10",
+  "summary": "Python client for audit logging services",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "audit_log_client-1.4.10.tar.gz",
+  "download_time": "2025-08-18T11:18:15.945828",
+  "package_url": "https://pypi.org/project/audit-log-client/"
+}

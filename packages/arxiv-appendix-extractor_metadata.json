@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-appendix-extractor",
+  "version": "0.1.0",
+  "summary": "A tool to download arXiv papers, intelligently extract appendices with math formulas, and manage source files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arxiv_appendix_extractor-0.1.0.tar.gz",
+  "download_time": "2025-08-18T11:18:00.880602",
+  "package_url": "https://pypi.org/project/arxiv-appendix-extractor/"
+}

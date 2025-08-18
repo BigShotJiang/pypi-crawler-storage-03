@@ -1,11 +1,11 @@
 {
   "name": "mteam",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "M-TEAM API SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mteam-0.1.4.tar.gz",
-  "download_time": "2025-08-18T10:48:38.462237",
+  "download_filename": "mteam-0.1.5.tar.gz",
+  "download_time": "2025-08-18T11:18:04.682571",
   "package_url": "https://pypi.org/project/mteam/"
 }

@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T10:48:50.906106
-- **Total Packages**: 79
-- **Total Size**: 8.82 MB
+- **Download Time**: 2025-08-18T11:18:49.592243
+- **Total Packages**: 80
+- **Total Size**: 19.47 MB
 
 ## Packages List
+- oold
+- php-framework-scaffolder
+- cogents
+- office-word-mcp-uvx-server
+- python-stl-example
+- oasm
+- arxiv-appendix-extractor
+- pytbox
+- hdf-dq-framework
+- anthropic-haystack
+- odoo-addon-sale-loyalty-order-suggestion
+- odoo-addon-helpdesk-mgmt
+- mteam
+- nexus-platform
+- decochators
+- myxagent
+- gemlite
+- isql-syntax-coloring
+- pyTRT
+- hqq
+- kedro-telemetry
+- rites
+- universal-mcp-fpl
+- jam.py-v7
+- mcard
+- gpu-benchmark-linux
+- betfair-parser
+- pyvelocity
+- entsoe-py
+- audit-log-client
+- exar
+- abs-auth-rbac-core
+- oxylabs-mcp
+- shop_system_models
+- rl-helpers
+- easycoder
+- h2o-mlops
+- konduktor-nightly
+- iw4m
+- mbake
+- bgc-viewer
+- trainy-policy-nightly
+- cave-infra
+- ewox
+- ewoxdbredis
 - drx-lissajoux
 - start-compiler
 - tencent-wedata-feature-engineering
@@ -18,7 +63,6 @@
 - bec-ipython-client
 - fab-clientlib
 - ccfit2
-- cave-infra
 - color-code-stim
 - grooveshop-django-api
 - letta-nightly
@@ -27,13 +71,11 @@
 - drx-protocol
 - HowdenParser
 - mcp-server-openmetadata
-- iw4m
 - lybic
 - fattureincloud-python-sdk
 - box-ai-agents-toolkit
 - encodapy
 - jsonAI
-- office-word-mcp-uvx-server
 - sumtyme
 - mnist-synthetic
 - hanifx
@@ -44,44 +86,3 @@
 - cmk-dev-site
 - isql-cell-ui
 - eflips-ingest
-- kerex
-- deepfos
-- dingent
-- cn-cancellation-policy-pkg
-- mbrola
-- libentry
-- kei-agent-py-sdk
-- stigg-api-client-v2
-- odoo-addon-web-widget-x2many-2d-matrix
-- stigg-api-client
-- databricks-sql-connector
-- tuya-device-sharing-sdk
-- zenx
-- cesnet-datazoo
-- docling
-- maxim-py
-- ob-dj-store
-- mteam
-- isql-kernel
-- daktari
-- sdk-pytest-checkmate
-- Geode-Hybrid-Geosciences
-- mignonFramework
-- frequenz-api-microgrid
-- heas
-- jyhelper
-- calcpad
-- pydiverse-pipedag
-- brightdata-sdk
-- straful-python
-- xsoar-dependency-graph
-- yeti-python
-- ai-pipeline-core
-- osbot-fast-api
-- chaino
-- 01-cuda-pybind11
-- expyriment
-- ur-aj
-- basepak
-- laiyuzheng-verification-code-gen
-- that-depends

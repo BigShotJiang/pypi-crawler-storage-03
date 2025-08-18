@@ -1,11 +1,11 @@
 {
   "name": "gpu-benchmark-linux",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "GPU基准测试工具 - 用于评估NVIDIA GPU性能的综合工具包",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gpu_benchmark_linux-0.1.8.tar.gz",
-  "download_time": "2025-08-18T10:23:13.734141",
+  "download_filename": "gpu_benchmark_linux-0.2.0.tar.gz",
+  "download_time": "2025-08-18T11:18:13.285838",
   "package_url": "https://pypi.org/project/gpu-benchmark-linux/"
 }

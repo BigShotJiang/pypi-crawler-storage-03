@@ -1,0 +1,11 @@
+{
+  "name": "python-stl-example",
+  "version": "0.0.1.post2",
+  "summary": "A extended STL library",
+  "author": "fourth-dimensional_universe",
+  "license": "MIT",
+  "home_page": "https://github.com/fourth-dimensional/python_stl_example",
+  "download_filename": "python_stl_example-0.0.1.post2.tar.gz",
+  "download_time": "2025-08-18T11:17:59.608716",
+  "package_url": "https://pypi.org/project/python-stl-example/"
+}
