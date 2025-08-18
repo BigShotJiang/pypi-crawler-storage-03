@@ -1,11 +1,11 @@
 {
   "name": "requestx",
-  "version": "0.2.0",
+  "version": "0.2.8",
   "summary": "High-performance HTTP client for Python with requests-compatible API",
-  "author": "RequestX Team",
+  "author": null,
   "license": "MIT",
   "home_page": "https://github.com/neuesql/requestx",
-  "download_filename": "requestx-0.2.0.tar.gz",
-  "download_time": "2025-08-17T15:50:35.226305",
+  "download_filename": "requestx-0.2.8.tar.gz",
+  "download_time": "2025-08-18T10:22:58.912969",
   "package_url": "https://pypi.org/project/requestx/"
 }

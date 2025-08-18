@@ -1,0 +1,11 @@
+{
+  "name": "isql-kernel",
+  "version": "1.0.5",
+  "summary": "Extensible Jupyter kernel for ISQL",
+  "author": "Shanmukh raj MSS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "isql_kernel-1.0.5.tar.gz",
+  "download_time": "2025-08-18T10:22:45.415590",
+  "package_url": "https://pypi.org/project/isql-kernel/"
+}

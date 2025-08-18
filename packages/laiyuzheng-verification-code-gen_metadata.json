@@ -1,0 +1,11 @@
+{
+  "name": "laiyuzheng-verification-code-gen",
+  "version": "0.1.3",
+  "summary": "基于FastMCP框架的验证码生成工具",
+  "author": "MCP Developer",
+  "license": null,
+  "home_page": "https://github.com/mcp-project/verification-code-generator",
+  "download_filename": "laiyuzheng_verification_code_gen-0.1.3.tar.gz",
+  "download_time": "2025-08-18T10:22:55.434933",
+  "package_url": "https://pypi.org/project/laiyuzheng-verification-code-gen/"
+}

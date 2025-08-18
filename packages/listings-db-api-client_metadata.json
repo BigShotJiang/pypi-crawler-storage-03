@@ -1,0 +1,11 @@
+{
+  "name": "listings-db-api-client",
+  "version": "1.0.0",
+  "summary": "Python client library for the Finder property listings database API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "listings_db_api_client-1.0.0.tar.gz",
+  "download_time": "2025-08-18T10:22:57.233136",
+  "package_url": "https://pypi.org/project/listings-db-api-client/"
+}

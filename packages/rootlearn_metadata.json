@@ -1,0 +1,11 @@
+{
+  "name": "rootlearn",
+  "version": "0.2.1",
+  "summary": "A simple Linear Regression implementation from scratch",
+  "author": "Pranjal Kumar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rootlearn-0.2.1.tar.gz",
+  "download_time": "2025-08-18T10:23:07.271524",
+  "package_url": "https://pypi.org/project/rootlearn/"
+}
