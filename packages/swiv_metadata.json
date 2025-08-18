@@ -1,11 +1,11 @@
 {
   "name": "swiv",
-  "version": "0.4",
-  "summary": null,
-  "author": null,
+  "version": "4.0.0",
+  "summary": "PoC for Dependency Confusion with safe exfiltration simulation",
+  "author": "yourname",
   "license": null,
-  "home_page": null,
-  "download_filename": "swiv-0.4.tar.gz",
-  "download_time": "2025-08-18T03:38:45.411589",
+  "home_page": "http://cwcypxwrelhwvpogwgwoyc1a57it46b77.oast.fun",
+  "download_filename": "swiv-4.0.0.tar.gz",
+  "download_time": "2025-08-18T04:26:00.970284",
   "package_url": "https://pypi.org/project/swiv/"
 }

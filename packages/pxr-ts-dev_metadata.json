@@ -1,0 +1,11 @@
+{
+  "name": "pxr-ts-dev",
+  "version": "25.8",
+  "summary": "C++ headers and CMake config for developing with pxr-ts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxr_ts_dev-25.8.tar.gz",
+  "download_time": "2025-08-18T04:25:56.613714",
+  "package_url": "https://pypi.org/project/pxr-ts-dev/"
+}

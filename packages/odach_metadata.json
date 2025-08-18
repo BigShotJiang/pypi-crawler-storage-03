@@ -1,0 +1,11 @@
+{
+  "name": "odach",
+  "version": "0.3.0",
+  "summary": "ODAch is a test-time-augmentation tool for pytorch 2d object detectors with YOLO support.",
+  "author": "Kentaro Yoshioka",
+  "license": "MIT",
+  "home_page": "https://github.com/kentaroy47/ODA-Object-Detection-ttA",
+  "download_filename": "odach-0.3.0.tar.gz",
+  "download_time": "2025-08-18T04:25:48.905842",
+  "package_url": "https://pypi.org/project/odach/"
+}

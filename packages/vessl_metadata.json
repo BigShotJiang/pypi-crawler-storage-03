@@ -1,0 +1,11 @@
+{
+  "name": "vessl",
+  "version": "0.1.199",
+  "summary": "SDK and CLI for VESSL",
+  "author": "VESSL AI Dev Team",
+  "license": "MIT",
+  "home_page": "https://vessl.ai/",
+  "download_filename": "vessl-0.1.199.tar.gz",
+  "download_time": "2025-08-18T04:25:59.346281",
+  "package_url": "https://pypi.org/project/vessl/"
+}

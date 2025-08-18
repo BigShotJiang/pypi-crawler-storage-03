@@ -1,11 +1,11 @@
 {
   "name": "sdom",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A Python package for NREL open-source SDOM (Storage Deployment Optimization Model)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sdom-0.0.3.tar.gz",
-  "download_time": "2025-08-17T06:23:58.831019",
+  "download_filename": "sdom-0.0.4.tar.gz",
+  "download_time": "2025-08-18T04:26:04.311873",
   "package_url": "https://pypi.org/project/sdom/"
 }
