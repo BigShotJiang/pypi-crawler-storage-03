@@ -1,26 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T23:19:38.379075
-- **Total Packages**: 76
-- **Total Size**: 35.75 MB
+- **Download Time**: 2025-08-18T23:40:01.680698
+- **Total Packages**: 72
+- **Total Size**: 13.9 MB
 
 ## Packages List
+- tobiko-cloud-helpers
+- tobiko-cloud-pydantic
+- tobiko-cloud-api-client
+- factorial2kr
+- kwparse
+- yt-dlp
+- airbyte-source-faker
+- flash-select
+- moskit-cli
+- binsync
+- nv-ingest-client
+- osym
+- thagomizer
+- zlang
+- tt-burnin
+- dagster-sqlmesh
+- HoloTTS
+- wsaplus
+- nominal-api-protos
+- nominal-api
+- codegen
+- gradnorm-pytorch
 - accessvis
+- osbot-fast-api-serverless
+- dana
+- preparse
+- earthengine-api
+- safari-sdk
+- kaqing
+- seamm-util
 - ob-project-utils
 - lollms-client
 - logwatch-analyzer
-- preparse
-- airbyte-source-faker
-- zlang
 - docassemble.EFSPIntegration
 - tt-flash
 - tt-topology
 - tt-tools-common
 - tt-smi
 - ry
-- kaqing
-- moskit-cli
 - posthoganalytics
 - posthog
 - wat
@@ -33,7 +57,6 @@
 - cirq-aqt
 - cirq
 - google-cloud-aiplatform
-- wsaplus
 - emmet-api
 - flwr-nightly
 - emmet-builders
@@ -53,32 +76,5 @@
 - lionagi
 - vidavis
 - telethon-utils
-- binsync
 - SuPyMode
 - pypomes-sob
-- deriva-ml
-- claude-mpm
-- sensory-data-client
-- arpakitlib
-- pynxtools-apm
-- rss2socials
-- docassemble.demo
-- grimoirelab
-- FHIL-python-utils
-- batch-img
-- fraiseql
-- parsl
-- py-near
-- agent-starter-pack
-- synthefy
-- oasm.rtmq2
-- glgrpa
-- sirmordred
-- wws-api
-- ifes-apt-tc-data-modeling
-- conviso-cli
-- sturdy-stats-sdk
-- slurm-factory
-- web-recruitment-sdk
-- cryoblob
-- h2ogpte

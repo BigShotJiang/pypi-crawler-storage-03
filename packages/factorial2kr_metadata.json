@@ -1,0 +1,11 @@
+{
+  "name": "factorial2kr",
+  "version": "0.1.0",
+  "summary": "Lib for 2kr factorial projects",
+  "author": "Kyamel",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "factorial2kr-0.1.0.tar.gz",
+  "download_time": "2025-08-18T23:39:25.776493",
+  "package_url": "https://pypi.org/project/factorial2kr/"
+}

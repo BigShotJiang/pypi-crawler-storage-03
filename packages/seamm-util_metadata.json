@@ -1,0 +1,11 @@
+{
+  "name": "seamm-util",
+  "version": "2025.8.18",
+  "summary": "seamm_util",
+  "author": "Paul Saxe",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/molssi-seamm/seamm_util",
+  "download_filename": "seamm_util-2025.8.18.tar.gz",
+  "download_time": "2025-08-18T23:39:39.454853",
+  "package_url": "https://pypi.org/project/seamm-util/"
+}
