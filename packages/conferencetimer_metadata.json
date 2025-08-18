@@ -1,0 +1,11 @@
+{
+  "name": "conferencetimer",
+  "version": "1.0.6",
+  "summary": "PyQt6 based timer and remote application for conference talks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conferencetimer-1.0.6.tar.gz",
+  "download_time": "2025-08-18T13:53:53.970496",
+  "package_url": "https://pypi.org/project/conferencetimer/"
+}

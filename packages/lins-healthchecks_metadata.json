@@ -1,0 +1,11 @@
+{
+  "name": "lins-healthchecks",
+  "version": "1.0.2",
+  "summary": "Pacote que integra containers do docker ao sistema de healthcheck da lins-ferrão",
+  "author": "Grupo Lins Ferrão",
+  "license": null,
+  "home_page": "https://bitbucket.org/grupolinsferrao/lins-health-check",
+  "download_filename": "lins_healthchecks-1.0.2.tar.gz",
+  "download_time": "2025-08-18T13:54:14.191823",
+  "package_url": "https://pypi.org/project/lins-healthchecks/"
+}

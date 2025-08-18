@@ -1,0 +1,11 @@
+{
+  "name": "fmu-settings-api",
+  "version": "0.1.0",
+  "summary": "The API for fmu-settings",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "fmu_settings_api-0.1.0.tar.gz",
+  "download_time": "2025-08-18T13:54:19.916020",
+  "package_url": "https://pypi.org/project/fmu-settings-api/"
+}

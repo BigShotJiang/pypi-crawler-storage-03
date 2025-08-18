@@ -1,0 +1,11 @@
+{
+  "name": "ez-code-generator",
+  "version": "4.0.0",
+  "summary": "Console tool for generating API clients, data classes and validators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ez_code_generator-4.0.0-py3-none-any.whl",
+  "download_time": "2025-08-18T13:54:07.393813",
+  "package_url": "https://pypi.org/project/ez-code-generator/"
+}
