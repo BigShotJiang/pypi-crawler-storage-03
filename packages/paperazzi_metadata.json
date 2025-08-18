@@ -1,11 +1,11 @@
 {
   "name": "paperazzi",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "LLM-Based Paper Query System with Evaluation Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paperazzi-0.0.4.tar.gz",
-  "download_time": "2025-08-18T21:17:42.376377",
+  "download_filename": "paperazzi-0.0.5.tar.gz",
+  "download_time": "2025-08-18T21:39:25.510294",
   "package_url": "https://pypi.org/project/paperazzi/"
 }

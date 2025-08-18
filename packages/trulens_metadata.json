@@ -1,0 +1,11 @@
+{
+  "name": "trulens",
+  "version": "2.2.2",
+  "summary": "Library to systematically track and evaluate LLM based applications.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens-2.2.2.tar.gz",
+  "download_time": "2025-08-18T21:40:00.371824",
+  "package_url": "https://pypi.org/project/trulens/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wikiscraper-py",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A Python library to scrape Wikipedia articles easily",
   "author": "Beki Chemeda",
   "license": null,
   "home_page": "https://github.com/BekiChemeda/Wikiscraper",
-  "download_filename": "wikiscraper_py-0.0.1.tar.gz",
-  "download_time": "2025-08-18T20:19:46.682702",
+  "download_filename": "wikiscraper_py-0.0.3.tar.gz",
+  "download_time": "2025-08-18T21:39:31.180695",
   "package_url": "https://pypi.org/project/wikiscraper-py/"
 }

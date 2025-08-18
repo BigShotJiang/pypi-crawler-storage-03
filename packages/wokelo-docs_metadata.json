@@ -1,0 +1,11 @@
+{
+  "name": "wokelo-docs",
+  "version": "0.1.0",
+  "summary": "Combined package for creating, reading, and updating DOCX and PPTX files",
+  "author": "Wokelo",
+  "license": "MIT, Apache-2.0",
+  "home_page": null,
+  "download_filename": "wokelo_docs-0.1.0.tar.gz",
+  "download_time": "2025-08-18T21:39:57.811219",
+  "package_url": "https://pypi.org/project/wokelo-docs/"
+}

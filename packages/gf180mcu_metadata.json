@@ -1,0 +1,11 @@
+{
+  "name": "gf180mcu",
+  "version": "0.4.0",
+  "summary": "GlobalFoundries 180nm MCU",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gf180mcu-0.4.0.tar.gz",
+  "download_time": "2025-08-18T21:39:27.569896",
+  "package_url": "https://pypi.org/project/gf180mcu/"
+}

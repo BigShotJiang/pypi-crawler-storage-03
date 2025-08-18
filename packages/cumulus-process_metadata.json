@@ -1,0 +1,11 @@
+{
+  "name": "cumulus-process",
+  "version": "1.5.0",
+  "summary": "Library for creating Cumulus Process tasks in Python",
+  "author": "Matthew Hanson (matthewhanson), Alireza J (scisco)",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/nasa-cumulus/cumulus-process-py",
+  "download_filename": "cumulus_process-1.5.0.tar.gz",
+  "download_time": "2025-08-18T21:39:59.859962",
+  "package_url": "https://pypi.org/project/cumulus-process/"
+}

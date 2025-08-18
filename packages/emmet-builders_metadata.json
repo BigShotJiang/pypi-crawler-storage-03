@@ -1,0 +1,11 @@
+{
+  "name": "emmet-builders",
+  "version": "0.84.9",
+  "summary": "Builders for the Emmet Library",
+  "author": "The Materials Project",
+  "license": "modified BSD",
+  "home_page": "https://github.com/materialsproject/emmet",
+  "download_filename": "emmet_builders-0.84.9.tar.gz",
+  "download_time": "2025-08-18T21:39:19.813250",
+  "package_url": "https://pypi.org/project/emmet-builders/"
+}

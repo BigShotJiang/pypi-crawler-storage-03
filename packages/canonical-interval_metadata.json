@@ -1,0 +1,11 @@
+{
+  "name": "canonical-interval",
+  "version": "0.1.0a1",
+  "summary": "Self-normalizing interval data structure that automatically maintains valid form with useful utility methods.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "canonical_interval-0.1.0a1.tar.gz",
+  "download_time": "2025-08-18T21:39:54.702649",
+  "package_url": "https://pypi.org/project/canonical-interval/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yandex-iomy-pydl-core",
+  "version": "66.0.3",
+  "summary": "A package to prevent Dependency Confusion attacks against Yandex.",
+  "author": "Yandex",
+  "license": null,
+  "home_page": "https://ya.ru",
+  "download_filename": "yandex-iomy-pydl-core-66.0.3.tar.gz",
+  "download_time": "2025-08-18T21:39:42.335144",
+  "package_url": "https://pypi.org/project/yandex-iomy-pydl-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "annolab",
+  "version": "0.3.3",
+  "summary": "Official SDK for the AnnoLab Platform",
+  "author": "AnnoLab",
+  "license": "Apache",
+  "home_page": "https://github.com/lsimkins/annolab-sdk",
+  "download_filename": "annolab-0.3.3-py3-none-any.whl",
+  "download_time": "2025-08-18T21:39:59.347742",
+  "package_url": "https://pypi.org/project/annolab/"
+}
