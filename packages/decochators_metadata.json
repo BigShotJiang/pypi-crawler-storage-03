@@ -1,11 +1,11 @@
 {
   "name": "decochators",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Library for analysis and visualization of chaotic systems",
   "author": "yoshl",
   "license": "MIT",
-  "home_page": "https://github.com/yoshlsec/decochartos",
-  "download_filename": "decochators-1.0.4.tar.gz",
-  "download_time": "2025-08-18T10:23:05.650194",
+  "home_page": "https://github.com/yoshlsec/decochators",
+  "download_filename": "decochators-1.0.5.tar.gz",
+  "download_time": "2025-08-18T14:21:13.276696",
   "package_url": "https://pypi.org/project/decochators/"
 }
