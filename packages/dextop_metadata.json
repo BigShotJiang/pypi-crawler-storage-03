@@ -1,11 +1,11 @@
 {
   "name": "dextop",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A command line tool for managing and configuring Dexmate robot interfaces. Provides utilities for robot management, connection discovery, and interface configuration.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dextop-0.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2025-08-18T17:45:23.089435",
+  "download_filename": "dextop-0.3.3-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-08-18T20:20:03.499924",
   "package_url": "https://pypi.org/project/dextop/"
 }

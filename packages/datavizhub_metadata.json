@@ -1,11 +1,11 @@
 {
   "name": "datavizhub",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A tool to ingest data from various sources and formats, create imagery or video based on that data, and send the results to various locations for dissemination.",
   "author": "Eric Hackathorn",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datavizhub-0.1.17.tar.gz",
-  "download_time": "2025-08-18T19:39:37.872534",
+  "download_filename": "datavizhub-0.1.18.tar.gz",
+  "download_time": "2025-08-18T20:20:22.369104",
   "package_url": "https://pypi.org/project/datavizhub/"
 }

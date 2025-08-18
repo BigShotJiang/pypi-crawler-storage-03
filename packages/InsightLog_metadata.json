@@ -1,0 +1,11 @@
+{
+  "name": "InsightLog",
+  "version": "1.5",
+  "summary": "An advanced, feature-rich logging utility with real-time monitoring, performance profiling, anomaly detection, and comprehensive analytics for Python applications.",
+  "author": "Velyzo",
+  "license": "MIT",
+  "home_page": "https://github.com/Velyzo/InsightLogger",
+  "download_filename": "insightlog-1.5.tar.gz",
+  "download_time": "2025-08-18T20:19:42.431437",
+  "package_url": "https://pypi.org/project/InsightLog/"
+}

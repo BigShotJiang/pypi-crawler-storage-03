@@ -1,0 +1,11 @@
+{
+  "name": "kernax",
+  "version": "0.3.0",
+  "summary": "Regularized Stein thinning using JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kernax-0.3.0.tar.gz",
+  "download_time": "2025-08-18T20:19:56.160213",
+  "package_url": "https://pypi.org/project/kernax/"
+}

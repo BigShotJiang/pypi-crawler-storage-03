@@ -1,0 +1,11 @@
+{
+  "name": "ntc-templates",
+  "version": "8.0.0",
+  "summary": "TextFSM Templates for Network Devices, and Python wrapper for TextFSM's CliTable.",
+  "author": "Network to Code",
+  "license": "Apache-2.0",
+  "home_page": "https://ntc-templates.readthedocs.io",
+  "download_filename": "ntc_templates-8.0.0.tar.gz",
+  "download_time": "2025-08-18T20:20:16.095093",
+  "package_url": "https://pypi.org/project/ntc-templates/"
+}

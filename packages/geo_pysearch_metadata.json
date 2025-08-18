@@ -1,0 +1,11 @@
+{
+  "name": "geo_pysearch",
+  "version": "0.1.6",
+  "summary": "GeoVectorSearch is a lightweight Python SDK and command-line tool for semantic discovery of GEO datasets suitable for differential gene expression analysis. Powered by FAISS-based vector search and optional GPT-based filtering, it helps researchers and developers quickly identify relevant RNA-seq or microarray datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_pysearch-0.1.6.tar.gz",
+  "download_time": "2025-08-18T20:20:08.798941",
+  "package_url": "https://pypi.org/project/geo_pysearch/"
+}
