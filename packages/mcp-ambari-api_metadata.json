@@ -1,11 +1,11 @@
 {
   "name": "mcp-ambari-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Model Context Protocol (MCP) server for Apache Ambari API integration. Provides comprehensive tools for managing Hadoop clusters including service operations, configuration management, status monitoring, and request tracking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_ambari_api-1.0.4.tar.gz",
-  "download_time": "2025-08-17T07:38:41.243271",
+  "download_filename": "mcp_ambari_api-1.0.5.tar.gz",
+  "download_time": "2025-08-18T11:50:34.843467",
   "package_url": "https://pypi.org/project/mcp-ambari-api/"
 }

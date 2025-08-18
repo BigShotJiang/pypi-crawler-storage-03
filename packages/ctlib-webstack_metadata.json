@@ -1,0 +1,11 @@
+{
+  "name": "ctlib-webstack",
+  "version": "0.1.0",
+  "summary": "A collection of common web middlewares for security and request processing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctlib_webstack-0.1.0.tar.gz",
+  "download_time": "2025-08-18T11:50:49.850739",
+  "package_url": "https://pypi.org/project/ctlib-webstack/"
+}

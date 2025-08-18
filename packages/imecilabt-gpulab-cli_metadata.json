@@ -1,0 +1,11 @@
+{
+  "name": "imecilabt-gpulab-cli",
+  "version": "3.11.11",
+  "summary": "GPULab CLI",
+  "author": "Thijs Walcarius <Thijs.Walcarius@ugent.be>, Wim Van de Meerssche <wim.vandemeerssche@ugent.be>",
+  "license": "GPLv3",
+  "home_page": "https://gpulab.ilabt.imec.be",
+  "download_filename": "imecilabt_gpulab_cli-3.11.11.tar.gz",
+  "download_time": "2025-08-18T11:50:52.921982",
+  "package_url": "https://pypi.org/project/imecilabt-gpulab-cli/"
+}

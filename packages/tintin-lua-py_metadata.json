@@ -1,0 +1,11 @@
+{
+  "name": "tintin-lua-py",
+  "version": "2.2.51",
+  "summary": "TinTin++ MUD client with Lua and Python scripting support",
+  "author": "Federico",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tintin-lua-py",
+  "download_filename": "tintin_lua_py-2.2.51.tar.gz",
+  "download_time": "2025-08-18T11:50:48.826014",
+  "package_url": "https://pypi.org/project/tintin-lua-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ratio-typst",
+  "version": "0.1.4",
+  "summary": "Generate Typst documents from Python using the Ratio theme.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ratio_typst-0.1.4.tar.gz",
+  "download_time": "2025-08-18T11:50:32.794384",
+  "package_url": "https://pypi.org/project/ratio-typst/"
+}

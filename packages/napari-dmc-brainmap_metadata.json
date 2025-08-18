@@ -1,0 +1,11 @@
+{
+  "name": "napari-dmc-brainmap",
+  "version": "0.1.7b9",
+  "summary": "DMC-BrainMap is an end-to-end tool for multi-feature brain mapping across species",
+  "author": "Felix Jung",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "napari_dmc_brainmap-0.1.7b9.tar.gz",
+  "download_time": "2025-08-18T11:51:03.219178",
+  "package_url": "https://pypi.org/project/napari-dmc-brainmap/"
+}
