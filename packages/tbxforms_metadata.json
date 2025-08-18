@@ -1,0 +1,11 @@
+{
+  "name": "tbxforms",
+  "version": "4.3.1",
+  "summary": "A Torchbox-flavoured template pack for django-crispy-forms, adapted from crispy-forms-gds",
+  "author": "Kyle Bayler",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/torchbox/tbxforms/",
+  "download_filename": "tbxforms-4.3.1.tar.gz",
+  "download_time": "2025-08-18T08:54:38.116883",
+  "package_url": "https://pypi.org/project/tbxforms/"
+}

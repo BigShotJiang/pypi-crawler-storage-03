@@ -1,0 +1,11 @@
+{
+  "name": "xnum",
+  "version": "0.4",
+  "summary": "XNum: Universal Numeral System Converter",
+  "author": "XNum Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/openscilab/xnum",
+  "download_filename": "xnum-0.4.tar.gz",
+  "download_time": "2025-08-18T08:54:40.181640",
+  "package_url": "https://pypi.org/project/xnum/"
+}

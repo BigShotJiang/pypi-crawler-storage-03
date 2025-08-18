@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T08:29:57.649150
-- **Total Packages**: 86
-- **Total Size**: 31.8 MB
+- **Download Time**: 2025-08-18T08:55:07.493300
+- **Total Packages**: 82
+- **Total Size**: 50.18 MB
 
 ## Packages List
+- cosl
+- ptinsearcher
+- dataflow-custom-extension
+- MaRDMO
+- ptconvert
+- developer-tools-mcp
+- aouyi-mcp-demo
+- tensor-toolkit
+- ptwebdiscover
+- botrun-flow-lang
+- duckdb-http
+- es-mapping-inspector
+- verification-code-generator
+- gpu-benchmark-linux
+- surrogates_interface
+- tfp-nightly
+- parkapi-sources
+- pquant
+- monday-api-python-sdk
+- FiberFusing
+- rusty-req
+- shinestacker
+- foundry-sdk
+- upcloud-api
+- qi-compute-api-client
+- emailer-simple-tool
+- matrice
+- ptssl
+- oidfed-collector
+- monashspa
+- mcp-metricool
+- tbxforms
+- wikidata-client
+- ptelastic
+- dj-flexi-tag
+- xnum
+- entsoe-py
+- pttechnologies
+- configset
+- localstack-core
+- otcdocstheme
+- bank-scrapers
+- zmp-manual-chatbot-backend
+- kuzu
+- brother
+- kungfu-api
+- alibabacloud-appstream-center20210901
+- scc-firewall-manager-sdk
+- antchain-qqq
+- cupy
+- inMOTIFin
+- PySrDaliGateway
+- pybase-library
+- streamlit-octostar-utils
+- heas
+- atla-insights
 - giskard
 - pyonegame
 - odoo-addon-fetchmail-notify-error-to-sender
@@ -32,63 +88,3 @@
 - nominal-api
 - qwak-core
 - symclosestwannier
-- nvfuser-cu126
-- rq_geo_toolkit
-- gpu-benchmark-linux
-- nvfuser-cu128
-- nrl-sdk-lib
-- nvfuser-cu129
-- lava-top-sdk
-- io4it
-- solarenergy
-- git-crossref
-- yfiles-jupyter-graphs-for-kuzu
-- bittty
-- metal-python
-- neosqlite
-- pyglove
-- pybase-library
-- mathsys
-- heas
-- gbox-sdk
-- pemexe
-- surquest-utils-appstoreconnect-analyticsreports
-- chromadb
-- pysdccc
-- contextcounter
-- gie-py
-- databricks-modules-vy
-- python-sample-app-mackes
-- zylib-test
-- bc-edu-sdk
-- gcc-slycooper50
-- ramifice
-- insight-plugin
-- gr4vy
-- flaskkits-boilerplate
-- cua-client
-- lusid-sdk
-- traceloop-sdk
-- es-mapping-inspector
-- bizydraft
-- mandelbrot-benchmark
-- opentelemetry-instrumentation-weaviate
-- opentelemetry-instrumentation-watsonx
-- opentelemetry-instrumentation-vertexai
-- opentelemetry-instrumentation-transformers
-- opentelemetry-instrumentation-together
-- opentelemetry-instrumentation-sagemaker
-- opentelemetry-instrumentation-replicate
-- opentelemetry-instrumentation-qdrant
-- opentelemetry-instrumentation-pinecone
-- opentelemetry-instrumentation-openai-agents
-- opentelemetry-instrumentation-openai
-- opentelemetry-instrumentation-ollama
-- opentelemetry-instrumentation-mistralai
-- opentelemetry-instrumentation-milvus
-- opentelemetry-instrumentation-mcp
-- opentelemetry-instrumentation-marqo
-- opentelemetry-instrumentation-llamaindex
-- opentelemetry-instrumentation-langchain
-- opentelemetry-instrumentation-lancedb
-- opentelemetry-instrumentation-haystack

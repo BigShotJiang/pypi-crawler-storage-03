@@ -1,0 +1,11 @@
+{
+  "name": "inMOTIFin",
+  "version": "3.1.2",
+  "summary": "inMOTIFin",
+  "author": "Katalin Ferenc",
+  "license": "MIT license",
+  "home_page": "https://bitbucket.org/CBGR/inmotifin/src/main/",
+  "download_filename": "inmotifin-3.1.2.tar.gz",
+  "download_time": "2025-08-18T08:54:49.067375",
+  "package_url": "https://pypi.org/project/inMOTIFin/"
+}

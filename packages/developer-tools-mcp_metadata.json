@@ -1,0 +1,11 @@
+{
+  "name": "developer-tools-mcp",
+  "version": "1.0.0",
+  "summary": "开发者工具 MCP 服务器 - 提供代码格式化、文件操作和项目分析等开发者常用功能",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "developer_tools_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-18T08:54:22.961974",
+  "package_url": "https://pypi.org/project/developer-tools-mcp/"
+}

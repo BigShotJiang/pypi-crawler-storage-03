@@ -1,11 +1,11 @@
 {
   "name": "tensor-toolkit",
-  "version": "0.1.0",
-  "summary": "A lightweight PyTorch utility toolkit for tensors",
+  "version": "0.1.1",
+  "summary": "Essential PyTorch utilities for fast and flexible tensor operations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tensor_toolkit-0.1.0.tar.gz",
-  "download_time": "2025-08-17T18:27:18.789669",
+  "download_filename": "tensor_toolkit-0.1.1.tar.gz",
+  "download_time": "2025-08-18T08:54:23.999442",
   "package_url": "https://pypi.org/project/tensor-toolkit/"
 }
