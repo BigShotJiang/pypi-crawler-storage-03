@@ -1,0 +1,11 @@
+{
+  "name": "sortdx",
+  "version": "0.1.0",
+  "summary": "Universal sorting tool for files, data structures, and large datasets",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sortdx-0.1.0.tar.gz",
+  "download_time": "2025-08-18T15:45:24.219945",
+  "package_url": "https://pypi.org/project/sortdx/"
+}

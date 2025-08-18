@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.app.chem",
+  "version": "0.43",
+  "summary": "RCSB Chemical Search Service",
+  "author": "John Westbrook",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-rcsb_app_chem",
+  "download_filename": "rcsb_app_chem-0.43.tar.gz",
+  "download_time": "2025-08-18T15:45:43.627432",
+  "package_url": "https://pypi.org/project/rcsb.app.chem/"
+}
