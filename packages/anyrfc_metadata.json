@@ -1,0 +1,11 @@
+{
+  "name": "anyrfc",
+  "version": "0.3.1",
+  "summary": "Complete, RFC-compliant protocol clients using AnyIO structured concurrency",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anyrfc-0.3.1.tar.gz",
+  "download_time": "2025-08-18T03:39:09.471331",
+  "package_url": "https://pypi.org/project/anyrfc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rqsdk",
+  "version": "1.6.4",
+  "summary": "Ricequant Native SDK",
+  "author": "Ricequant",
+  "license": null,
+  "home_page": "https://www.ricequant.com/",
+  "download_filename": "rqsdk-1.6.4.tar.gz",
+  "download_time": "2025-08-18T03:38:46.973244",
+  "package_url": "https://pypi.org/project/rqsdk/"
+}

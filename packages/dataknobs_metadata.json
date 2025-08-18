@@ -1,0 +1,11 @@
+{
+  "name": "dataknobs",
+  "version": "0.0.16",
+  "summary": "Useful implementations of data structures and design patterns for AI knowledge bases. (Legacy package - please use modular packages instead)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataknobs-0.0.16.tar.gz",
+  "download_time": "2025-08-18T03:38:31.320221",
+  "package_url": "https://pypi.org/project/dataknobs/"
+}

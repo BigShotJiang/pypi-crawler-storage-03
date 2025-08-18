@@ -1,11 +1,11 @@
 {
   "name": "mirrai",
-  "version": "0.1.7",
+  "version": "0.3.1",
   "summary": "A Multimodal AI agent for desktop automation via screenshots and tool use.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mirrai-0.1.7-py3-none-any.whl",
-  "download_time": "2025-08-18T01:46:14.698669",
+  "download_filename": "mirrai-0.3.1-py3-none-any.whl",
+  "download_time": "2025-08-18T03:38:30.282938",
   "package_url": "https://pypi.org/project/mirrai/"
 }

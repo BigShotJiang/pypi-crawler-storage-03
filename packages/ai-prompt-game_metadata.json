@@ -1,0 +1,11 @@
+{
+  "name": "ai-prompt-game",
+  "version": "1.0.0",
+  "summary": "AI-powered reverse prompt engineering educational game",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ai-prompt-game",
+  "download_filename": "ai_prompt_game-1.0.0.tar.gz",
+  "download_time": "2025-08-18T03:39:05.823070",
+  "package_url": "https://pypi.org/project/ai-prompt-game/"
+}

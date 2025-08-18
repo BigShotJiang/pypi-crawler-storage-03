@@ -1,0 +1,11 @@
+{
+  "name": "antishlopcli",
+  "version": "1.0.6",
+  "summary": "AI-Powered Security Vulnerability Scanner",
+  "author": "itscool2b",
+  "license": null,
+  "home_page": null,
+  "download_filename": "antishlopcli-1.0.6.tar.gz",
+  "download_time": "2025-08-18T03:38:49.052596",
+  "package_url": "https://pypi.org/project/antishlopcli/"
+}
