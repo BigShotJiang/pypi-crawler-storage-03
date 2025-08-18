@@ -1,0 +1,11 @@
+{
+  "name": "cpc2-standalone",
+  "version": "1.0.8",
+  "summary": "CPC2: A fast and accurate coding potential calculator based on sequence intrinsic features. This package is maintained by Pranjal Pruthi, BioinformaticsOnLine organization.",
+  "author": "Kang Y. J., Yang D. C., Kong L., Hou M., Meng Y. Q., Wei L., Gao G.",
+  "license": null,
+  "home_page": "https://github.com/gao-lab/CPC2_standalone",
+  "download_filename": "cpc2_standalone-1.0.8.tar.gz",
+  "download_time": "2025-08-18T09:26:16.900456",
+  "package_url": "https://pypi.org/project/cpc2-standalone/"
+}

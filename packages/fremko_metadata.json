@@ -1,11 +1,11 @@
 {
   "name": "fremko",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A framework for controlling Android devices through LLM agents",
   "author": "johnmalek312",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fremko-0.1.3.tar.gz",
-  "download_time": "2025-08-18T05:26:47.286179",
+  "download_filename": "fremko-0.1.4.tar.gz",
+  "download_time": "2025-08-18T09:26:16.310100",
   "package_url": "https://pypi.org/project/fremko/"
 }

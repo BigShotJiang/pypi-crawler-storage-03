@@ -1,0 +1,11 @@
+{
+  "name": "lazyr",
+  "version": "0.0.24",
+  "summary": "Creates lazily-imported modules in a more readable and safer way.",
+  "author": "Chitaoji",
+  "license": "BSD",
+  "home_page": "https://github.com/Chitaoji/lazyr/",
+  "download_filename": "lazyr-0.0.24-py2.py3-none-any.whl",
+  "download_time": "2025-08-18T09:26:55.959714",
+  "package_url": "https://pypi.org/project/lazyr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-sis",
+  "version": "0.1.8",
+  "summary": "MCP server for CUHKSZ SIS system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_sis-0.1.8.tar.gz",
+  "download_time": "2025-08-18T09:26:21.083948",
+  "package_url": "https://pypi.org/project/mcp-server-sis/"
+}
