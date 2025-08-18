@@ -1,0 +1,11 @@
+{
+  "name": "elyzo",
+  "version": "0.1.12",
+  "summary": "A CLI tool for interacting with the Elyzo platform.",
+  "author": "Adrian",
+  "license": "MIT",
+  "home_page": "https://github.com/adrianmm12/elyzo-cli",
+  "download_filename": "elyzo-0.1.12.tar.gz",
+  "download_time": "2025-08-18T17:44:34.304713",
+  "package_url": "https://pypi.org/project/elyzo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deep-genomics",
+  "version": "2025.8.15",
+  "summary": "Deep learning utilities for genomics",
+  "author": "Josh L. Espinoza",
+  "license": "MIT",
+  "home_page": "https://github.com/jolespin/deep-genomics",
+  "download_filename": "deep_genomics-2025.8.15.tar.gz",
+  "download_time": "2025-08-18T17:44:31.063273",
+  "package_url": "https://pypi.org/project/deep-genomics/"
+}

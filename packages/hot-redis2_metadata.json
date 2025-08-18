@@ -1,11 +1,11 @@
 {
   "name": "hot-redis2",
-  "version": "0.22.0",
+  "version": "0.22.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hot_redis2-0.22.0.tar.gz",
-  "download_time": "2025-08-18T15:57:23.895579",
+  "download_filename": "hot_redis2-0.22.2.tar.gz",
+  "download_time": "2025-08-18T17:44:48.629868",
   "package_url": "https://pypi.org/project/hot-redis2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "t-dentrix-service",
+  "version": "0.1.12",
+  "summary": "Service for handling Dentrix processes.",
+  "author": "Thoughtful",
+  "license": null,
+  "home_page": "https://www.thoughtful.ai/",
+  "download_filename": "t_dentrix_service-0.1.12.tar.gz",
+  "download_time": "2025-08-18T17:45:07.991947",
+  "package_url": "https://pypi.org/project/t-dentrix-service/"
+}

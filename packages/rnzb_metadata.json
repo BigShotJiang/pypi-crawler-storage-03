@@ -1,0 +1,11 @@
+{
+  "name": "rnzb",
+  "version": "0.5.5",
+  "summary": "Python bindings to the nzb-rs library - a spec compliant parser for NZB files, written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rnzb-0.5.5.tar.gz",
+  "download_time": "2025-08-18T17:44:29.260169",
+  "package_url": "https://pypi.org/project/rnzb/"
+}

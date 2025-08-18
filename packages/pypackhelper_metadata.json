@@ -1,0 +1,11 @@
+{
+  "name": "pypackhelper",
+  "version": "0.1.0",
+  "summary": "A comprehensive tool for Python package management",
+  "author": "PyPackHelper Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Okymi-X/PyPackHelper",
+  "download_filename": "pypackhelper-0.1.0.tar.gz",
+  "download_time": "2025-08-18T17:45:04.203362",
+  "package_url": "https://pypi.org/project/pypackhelper/"
+}

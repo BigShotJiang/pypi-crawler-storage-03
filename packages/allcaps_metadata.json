@@ -1,0 +1,11 @@
+{
+  "name": "allcaps",
+  "version": "1.0.0",
+  "summary": "Capability-based payload generation framework",
+  "author": "2XXE",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "allcaps-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-18T17:45:13.912262",
+  "package_url": "https://pypi.org/project/allcaps/"
+}
