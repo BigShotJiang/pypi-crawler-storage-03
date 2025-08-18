@@ -1,0 +1,11 @@
+{
+  "name": "daliuge-engine",
+  "version": "5.6.2",
+  "summary": "Data Activated 流 (flow) Graph Engine - Execution Engine",
+  "author": "ICRAR DIA Group",
+  "license": "LGPLv2+",
+  "home_page": "https://github.com/ICRAR/daliuge",
+  "download_filename": "daliuge_engine-5.6.2.tar.gz",
+  "download_time": "2025-08-18T06:32:58.764377",
+  "package_url": "https://pypi.org/project/daliuge-engine/"
+}

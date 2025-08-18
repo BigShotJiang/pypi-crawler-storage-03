@@ -1,0 +1,11 @@
+{
+  "name": "aistats",
+  "version": "0.0.1",
+  "summary": "A Python package for descriptive and advanced statistical analysis",
+  "author": "Rohit Kumar Behera",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aistats-0.0.1.tar.gz",
+  "download_time": "2025-08-18T06:33:07.177461",
+  "package_url": "https://pypi.org/project/aistats/"
+}

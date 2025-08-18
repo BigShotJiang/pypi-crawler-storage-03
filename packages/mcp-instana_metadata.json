@@ -1,0 +1,11 @@
+{
+  "name": "mcp-instana",
+  "version": "0.1.1",
+  "summary": "MCP server for Instana",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mcp_instana-0.1.1.tar.gz",
+  "download_time": "2025-08-18T06:32:57.712831",
+  "package_url": "https://pypi.org/project/mcp-instana/"
+}

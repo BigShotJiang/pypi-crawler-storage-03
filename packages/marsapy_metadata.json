@@ -1,0 +1,11 @@
+{
+  "name": "marsapy",
+  "version": "0.1.0",
+  "summary": "MARSA (Multiple-Aspect Rule-Based Sentiment Annotator) is a lightweight assistant for aspect-sentiment pair extraction and correction.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marsapy-0.1.0.tar.gz",
+  "download_time": "2025-08-18T06:33:14.981442",
+  "package_url": "https://pypi.org/project/marsapy/"
+}

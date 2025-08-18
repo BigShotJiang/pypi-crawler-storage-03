@@ -1,0 +1,11 @@
+{
+  "name": "ez-zarr",
+  "version": "0.4.1",
+  "summary": "Give easy, high-level access to ome-zarr filesets.",
+  "author": "Silvia Barbiero, Charlotte Soneson, Michael Stadler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ez_zarr-0.4.1-py3-none-any.whl",
+  "download_time": "2025-08-18T06:33:05.062307",
+  "package_url": "https://pypi.org/project/ez-zarr/"
+}
