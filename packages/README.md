@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T21:51:54.042997
-- **Total Packages**: 84
-- **Total Size**: 21.93 MB
+- **Download Time**: 2025-08-18T22:17:33.283482
+- **Total Packages**: 78
+- **Total Size**: 15.21 MB
 
 ## Packages List
+- hf-xet
+- numerai-tools
+- neurograd
+- pulumi-eks
+- anyscale
+- slurm-factory
+- llm_batch_helper
+- openai
+- kaqing
+- witticism
+- toronto-open-data
+- mdfile
+- fastworkflow
+- botblend
+- eval-protocol
+- pigeon-tem-comms
+- SuPyMode
+- determine-slice-assignment-action
+- arpakitlib
+- xsection
+- google-ads-mcp-bratrax
+- binsync
 - throttlebuster
 - oss-lifecycle
 - snowflake-snowpark-python
@@ -15,13 +37,11 @@
 - cooppush
 - idtap
 - unique_stock_ticker
-- kaqing
 - prescient-ibex
 - pybirdsreynolds
 - keywordsai-sdk
 - bochord
 - pysme-astro
-- hf-xet
 - microsoft-agents-storage-cosmos
 - microsoft-agents-storage-blob
 - microsoft-agents-hosting-teams
@@ -30,15 +50,12 @@
 - microsoft-agents-copilotstudio-client
 - microsoft-agents-authentication-msal
 - microsoft-agents-activity
-- xsection
 - circadian
 - shps
-- arpakitlib
 - pitchmeld
 - handsonmachinelearn
 - emmet-api
 - emmet-builders
-- numerai-tools
 - emmet-core
 - expandingnet
 - datahold
@@ -67,26 +84,3 @@
 - nvidia-nat-zep-cloud
 - nvidia-nat-mem0ai
 - nvidia-nat-test
-- earthengine-api
-- kittycad
-- HoloWave
-- ai-pipeline-core
-- nvidia-nat-s3
-- abstra
-- mcp-ambari-api
-- nvidia-nat-llama-index
-- nvidia-nat-mysql
-- nvidia-nat-weave
-- yandex-iomy-pydl-core
-- geo-explorer
-- warn-transformer
-- nvidia-nat-langchain
-- p2v-compiler
-- bugseq-client
-- mcp-airflow-api
-- nvidia-nat
-- shoeboxpy
-- nvidia-nat-agno
-- nvidia-nat-ragaai
-- confluent-kafka
-- glgrpa
