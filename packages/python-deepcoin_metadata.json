@@ -1,0 +1,11 @@
+{
+  "name": "python-deepcoin",
+  "version": "0.2.1",
+  "summary": "Unofficial Python wrapper for the DeepCoin API (REST + WebSocket)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_deepcoin-0.2.1.tar.gz",
+  "download_time": "2025-08-18T07:01:13.549528",
+  "package_url": "https://pypi.org/project/python-deepcoin/"
+}

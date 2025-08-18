@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-oidc-pkce",
+  "version": "0.4.1",
+  "summary": "CKAN OIDC authenticator with PKCE flow",
+  "author": null,
+  "license": "AGPL",
+  "home_page": null,
+  "download_filename": "ckanext_oidc_pkce-0.4.1.tar.gz",
+  "download_time": "2025-08-18T07:01:39.154804",
+  "package_url": "https://pypi.org/project/ckanext-oidc-pkce/"
+}

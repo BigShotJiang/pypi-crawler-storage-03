@@ -1,0 +1,11 @@
+{
+  "name": "tools-pydantic",
+  "version": "0.2.0",
+  "summary": "Pydantic-powered tools for building reliable, type-safe AI agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tools_pydantic-0.2.0.tar.gz",
+  "download_time": "2025-08-18T07:01:06.248650",
+  "package_url": "https://pypi.org/project/tools-pydantic/"
+}

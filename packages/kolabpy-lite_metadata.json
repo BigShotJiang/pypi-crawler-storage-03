@@ -1,0 +1,11 @@
+{
+  "name": "kolabpy-lite",
+  "version": "0.0.0.12",
+  "summary": "kolabpy-lite is a streamlined version of kolabpy.",
+  "author": "Kyungdong Kim",
+  "license": "MIT",
+  "home_page": "https://sites.google.com/view/kdkim/welcome",
+  "download_filename": "kolabpy_lite-0.0.0.12-py3-none-any.whl",
+  "download_time": "2025-08-18T07:01:39.676126",
+  "package_url": "https://pypi.org/project/kolabpy-lite/"
+}

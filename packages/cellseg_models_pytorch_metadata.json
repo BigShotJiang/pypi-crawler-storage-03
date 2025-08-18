@@ -1,0 +1,11 @@
+{
+  "name": "cellseg_models_pytorch",
+  "version": "0.1.28",
+  "summary": "Python library for 2D cell/nuclei instance segmentation models written with PyTorch.",
+  "author": "Okunator",
+  "license": "MIT",
+  "home_page": "https://github.com/okunator/cellseg_models.pytorch",
+  "download_filename": "cellseg_models_pytorch-0.1.28.tar.gz",
+  "download_time": "2025-08-18T07:01:21.464880",
+  "package_url": "https://pypi.org/project/cellseg_models_pytorch/"
+}
