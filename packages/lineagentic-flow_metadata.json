@@ -1,11 +1,11 @@
 {
   "name": "lineagentic-flow",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Lineagentic-flow is agentic ai approach for building data lineage across diverse data processing scripts including python, sql, java, airflow, spark, etc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lineagentic_flow-0.1.0.tar.gz",
-  "download_time": "2025-08-18T15:45:19.107370",
+  "download_filename": "lineagentic_flow-0.1.2.tar.gz",
+  "download_time": "2025-08-18T15:57:16.086806",
   "package_url": "https://pypi.org/project/lineagentic-flow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kwik",
+  "version": "0.1.1",
+  "summary": "Kwik is a web framework for building modern, batteries-included, RESTful backends with Python 3.10+. Kwik is based on FastAPI, builds upon it and delivers an opinionated concise, business-oriented API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kwik-0.1.1.tar.gz",
+  "download_time": "2025-08-18T15:57:33.977102",
+  "package_url": "https://pypi.org/project/kwik/"
+}

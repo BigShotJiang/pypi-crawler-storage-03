@@ -1,0 +1,11 @@
+{
+  "name": "auto-garch",
+  "version": "0.1.0a0",
+  "summary": "Regime-aware volatility modeling with automatic GARCH fitting",
+  "author": "Noah Woltman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auto_garch-0.1.0a0.tar.gz",
+  "download_time": "2025-08-18T15:57:34.617633",
+  "package_url": "https://pypi.org/project/auto-garch/"
+}

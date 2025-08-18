@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1!1.2.3",
+  "summary": "Call and interop Node.js APIs with Python",
+  "author": "extremeheat",
+  "license": null,
+  "home_page": "https://github.com/extremeheat/JSPyBridge",
+  "download_filename": "javascript-1!1.2.3.tar.gz",
+  "download_time": "2025-08-18T15:57:09.028939",
+  "package_url": "https://pypi.org/project/javascript/"
+}

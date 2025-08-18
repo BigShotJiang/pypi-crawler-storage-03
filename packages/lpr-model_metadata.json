@@ -1,11 +1,11 @@
 {
   "name": "lpr-model",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "A custom LPR model for lipid-binding Protein prediction",
   "author": "FeitongDong",
   "license": "MIT",
   "home_page": "https://huggingface.co/Noora68/lpr-0.4B",
-  "download_filename": "lpr_model-0.1.0.tar.gz",
-  "download_time": "2025-08-18T15:45:22.682182",
+  "download_filename": "lpr_model-1.0.0.tar.gz",
+  "download_time": "2025-08-18T15:57:17.941056",
   "package_url": "https://pypi.org/project/lpr-model/"
 }

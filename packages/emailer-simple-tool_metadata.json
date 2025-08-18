@@ -1,11 +1,11 @@
 {
   "name": "emailer-simple-tool",
-  "version": "10.0.6",
+  "version": "10.0.7",
   "summary": "A personalized email campaign management tool",
   "author": "INAO Team",
   "license": "MIT",
   "home_page": "https://github.com/delhomaws/emailer-simple-tool",
-  "download_filename": "emailer_simple_tool-10.0.6-py3-none-any.whl",
-  "download_time": "2025-08-18T09:47:38.416948",
+  "download_filename": "emailer_simple_tool-10.0.7.tar.gz",
+  "download_time": "2025-08-18T15:57:19.858545",
   "package_url": "https://pypi.org/project/emailer-simple-tool/"
 }

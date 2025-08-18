@@ -1,11 +1,11 @@
 {
   "name": "bondzai.idetect40-interface",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Bondzai iDetect 4.0 interface",
   "author": "Bondzai",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "bondzai.idetect40-interface-0.1.8.tar.gz",
-  "download_time": "2025-08-18T14:47:37.343417",
+  "download_filename": "bondzai.idetect40-interface-0.1.9.tar.gz",
+  "download_time": "2025-08-18T15:57:25.161375",
   "package_url": "https://pypi.org/project/bondzai.idetect40-interface/"
 }
