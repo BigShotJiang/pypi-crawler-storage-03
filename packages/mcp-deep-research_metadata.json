@@ -1,11 +1,11 @@
 {
   "name": "mcp-deep-research",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "An MCP (Model-Context-Protocol) Server for Deep Academic Research",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_deep_research-0.1.3.tar.gz",
-  "download_time": "2025-08-18T07:34:41.671958",
+  "download_filename": "mcp_deep_research-0.1.4.tar.gz",
+  "download_time": "2025-08-18T09:47:51.972282",
   "package_url": "https://pypi.org/project/mcp-deep-research/"
 }

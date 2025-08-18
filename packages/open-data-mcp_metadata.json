@@ -1,0 +1,11 @@
+{
+  "name": "open-data-mcp",
+  "version": "0.1.9",
+  "summary": "Korean Public Data MCP. Query, analyze and report government datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_data_mcp-0.1.9.tar.gz",
+  "download_time": "2025-08-18T09:47:48.297538",
+  "package_url": "https://pypi.org/project/open-data-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-cairn_xml",
+  "version": "0.5.74",
+  "summary": "Cairn.info XML converter.",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyconverters_cairn_xml/",
+  "download_filename": "pyconverters_cairn_xml-0.5.74.tar.gz",
+  "download_time": "2025-08-18T09:47:37.391750",
+  "package_url": "https://pypi.org/project/pyconverters-cairn_xml/"
+}

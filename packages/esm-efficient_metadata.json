@@ -1,0 +1,11 @@
+{
+  "name": "esm-efficient",
+  "version": "0.0.9",
+  "summary": "Efficient Evolutionary Scale Modeling: Efficient and simplified implementation of protein language model for inference and training.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/uci-cbcl/esm-efficient",
+  "download_filename": "esm_efficient-0.0.9.tar.gz",
+  "download_time": "2025-08-18T09:48:02.937631",
+  "package_url": "https://pypi.org/project/esm-efficient/"
+}
