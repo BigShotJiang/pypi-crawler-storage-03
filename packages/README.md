@@ -1,25 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T23:40:01.680698
-- **Total Packages**: 72
-- **Total Size**: 13.9 MB
+- **Download Time**: 2025-08-18T23:51:26.913641
+- **Total Packages**: 65
+- **Total Size**: 21.0 MB
 
 ## Packages List
+- phoenix6
+- statsig-python-core
+- moskit-cli
+- ivybloom
+- toshi-hazard-store
+- airbyte-source-faker
+- numpy-typing-compat
+- PyQrackIsing
+- datarepr
+- khoj
+- photo-objects
+- ui-server
+- tagmania
+- eegdash
+- trendsagi
+- senselab
+- check-config
+- cdk-factory
+- hf-model-tool
+- hyrax
+- cached-requests
+- accessvis
+- pygdsm
+- google-genai
+- fused
+- automation-logging
+- zlang
 - tobiko-cloud-helpers
 - tobiko-cloud-pydantic
 - tobiko-cloud-api-client
 - factorial2kr
 - kwparse
 - yt-dlp
-- airbyte-source-faker
 - flash-select
-- moskit-cli
 - binsync
 - nv-ingest-client
 - osym
 - thagomizer
-- zlang
 - tt-burnin
 - dagster-sqlmesh
 - HoloTTS
@@ -28,7 +52,6 @@
 - nominal-api
 - codegen
 - gradnorm-pytorch
-- accessvis
 - osbot-fast-api-serverless
 - dana
 - preparse
@@ -48,33 +71,3 @@
 - posthoganalytics
 - posthog
 - wat
-- cirq-core
-- cirq-web
-- victordb
-- cirq-pasqal
-- cirq-ionq
-- cirq-google
-- cirq-aqt
-- cirq
-- google-cloud-aiplatform
-- emmet-api
-- flwr-nightly
-- emmet-builders
-- streamlit-aggrid
-- emmet-core
-- cfncli
-- urarovite
-- linqs-pacai
-- scription
-- fastworkflow
-- kerykeion
-- sccb
-- mcp-airflow-api
-- azure-openai-limits
-- semgrep-mcp
-- osbot-fast-api
-- lionagi
-- vidavis
-- telethon-utils
-- SuPyMode
-- pypomes-sob
