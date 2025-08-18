@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-sdk-td",
+  "version": "0.1.0",
+  "summary": "Python SDK cho GraphRAG (chat + upload data)",
+  "author": "tungdao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "graphrag_sdk_td-0.1.0.tar.gz",
+  "download_time": "2025-08-18T08:29:17.642850",
+  "package_url": "https://pypi.org/project/graphrag-sdk-td/"
+}

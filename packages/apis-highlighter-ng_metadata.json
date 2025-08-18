@@ -1,0 +1,11 @@
+{
+  "name": "apis-highlighter-ng",
+  "version": "0.6.2",
+  "summary": "Highlighter for the APIS project",
+  "author": "Birger Schacht",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apis_highlighter_ng-0.6.2.tar.gz",
+  "download_time": "2025-08-18T08:29:14.985768",
+  "package_url": "https://pypi.org/project/apis-highlighter-ng/"
+}

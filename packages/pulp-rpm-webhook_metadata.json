@@ -1,0 +1,11 @@
+{
+  "name": "pulp-rpm-webhook",
+  "version": "0.1.0",
+  "summary": "Pulp plugin to trigger webhooks on RPM package uploads",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pulp_rpm_webhook-0.1.0.tar.gz",
+  "download_time": "2025-08-18T08:29:20.933734",
+  "package_url": "https://pypi.org/project/pulp-rpm-webhook/"
+}

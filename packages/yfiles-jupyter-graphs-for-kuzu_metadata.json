@@ -1,0 +1,11 @@
+{
+  "name": "yfiles-jupyter-graphs-for-kuzu",
+  "version": "1.1.1",
+  "summary": "A Kuzu graph visualization package that uses the yfiles-jupyter-graphs widget",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yfiles_jupyter_graphs_for_kuzu-1.1.1.tar.gz",
+  "download_time": "2025-08-18T08:29:30.970499",
+  "package_url": "https://pypi.org/project/yfiles-jupyter-graphs-for-kuzu/"
+}

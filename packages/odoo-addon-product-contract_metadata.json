@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-product-contract",
-  "version": "18.0.1.0.3",
+  "version": "18.0.1.1.0",
   "summary": "Recurring - Product Contract",
   "author": "LasLabs, ACSONE SA/NV, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/contract",
-  "download_filename": "odoo_addon_product_contract-18.0.1.0.3-py3-none-any.whl",
-  "download_time": "2025-08-18T07:01:37.597685",
+  "download_filename": "odoo_addon_product_contract-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-18T08:29:20.371637",
   "package_url": "https://pypi.org/project/odoo-addon-product-contract/"
 }

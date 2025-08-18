@@ -1,0 +1,11 @@
+{
+  "name": "watchinotify",
+  "version": "0.1.0",
+  "summary": "Simple and powerfull file watcher using libc's inotify",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "watchinotify-0.1.0.tar.gz",
+  "download_time": "2025-08-18T08:29:12.857338",
+  "package_url": "https://pypi.org/project/watchinotify/"
+}
