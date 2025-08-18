@@ -1,0 +1,11 @@
+{
+  "name": "indic-numtowords",
+  "version": "1.1.0",
+  "summary": "A module to convert numbers to words for Indian languages and English.",
+  "author": "AI4Bhārat",
+  "license": "MIT",
+  "home_page": "https://github.com/AI4Bharat/indic-numtowords",
+  "download_filename": "indic_numtowords-1.1.0.tar.gz",
+  "download_time": "2025-08-18T12:42:17.654939",
+  "package_url": "https://pypi.org/project/indic-numtowords/"
+}

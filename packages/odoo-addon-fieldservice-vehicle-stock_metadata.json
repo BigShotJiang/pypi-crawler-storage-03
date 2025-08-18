@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-vehicle-stock",
+  "version": "15.0.1.0.0.3",
+  "summary": "Track inventory of Field Service vehicles",
+  "author": "Open Source Integrators, Brian McMaster, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_vehicle_stock-15.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-08-18T12:42:25.417510",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-vehicle-stock/"
+}

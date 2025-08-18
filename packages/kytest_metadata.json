@@ -1,0 +1,11 @@
+{
+  "name": "kytest",
+  "version": "0.2.12",
+  "summary": "API/安卓/IOS/WEB/鸿蒙Next平台自动化测试框架",
+  "author": "杨康",
+  "license": null,
+  "home_page": "https://gitee.com/bluepang2021/ktest_project",
+  "download_filename": "kytest-0.2.12.tar.gz",
+  "download_time": "2025-08-18T12:42:13.527717",
+  "package_url": "https://pypi.org/project/kytest/"
+}

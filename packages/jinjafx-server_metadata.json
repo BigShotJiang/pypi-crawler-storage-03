@@ -1,0 +1,11 @@
+{
+  "name": "jinjafx-server",
+  "version": "25.8.0",
+  "summary": "JinjaFx Server - Jinja2 Templating Tool",
+  "author": "Chris Mason",
+  "license": "MIT",
+  "home_page": "https://github.com/cmason3/jinjafx_server",
+  "download_filename": "jinjafx_server-25.8.0.tar.gz",
+  "download_time": "2025-08-18T12:42:05.765649",
+  "package_url": "https://pypi.org/project/jinjafx-server/"
+}

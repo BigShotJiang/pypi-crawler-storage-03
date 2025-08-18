@@ -1,0 +1,11 @@
+{
+  "name": "aws-public-endpoints",
+  "version": "1.3.0",
+  "summary": "AWS Public Endpoints Scanner MCP Server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_public_endpoints-1.3.0.tar.gz",
+  "download_time": "2025-08-18T12:41:52.262060",
+  "package_url": "https://pypi.org/project/aws-public-endpoints/"
+}

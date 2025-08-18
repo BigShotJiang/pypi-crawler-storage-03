@@ -1,0 +1,11 @@
+{
+  "name": "planemo",
+  "version": "0.75.32",
+  "summary": "Command-line utilities to assist in building tools for the Galaxy project (http://galaxyproject.org/).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "planemo-0.75.32.tar.gz",
+  "download_time": "2025-08-18T12:42:03.203635",
+  "package_url": "https://pypi.org/project/planemo/"
+}
