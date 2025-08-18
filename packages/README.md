@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T21:40:02.409266
-- **Total Packages**: 82
-- **Total Size**: 36.08 MB
+- **Download Time**: 2025-08-18T21:51:54.042997
+- **Total Packages**: 84
+- **Total Size**: 21.93 MB
 
 ## Packages List
+- throttlebuster
+- oss-lifecycle
+- snowflake-snowpark-python
+- bbot
+- cdk-factory
+- libbs
+- cooppush
+- idtap
+- unique_stock_ticker
+- kaqing
+- prescient-ibex
+- pybirdsreynolds
+- keywordsai-sdk
+- bochord
+- pysme-astro
+- hf-xet
+- microsoft-agents-storage-cosmos
+- microsoft-agents-storage-blob
+- microsoft-agents-hosting-teams
+- microsoft-agents-hosting-core
+- microsoft-agents-hosting-aiohttp
+- microsoft-agents-copilotstudio-client
+- microsoft-agents-authentication-msal
+- microsoft-agents-activity
+- xsection
+- circadian
+- shps
+- arpakitlib
+- pitchmeld
 - handsonmachinelearn
 - emmet-api
 - emmet-builders
@@ -36,7 +65,6 @@
 - nvidia-nat-crewai
 - nvidia-nat-redis
 - nvidia-nat-zep-cloud
-- arpakitlib
 - nvidia-nat-mem0ai
 - nvidia-nat-test
 - earthengine-api
@@ -59,32 +87,6 @@
 - nvidia-nat
 - shoeboxpy
 - nvidia-nat-agno
-- idtap
 - nvidia-nat-ragaai
 - confluent-kafka
 - glgrpa
-- oss-lifecycle
-- nvidia-nat-opentelemetry
-- PyQrackIsing
-- powermake
-- nvidia-nat-semantic-kernel
-- audiosnatch
-- nvidia-nat-phoenix
-- cdk-factory
-- nucypher
-- truss
-- canonical-interval
-- sdv-installer
-- sclogging
-- bafser
-- starhtml
-- ncalib
-- wokelo-docs
-- dayhoff-tools
-- pyspark-data-toolkit
-- annolab
-- cumulus-process
-- trulens
-- trulens-eval
-- trulens-providers-openai
-- trulens-providers-litellm

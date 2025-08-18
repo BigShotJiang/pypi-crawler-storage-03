@@ -1,11 +1,11 @@
 {
   "name": "pysme-astro",
-  "version": "0.6.4",
+  "version": "0.6.9",
   "summary": "Spectroscopy Made Easy",
   "author": "Mingjie Jian, Ansgar Wehrhahn, Jeff A. Valenti",
   "license": null,
-  "home_page": "https://github.com/MingjieJian/SME/",
-  "download_filename": "pysme_astro-0.6.4.tar.gz",
-  "download_time": "2025-08-17T20:20:56.874189",
+  "home_page": null,
+  "download_filename": "pysme_astro-0.6.9.tar.gz",
+  "download_time": "2025-08-18T21:51:16.942315",
   "package_url": "https://pypi.org/project/pysme-astro/"
 }
