@@ -1,0 +1,11 @@
+{
+  "name": "rust-ripser",
+  "version": "1.0.0",
+  "summary": "High-performance persistent homology computation in Rust with up to 1000x speedup",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rust_ripser-1.0.0.tar.gz",
+  "download_time": "2025-08-18T04:56:45.462066",
+  "package_url": "https://pypi.org/project/rust-ripser/"
+}

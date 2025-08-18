@@ -1,0 +1,11 @@
+{
+  "name": "pysleep",
+  "version": "0.1.6",
+  "summary": "A Python library for sleep pattern analysis and sleep metrics calculation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pysleep-0.1.6.tar.gz",
+  "download_time": "2025-08-18T04:56:53.775273",
+  "package_url": "https://pypi.org/project/pysleep/"
+}
