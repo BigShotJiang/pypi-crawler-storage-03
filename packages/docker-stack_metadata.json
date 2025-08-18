@@ -1,0 +1,11 @@
+{
+  "name": "docker-stack",
+  "version": "0.2.6",
+  "summary": "CLI for deploying and managing Docker stacks.",
+  "author": "Sudip Bhattarai",
+  "license": null,
+  "home_page": "https://github.com/mesudip/docker-stack",
+  "download_filename": "docker-stack-0.2.6.tar.gz",
+  "download_time": "2025-08-18T05:48:22.782984",
+  "package_url": "https://pypi.org/project/docker-stack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logic-lang",
+  "version": "0.1.0",
+  "summary": "A domain-specific language for defining soft logic constraints in medical imaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logic_lang-0.1.0.tar.gz",
+  "download_time": "2025-08-18T05:48:18.674891",
+  "package_url": "https://pypi.org/project/logic-lang/"
+}

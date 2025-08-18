@@ -1,0 +1,11 @@
+{
+  "name": "scilens",
+  "version": "0.4.8",
+  "summary": "A CesGensLaB framework for data collecting and deep analysis",
+  "author": "CesGensLaB",
+  "license": "Proprietary",
+  "home_page": "https://scilens.dev",
+  "download_filename": "scilens-0.4.8-py3-none-any.whl",
+  "download_time": "2025-08-18T05:48:12.448549",
+  "package_url": "https://pypi.org/project/scilens/"
+}
