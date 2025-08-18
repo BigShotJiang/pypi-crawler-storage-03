@@ -1,11 +1,11 @@
 {
   "name": "sturdy-stats-sdk",
-  "version": "1.0.47",
+  "version": "1.0.48",
   "summary": "SDK for the Sturdy Statistics API",
   "author": "Kian Ghodoussi",
   "license": null,
   "home_page": "https://sturdystatistics.com",
-  "download_filename": "sturdy_stats_sdk-1.0.47.tar.gz",
-  "download_time": "2025-08-18T21:18:16.020219",
+  "download_filename": "sturdy_stats_sdk-1.0.48.tar.gz",
+  "download_time": "2025-08-18T22:51:31.972220",
   "package_url": "https://pypi.org/project/sturdy-stats-sdk/"
 }

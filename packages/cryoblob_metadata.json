@@ -1,0 +1,11 @@
+{
+  "name": "cryoblob",
+  "version": "2025.8.2",
+  "summary": "Particle Picking of Cryo-EM Datasets",
+  "author": "Debangshu Mukherjee, Alexis N. Williams, Spenser R. Cox, Marshall T. McDonnell, Albina Y. Borisevich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryoblob-2025.8.2.tar.gz",
+  "download_time": "2025-08-18T22:51:34.089589",
+  "package_url": "https://pypi.org/project/cryoblob/"
+}

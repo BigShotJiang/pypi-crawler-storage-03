@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-18T22:42:15.364425
-- **Total Packages**: 81
-- **Total Size**: 26.99 MB
+- **Download Time**: 2025-08-18T22:52:05.319262
+- **Total Packages**: 80
+- **Total Size**: 27.11 MB
 
 ## Packages List
+- arpakitlib
+- pynxtools-apm
+- rss2socials
+- docassemble.demo
+- grimoirelab
+- FHIL-python-utils
+- batch-img
+- fraiseql
+- parsl
+- lionagi
+- logwatch-analyzer
+- py-near
+- agent-starter-pack
+- synthefy
+- sensory-data-client
+- oasm.rtmq2
+- glgrpa
+- sirmordred
+- wws-api
+- ifes-apt-tc-data-modeling
+- conviso-cli
+- sturdy-stats-sdk
+- slurm-factory
+- web-recruitment-sdk
+- cryoblob
+- h2ogpte
+- fuse-cli
+- lazynwb
+- ErisPulse
+- no-llm
+- Things3-MCP-server
+- PyNinja
+- kaqing
+- methodosintscan
+- ExploTest
+- aquiles-rag
+- streamlit-flowsheet
 - cxc-toolkit
 - wallapop-auto-adjust
 - pex
@@ -14,7 +51,6 @@
 - grimoire-elk
 - pywb
 - strix-agent
-- aquiles-rag
 - metaspector
 - ltbams
 - seqtok
@@ -24,7 +60,6 @@
 - Geminis
 - kittycad
 - numerai-tools
-- sensory-data-client
 - elyzo
 - handmark
 - code-puppy
@@ -51,39 +86,3 @@
 - mat-io
 - nef-pipelines
 - gpu-benchmark-tool
-- clarifai
-- webcomix
-- kode-kronical
-- cdk-factory
-- pbs-installer
-- streamfitter
-- codinsight
-- diversedata
-- lvsfunc
-- vllm-spyre
-- hf-xet
-- neurograd
-- pulumi-eks
-- anyscale
-- slurm-factory
-- llm_batch_helper
-- openai
-- kaqing
-- witticism
-- mdfile
-- fastworkflow
-- botblend
-- eval-protocol
-- pigeon-tem-comms
-- determine-slice-assignment-action
-- arpakitlib
-- xsection
-- binsync
-- throttlebuster
-- oss-lifecycle
-- snowflake-snowpark-python
-- bbot
-- libbs
-- cooppush
-- idtap
-- unique_stock_ticker

@@ -1,0 +1,11 @@
+{
+  "name": "no-llm",
+  "version": "0.1.14",
+  "summary": "Standard Interface for Large Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "no_llm-0.1.14.tar.gz",
+  "download_time": "2025-08-18T22:51:36.803783",
+  "package_url": "https://pypi.org/project/no-llm/"
+}
