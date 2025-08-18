@@ -1,0 +1,11 @@
+{
+  "name": "red-plex",
+  "version": "1.13.0",
+  "summary": "A CLI and web GUI tool for creating Plex collections from RED and OPS collages and bookmarks",
+  "author": "marceljungle",
+  "license": null,
+  "home_page": "https://github.com/marceljungle/red-plex",
+  "download_filename": "red_plex-1.13.0.tar.gz",
+  "download_time": "2025-08-18T19:39:49.350022",
+  "package_url": "https://pypi.org/project/red-plex/"
+}

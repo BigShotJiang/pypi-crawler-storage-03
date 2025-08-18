@@ -1,0 +1,11 @@
+{
+  "name": "cached-requests",
+  "version": "0.2.0",
+  "summary": "A Python library that provides a simple and effective caching layer for web requests.",
+  "author": "ThefCraft",
+  "license": null,
+  "home_page": "https://github.com/thefcraft/cached_requests",
+  "download_filename": "cached_requests-0.2.0.tar.gz",
+  "download_time": "2025-08-18T19:39:17.397460",
+  "package_url": "https://pypi.org/project/cached-requests/"
+}

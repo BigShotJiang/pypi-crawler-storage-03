@@ -1,11 +1,11 @@
 {
   "name": "emojify-python",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Import Python modules using emojis 🐍",
   "author": "Arpan Ghoshal",
   "license": "MIT",
   "home_page": "https://github.com/arpanghoshal/emojify-python",
-  "download_filename": "emojify_python-1.0.0.tar.gz",
-  "download_time": "2025-08-18T18:55:36.337380",
+  "download_filename": "emojify_python-1.1.1.tar.gz",
+  "download_time": "2025-08-18T19:39:27.918191",
   "package_url": "https://pypi.org/project/emojify-python/"
 }
