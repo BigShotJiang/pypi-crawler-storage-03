@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-08-18T19:39:55.551836",
+  "download_time": "2025-08-18T19:51:46.295272",
   "total_packages_downloaded": 82,
-  "total_size_mb": 33.27,
+  "total_size_mb": 0.66,
   "packages": [
+    "mcp-airflow-api",
+    "meshtastic",
+    "openapi2jsonschema2",
+    "rsadpy",
+    "kaqing",
+    "wslink",
     "Iris-Codec",
     "piwave",
     "hamplots",
@@ -26,7 +32,6 @@
     "pyDbs",
     "maos-cli",
     "navmcp",
-    "kaqing",
     "apache-airflow-providers-onehouse",
     "boto3",
     "awscli",
@@ -79,11 +84,6 @@
     "lotf",
     "kover",
     "dshellInterpreter",
-    "ares-datamodel",
-    "worker-automate-hub",
-    "scriptcraft-python",
-    "pexels-mcp-server",
-    "openwisp-radius",
-    "ethyca-fides"
+    "ares-datamodel"
   ]
 }

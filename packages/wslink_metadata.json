@@ -1,0 +1,11 @@
+{
+  "name": "wslink",
+  "version": "2.4.0",
+  "summary": "Python/JavaScript library for communicating over WebSocket",
+  "author": "Kitware, Inc.",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/kitware/wslink",
+  "download_filename": "wslink-2.4.0.tar.gz",
+  "download_time": "2025-08-18T19:51:02.106658",
+  "package_url": "https://pypi.org/project/wslink/"
+}
