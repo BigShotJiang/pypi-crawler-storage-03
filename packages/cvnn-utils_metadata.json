@@ -1,11 +1,11 @@
 {
   "name": "cvnn-utils",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A lightweight, principled toolkit for Complex-Valued Neural Networks in PyTorch.",
   "author": "KrisTHL181",
   "license": "MIT",
   "home_page": "https://github.com/KrisTHL181/cvnn-utils",
-  "download_filename": "cvnn_utils-0.1.8.tar.gz",
-  "download_time": "2025-08-18T15:45:20.133162",
+  "download_filename": "cvnn_utils-0.1.9.tar.gz",
+  "download_time": "2025-08-18T18:55:45.916381",
   "package_url": "https://pypi.org/project/cvnn-utils/"
 }

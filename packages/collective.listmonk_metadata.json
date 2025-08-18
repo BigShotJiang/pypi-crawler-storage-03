@@ -1,0 +1,11 @@
+{
+  "name": "collective.listmonk",
+  "version": "1.0.0",
+  "summary": "A Listmonk newsletter integration for Plone.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "collective_listmonk-1.0.0.tar.gz",
+  "download_time": "2025-08-18T18:55:51.186473",
+  "package_url": "https://pypi.org/project/collective.listmonk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cocon-client",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Async client for Televic CoCon conference API",
   "author": null,
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "cocon_client-0.2.1.tar.gz",
-  "download_time": "2025-08-18T17:20:03.244523",
+  "download_filename": "cocon_client-0.2.4.tar.gz",
+  "download_time": "2025-08-18T18:55:26.307559",
   "package_url": "https://pypi.org/project/cocon-client/"
 }

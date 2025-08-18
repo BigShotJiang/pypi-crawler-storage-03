@@ -1,0 +1,11 @@
+{
+  "name": "mwaa-env-var-plugin",
+  "version": "1.0.1",
+  "summary": "Environment variable plugin for MWAA",
+  "author": "Pavel Maslov",
+  "license": "MIT",
+  "home_page": "https://github.com/maslick/mwaa_env_var_plugin",
+  "download_filename": "mwaa_env_var_plugin-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-18T18:55:44.871760",
+  "package_url": "https://pypi.org/project/mwaa-env-var-plugin/"
+}
