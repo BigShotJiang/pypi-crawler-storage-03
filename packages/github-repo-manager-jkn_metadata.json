@@ -1,0 +1,11 @@
+{
+  "name": "github-repo-manager-jkn",
+  "version": "1.0.0",
+  "summary": "Un outil professionnel pour créer et gérer des dépôts GitHub",
+  "author": "Jonathan K-N",
+  "license": "MIT",
+  "home_page": "https://github.com/JonathanK-N/github-manager-pro",
+  "download_filename": "github_repo_manager_jkn-1.0.0.tar.gz",
+  "download_time": "2025-08-18T17:20:05.411803",
+  "package_url": "https://pypi.org/project/github-repo-manager-jkn/"
+}

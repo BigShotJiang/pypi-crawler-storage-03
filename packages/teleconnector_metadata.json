@@ -1,11 +1,11 @@
 {
   "name": "teleconnector",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Advanced Telegram Bot API Connector",
   "author": "MrFidal",
   "license": null,
   "home_page": "https://github.com/bytebreach/teleconnector",
-  "download_filename": "teleconnector-1.1.2.tar.gz",
-  "download_time": "2025-08-18T16:54:37.647571",
+  "download_filename": "teleconnector-1.1.3.tar.gz",
+  "download_time": "2025-08-18T17:20:21.276567",
   "package_url": "https://pypi.org/project/teleconnector/"
 }

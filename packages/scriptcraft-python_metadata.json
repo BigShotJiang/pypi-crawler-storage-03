@@ -1,11 +1,11 @@
 {
   "name": "scriptcraft-python",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "summary": "Data processing and quality control tools for research workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scriptcraft_python-1.5.7.tar.gz",
-  "download_time": "2025-08-18T16:54:05.168486",
+  "download_filename": "scriptcraft_python-1.5.8.tar.gz",
+  "download_time": "2025-08-18T17:19:43.674622",
   "package_url": "https://pypi.org/project/scriptcraft-python/"
 }

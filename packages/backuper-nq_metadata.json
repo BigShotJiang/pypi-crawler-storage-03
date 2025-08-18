@@ -1,0 +1,11 @@
+{
+  "name": "backuper-nq",
+  "version": "0.6.0",
+  "summary": "Backup tool with CI-like configuration",
+  "author": "niqzart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "backuper_nq-0.6.0.tar.gz",
+  "download_time": "2025-08-18T17:20:19.225585",
+  "package_url": "https://pypi.org/project/backuper-nq/"
+}
