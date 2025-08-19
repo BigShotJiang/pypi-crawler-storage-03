@@ -1,15 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T19:29:47.357439
-- **Total Packages**: 77
-- **Total Size**: 12.06 MB
+- **Download Time**: 2025-08-19T19:41:41.386932
+- **Total Packages**: 72
+- **Total Size**: 3.73 MB
 
 ## Packages List
+- arize-otel
+- cdk-factory
+- async-progressbar
+- fast-agent-mcp
+- kececinumbers
+- npcpy
+- durabletask
+- csvise
+- dashlab
+- PLD-subsampling
+- abstract-gui
+- FHIL-python-utils
+- codegen
+- xboxmadeeasy
+- cosmos-xenna
+- ursa-ai
+- steer-core
+- dadosic-zenlenium
+- traceAI-pipecat
+- openvancy
+- seam
+- elyzo
+- hostess
+- akshare-one
+- python-citybikes
+- tq42-grpc-client
+- django-bulk-hooks
+- ut-wdp
+- cdp-sdk
+- heaserver-folders-aws-s3
+- compressed-tensors
+- branch_storm
+- orca-sdk
+- mailchecker
+- Pydata-visualizer
 - kwik
 - modelswrkpi
-- steer-core
-- abstract-gui
 - nanoplot
 - kitcoda
 - neatlogs
@@ -24,14 +57,10 @@
 - sensory-data-client
 - dadosic-selenium
 - structregistry
-- dashlab
 - centra-sdk
 - writer-sdk
 - hape
-- codegen
 - cs-models
-- django-bulk-hooks
-- Pydata-visualizer
 - dxpy
 - scriptcraft-python
 - arize
@@ -41,7 +70,6 @@
 - HS-TasNet
 - videochef
 - python-terminusgps
-- kececinumbers
 - whisperlivekit
 - agemcp
 - dsjson
@@ -50,36 +78,3 @@
 - quantinuum-sphinx
 - coiled
 - quickinsights
-- pydroplet
-- arthur-client
-- vital
-- fes-calculator
-- find-executable
-- cmbagent
-- evoaug2
-- methodosintscan
-- ivybloom
-- agentcraft-db-client
-- pytour
-- gradio-client
-- lfx
-- odoo-addon-helpdesk-mgmt
-- mythologizer-postgres
-- catchery
-- cmbagent-autogen
-- outerbounds
-- ob-metaflow-stubs
-- rusty-tags
-- odoo-addon-stock-picking-batch-creation
-- odoo-addon-stock-split-picking
-- lemonade-sdk
-- duosubs
-- tttarena
-- fairlex
-- matrice
-- pepperize.projen-awscdk-app-ts
-- langflow-nightly
-- batch-img
-- ob-metaflow-extensions
-- fostrom
-- mseedlib
