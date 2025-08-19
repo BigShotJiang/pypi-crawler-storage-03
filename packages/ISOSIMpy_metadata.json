@@ -1,11 +1,11 @@
 {
   "name": "ISOSIMpy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Lumped parameter groundwater age simulations with a simple user interface - in Python",
   "author": "Max G. Rudolph",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "isosimpy-0.1.4.tar.gz",
-  "download_time": "2025-08-19T12:40:01.254775",
+  "download_filename": "isosimpy-0.1.5.tar.gz",
+  "download_time": "2025-08-19T13:47:30.200105",
   "package_url": "https://pypi.org/project/ISOSIMpy/"
 }

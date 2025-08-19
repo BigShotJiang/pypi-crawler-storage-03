@@ -1,0 +1,11 @@
+{
+  "name": "petrirl",
+  "version": "0.2.1",
+  "summary": "PetriRL : Advanced Scheduling with Petri Nets and Reinforcement Learning",
+  "author": "Sofiene Lassoued",
+  "license": null,
+  "home_page": "https://www.fh-swf.de/de/forschung___transfer_4/labore_3/labs/labor_fuer_automatisierungstechnik__soest_1/standardseite_57.php",
+  "download_filename": "petrirl-0.2.1-py3-none-any.whl",
+  "download_time": "2025-08-19T13:47:28.625068",
+  "package_url": "https://pypi.org/project/petrirl/"
+}

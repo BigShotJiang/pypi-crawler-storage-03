@@ -1,11 +1,11 @@
 {
   "name": "osintplus",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Outil de renseignement OSINT en ligne de commande, sans utiliser d'API",
   "author": "root10",
   "license": "MIT",
   "home_page": "https://github.com/hakersgenie/osintplus",
-  "download_filename": "osintplus-0.0.1.tar.gz",
-  "download_time": "2025-08-19T12:40:02.279129",
+  "download_filename": "osintplus-0.0.2.tar.gz",
+  "download_time": "2025-08-19T13:47:18.122141",
   "package_url": "https://pypi.org/project/osintplus/"
 }

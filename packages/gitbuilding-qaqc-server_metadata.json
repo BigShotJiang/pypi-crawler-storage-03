@@ -1,0 +1,11 @@
+{
+  "name": "gitbuilding-qaqc-server",
+  "version": "0.0.1",
+  "summary": "An experimental server for storing QA/QC data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitbuilding_qaqc_server-0.0.1.tar.gz",
+  "download_time": "2025-08-19T13:47:02.358535",
+  "package_url": "https://pypi.org/project/gitbuilding-qaqc-server/"
+}

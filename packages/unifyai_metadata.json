@@ -1,11 +1,11 @@
 {
   "name": "unifyai",
-  "version": "0.9.116",
+  "version": "0.9.117",
   "summary": "A Python package for interacting with the Unify API",
   "author": "Unify",
   "license": null,
   "home_page": "https://github.com/unifyai/unify",
-  "download_filename": "unifyai-0.9.116.tar.gz",
-  "download_time": "2025-08-18T17:45:14.560958",
+  "download_filename": "unifyai-0.9.117.tar.gz",
+  "download_time": "2025-08-19T13:47:04.478689",
   "package_url": "https://pypi.org/project/unifyai/"
 }

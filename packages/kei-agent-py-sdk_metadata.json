@@ -1,11 +1,11 @@
 {
   "name": "kei-agent-py-sdk",
-  "version": "0.1.0b4",
+  "version": "0.1.0b5",
   "summary": "Enterprise-Grade Python SDK for Keiko-Personal-Assistant Platform with Multi-Protocol Support and Comprehensive Documentation",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "kei_agent_py_sdk-0.1.0b4.tar.gz",
-  "download_time": "2025-08-18T10:48:32.474328",
+  "download_filename": "kei_agent_py_sdk-0.1.0b5.tar.gz",
+  "download_time": "2025-08-19T13:47:08.653190",
   "package_url": "https://pypi.org/project/kei-agent-py-sdk/"
 }
