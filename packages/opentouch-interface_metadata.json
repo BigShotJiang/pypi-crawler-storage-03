@@ -1,0 +1,11 @@
+{
+  "name": "opentouch-interface",
+  "version": "0.2.0",
+  "summary": "Interface to connect to touch sensors",
+  "author": "Roberto Calandra",
+  "license": null,
+  "home_page": "https://github.com/lasr-lab/opentouch-interface",
+  "download_filename": "opentouch_interface-0.2.0.tar.gz",
+  "download_time": "2025-08-19T17:17:59.744212",
+  "package_url": "https://pypi.org/project/opentouch-interface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TidalPy",
+  "version": "0.6.7",
+  "summary": "Tidal Dynamics and Thermal-Orbital Evolution Software Suite Implemented in Cython and Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tidalpy-0.6.7.tar.gz",
+  "download_time": "2025-08-19T17:18:00.306570",
+  "package_url": "https://pypi.org/project/TidalPy/"
+}

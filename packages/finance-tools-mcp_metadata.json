@@ -1,0 +1,11 @@
+{
+  "name": "finance-tools-mcp",
+  "version": "0.1.6",
+  "summary": "A Model Context Protocol server for a collection of financial tools, https://github.com/VoxLink-org/finance-tools-mcp, modified from [investor-agent](https://github.com/ferdousbhai/investor-agent)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "finance_tools_mcp-0.1.6.tar.gz",
+  "download_time": "2025-08-19T17:18:07.110540",
+  "package_url": "https://pypi.org/project/finance-tools-mcp/"
+}

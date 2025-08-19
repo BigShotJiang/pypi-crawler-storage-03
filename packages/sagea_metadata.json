@@ -1,0 +1,11 @@
+{
+  "name": "sagea",
+  "version": "0.2.2",
+  "summary": "satellite gravity post-processing and error assessment",
+  "author": "Shuhao Liu",
+  "license": "MIT",
+  "home_page": "https://github.com/LiuSH1997/sageaPyPI",
+  "download_filename": "sagea-0.2.2.tar.gz",
+  "download_time": "2025-08-19T17:17:43.277538",
+  "package_url": "https://pypi.org/project/sagea/"
+}

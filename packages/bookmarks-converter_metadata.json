@@ -1,0 +1,11 @@
+{
+  "name": "bookmarks-converter",
+  "version": "1.0.1",
+  "summary": "Convert browser bookmarks files.",
+  "author": "Adam Saleh",
+  "license": "MIT",
+  "home_page": "https://github.com/radam9/bookmarks-converter",
+  "download_filename": "bookmarks_converter-1.0.1.tar.gz",
+  "download_time": "2025-08-19T17:18:15.988090",
+  "package_url": "https://pypi.org/project/bookmarks-converter/"
+}

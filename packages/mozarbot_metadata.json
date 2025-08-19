@@ -1,0 +1,11 @@
+{
+  "name": "mozarbot",
+  "version": "0.1.8",
+  "summary": "SDK para automações do Mozarbot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mozarbot-0.1.8-py3-none-any.whl",
+  "download_time": "2025-08-19T17:18:16.514208",
+  "package_url": "https://pypi.org/project/mozarbot/"
+}

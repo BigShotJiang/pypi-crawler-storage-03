@@ -1,0 +1,11 @@
+{
+  "name": "flumes-ai",
+  "version": "0.2.3",
+  "summary": "Flumes – unified memory infrastructure SDK for AI agents (Python)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flumes_ai-0.2.3.tar.gz",
+  "download_time": "2025-08-19T17:17:58.702255",
+  "package_url": "https://pypi.org/project/flumes-ai/"
+}
