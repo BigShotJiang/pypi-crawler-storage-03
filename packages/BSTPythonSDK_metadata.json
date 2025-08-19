@@ -1,0 +1,11 @@
+{
+  "name": "BSTPythonSDK",
+  "version": "3.23.0.dev0",
+  "summary": "BST Flight Management SDK",
+  "author": "Black Swift Technologies",
+  "license": null,
+  "home_page": "https://github.com/bstaero/sdk",
+  "download_filename": "bstpythonsdk-3.23.0.dev0.tar.gz",
+  "download_time": "2025-08-19T01:27:52.342280",
+  "package_url": "https://pypi.org/project/BSTPythonSDK/"
+}

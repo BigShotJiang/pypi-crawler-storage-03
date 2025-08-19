@@ -1,0 +1,11 @@
+{
+  "name": "pt-checkin",
+  "version": "0.3.1",
+  "summary": "PT站点自动签到工具 - 升级版本，支持智能Cloudflare绕过和浏览器模拟",
+  "author": "wuyaos",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pt_checkin-0.3.1.tar.gz",
+  "download_time": "2025-08-19T01:27:50.795731",
+  "package_url": "https://pypi.org/project/pt-checkin/"
+}

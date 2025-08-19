@@ -1,0 +1,11 @@
+{
+  "name": "qaravan",
+  "version": "0.1.57",
+  "summary": "Unified classical simulation of noiseless and noisy quantum circuits",
+  "author": "Faisal Alam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qaravan-0.1.57.tar.gz",
+  "download_time": "2025-08-19T01:28:03.793882",
+  "package_url": "https://pypi.org/project/qaravan/"
+}

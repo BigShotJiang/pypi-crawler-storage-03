@@ -1,0 +1,11 @@
+{
+  "name": "pylibjpeg-openjpeg",
+  "version": "2.5.0",
+  "summary": "A Python wrapper for openjpeg, with a focus on use as a plugin for for pylibjpeg",
+  "author": "pylibjpeg-openjpeg contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/pydicom/pylibjpeg-openjpeg",
+  "download_filename": "pylibjpeg_openjpeg-2.5.0.tar.gz",
+  "download_time": "2025-08-19T01:27:53.380520",
+  "package_url": "https://pypi.org/project/pylibjpeg-openjpeg/"
+}

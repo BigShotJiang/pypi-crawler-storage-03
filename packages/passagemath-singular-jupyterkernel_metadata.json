@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-singular-jupyterkernel",
+  "version": "0.9.9.1",
+  "summary": "A Jupyter kernel for Singular (passagemath fork of jupyter_kernel_singular)",
+  "author": "Sebastian Gutsche",
+  "license": null,
+  "home_page": "https://github.com/passagemath/passagemath-singular-jupyterkernel",
+  "download_filename": "passagemath_singular_jupyterkernel-0.9.9.1.tar.gz",
+  "download_time": "2025-08-19T01:28:24.136380",
+  "package_url": "https://pypi.org/project/passagemath-singular-jupyterkernel/"
+}

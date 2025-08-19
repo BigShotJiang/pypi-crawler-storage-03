@@ -1,0 +1,11 @@
+{
+  "name": "entity-linker-client",
+  "version": "1.0.0",
+  "summary": "A Python client for the Entity Linker service - intelligent entity matching and linking",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entity_linker_client-1.0.0.tar.gz",
+  "download_time": "2025-08-19T01:27:52.854966",
+  "package_url": "https://pypi.org/project/entity-linker-client/"
+}

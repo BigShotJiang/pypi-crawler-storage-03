@@ -1,0 +1,11 @@
+{
+  "name": "PrEditor",
+  "version": "1.2.0",
+  "summary": "A python REPL and Editor and console based on Qt.",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "preditor-1.2.0.tar.gz",
+  "download_time": "2025-08-19T01:27:47.595753",
+  "package_url": "https://pypi.org/project/PrEditor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aws-cloud-utilities",
+  "version": "2.1.1",
+  "summary": "A unified command-line toolkit for AWS operations with enhanced functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aws_cloud_utilities-2.1.1.tar.gz",
+  "download_time": "2025-08-19T01:27:54.953155",
+  "package_url": "https://pypi.org/project/aws-cloud-utilities/"
+}

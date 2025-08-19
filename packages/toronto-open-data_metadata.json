@@ -1,11 +1,11 @@
 {
   "name": "toronto-open-data",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Python package for accessing Toronto Open Data Portal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toronto_open_data-0.2.0.tar.gz",
-  "download_time": "2025-08-18T22:16:53.686326",
+  "download_filename": "toronto_open_data-0.2.1.tar.gz",
+  "download_time": "2025-08-19T01:28:19.463853",
   "package_url": "https://pypi.org/project/toronto-open-data/"
 }

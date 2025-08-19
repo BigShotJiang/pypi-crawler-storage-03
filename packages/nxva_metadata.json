@@ -1,0 +1,11 @@
+{
+  "name": "nxva",
+  "version": "1.2.2",
+  "summary": "tools for video analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nxva-1.2.2.tar.gz",
+  "download_time": "2025-08-19T01:27:47.078016",
+  "package_url": "https://pypi.org/project/nxva/"
+}
