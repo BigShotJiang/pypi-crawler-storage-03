@@ -1,0 +1,11 @@
+{
+  "name": "jsl-lang",
+  "version": "0.2.0",
+  "summary": "JSL (JSON Serializable Language) - A Network-Native Functional Language.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jsl_lang-0.2.0.tar.gz",
+  "download_time": "2025-08-19T02:58:20.697423",
+  "package_url": "https://pypi.org/project/jsl-lang/"
+}

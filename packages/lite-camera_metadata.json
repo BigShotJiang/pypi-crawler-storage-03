@@ -1,0 +1,11 @@
+{
+  "name": "lite-camera",
+  "version": "2.0.6",
+  "summary": "LiteCam is a lightweight, cross-platform library for capturing RGB frames from cameras and displaying them. Designed with simplicity and ease of integration in mind, LiteCam supports Windows, Linux and macOS platforms.",
+  "author": "yushulx",
+  "license": "MIT",
+  "home_page": "https://github.com/yushulx/python-lite-camera",
+  "download_filename": "lite_camera-2.0.6.tar.gz",
+  "download_time": "2025-08-19T02:58:24.953903",
+  "package_url": "https://pypi.org/project/lite-camera/"
+}

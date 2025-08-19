@@ -1,0 +1,11 @@
+{
+  "name": "tuxbake",
+  "version": "1.0.0",
+  "summary": "Command line tool to build OpenEmbedded and Yocto images",
+  "author": "Vishal Bhoj",
+  "license": null,
+  "home_page": "https://tuxbake.org/",
+  "download_filename": "tuxbake-1.0.0.tar.gz",
+  "download_time": "2025-08-19T02:58:03.089210",
+  "package_url": "https://pypi.org/project/tuxbake/"
+}

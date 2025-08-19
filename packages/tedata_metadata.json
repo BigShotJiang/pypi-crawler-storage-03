@@ -1,0 +1,11 @@
+{
+  "name": "tedata",
+  "version": "0.3.53",
+  "summary": "Download data from Trading Economics for free and without any account or API key. Uses selenium, javascript & bs4 to scrape data. Trading Economics is one of the greatest stores of economic data on the web and contains millions of time-series for hundreds of different countries.",
+  "author": "the_macro_bootlegger",
+  "license": "MIT",
+  "home_page": "https://github.com/HelloThereMatey/tedata",
+  "download_filename": "tedata-0.3.53.tar.gz",
+  "download_time": "2025-08-19T02:57:48.586997",
+  "package_url": "https://pypi.org/project/tedata/"
+}

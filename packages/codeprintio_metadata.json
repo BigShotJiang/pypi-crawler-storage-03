@@ -1,11 +1,11 @@
 {
   "name": "codeprintio",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A powerful cross-platform tool for creating AI-ready project snapshots",
-  "author": "Tanayk07",
+  "author": "Tanay Kedia",
   "license": "MIT",
   "home_page": "https://github.com/Tanayk07/codeprint",
-  "download_filename": "codeprintio-1.0.0.tar.gz",
-  "download_time": "2025-08-17T16:22:20.477592",
+  "download_filename": "codeprintio-1.0.2.tar.gz",
+  "download_time": "2025-08-19T02:58:14.431897",
   "package_url": "https://pypi.org/project/codeprintio/"
 }

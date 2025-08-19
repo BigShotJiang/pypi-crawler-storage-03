@@ -1,11 +1,11 @@
 {
   "name": "npcsh",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "npcsh is a command-line toolkit for using AI agents in novel ways.",
   "author": "Christopher Agostino",
   "license": null,
   "home_page": "https://github.com/NPC-Worldwide/npcsh",
-  "download_filename": "npcsh-1.0.13.tar.gz",
-  "download_time": "2025-08-18T04:57:13.082489",
+  "download_filename": "npcsh-1.0.14.tar.gz",
+  "download_time": "2025-08-19T02:58:00.491188",
   "package_url": "https://pypi.org/project/npcsh/"
 }

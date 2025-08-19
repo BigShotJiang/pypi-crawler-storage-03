@@ -1,0 +1,11 @@
+{
+  "name": "jeanmemory",
+  "version": "1.9.1",
+  "summary": "Python SDK for Jean Memory - Add long-term memory to your Python agents and backend services",
+  "author": "Jean Memory",
+  "license": null,
+  "home_page": "https://github.com/jean-technologies/jean-memory",
+  "download_filename": "jeanmemory-1.9.1.tar.gz",
+  "download_time": "2025-08-19T02:58:19.669349",
+  "package_url": "https://pypi.org/project/jeanmemory/"
+}
