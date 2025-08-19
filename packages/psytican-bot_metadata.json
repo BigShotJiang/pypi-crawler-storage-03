@@ -1,0 +1,11 @@
+{
+  "name": "psytican-bot",
+  "version": "0.3.5",
+  "summary": "Psytican Helper bot",
+  "author": "Igor I Shatunov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "psytican_bot-0.3.5.tar.gz",
+  "download_time": "2025-08-19T11:17:02.574347",
+  "package_url": "https://pypi.org/project/psytican-bot/"
+}

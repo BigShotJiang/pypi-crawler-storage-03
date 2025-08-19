@@ -1,0 +1,11 @@
+{
+  "name": "dokanalyse",
+  "version": "0.0.13",
+  "summary": "Arealanalyse av DOK-datasett",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dokanalyse-0.0.13.tar.gz",
+  "download_time": "2025-08-19T11:17:03.144037",
+  "package_url": "https://pypi.org/project/dokanalyse/"
+}

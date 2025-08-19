@@ -1,0 +1,11 @@
+{
+  "name": "lightworks",
+  "version": "2.2.6",
+  "summary": "Open-source Python SDK for photonic quantum computation.",
+  "author": "Aegiq Ltd.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Aegiq/lightworks",
+  "download_filename": "lightworks-2.2.6.tar.gz",
+  "download_time": "2025-08-19T11:16:31.954278",
+  "package_url": "https://pypi.org/project/lightworks/"
+}

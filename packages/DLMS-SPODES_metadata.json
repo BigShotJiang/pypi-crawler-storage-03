@@ -1,11 +1,11 @@
 {
   "name": "DLMS-SPODES",
-  "version": "0.86.13",
+  "version": "0.86.14",
   "summary": "dlms-spodes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dlms_spodes-0.86.13.tar.gz",
-  "download_time": "2025-08-19T09:21:40.320835",
+  "download_filename": "dlms_spodes-0.86.14.tar.gz",
+  "download_time": "2025-08-19T11:17:02.004324",
   "package_url": "https://pypi.org/project/DLMS-SPODES/"
 }

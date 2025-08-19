@@ -1,11 +1,11 @@
 {
   "name": "google-ads-mcp-bratrax",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Google Ads API integration for Model Context Protocol (MCP) with refresh token authentication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "google_ads_mcp_bratrax-1.0.4.tar.gz",
-  "download_time": "2025-08-19T10:56:04.103610",
+  "download_filename": "google_ads_mcp_bratrax-1.0.5.tar.gz",
+  "download_time": "2025-08-19T11:16:50.557373",
   "package_url": "https://pypi.org/project/google-ads-mcp-bratrax/"
 }

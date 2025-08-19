@@ -1,0 +1,11 @@
+{
+  "name": "pylendar",
+  "version": "0.3.0",
+  "summary": "Python port of the calendar reminder utility commonly found on BSD-style systems, which displays upcoming relevant dates.",
+  "author": "Fredrik Mellström",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylendar-0.3.0.tar.gz",
+  "download_time": "2025-08-19T11:16:57.427478",
+  "package_url": "https://pypi.org/project/pylendar/"
+}

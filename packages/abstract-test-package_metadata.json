@@ -1,11 +1,11 @@
 {
   "name": "abstract-test-package",
-  "version": "0.0.30",
+  "version": "0.0.50",
   "summary": "abstract_test_package is a Python package that facilitates testing with abstract scenarios. Utilizing PyTest, it offers extra utilities to streamline the creation and execution of abstract tests.",
   "author": "putkoff",
   "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_test_package",
-  "download_filename": "abstract_test_package-0.0.30.tar.gz",
-  "download_time": "2025-08-19T10:56:08.657114",
+  "download_filename": "abstract_test_package-0.0.50.tar.gz",
+  "download_time": "2025-08-19T11:16:34.191275",
   "package_url": "https://pypi.org/project/abstract-test-package/"
 }
