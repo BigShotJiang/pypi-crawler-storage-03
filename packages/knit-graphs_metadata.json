@@ -1,0 +1,11 @@
+{
+  "name": "knit-graphs",
+  "version": "0.0.8",
+  "summary": "A graph representation of knitted structures where each loop is a node and edges represent yarn and stitch relationships.",
+  "author": "Megan Hofmann",
+  "license": "MIT",
+  "home_page": "https://mhofmann-Khoury.github.io/knit-graphs/",
+  "download_filename": "knit_graphs-0.0.8.tar.gz",
+  "download_time": "2025-08-19T15:21:29.004391",
+  "package_url": "https://pypi.org/project/knit-graphs/"
+}

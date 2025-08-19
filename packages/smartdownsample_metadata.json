@@ -1,11 +1,11 @@
 {
   "name": "smartdownsample",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Smart image downsampling for image classification datasets",
   "author": "peteraddax",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartdownsample-0.1.1.tar.gz",
-  "download_time": "2025-08-19T14:56:20.398020",
+  "download_filename": "smartdownsample-0.1.2.tar.gz",
+  "download_time": "2025-08-19T15:22:16.193762",
   "package_url": "https://pypi.org/project/smartdownsample/"
 }

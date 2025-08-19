@@ -1,11 +1,11 @@
 {
   "name": "syntrix",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Syntrix-Base: CPU-first ML framework with tiny models and deterministic training",
   "author": "Adrian Paredez",
-  "license": "MIT with Commons Clause (non-commercial)",
+  "license": null,
   "home_page": null,
-  "download_filename": "syntrix-0.3.0.tar.gz",
-  "download_time": "2025-08-19T14:56:13.157317",
+  "download_filename": "syntrix-0.3.1.tar.gz",
+  "download_time": "2025-08-19T15:22:05.057086",
   "package_url": "https://pypi.org/project/syntrix/"
 }

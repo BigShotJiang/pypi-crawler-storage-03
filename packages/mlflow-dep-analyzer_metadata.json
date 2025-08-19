@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-dep-analyzer",
+  "version": "0.9.0",
+  "summary": "Smart dependency analysis and minimal requirements generation for MLflow models",
+  "author": "Andrew Gross",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlflow_dep_analyzer-0.9.0.tar.gz",
+  "download_time": "2025-08-19T15:21:41.133140",
+  "package_url": "https://pypi.org/project/mlflow-dep-analyzer/"
+}
