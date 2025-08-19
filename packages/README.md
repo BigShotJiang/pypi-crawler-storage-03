@@ -1,18 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T14:45:57.699228
-- **Total Packages**: 92
-- **Total Size**: 25.09 MB
+- **Download Time**: 2025-08-19T14:57:07.344476
+- **Total Packages**: 90
+- **Total Size**: 37.29 MB
 
 ## Packages List
+- syntrix
+- fastapi-fsp
+- phidown
+- kloppy
+- lht
+- nemesis-eleos
+- libflowcam
+- gravy
+- SuPyMode
+- sarvamai
+- flask-fs2
+- synalinks
+- smartdownsample
+- pygem
+- plash-cli
+- lydwhitt-tools
+- sk-linearregression
+- lisspyscope
+- paperazzi
+- ai-parrot
+- symbolicai
+- netintel-ocr
+- my-mcp-servers
+- tm-devices
+- bleak-retry-connector
+- singlestore-mcp-server
+- palabra-ai
+- gazu
+- accelerate-python
+- pycasbin
+- brand.dev
+- nbitk
+- factorialhr
+- skypilot-nightly
+- fcio
+- pydantic-extension
+- pyoes
+- baresquare-sdk
+- mtbp3cd
+- payu-python-v2
+- coiled
+- LightWin
 - cybrid-api-bank-python
 - google-vizier-dev
 - relib
 - cybrid-api-id-python
 - rbx.cp
 - pylinac
-- pypdffiller
 - cybrid-api-organization-python
 - crisp-python
 - listings-db-api-client
@@ -34,8 +75,6 @@
 - bhp-pro
 - superset-chat
 - redis-mcp-server3
-- payu-python-v2
-- sk-linearregression
 - conviso-cli
 - contentgrid-management-client
 - ada-py
@@ -47,7 +86,6 @@
 - PyAdvys
 - gitlab-pipeline-analyzer
 - ranx-k
-- gazu
 - kessel-sdk
 - jupyterhub-datamountspawner
 - sb-obp
@@ -56,45 +94,5 @@
 - tapestrysdk
 - dogesec-commons
 - quickbot-faststream
-- fcio
 - DocumentAI-std
 - packg
-- glue-qt
-- a-beta-scalekit
-- quickbot-agent
-- openobd
-- utf-queue-client
-- mcp-deep-research
-- batch-img
-- superset-mcp-server
-- smartdownsample
-- geobox
-- pytest-infrahouse
-- ut-obj
-- nonconform
-- mcp-neo4j-memory
-- configaroo
-- odoo-addon-shopfloor-vendor-packaging
-- gsrap
-- mcp-neo4j-cypher
-- yousign3
-- binary_wheel_builder
-- pynbntnmodem
-- trex-apis
-- ut-dfr
-- Products.MeetingSeraing
-- standardbots
-- fificore
-- djson-form
-- pydiverse-transform
-- musicgen-trainer
-- aecdata
-- forge-ai-code
-- terra_ui_components
-- liman
-- dycw-utilities
-- vector-quantize-pytorch
-- python-roborock
-- quickbot
-- i3-swap-focus
-- bizyengine

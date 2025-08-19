@@ -1,0 +1,11 @@
+{
+  "name": "kloppy",
+  "version": "3.17.1",
+  "summary": "Standardizing soccer tracking- and event data",
+  "author": "Koen Vossen",
+  "license": "BSD",
+  "home_page": "https://kloppy.pysport.org/",
+  "download_filename": "kloppy-3.17.1.tar.gz",
+  "download_time": "2025-08-19T14:56:15.105233",
+  "package_url": "https://pypi.org/project/kloppy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "payu-python-v2",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "API wrapper for Payu written in Python",
-  "author": "William Portillo",
+  "author": "Miguel Ferrer",
   "license": "MIT",
   "home_page": "https://github.com/teatrix/payu-python",
-  "download_filename": "payu_python_v2-0.1.7.tar.gz",
-  "download_time": "2025-08-19T14:45:23.835735",
+  "download_filename": "payu_python_v2-0.1.8.tar.gz",
+  "download_time": "2025-08-19T14:56:36.764024",
   "package_url": "https://pypi.org/project/payu-python-v2/"
 }
