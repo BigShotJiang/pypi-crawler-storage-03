@@ -1,0 +1,11 @@
+{
+  "name": "arxiv-mcp-server",
+  "version": "0.3.1",
+  "summary": "A flexible arXiv search and analysis service with MCP protocol support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arxiv_mcp_server-0.3.1.tar.gz",
+  "download_time": "2025-08-19T04:33:19.768024",
+  "package_url": "https://pypi.org/project/arxiv-mcp-server/"
+}

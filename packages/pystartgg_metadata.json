@@ -1,11 +1,11 @@
 {
   "name": "pystartgg",
-  "version": "0.0.14",
+  "version": "0.0.16",
   "summary": "Python wrapper for startgg API calls.",
   "author": "Steven",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pystartgg-0.0.14.tar.gz",
-  "download_time": "2025-08-18T04:25:53.224679",
+  "download_filename": "pystartgg-0.0.16.tar.gz",
+  "download_time": "2025-08-19T04:33:01.329567",
   "package_url": "https://pypi.org/project/pystartgg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agtools",
+  "version": "1.0.0",
+  "summary": "agtools: Tools for manipulating assembly graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agtools-1.0.0.tar.gz",
+  "download_time": "2025-08-19T04:33:16.809079",
+  "package_url": "https://pypi.org/project/agtools/"
+}

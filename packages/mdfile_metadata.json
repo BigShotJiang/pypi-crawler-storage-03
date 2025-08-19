@@ -1,11 +1,11 @@
 {
   "name": "mdfile",
-  "version": "0.8.0",
-  "summary": "Process and update Markdown files with embedded file/shell script output.",
+  "version": "0.9.0",
+  "summary": "Process and update Markdown files with embedded file/process/var data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdfile-0.8.0.tar.gz",
-  "download_time": "2025-08-18T22:16:54.254106",
+  "download_filename": "mdfile-0.9.0.tar.gz",
+  "download_time": "2025-08-19T04:33:09.812611",
   "package_url": "https://pypi.org/project/mdfile/"
 }

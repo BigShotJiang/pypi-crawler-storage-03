@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stock-available-to-promise-release",
-  "version": "18.0.1.1.2",
+  "version": "18.0.1.1.2.1",
   "summary": "Release Operations based on available to promise",
   "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
   "license": "LGPL-3",
   "home_page": "https://github.com/OCA/stock-logistics-reservation",
-  "download_filename": "odoo_addon_stock_available_to_promise_release-18.0.1.1.2-py3-none-any.whl",
-  "download_time": "2025-08-18T15:22:15.968102",
+  "download_filename": "odoo_addon_stock_available_to_promise_release-18.0.1.1.2.1-py3-none-any.whl",
+  "download_time": "2025-08-19T04:33:24.495222",
   "package_url": "https://pypi.org/project/odoo-addon-stock-available-to-promise-release/"
 }

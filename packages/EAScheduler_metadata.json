@@ -1,0 +1,11 @@
+{
+  "name": "EAScheduler",
+  "version": "0.2.7",
+  "summary": "Easy async scheduling with a nice interface",
+  "author": "spaceman_spiff",
+  "license": null,
+  "home_page": "https://github.com/spacemanspiff2007/eascheduler",
+  "download_filename": "eascheduler-0.2.7.tar.gz",
+  "download_time": "2025-08-19T04:32:54.012353",
+  "package_url": "https://pypi.org/project/EAScheduler/"
+}

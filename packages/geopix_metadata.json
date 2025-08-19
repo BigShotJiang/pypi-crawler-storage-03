@@ -1,11 +1,11 @@
 {
   "name": "geopix",
-  "version": "0.0.248",
+  "version": "0.0.249",
   "summary": "Helper functions to convert geo coords to pixel coords and back.",
   "author": "Michael Mohamed",
   "license": "MIT",
   "home_page": "https://github.com/fsai-dev/fsai-cli-tools",
-  "download_filename": "geopix-0.0.248.tar.gz",
-  "download_time": "2025-08-19T03:44:00.417148",
+  "download_filename": "geopix-0.0.249.tar.gz",
+  "download_time": "2025-08-19T04:33:28.659968",
   "package_url": "https://pypi.org/project/geopix/"
 }

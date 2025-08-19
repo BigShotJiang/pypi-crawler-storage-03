@@ -1,0 +1,11 @@
+{
+  "name": "bamurai",
+  "version": "0.8.0",
+  "summary": "A package for splitting reads in BAM/FASTQ files into smaller fragments.",
+  "author": "Shian Su",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bamurai-0.8.0.tar.gz",
+  "download_time": "2025-08-19T04:33:12.695723",
+  "package_url": "https://pypi.org/project/bamurai/"
+}
