@@ -1,0 +1,11 @@
+{
+  "name": "vantage6-algorithm-tools",
+  "version": "4.12.2",
+  "summary": "Vantage6 algorithm tools",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/vantage6/vantage6",
+  "download_filename": "vantage6_algorithm_tools-4.12.2.tar.gz",
+  "download_time": "2025-08-19T14:19:39.492754",
+  "package_url": "https://pypi.org/project/vantage6-algorithm-tools/"
+}

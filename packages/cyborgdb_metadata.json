@@ -1,0 +1,11 @@
+{
+  "name": "cyborgdb",
+  "version": "0.11.0",
+  "summary": "CyborgDB Python Client",
+  "author": "Cyborg Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cyborgdb-0.11.0-py3-none-any.whl",
+  "download_time": "2025-08-19T14:19:31.095716",
+  "package_url": "https://pypi.org/project/cyborgdb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "belay",
+  "version": "0.26.0",
+  "summary": null,
+  "author": "Brian Pugh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/BrianPugh/belay",
+  "download_filename": "belay-0.26.0.tar.gz",
+  "download_time": "2025-08-19T14:19:26.387142",
+  "package_url": "https://pypi.org/project/belay/"
+}

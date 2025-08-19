@@ -1,0 +1,11 @@
+{
+  "name": "sqruff",
+  "version": "0.29.3",
+  "summary": "A SQL linter written in rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqruff-0.29.3.tar.gz",
+  "download_time": "2025-08-19T14:20:07.235643",
+  "package_url": "https://pypi.org/project/sqruff/"
+}

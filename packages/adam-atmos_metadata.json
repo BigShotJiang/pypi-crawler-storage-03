@@ -1,0 +1,11 @@
+{
+  "name": "adam-atmos",
+  "version": "0.1.0",
+  "summary": "A proof of concept for a digital twin for the Argonne Testbed for Multiscale Observational Studies. This initial package contains a model that determines the lakebreeze front location from the 0.5 degree scan of the NEXRAD radar.",
+  "author": null,
+  "license": "BSD license",
+  "home_page": null,
+  "download_filename": "adam_atmos-0.1.0.tar.gz",
+  "download_time": "2025-08-19T14:19:41.069269",
+  "package_url": "https://pypi.org/project/adam-atmos/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jhub-apps",
+  "version": "2025.8.1",
+  "summary": "JupyterHub Apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jhub_apps-2025.8.1-py3-none-any.whl",
+  "download_time": "2025-08-19T14:20:10.399314",
+  "package_url": "https://pypi.org/project/jhub-apps/"
+}
