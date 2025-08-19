@@ -1,0 +1,11 @@
+{
+  "name": "linearboost",
+  "version": "0.1.4",
+  "summary": "LinearBoost Classifier is a rapid and accurate classification algorithm that builds upon a very fast, linear classifier.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linearboost-0.1.4.tar.gz",
+  "download_time": "2025-08-19T20:41:50.623279",
+  "package_url": "https://pypi.org/project/linearboost/"
+}

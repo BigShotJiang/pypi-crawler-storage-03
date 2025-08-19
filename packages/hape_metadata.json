@@ -1,11 +1,11 @@
 {
   "name": "hape",
-  "version": "0.2.116",
+  "version": "0.2.119",
   "summary": "HAPE Framework: Build an Automation Tool With Ease",
   "author": "Hazem Ataya",
   "license": null,
   "home_page": "https://github.com/hazemataya94/hape-framework",
-  "download_filename": "hape-0.2.116.tar.gz",
-  "download_time": "2025-08-19T20:21:58.037780",
+  "download_filename": "hape-0.2.119.tar.gz",
+  "download_time": "2025-08-19T20:41:31.489184",
   "package_url": "https://pypi.org/project/hape/"
 }

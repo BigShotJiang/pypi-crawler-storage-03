@@ -1,0 +1,11 @@
+{
+  "name": "mysqllib",
+  "version": "1.0.6",
+  "summary": "Simple mysql database library",
+  "author": "Krzysztof Żyłka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysqllib-1.0.6.tar.gz",
+  "download_time": "2025-08-19T20:41:34.125947",
+  "package_url": "https://pypi.org/project/mysqllib/"
+}

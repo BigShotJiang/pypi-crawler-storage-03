@@ -1,0 +1,11 @@
+{
+  "name": "uptimer-python-sdk",
+  "version": "0.3.0",
+  "summary": "A Python SDK for uptimer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uptimer_python_sdk-0.3.0.tar.gz",
+  "download_time": "2025-08-19T20:41:38.511851",
+  "package_url": "https://pypi.org/project/uptimer-python-sdk/"
+}
