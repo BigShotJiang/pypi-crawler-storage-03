@@ -1,0 +1,11 @@
+{
+  "name": "spd3303x",
+  "version": "1.0.3",
+  "summary": "Python API for SigLent SPD3303X",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spd3303x-1.0.3.tar.gz",
+  "download_time": "2025-08-19T20:52:01.471388",
+  "package_url": "https://pypi.org/project/spd3303x/"
+}

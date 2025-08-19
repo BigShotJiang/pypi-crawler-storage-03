@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-zep-cloud",
-  "version": "1.3a20250818",
+  "version": "1.3a20250819",
   "summary": "Subpackage for Zep integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_zep_cloud-1.3a20250818-py3-none-any.whl",
-  "download_time": "2025-08-18T21:39:35.068998",
+  "download_filename": "nvidia_nat_zep_cloud-1.3a20250819-py3-none-any.whl",
+  "download_time": "2025-08-19T20:52:36.579091",
   "package_url": "https://pypi.org/project/nvidia-nat-zep-cloud/"
 }

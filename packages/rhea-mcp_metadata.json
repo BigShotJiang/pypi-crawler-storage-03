@@ -1,0 +1,11 @@
+{
+  "name": "rhea-mcp",
+  "version": "0.1.1b3",
+  "summary": "A scalable MCP (Model Context Protocol) tool framework to serve thousands of biomedical tools for Large Language Models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rhea_mcp-0.1.1b3.tar.gz",
+  "download_time": "2025-08-19T20:52:00.420933",
+  "package_url": "https://pypi.org/project/rhea-mcp/"
+}

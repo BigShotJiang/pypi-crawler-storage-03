@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-s3",
-  "version": "1.3a20250818",
+  "version": "1.3a20250819",
   "summary": "Subpackage for S3-compatible integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_s3-1.3a20250818-py3-none-any.whl",
-  "download_time": "2025-08-18T21:39:39.201836",
+  "download_filename": "nvidia_nat_s3-1.3a20250819-py3-none-any.whl",
+  "download_time": "2025-08-19T20:52:37.119869",
   "package_url": "https://pypi.org/project/nvidia-nat-s3/"
 }

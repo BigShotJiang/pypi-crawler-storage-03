@@ -1,0 +1,11 @@
+{
+  "name": "pineflow-monitors-watsonx",
+  "version": "0.7.7",
+  "summary": "pineflow monitors watsonx extension",
+  "author": "Leonardo Furnielis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pineflow_monitors_watsonx-0.7.7.tar.gz",
+  "download_time": "2025-08-19T20:52:25.399271",
+  "package_url": "https://pypi.org/project/pineflow-monitors-watsonx/"
+}

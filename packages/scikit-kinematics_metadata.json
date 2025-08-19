@@ -1,0 +1,11 @@
+{
+  "name": "scikit-kinematics",
+  "version": "0.10.3",
+  "summary": "Python utilites for movements in 3d space",
+  "author": "Thomas Haslwanter",
+  "license": "BSD-3-Clause",
+  "home_page": "https://work.thaslwanter.at/skinematics/html",
+  "download_filename": "scikit_kinematics-0.10.3.tar.gz",
+  "download_time": "2025-08-19T20:52:42.484112",
+  "package_url": "https://pypi.org/project/scikit-kinematics/"
+}

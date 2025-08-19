@@ -1,11 +1,11 @@
 {
   "name": "xbrlld",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A command line tool to convert XBRL taxonomies and instance documents into RDF.",
   "author": "rossbowen",
   "license": null,
   "home_page": null,
-  "download_filename": "xbrlld-0.2.0.tar.gz",
-  "download_time": "2025-08-18T08:29:15.554766",
+  "download_filename": "xbrlld-0.2.1-py3-none-any.whl",
+  "download_time": "2025-08-19T20:52:43.594276",
   "package_url": "https://pypi.org/project/xbrlld/"
 }

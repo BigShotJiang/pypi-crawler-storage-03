@@ -1,0 +1,11 @@
+{
+  "name": "spatial-reasoning",
+  "version": "0.2.0",
+  "summary": "A PyPI package for object detection using advanced vision models",
+  "author": "Qasim Wani",
+  "license": "MIT",
+  "home_page": "https://github.com/QasimWani/spatial-reasoning",
+  "download_filename": "spatial_reasoning-0.2.0.tar.gz",
+  "download_time": "2025-08-19T20:52:08.881651",
+  "package_url": "https://pypi.org/project/spatial-reasoning/"
+}
