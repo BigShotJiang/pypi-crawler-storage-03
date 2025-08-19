@@ -1,11 +1,11 @@
 {
   "name": "crewai-tools",
-  "version": "0.62.2",
+  "version": "0.62.3",
   "summary": "Set of tools for the crewAI framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crewai_tools-0.62.2.tar.gz",
-  "download_time": "2025-08-19T05:52:55.544270",
+  "download_filename": "crewai_tools-0.62.3.tar.gz",
+  "download_time": "2025-08-19T07:19:12.206486",
   "package_url": "https://pypi.org/project/crewai-tools/"
 }

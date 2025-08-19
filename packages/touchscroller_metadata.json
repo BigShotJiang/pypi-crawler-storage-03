@@ -1,0 +1,11 @@
+{
+  "name": "touchscroller",
+  "version": "0.1.2",
+  "summary": "Simulate multi-touch scrolling using uinput",
+  "author": "Mirko Kunze",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "touchscroller-0.1.2.tar.gz",
+  "download_time": "2025-08-19T07:19:02.479829",
+  "package_url": "https://pypi.org/project/touchscroller/"
+}

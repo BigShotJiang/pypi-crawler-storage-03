@@ -1,0 +1,11 @@
+{
+  "name": "alitiq",
+  "version": "2025.8.18",
+  "summary": "alitiq python SDK",
+  "author": "Daniel Lassahn | alitiq GmbH",
+  "license": "IP belongs to alitiq GmbH",
+  "home_page": null,
+  "download_filename": "alitiq-2025.8.18.tar.gz",
+  "download_time": "2025-08-19T07:19:29.400147",
+  "package_url": "https://pypi.org/project/alitiq/"
+}

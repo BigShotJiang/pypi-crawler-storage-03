@@ -1,11 +1,11 @@
 {
   "name": "gnome-speech2text-service",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "D-Bus service providing speech-to-text functionality for GNOME Shell",
   "author": null,
   "license": "GPL-2.0-or-later",
   "home_page": null,
-  "download_filename": "gnome_speech2text_service-1.0.3.tar.gz",
-  "download_time": "2025-08-18T17:44:32.371971",
+  "download_filename": "gnome_speech2text_service-1.0.4.tar.gz",
+  "download_time": "2025-08-19T07:19:09.883885",
   "package_url": "https://pypi.org/project/gnome-speech2text-service/"
 }

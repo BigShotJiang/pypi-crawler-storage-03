@@ -1,0 +1,11 @@
+{
+  "name": "pyIGRF14",
+  "version": "1.0.2",
+  "summary": "IGRF-14 Model by Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyigrf14-1.0.2-py3-none-any.whl",
+  "download_time": "2025-08-19T07:19:26.470131",
+  "package_url": "https://pypi.org/project/pyIGRF14/"
+}

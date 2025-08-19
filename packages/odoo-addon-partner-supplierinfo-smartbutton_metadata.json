@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-supplierinfo-smartbutton",
+  "version": "18.0.1.0.0.2",
+  "summary": "Access supplied products from the vendor",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_partner_supplierinfo_smartbutton-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-19T07:19:27.655082",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-supplierinfo-smartbutton/"
+}

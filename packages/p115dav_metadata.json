@@ -1,0 +1,11 @@
+{
+  "name": "p115dav",
+  "version": "0.0.10.3",
+  "summary": "115 网盘 WebDAV 和 302 直链程序.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115dav",
+  "download_filename": "p115dav-0.0.10.3.tar.gz",
+  "download_time": "2025-08-19T07:19:31.220746",
+  "package_url": "https://pypi.org/project/p115dav/"
+}

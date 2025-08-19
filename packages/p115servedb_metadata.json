@@ -1,0 +1,11 @@
+{
+  "name": "p115servedb",
+  "version": "0.0.5.7",
+  "summary": "115 网盘基于 p115updatedb 导出数据库的挂载服务",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/p115client/tree/main/modules/p115servedb",
+  "download_filename": "p115servedb-0.0.5.7.tar.gz",
+  "download_time": "2025-08-19T07:19:24.110593",
+  "package_url": "https://pypi.org/project/p115servedb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ingenialink",
+  "version": "7.5.0",
+  "summary": "IngeniaLink Communications Library",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.ingeniamc.com",
+  "download_filename": "ingenialink-7.5.0.tar.gz",
+  "download_time": "2025-08-19T07:19:31.896627",
+  "package_url": "https://pypi.org/project/ingenialink/"
+}
