@@ -1,0 +1,11 @@
+{
+  "name": "OACP",
+  "version": "0.1.4",
+  "summary": "Open Agent Compliance Protocol - Governance layer for LangGraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oacp-0.1.4.tar.gz",
+  "download_time": "2025-08-19T09:52:54.759993",
+  "package_url": "https://pypi.org/project/OACP/"
+}

@@ -1,12 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T09:43:30.680188
-- **Total Packages**: 84
-- **Total Size**: 28.91 MB
+- **Download Time**: 2025-08-19T09:53:36.741304
+- **Total Packages**: 88
+- **Total Size**: 16.69 MB
 
 ## Packages List
+- mycli
+- cratedb-toolkit
+- langgraph-deploy
+- frogml
+- leprikon
+- physiocore
+- django-bulk-hooks
+- pyconpty
+- mignonFramework
+- vital
+- wapi2nsconf
+- OACP
+- comun-mssql-python
+- python-ntfy
+- medcattrainer-client
+- nxva
+- suzaku
+- hamplots
+- quatica
+- spaceforge
+- iflow-mcp_mcp-email-server
+- gpu-benchmark-linux
+- svc-order-zxw
+- pytest-lazy-fixtures
+- nvidia-nat
+- django-yaml-field
+- renovexpy
+- nvidia-nat-agno
+- paytechuz
+- haystack-ai
+- nvidia-nat-ragaai
+- feffery-antd-components
+- nvidia-nat-opentelemetry
+- geo_pysearch
+- nvidia-nat-semantic-kernel
+- anki-mac-helper
+- nvidia-nat-phoenix
+- adjango
+- django-eremaea2
 - abstract-test-package
+- larakit
+- preling
 - subdx-dl
 - python3-cloudpods
 - trophy
@@ -18,7 +59,6 @@
 - matrice
 - php-framework-scaffolder
 - chunk-metadata-adapter
-- django-bulk-hooks
 - collate-data-diff
 - normalize
 - bestehorn-llmmanager
@@ -30,7 +70,6 @@
 - turing-bot-client
 - nvfuser-cu128
 - gen-wrapper
-- adjango
 - nvfuser-cu129
 - pyplantsim
 - ixmp4
@@ -42,7 +81,6 @@
 - legit-api-client
 - WaveMonitor
 - mcp-akshare-hust
-- spaceforge
 - vkube
 - pygambit
 - cli-arena
@@ -56,37 +94,3 @@
 - umep
 - dtlpymcp
 - dbt-ydb
-- gllm-agents-binary
-- ut-dic
-- contrib-checker
-- bournemouth-forced-aligner
-- ttclient
-- the37lab-ampa-sdk
-- odoo-addon-shopfloor-dangerous-goods
-- entitysdk
-- partest
-- mgnify-pipelines-toolkit
-- whiskerrag
-- livekit-plugins-zhipu
-- livekit-plugins-xunfei
-- livekit-plugins-volcengine
-- livekit-plugins-tencent
-- livekit-plugins-stepfun
-- livekit-plugins-minimax
-- livekit-plugins-flashtts
-- livekit-plugins-difyai
-- livekit-plugins-baidu
-- livekit-plugins-aliyun
-- my-mcp-servers
-- nucliadb-utils
-- nucliadb-telemetry
-- nucliadb-sdk
-- base-api-utils
-- nucliadb-protos
-- nucliadb-models
-- opperai
-- nucliadb-dataset
-- nucliadb
-- nidx-protos
-- power-grid-model
-- mdbq

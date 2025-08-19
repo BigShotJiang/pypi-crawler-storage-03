@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-semantic-kernel",
-  "version": "1.3a20250818",
+  "version": "1.3a20250819",
   "summary": "Subpackage for Semantic-Kernel integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_semantic_kernel-1.3a20250818-py3-none-any.whl",
-  "download_time": "2025-08-18T21:39:51.614248",
+  "download_filename": "nvidia_nat_semantic_kernel-1.3a20250819-py3-none-any.whl",
+  "download_time": "2025-08-19T09:53:07.918169",
   "package_url": "https://pypi.org/project/nvidia-nat-semantic-kernel/"
 }
