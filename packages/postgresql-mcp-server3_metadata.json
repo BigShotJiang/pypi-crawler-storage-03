@@ -1,11 +1,11 @@
 {
   "name": "postgresql-mcp-server3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Model Context Protocol (MCP) server that enables secure interaction with PostgreSQL、RaseSQL databases.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "postgresql_mcp_server3-1.0.0.tar.gz",
-  "download_time": "2025-08-18T03:38:53.220566",
+  "download_filename": "postgresql_mcp_server3-1.0.1.tar.gz",
+  "download_time": "2025-08-19T09:43:06.992863",
   "package_url": "https://pypi.org/project/postgresql-mcp-server3/"
 }

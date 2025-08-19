@@ -1,11 +1,11 @@
 {
   "name": "craydel-database-wrapper",
-  "version": "0.0.4",
-  "summary": "ClickHouse chat storage + optional AI summarizer",
+  "version": "0.0.7",
+  "summary": "ClickHouse chat storage + optional summarizer (bring-your-own-LLM)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "craydel_database_wrapper-0.0.4.tar.gz",
-  "download_time": "2025-08-19T09:21:06.005944",
+  "download_filename": "craydel_database_wrapper-0.0.7.tar.gz",
+  "download_time": "2025-08-19T09:42:50.197121",
   "package_url": "https://pypi.org/project/craydel-database-wrapper/"
 }

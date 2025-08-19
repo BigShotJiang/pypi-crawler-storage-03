@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-volcengine",
-  "version": "1.2.3.post1",
+  "version": "1.2.6",
   "summary": "LiveKit Agent Plugins for Volcengine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_volcengine-1.2.3.post1.tar.gz",
-  "download_time": "2025-08-18T03:38:56.345502",
+  "download_filename": "livekit_plugins_volcengine-1.2.6.tar.gz",
+  "download_time": "2025-08-19T09:43:17.699982",
   "package_url": "https://pypi.org/project/livekit-plugins-volcengine/"
 }

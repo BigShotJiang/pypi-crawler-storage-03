@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopfloor-dangerous-goods",
+  "version": "18.0.1.0.0.2",
+  "summary": "Glue Module Between Shopfloor and Stock Dangerous Goods",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-shopfloor",
+  "download_filename": "odoo_addon_shopfloor_dangerous_goods-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-19T09:43:13.600386",
+  "package_url": "https://pypi.org/project/odoo-addon-shopfloor-dangerous-goods/"
+}

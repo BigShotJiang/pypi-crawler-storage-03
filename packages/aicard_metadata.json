@@ -1,11 +1,11 @@
 {
   "name": "aicard",
-  "version": "0.3",
+  "version": "0.3.1",
   "summary": "Compute and organize model cards locally or online.",
   "author": "CERTH",
   "license": null,
   "home_page": "https://github.com/mever-team/transparency-service",
-  "download_filename": "aicard-0.3-py3-none-any.whl",
-  "download_time": "2025-08-19T06:54:14.691476",
+  "download_filename": "aicard-0.3.1-py3-none-any.whl",
+  "download_time": "2025-08-19T09:42:45.126322",
   "package_url": "https://pypi.org/project/aicard/"
 }

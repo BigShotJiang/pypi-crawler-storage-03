@@ -1,0 +1,11 @@
+{
+  "name": "gen-wrapper",
+  "version": "0.1.0",
+  "summary": "A lightweight wrapper for multiple LLM providers with optional LangChain integrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gen_wrapper-0.1.0.tar.gz",
+  "download_time": "2025-08-19T09:42:53.749337",
+  "package_url": "https://pypi.org/project/gen-wrapper/"
+}

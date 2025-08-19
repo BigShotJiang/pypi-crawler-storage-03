@@ -1,11 +1,11 @@
 {
   "name": "livekit-plugins-stepfun",
-  "version": "1.2.3.post1",
+  "version": "1.2.6",
   "summary": "LiveKit Agent Plugins for Stepfun",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "livekit_plugins_stepfun-1.2.3.post1.tar.gz",
-  "download_time": "2025-08-18T03:38:57.474981",
+  "download_filename": "livekit_plugins_stepfun-1.2.6.tar.gz",
+  "download_time": "2025-08-19T09:43:18.853855",
   "package_url": "https://pypi.org/project/livekit-plugins-stepfun/"
 }

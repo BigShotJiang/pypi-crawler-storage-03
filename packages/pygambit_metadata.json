@@ -1,0 +1,11 @@
+{
+  "name": "pygambit",
+  "version": "16.3.1",
+  "summary": "The package for computation in game theory",
+  "author": "Theodore Turocy",
+  "license": "GPL2+",
+  "home_page": "https://www.gambit-project.org",
+  "download_filename": "pygambit-16.3.1.tar.gz",
+  "download_time": "2025-08-19T09:43:02.929017",
+  "package_url": "https://pypi.org/project/pygambit/"
+}

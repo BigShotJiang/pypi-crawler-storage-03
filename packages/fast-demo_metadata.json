@@ -1,0 +1,11 @@
+{
+  "name": "fast-demo",
+  "version": "3.6",
+  "summary": "Encrypted ODOO module",
+  "author": "RoyZhou",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/fast-demo",
+  "download_filename": "fast_demo-3.6.tar.gz",
+  "download_time": "2025-08-19T09:42:56.564739",
+  "package_url": "https://pypi.org/project/fast-demo/"
+}

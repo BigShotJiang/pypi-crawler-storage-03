@@ -1,0 +1,11 @@
+{
+  "name": "libreflow.extensions.sk.export-psd-layers",
+  "version": "1.1.7",
+  "summary": null,
+  "author": "Thomas Thiebaut",
+  "license": "LGPLv3+",
+  "home_page": "https://gitlab.com/lfs.coop/libreflow/libreflow_launcher",
+  "download_filename": "libreflow_extensions_sk_export_psd_layers-1.1.7.tar.gz",
+  "download_time": "2025-08-19T09:43:05.267101",
+  "package_url": "https://pypi.org/project/libreflow.extensions.sk.export-psd-layers/"
+}

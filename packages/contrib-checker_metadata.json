@@ -1,0 +1,11 @@
+{
+  "name": "contrib-checker",
+  "version": "1.0.0",
+  "summary": "Check if code contributors are properly listed in metadata files such as CITATION.cff and codemeta.json based on the git history",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "contrib_checker-1.0.0.tar.gz",
+  "download_time": "2025-08-19T09:43:11.275203",
+  "package_url": "https://pypi.org/project/contrib-checker/"
+}
