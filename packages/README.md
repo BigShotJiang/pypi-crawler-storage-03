@@ -1,20 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T04:33:38.430084
-- **Total Packages**: 84
-- **Total Size**: 35.43 MB
+- **Download Time**: 2025-08-19T04:54:12.134233
+- **Total Packages**: 79
+- **Total Size**: 12.57 MB
 
 ## Packages List
+- robhan-cdk-lib.aws-grafana
+- aws-agentcore-mcp-server
+- firecrawl-py
 - memg-core
+- jeanmemory
+- robhan-cdk-lib.utils
+- anna-mcp-pypi
+- principal-package
+- mrx-runway
+- cnhkmcp
+- plua
+- ivybloom
+- firecrawl
+- netmon
+- hello-simple
 - kicad-sch-api
+- gplume
+- kewkew
+- yica-yirage
+- cesail
+- ob-project-utils
+- libdata
+- aibrix
+- RosettaPy
+- arcgis-scraper
+- aws-cloud-utilities
+- hlvox
+- myxagent
+- devstack-cli
+- HoloTTS
+- rust-pyfunc
+- ambivo-agents
+- pastas
+- secsgem_cyg
+- gamry-file-parser
+- anges
+- agilicus
 - fremko
 - gllm-agents-binary
-- RosettaPy
 - torrra
 - wgutil
 - EAScheduler
-- cnhkmcp
 - symclosestwannier
 - paia-tensorboard
 - rfc-draw
@@ -40,7 +73,6 @@
 - osym.rpc
 - mdfile
 - osym.io
-- hlvox
 - keras-nlp-nightly
 - keras-hub-nightly
 - bamurai
@@ -53,40 +85,3 @@
 - agtools
 - fast-jwt-auth
 - odoo-addon-delivery-procurement-group-carrier
-- sheshe
-- chromedriver-binary
-- arxiv-mcp-server
-- testchimp-local
-- unionai-reuse
-- cognicli
-- pulumi-vault
-- intentkit
-- HoloTTS
-- odoo-addon-printing-auto-shipment-advice
-- odoo-addon-stock-available-to-promise-release
-- rexilion-backtest
-- cvat-manifest-builder
-- fsai-vision-utils
-- awpr
-- iwx-manifest-builder
-- json-file-split
-- fsai-shared-funcs
-- geopix
-- tfads-o-builder
-- principal-package
-- pyslurmutils
-- lqp
-- general-validator
-- toms-structures
-- expandpath
-- sarvamai
-- fngradio
-- odoo-addon-agreement-sign-oca
-- ambient-sdk
-- HoloEcho
-- ekispert
-- cdk-factory
-- deepwiki-cli
-- keras-nightly
-- shancx
-- publicity-idl

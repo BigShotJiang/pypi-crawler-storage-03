@@ -1,0 +1,11 @@
+{
+  "name": "anges",
+  "version": "0.1.1",
+  "summary": "Anges - An LLM Powered Engineering Agent System",
+  "author": "Anges Team",
+  "license": null,
+  "home_page": "https://github.com/anges-ai/anges",
+  "download_filename": "anges-0.1.1.tar.gz",
+  "download_time": "2025-08-19T04:53:47.527592",
+  "package_url": "https://pypi.org/project/anges/"
+}
