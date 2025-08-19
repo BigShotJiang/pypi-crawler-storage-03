@@ -1,0 +1,11 @@
+{
+  "name": "msglm",
+  "version": "0.0.12",
+  "summary": "msglm makes it a little easier to create messages for language models like Claude and OpenAI GPTs.",
+  "author": "Tommy",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/AnswerDotAI/msglm",
+  "download_filename": "msglm-0.0.12.tar.gz",
+  "download_time": "2025-08-19T19:51:41.205850",
+  "package_url": "https://pypi.org/project/msglm/"
+}

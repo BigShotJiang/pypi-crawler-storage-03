@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T19:41:41.386932
-- **Total Packages**: 72
-- **Total Size**: 3.73 MB
+- **Download Time**: 2025-08-19T19:52:11.344446
+- **Total Packages**: 70
+- **Total Size**: 11.43 MB
 
 ## Packages List
+- fprime-gds
+- kbp2video
+- hape
+- easycoder
+- dadosic-zenlenium
+- eval-protocol
+- laine
+- linksocks
+- steer-materials
+- raptor-stats
+- django-bulk-hooks
+- photo-objects
+- msglm
+- seamm
+- tesseract-decoder
+- get-args-to-launch-editor
+- pyrime
+- tokasaurus
+- rm-html5-parser
+- seliseblocks-genesis
+- brNLTK
+- jeanmemory
+- mythologizer-postgres
+- pangea-authn-fastmcp
+- universal-mcp-google-mail
+- codegen
+- upgini
+- kbputils
+- dashlab
+- ut-ptc
+- openvancy
+- llmocal
 - arize-otel
 - cdk-factory
 - async-progressbar
@@ -14,25 +46,20 @@
 - npcpy
 - durabletask
 - csvise
-- dashlab
 - PLD-subsampling
 - abstract-gui
 - FHIL-python-utils
-- codegen
 - xboxmadeeasy
 - cosmos-xenna
 - ursa-ai
 - steer-core
-- dadosic-zenlenium
 - traceAI-pipecat
-- openvancy
 - seam
 - elyzo
 - hostess
 - akshare-one
 - python-citybikes
 - tq42-grpc-client
-- django-bulk-hooks
 - ut-wdp
 - cdp-sdk
 - heaserver-folders-aws-s3
@@ -49,32 +76,3 @@
 - durabletask.azuremanaged
 - stagehand
 - tobiko-cloud-pydantic
-- txgraffiti
-- tobiko-cloud-api-client
-- super-cc
-- context-log-python
-- tobiko-cloud-helpers
-- sensory-data-client
-- dadosic-selenium
-- structregistry
-- centra-sdk
-- writer-sdk
-- hape
-- cs-models
-- dxpy
-- scriptcraft-python
-- arize
-- hurahura
-- gammarers.aws-frontend-web-app-deploy-stack
-- micropython-stubber
-- HS-TasNet
-- videochef
-- python-terminusgps
-- whisperlivekit
-- agemcp
-- dsjson
-- docxcomtpl
-- ormysql
-- quantinuum-sphinx
-- coiled
-- quickinsights

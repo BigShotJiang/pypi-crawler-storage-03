@@ -1,11 +1,11 @@
 {
   "name": "seamm",
-  "version": "2025.8.18.1",
+  "version": "2025.8.19",
   "summary": "The core of the SEAMM environment and graphical interface.",
   "author": "Paul Saxe",
   "license": "GNU Lesser General Public License v3",
   "home_page": "https://github.com/molssi-seamm/seamm",
-  "download_filename": "seamm-2025.8.18.1.tar.gz",
-  "download_time": "2025-08-18T20:19:50.917614",
+  "download_filename": "seamm-2025.8.19.tar.gz",
+  "download_time": "2025-08-19T19:51:41.729721",
   "package_url": "https://pypi.org/project/seamm/"
 }
