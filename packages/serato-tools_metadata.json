@@ -1,11 +1,11 @@
 {
   "name": "serato-tools",
-  "version": "3.4.3",
+  "version": "3.5.2",
   "summary": "Serato track metadata (cues, beatgrid, etc.) crate, smartcrate, library database, and modification; dynamic beatgrid analysis; and better USB export.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "serato_tools-3.4.3.tar.gz",
-  "download_time": "2025-08-19T12:40:21.898292",
+  "download_filename": "serato_tools-3.5.2.tar.gz",
+  "download_time": "2025-08-19T16:25:09.175543",
   "package_url": "https://pypi.org/project/serato-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tessa-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Tessa Browser Agent & Workflows API",
+  "author": "Tessa Team",
+  "license": "MIT",
+  "home_page": "https://github.com/GeneralAgencyAI/tessa_sdk",
+  "download_filename": "tessa_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-19T16:25:27.983238",
+  "package_url": "https://pypi.org/project/tessa-sdk/"
+}

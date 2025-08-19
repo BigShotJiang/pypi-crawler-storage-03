@@ -1,0 +1,11 @@
+{
+  "name": "backupchan-presets",
+  "version": "0.2.2",
+  "summary": "Presets library for Backup-chan.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "backupchan_presets-0.2.2.tar.gz",
+  "download_time": "2025-08-19T16:24:58.816315",
+  "package_url": "https://pypi.org/project/backupchan-presets/"
+}

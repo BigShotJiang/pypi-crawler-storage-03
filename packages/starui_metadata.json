@@ -1,11 +1,11 @@
 {
   "name": "starui",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Python-first UI component library for Datastar/StarHTML applications",
   "author": "firefly",
   "license": null,
   "home_page": null,
-  "download_filename": "starui-0.1.3.tar.gz",
-  "download_time": "2025-08-18T21:39:24.483467",
+  "download_filename": "starui-0.1.4.tar.gz",
+  "download_time": "2025-08-19T16:25:10.712978",
   "package_url": "https://pypi.org/project/starui/"
 }

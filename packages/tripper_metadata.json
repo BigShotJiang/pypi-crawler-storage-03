@@ -1,0 +1,11 @@
+{
+  "name": "tripper",
+  "version": "0.4.3",
+  "summary": "A triplestore wrapper for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tripper-0.4.3.tar.gz",
+  "download_time": "2025-08-19T16:25:24.828704",
+  "package_url": "https://pypi.org/project/tripper/"
+}

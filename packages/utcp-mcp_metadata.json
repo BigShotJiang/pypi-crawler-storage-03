@@ -1,11 +1,11 @@
 {
   "name": "utcp-mcp",
-  "version": "1.0.0",
-  "summary": "Universal Tool Calling Protocol (UTCP) client library for Python",
+  "version": "1.0.1",
+  "summary": "UTCP communication protocol plugin for interoperability with the Model Context Protocol (MCP).",
   "author": "UTCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "utcp_mcp-1.0.0.tar.gz",
-  "download_time": "2025-08-19T13:47:31.238612",
+  "download_filename": "utcp_mcp-1.0.1.tar.gz",
+  "download_time": "2025-08-19T16:25:27.461595",
   "package_url": "https://pypi.org/project/utcp-mcp/"
 }

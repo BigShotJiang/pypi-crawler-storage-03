@@ -1,0 +1,11 @@
+{
+  "name": "python-hashtools",
+  "version": "0.0.6",
+  "summary": "Python hash tools.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-hashtools",
+  "download_filename": "python_hashtools-0.0.6.tar.gz",
+  "download_time": "2025-08-19T16:25:23.230742",
+  "package_url": "https://pypi.org/project/python-hashtools/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "utcp-text",
-  "version": "1.0.0",
-  "summary": "Universal Tool Calling Protocol (UTCP) client library for Python",
+  "version": "1.0.1",
+  "summary": "UTCP communication protocol plugin for reading text files.",
   "author": "UTCP Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "utcp_text-1.0.0.tar.gz",
-  "download_time": "2025-08-19T13:47:31.760803",
+  "download_filename": "utcp_text-1.0.1.tar.gz",
+  "download_time": "2025-08-19T16:25:31.656736",
   "package_url": "https://pypi.org/project/utcp-text/"
 }

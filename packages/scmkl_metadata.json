@@ -1,0 +1,11 @@
+{
+  "name": "scmkl",
+  "version": "0.3.1",
+  "summary": "Single-cell analysis using Multiple Kernel Learning",
+  "author": "Sam Kupp, Ian VanGordon, Cigdem Ak",
+  "license": null,
+  "home_page": "https://github.com/ohsu-cedar-comp-hub/scMKL/tree/main",
+  "download_filename": "scmkl-0.3.1.tar.gz",
+  "download_time": "2025-08-19T16:25:24.294365",
+  "package_url": "https://pypi.org/project/scmkl/"
+}

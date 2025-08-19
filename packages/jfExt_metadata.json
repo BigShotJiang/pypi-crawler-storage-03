@@ -1,0 +1,11 @@
+{
+  "name": "jfExt",
+  "version": "1.43.2",
+  "summary": "private common python framework",
+  "author": "jifu",
+  "license": "MIT",
+  "home_page": "http://www.jifu.io",
+  "download_filename": "jfext-1.43.2.tar.gz",
+  "download_time": "2025-08-19T16:24:59.331401",
+  "package_url": "https://pypi.org/project/jfExt/"
+}
