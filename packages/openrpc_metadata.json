@@ -1,0 +1,11 @@
+{
+  "name": "openrpc",
+  "version": "10.5.0",
+  "summary": "Transport agnostic framework for developing OpenRPC servers.",
+  "author": "Matthew Burkard",
+  "license": "MIT",
+  "home_page": "https://python-openrpc.burkard.cloud",
+  "download_filename": "openrpc-10.5.0.tar.gz",
+  "download_time": "2025-08-19T23:39:42.885058",
+  "package_url": "https://pypi.org/project/openrpc/"
+}

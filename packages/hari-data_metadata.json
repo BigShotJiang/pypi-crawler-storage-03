@@ -1,0 +1,11 @@
+{
+  "name": "hari-data",
+  "version": "0.1.4",
+  "summary": "Hari is a Python library designed to establish a standardized pattern for developing PySpark applications, leveraging the concept of \"data contracts\" to ensure consistency, reliability, and maintainability in data engineering workflows.",
+  "author": "Julio Zeferino",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hari_data-0.1.4.tar.gz",
+  "download_time": "2025-08-19T23:39:51.738656",
+  "package_url": "https://pypi.org/project/hari-data/"
+}

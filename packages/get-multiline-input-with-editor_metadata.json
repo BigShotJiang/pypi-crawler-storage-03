@@ -1,0 +1,11 @@
+{
+  "name": "get-multiline-input-with-editor",
+  "version": "0.1.0a2",
+  "summary": "Opens a text editor for multi-line input, returns input as a Unicode string. Just like what Git does.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_multiline_input_with_editor-0.1.0a2.tar.gz",
+  "download_time": "2025-08-19T23:39:35.497263",
+  "package_url": "https://pypi.org/project/get-multiline-input-with-editor/"
+}

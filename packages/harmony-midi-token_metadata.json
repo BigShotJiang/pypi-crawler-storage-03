@@ -1,0 +1,11 @@
+{
+  "name": "harmony-midi-token",
+  "version": "0.4.0",
+  "summary": "A MIDI tokenizer based on HarmonyMIDIToken specification.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "harmony_midi_token-0.4.0.tar.gz",
+  "download_time": "2025-08-19T23:39:44.969218",
+  "package_url": "https://pypi.org/project/harmony-midi-token/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dragonfly-uwg",
+  "version": "0.5.742",
+  "summary": "Dragonfly extension for the Urban Weather Generator (UWG).",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/dragonfly-uwg",
+  "download_filename": "dragonfly_uwg-0.5.742.tar.gz",
+  "download_time": "2025-08-19T23:39:38.700672",
+  "package_url": "https://pypi.org/project/dragonfly-uwg/"
+}
