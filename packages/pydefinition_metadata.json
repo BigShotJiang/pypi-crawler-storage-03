@@ -1,0 +1,11 @@
+{
+  "name": "pydefinition",
+  "version": "0.1.0",
+  "summary": "Environment-driven configuration helpers with low boilerplate",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydefinition-0.1.0.tar.gz",
+  "download_time": "2025-08-19T06:30:14.148538",
+  "package_url": "https://pypi.org/project/pydefinition/"
+}

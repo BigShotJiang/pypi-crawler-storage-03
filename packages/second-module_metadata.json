@@ -1,0 +1,11 @@
+{
+  "name": "second-module",
+  "version": "0.1",
+  "summary": "My second module for practice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "second_module-0.1.tar.gz",
+  "download_time": "2025-08-19T06:30:16.969744",
+  "package_url": "https://pypi.org/project/second-module/"
+}

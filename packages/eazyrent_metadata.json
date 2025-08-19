@@ -1,0 +1,11 @@
+{
+  "name": "eazyrent",
+  "version": "0.3.0",
+  "summary": "Software development kit for Eazyrent",
+  "author": "Thibault GRANDJEAN",
+  "license": "Apache 2.0",
+  "home_page": "https://pypi.org/project/eazyrent_sdk",
+  "download_filename": "eazyrent-0.3.0.tar.gz",
+  "download_time": "2025-08-19T06:30:31.470222",
+  "package_url": "https://pypi.org/project/eazyrent/"
+}

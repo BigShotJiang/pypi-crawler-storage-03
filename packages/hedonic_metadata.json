@@ -1,11 +1,11 @@
 {
   "name": "hedonic",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "A Python library for hedonic games",
   "author": "Lucas Lopes Felipe",
   "license": null,
   "home_page": null,
-  "download_filename": "hedonic-0.0.4.tar.gz",
-  "download_time": "2025-08-19T02:58:04.640707",
+  "download_filename": "hedonic-0.0.6.tar.gz",
+  "download_time": "2025-08-19T06:30:35.804394",
   "package_url": "https://pypi.org/project/hedonic/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pdf-requirement-extractor",
+  "version": "2.0.0",
+  "summary": "Extract structured brand requirements from PDF documents",
+  "author": "S M Asiful Islam Saky",
+  "license": null,
+  "home_page": "https://pypi.org/project/pdf-requirement-extractor/",
+  "download_filename": "pdf_requirement_extractor-2.0.0.tar.gz",
+  "download_time": "2025-08-19T06:30:16.397370",
+  "package_url": "https://pypi.org/project/pdf-requirement-extractor/"
+}
