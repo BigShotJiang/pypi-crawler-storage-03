@@ -1,0 +1,11 @@
+{
+  "name": "interactive-script-py",
+  "version": "1.0.7",
+  "summary": "A Python library to communicate with 'Interactive Script' VSCode extension.",
+  "author": "Andriy Viyatyk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "interactive_script_py-1.0.7.tar.gz",
+  "download_time": "2025-08-19T12:39:47.825990",
+  "package_url": "https://pypi.org/project/interactive-script-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quarto-batch-convert",
-  "version": "2025.8.8",
+  "version": "2025.8.9",
   "summary": "Converts multiple Jupyter notebooks to Quarto documents at once",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quarto_batch_convert-2025.8.8.tar.gz",
-  "download_time": "2025-08-17T17:41:00.384612",
+  "download_filename": "quarto_batch_convert-2025.8.9.tar.gz",
+  "download_time": "2025-08-19T12:40:12.632577",
   "package_url": "https://pypi.org/project/quarto-batch-convert/"
 }

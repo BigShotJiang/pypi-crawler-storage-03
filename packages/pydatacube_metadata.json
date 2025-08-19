@@ -1,0 +1,11 @@
+{
+  "name": "pydatacube",
+  "version": "0.1.7",
+  "summary": "Querying data cubes with Python using MDX inspired declarative syntax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydatacube-0.1.7.tar.gz",
+  "download_time": "2025-08-19T12:39:52.444188",
+  "package_url": "https://pypi.org/project/pydatacube/"
+}

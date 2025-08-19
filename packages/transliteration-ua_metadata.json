@@ -1,0 +1,11 @@
+{
+  "name": "transliteration-ua",
+  "version": "0.2.0",
+  "summary": "Ukrainian transliteration by official rules",
+  "author": "yakimka",
+  "license": "MIT",
+  "home_page": "https://github.com/yakimka/transliteration-ua",
+  "download_filename": "transliteration_ua-0.2.0.tar.gz",
+  "download_time": "2025-08-19T12:39:48.336999",
+  "package_url": "https://pypi.org/project/transliteration-ua/"
+}
