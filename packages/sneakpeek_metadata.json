@@ -1,0 +1,11 @@
+{
+  "name": "sneakpeek",
+  "version": "0.10.0",
+  "summary": "A python module to generate link previews.",
+  "author": "Ameya Shenoy",
+  "license": "MIT",
+  "home_page": "https://github.com/codingcoffee/sneakpeek",
+  "download_filename": "sneakpeek-0.10.0.tar.gz",
+  "download_time": "2025-08-19T22:42:26.051182",
+  "package_url": "https://pypi.org/project/sneakpeek/"
+}

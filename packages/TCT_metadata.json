@@ -1,0 +1,11 @@
+{
+  "name": "TCT",
+  "version": "0.1.3",
+  "summary": "Translator Component Toolkit",
+  "author": "Guangrong Qin",
+  "license": "MIT",
+  "home_page": "https://github.com/NCATSTranslator/Translator_component_toolkit",
+  "download_filename": "tct-0.1.3.tar.gz",
+  "download_time": "2025-08-19T22:42:48.630909",
+  "package_url": "https://pypi.org/project/TCT/"
+}
