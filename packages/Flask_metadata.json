@@ -1,0 +1,11 @@
+{
+  "name": "Flask",
+  "version": "3.1.2",
+  "summary": "A simple framework for building complex web applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask-3.1.2.tar.gz",
+  "download_time": "2025-08-19T21:18:36.002238",
+  "package_url": "https://pypi.org/project/Flask/"
+}

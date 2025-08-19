@@ -1,0 +1,11 @@
+{
+  "name": "apiq",
+  "version": "0.0.9",
+  "summary": "APIQ is a modern Python toolkit for building both synchronous and asynchronous API clients with clean, minimal code and full type safety.",
+  "author": "nessshon",
+  "license": "MIT",
+  "home_page": "https://github.com/nessshon/apiq",
+  "download_filename": "apiq-0.0.9.tar.gz",
+  "download_time": "2025-08-19T21:18:25.890462",
+  "package_url": "https://pypi.org/project/apiq/"
+}

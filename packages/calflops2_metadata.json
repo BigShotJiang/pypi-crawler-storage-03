@@ -1,11 +1,11 @@
 {
   "name": "calflops2",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A tool to calculate FLOPs and Params for neural networks",
   "author": "Andrij David",
   "license": null,
   "home_page": "https://github.com/andrijdavid/calculate-flops.pytorch",
-  "download_filename": "calflops2-0.1.1.tar.gz",
-  "download_time": "2025-08-19T15:42:55.309787",
+  "download_filename": "calflops2-0.1.2.tar.gz",
+  "download_time": "2025-08-19T21:18:37.611332",
   "package_url": "https://pypi.org/project/calflops2/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "marzban-client",
+  "version": "0.1.1",
+  "summary": "Async wrapper for Marzban panel API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marzban_client-0.1.1.tar.gz",
+  "download_time": "2025-08-19T21:18:46.162670",
+  "package_url": "https://pypi.org/project/marzban-client/"
+}

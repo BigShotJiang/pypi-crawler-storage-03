@@ -1,0 +1,11 @@
+{
+  "name": "cabek-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for C.A.B.E.K. biometric authentication",
+  "author": "C.A.B.E.K. Technologies",
+  "license": "MIT",
+  "home_page": "https://github.com/cabek-tech/cabek-python-sdk",
+  "download_filename": "cabek_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-19T21:18:40.278974",
+  "package_url": "https://pypi.org/project/cabek-sdk/"
+}

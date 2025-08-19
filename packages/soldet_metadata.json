@@ -1,0 +1,11 @@
+{
+  "name": "soldet",
+  "version": "2.0.0",
+  "summary": "A package for solitonic feature detection in absorption images of Bose-Einstein condensates, with wider use for cold atom image analysis.",
+  "author": "Shangjie Guo, Amilson R. Fritsch, Sophia M. Koh, Lisa Ritter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "soldet-2.0.0.tar.gz",
+  "download_time": "2025-08-19T21:18:49.303660",
+  "package_url": "https://pypi.org/project/soldet/"
+}
