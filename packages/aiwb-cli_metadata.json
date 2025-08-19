@@ -1,0 +1,11 @@
+{
+  "name": "aiwb-cli",
+  "version": "1.1.0",
+  "summary": "Renesas AI Workbench Command-Line Tools.",
+  "author": "Renesas AI Workbench",
+  "license": "Apache License 2.0",
+  "home_page": "https://ai.aws.renesasworkbench.com/",
+  "download_filename": "aiwb_cli-1.1.0.tar.gz",
+  "download_time": "2025-08-19T08:26:26.352166",
+  "package_url": "https://pypi.org/project/aiwb-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rhinomcp",
+  "version": "0.1.3.6",
+  "summary": "Rhino integration through the Model Context Protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rhinomcp-0.1.3.6.tar.gz",
+  "download_time": "2025-08-19T08:26:28.447805",
+  "package_url": "https://pypi.org/project/rhinomcp/"
+}

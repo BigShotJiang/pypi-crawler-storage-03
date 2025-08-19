@@ -1,11 +1,11 @@
 {
   "name": "chimsource",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "ChiMSource CLI: chimsource",
   "author": "Umut Cakir & Ali Yurtseven",
   "license": null,
   "home_page": "https://github.com/umutcakir/chimsource",
-  "download_filename": "chimsource-0.1.2.tar.gz",
-  "download_time": "2025-08-18T20:20:19.212688",
+  "download_filename": "chimsource-0.1.3.tar.gz",
+  "download_time": "2025-08-19T08:26:37.201612",
   "package_url": "https://pypi.org/project/chimsource/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fascraft",
+  "version": "0.4.1",
+  "summary": "A CLI for generating modular FastAPI projects with environment and dependency management",
+  "author": "Lutor Iyornumbe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fascraft-0.4.1.tar.gz",
+  "download_time": "2025-08-19T08:27:02.393651",
+  "package_url": "https://pypi.org/project/fascraft/"
+}

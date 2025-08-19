@@ -1,0 +1,11 @@
+{
+  "name": "SDS-Serverless-Data-Shield",
+  "version": "0.1.21",
+  "summary": "Ephemeral key-based encryption for secure serverless function execution",
+  "author": "Scott Choo, Sukyum Ahn, Gyupil Ko, Jaeho Lee",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sds_serverless_data_shield-0.1.21.tar.gz",
+  "download_time": "2025-08-19T08:26:34.628392",
+  "package_url": "https://pypi.org/project/SDS-Serverless-Data-Shield/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyflow-acdc",
+  "version": "0.4.0",
+  "summary": "A python-based tool for the design and analysis of hybrid AC/DC grids",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyflow_acdc-0.4.0.tar.gz",
+  "download_time": "2025-08-19T08:26:28.969212",
+  "package_url": "https://pypi.org/project/pyflow-acdc/"
+}

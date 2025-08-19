@@ -1,0 +1,11 @@
+{
+  "name": "dhenara-ai",
+  "version": "1.0.3",
+  "summary": "Dhenara Package for Multi Provider AI-Model API calls",
+  "author": "Dhenara",
+  "license": "MIT",
+  "home_page": "https://github.com/dhenara/dhenara-ai",
+  "download_filename": "dhenara_ai-1.0.3.tar.gz",
+  "download_time": "2025-08-19T08:26:40.287411",
+  "package_url": "https://pypi.org/project/dhenara-ai/"
+}

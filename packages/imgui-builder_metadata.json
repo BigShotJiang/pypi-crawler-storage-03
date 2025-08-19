@@ -1,0 +1,11 @@
+{
+  "name": "imgui-builder",
+  "version": "0.1.4",
+  "summary": "Framework designed to BUILD with imgui",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgui_builder-0.1.4.tar.gz",
+  "download_time": "2025-08-19T08:26:32.047933",
+  "package_url": "https://pypi.org/project/imgui-builder/"
+}

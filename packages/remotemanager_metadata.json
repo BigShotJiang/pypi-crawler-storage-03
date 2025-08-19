@@ -1,0 +1,11 @@
+{
+  "name": "remotemanager",
+  "version": "0.14.0",
+  "summary": "remote run management tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remotemanager-0.14.0.tar.gz",
+  "download_time": "2025-08-19T08:26:22.673907",
+  "package_url": "https://pypi.org/project/remotemanager/"
+}
