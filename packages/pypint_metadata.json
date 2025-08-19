@@ -1,0 +1,11 @@
+{
+  "name": "pypint",
+  "version": "1.6.4",
+  "summary": "Python interface to Pint",
+  "author": "Loïc Paulevé",
+  "license": "CeCILL",
+  "home_page": "http://loicpauleve.name/pint",
+  "download_filename": "pypint-1.6.4.tar.gz",
+  "download_time": "2025-08-19T22:52:14.821904",
+  "package_url": "https://pypi.org/project/pypint/"
+}

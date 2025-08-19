@@ -1,0 +1,11 @@
+{
+  "name": "foursight",
+  "version": "4.9.29",
+  "summary": "Serverless Chalice Application for Monitoring",
+  "author": "4DN-DCIC Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "foursight-4.9.29.tar.gz",
+  "download_time": "2025-08-19T22:52:15.353389",
+  "package_url": "https://pypi.org/project/foursight/"
+}

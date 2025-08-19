@@ -1,11 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T22:43:11.844276
-- **Total Packages**: 85
-- **Total Size**: 26.98 MB
+- **Download Time**: 2025-08-19T22:52:50.877150
+- **Total Packages**: 83
+- **Total Size**: 20.29 MB
 
 ## Packages List
+- hexora
+- finter
+- dweb
+- mysql-to-obsidian-bases
+- wandelbots-api-client
+- hydroserverpy
+- plotmath
+- scc-firewall-manager-sdk
+- pygpt-net
+- truss
+- ledger-cli-toolkit
+- torch-floating-point
+- elyzo
+- pypint
+- foursight
+- easy-utils-dev
+- xoflib
+- cdk-factory
+- polars-genson
+- langchain-aws
 - cfdb
 - streamlit-rockyroad-tools
 - troubleshoot-mcp-server
@@ -32,21 +52,17 @@
 - pulumi-gcp
 - craterpy
 - sbommage
-- ledger-cli-toolkit
 - rubin-scheduler
 - sima-cli
 - sportsball
 - obsidian-ai
-- truss
 - esphome
 - docmaplabs
-- easy-utils-dev
 - openinference-instrumentation-smolagents
 - gradboard
 - h2ogpte
 - git-digest
 - ecom-statics
-- hexora
 - fhlmi
 - ldp
 - slurm-factory
@@ -73,21 +89,3 @@
 - micron-builder
 - llama-stack
 - catweazle
-- llama-stack-client
-- elyzo
-- sibi-dst
-- cellxgene-schema
-- ai-pipeline-core
-- dckit
-- regula-documentreader-webclient
-- octue
-- ap-mail
-- eval-protocol
-- ap-cfg
-- urllib3_request
-- guidepost
-- versionator-mcp
-- monsterui
-- pulumi-splunk
-- requests_request
-- rodin
