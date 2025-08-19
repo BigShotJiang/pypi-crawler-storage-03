@@ -1,17 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T21:18:59.784617
-- **Total Packages**: 78
-- **Total Size**: 38.71 MB
+- **Download Time**: 2025-08-19T21:40:06.789197
+- **Total Packages**: 81
+- **Total Size**: 4.25 MB
 
 ## Packages List
+- lookup-license
+- layeutils
+- moose-lib
+- pyf-collection
 - random-allocation
+- kuroboros
+- psvmp
+- sdk-pytest-checkmate
+- argshold
+- rubpy
+- spgci
+- doccsy
+- numerai-tools
 - hanzo
 - xrayclient
 - amharicNLP
 - pynbntnmodem
-- numerai-tools
 - langchain-mongodb
 - tinygrad
 - llumo
@@ -76,11 +87,3 @@
 - kubelingo
 - leafmap
 - Geminis
-- rhea-mcp
-- nvidia-nat-opentelemetry
-- spd3303x
-- tencentcloud-sdk-python-intl-en
-- nominal-api-protos
-- nominal-api
-- nvidia-nat-phoenix
-- nvidia-nat-mem0ai

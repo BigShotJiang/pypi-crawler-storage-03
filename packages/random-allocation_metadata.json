@@ -1,11 +1,11 @@
 {
   "name": "random-allocation",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "Tools for analyzing and comparing different sampling schemes in differential privacy",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "random_allocation-0.9.0-py3-none-any.whl",
-  "download_time": "2025-08-19T21:18:17.888889",
+  "download_filename": "random_allocation-0.9.1-py3-none-any.whl",
+  "download_time": "2025-08-19T21:39:25.692357",
   "package_url": "https://pypi.org/project/random-allocation/"
 }
