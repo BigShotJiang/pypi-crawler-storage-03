@@ -1,11 +1,11 @@
 {
   "name": "dash-fullcalendar",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Plotly Dash wrapper for FullCalendar",
   "author": "Scott Kilgore <skilgore@landmarktx.com>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dash_fullcalendar-0.1.1.tar.gz",
-  "download_time": "2025-08-19T21:51:26.313818",
+  "download_filename": "dash_fullcalendar-0.1.2.tar.gz",
+  "download_time": "2025-08-19T22:20:58.795128",
   "package_url": "https://pypi.org/project/dash-fullcalendar/"
 }

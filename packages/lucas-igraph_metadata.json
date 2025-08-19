@@ -1,11 +1,11 @@
 {
   "name": "lucas-igraph",
-  "version": "0.11.9",
+  "version": "0.11.9.2",
   "summary": "High performance graph data structures and algorithms",
   "author": "Tamas Nepusz",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://github.com/lucaslopes/python-igraph",
-  "download_filename": "lucas-igraph-0.11.9.tar.gz",
-  "download_time": "2025-08-19T18:26:29.756038",
+  "download_filename": "lucas-igraph-0.11.9.2.tar.gz",
+  "download_time": "2025-08-19T22:20:34.166352",
   "package_url": "https://pypi.org/project/lucas-igraph/"
 }

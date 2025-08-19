@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-transfer",
+  "version": "0.10",
+  "summary": "Content transfer for Wagtail",
+  "author": "Matthew Westcott",
+  "license": "BSD",
+  "home_page": "https://github.com/wagtail/wagtail-transfer",
+  "download_filename": "wagtail_transfer-0.10.tar.gz",
+  "download_time": "2025-08-19T22:20:54.574272",
+  "package_url": "https://pypi.org/project/wagtail-transfer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ap-mail",
-  "version": "1.0.1.20250817",
+  "version": "1.1.0.20250819",
   "summary": "Application for Mailing",
   "author": "Bernd Stroehle",
   "license": null,
   "home_page": null,
-  "download_filename": "ap_mail-1.0.1.20250817.tar.gz",
-  "download_time": "2025-08-17T19:28:37.526846",
+  "download_filename": "ap_mail-1.1.0.20250819.tar.gz",
+  "download_time": "2025-08-19T22:20:42.063641",
   "package_url": "https://pypi.org/project/ap-mail/"
 }

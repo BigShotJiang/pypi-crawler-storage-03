@@ -1,0 +1,11 @@
+{
+  "name": "zoho-somconnexio-python-client",
+  "version": "0.1.2",
+  "summary": "Python wrapper for SomConnexio's Zoho (using REST API)",
+  "author": "SomConnexio",
+  "license": null,
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/zoho/zoho-somconnexio-python-client",
+  "download_filename": "zoho-somconnexio-python-client-0.1.2.tar.gz",
+  "download_time": "2025-08-19T22:20:59.831508",
+  "package_url": "https://pypi.org/project/zoho-somconnexio-python-client/"
+}

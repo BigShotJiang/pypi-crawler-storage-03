@@ -1,0 +1,11 @@
+{
+  "name": "pycurl_request",
+  "version": "0.0.3.1",
+  "summary": "pycurl request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/pycurl_request",
+  "download_filename": "pycurl_request-0.0.3.1.tar.gz",
+  "download_time": "2025-08-19T22:20:50.426219",
+  "package_url": "https://pypi.org/project/pycurl_request/"
+}

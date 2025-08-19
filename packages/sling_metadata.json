@@ -1,0 +1,11 @@
+{
+  "name": "sling",
+  "version": "1.4.17",
+  "summary": "Slings data from a source to a target",
+  "author": "Sling Data",
+  "license": null,
+  "home_page": "https://github.com/slingdata-io/sling-python",
+  "download_filename": "sling-1.4.17.tar.gz",
+  "download_time": "2025-08-19T22:20:53.545825",
+  "package_url": "https://pypi.org/project/sling/"
+}

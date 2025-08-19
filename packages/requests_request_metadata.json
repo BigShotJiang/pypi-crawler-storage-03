@@ -1,0 +1,11 @@
+{
+  "name": "requests_request",
+  "version": "0.1.2.2",
+  "summary": "requests request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/requests_request",
+  "download_filename": "requests_request-0.1.2.2.tar.gz",
+  "download_time": "2025-08-19T22:20:46.255935",
+  "package_url": "https://pypi.org/project/requests_request/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rodin",
-  "version": "1.9.5",
+  "version": "1.9.6",
   "summary": "A comprehensive toolkit for processing and analyzing metabolomics data.",
   "author": "Boris Minasenko",
   "license": null,
   "home_page": "https://github.com/BM-Boris/rodin",
-  "download_filename": "rodin-1.9.5.tar.gz",
-  "download_time": "2025-08-19T21:51:25.794098",
+  "download_filename": "rodin-1.9.6.tar.gz",
+  "download_time": "2025-08-19T22:20:46.784239",
   "package_url": "https://pypi.org/project/rodin/"
 }

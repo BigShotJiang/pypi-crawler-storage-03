@@ -1,0 +1,11 @@
+{
+  "name": "octue",
+  "version": "0.68.0",
+  "summary": "A package providing template applications for data services, and a python SDK to the Octue API.",
+  "author": "Marcus Lugg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octue-0.68.0.tar.gz",
+  "download_time": "2025-08-19T22:20:41.026002",
+  "package_url": "https://pypi.org/project/octue/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gavaconnect-sdk-python",
+  "version": "0.1.2",
+  "summary": "Python SDK for GavaConnect API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gavaconnect_sdk_python-0.1.2.tar.gz",
+  "download_time": "2025-08-19T22:20:29.254052",
+  "package_url": "https://pypi.org/project/gavaconnect-sdk-python/"
+}

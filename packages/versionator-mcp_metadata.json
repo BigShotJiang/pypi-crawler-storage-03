@@ -1,11 +1,11 @@
 {
   "name": "versionator-mcp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "An MCP server that queries package registries (npm, RubyGems, PyPI, Hex.pm) for latest package versions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "versionator_mcp-1.0.3.tar.gz",
-  "download_time": "2025-08-19T17:51:54.924034",
+  "download_filename": "versionator_mcp-1.0.4.tar.gz",
+  "download_time": "2025-08-19T22:20:44.683559",
   "package_url": "https://pypi.org/project/versionator-mcp/"
 }

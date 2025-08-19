@@ -1,11 +1,11 @@
 {
   "name": "ledger-cli-toolkit",
-  "version": "1.8.0",
+  "version": "1.8.3",
   "summary": "Library for manipulating accounting files in .ledger format.",
   "author": "Eduardo Rangel",
   "license": "MIT",
   "home_page": "https://github.com/EddyBel/Ledgerpy",
-  "download_filename": "ledger_cli_toolkit-1.8.0.tar.gz",
-  "download_time": "2025-08-19T21:51:10.914678",
+  "download_filename": "ledger_cli_toolkit-1.8.3.tar.gz",
+  "download_time": "2025-08-19T22:20:41.545172",
   "package_url": "https://pypi.org/project/ledger-cli-toolkit/"
 }

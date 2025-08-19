@@ -1,0 +1,11 @@
+{
+  "name": "dckit",
+  "version": "0.17.7",
+  "summary": "Graphical toolkit for RT-DC data management",
+  "author": "Paul Müller",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/DC-analysis/DCKit",
+  "download_filename": "dckit-0.17.7.tar.gz",
+  "download_time": "2025-08-19T22:20:38.923498",
+  "package_url": "https://pypi.org/project/dckit/"
+}
