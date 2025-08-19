@@ -1,0 +1,11 @@
+{
+  "name": "django-user-defined-fields",
+  "version": "0.0.23",
+  "summary": "A Django app for user defined fields",
+  "author": "Aidan Lister",
+  "license": "MIT",
+  "home_page": "https://github.com/uptick/django-user-defined-fields/",
+  "download_filename": "django_user_defined_fields-0.0.23.tar.gz",
+  "download_time": "2025-08-19T23:52:03.677314",
+  "package_url": "https://pypi.org/project/django-user-defined-fields/"
+}

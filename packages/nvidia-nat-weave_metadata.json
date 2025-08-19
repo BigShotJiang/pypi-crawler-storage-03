@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-weave",
-  "version": "1.3a20250819",
+  "version": "1.2.0",
   "summary": "Subpackage for Weave integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_weave-1.3a20250819-py3-none-any.whl",
-  "download_time": "2025-08-19T10:55:58.011068",
+  "download_filename": "nvidia_nat_weave-1.2.0-py3-none-any.whl",
+  "download_time": "2025-08-19T23:51:54.722311",
   "package_url": "https://pypi.org/project/nvidia-nat-weave/"
 }

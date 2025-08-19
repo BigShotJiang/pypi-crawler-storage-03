@@ -1,11 +1,11 @@
 {
   "name": "autocoder-ai",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "summary": "AI-powered multi-agent development platform for autonomous code generation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autocoder_ai-2.0.9.tar.gz",
-  "download_time": "2025-08-19T21:18:24.308243",
+  "download_filename": "autocoder_ai-2.0.10.tar.gz",
+  "download_time": "2025-08-19T23:51:44.211520",
   "package_url": "https://pypi.org/project/autocoder-ai/"
 }

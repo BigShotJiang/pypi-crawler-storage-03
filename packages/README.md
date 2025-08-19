@@ -1,11 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T23:40:16.506489
-- **Total Packages**: 87
-- **Total Size**: 4.95 MB
+- **Download Time**: 2025-08-19T23:52:24.665003
+- **Total Packages**: 89
+- **Total Size**: 13.18 MB
 
 ## Packages List
+- omdev
+- fichier
+- zylo-docs
+- moose-lib
+- nvidia-nat-opentelemetry
+- nvidia-nat-phoenix
+- contextlite
+- nvidia-nat-mem0ai
+- dragonfly-uwg
+- foxglove2zmq
+- pyrat-game
+- medicafe
+- nvidia-nat-mysql
+- autocoder-ai
+- nvidia-nat-crewai
+- nvidia-nat-agno
+- nvidia-nat-llama-index
+- zylib-test
+- nvidia-nat-all
+- nvidia-nat-redis
+- lucas-igraph
+- ri-common
+- nvidia-nat-profiling
+- redivis
+- nvidia-nat-ingestion
+- nvidia-nat-langchain
+- omdev-cli
+- nvidia-nat-zep-cloud
+- omdev-cext
+- nvidia-nat-s3
+- nvidia-nat
+- nvidia-nat-ragaai
+- nvidia-nat-weave
+- nvidia-nat-semantic-kernel
+- ob-metaflow-extensions
+- nvidia-nat-test
+- aiqtoolkit-langchain
+- aiqtoolkit-zep-cloud
+- pvevti
+- sportsball
+- aiqtoolkit
+- aiqtoolkit-agno
+- yta-general-utils
+- aiqtoolkit-mem0ai
+- lbt-dragonfly
+- orionis
+- aiqtoolkit-semantic-kernel
+- ollama-mcp-bridge
+- aiqtoolkit-llama-index
+- django-user-defined-fields
+- datatools-py
+- aiqtoolkit-test
+- kaya-module-sdk
+- aiqtoolkit-weave
 - aiqtoolkit-crewai
 - aind-sharepoint-service-client
 - elyzo
@@ -13,7 +67,6 @@
 - relab-rpi-cam-models
 - slimformers
 - yt-dlp
-- lbt-dragonfly
 - terminator-py
 - gable
 - shareddata
@@ -23,7 +76,6 @@
 - nv-ingest-client
 - dragonfly-energy
 - dragonfly-radiance
-- dragonfly-uwg
 - spei-python
 - aphie
 - chawk
@@ -32,7 +84,6 @@
 - genu
 - ai-proxy-core
 - openrpc
-- foxglove2zmq
 - dist-s1
 - graphlit-client
 - harmony-midi-token
@@ -43,53 +94,4 @@
 - jeanmemory
 - zimagi
 - dj-angles
-- orionis
 - prc.api
-- airbyte-source-faker
-- sportsball
-- hari-data
-- versionator-mcp
-- dragonfly-core
-- astroemperor
-- sinapsis-retina-face-trt
-- veri-agents-api
-- medicafe
-- hybrid-vectorizer
-- syllable-sdk
-- dita-cleanup
-- finbourne-horizon-sdk
-- gradboard
-- debabelizer
-- roboto
-- igvf-utils
-- airbyte-source-facebook-marketing
-- syntaxmatrix
-- pretix-pix-openpix
-- vllm-cli
-- armonik
-- osbot-fast-api-serverless
-- easy-utils-dev
-- sqlmesh
-- flwr-nightly
-- datasette-alerts-discord
-- sleap-io
-- cdfwriter
-- composabl
-- aider-lint-fixer
-- pyfabricops
-- composabl-core
-- composabl-train
-- composabl-cli
-- composabl-api
-- dycw-utilities
-- datacontract-helper
-- composabl-train-dev
-- composabl-api-dev
-- composabl-dev
-- composabl-cli-dev
-- latch-aws
-- mcp-django-shell
-- firexapp
-- torch-floating-point
-- roshtools
-- pytest-accept
