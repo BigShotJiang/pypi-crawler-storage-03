@@ -1,0 +1,11 @@
+{
+  "name": "salome-pybatch",
+  "version": "1.0",
+  "summary": "Job management on remote computers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salome_pybatch-1.0.tar.gz",
+  "download_time": "2025-08-19T14:45:17.366730",
+  "package_url": "https://pypi.org/project/salome-pybatch/"
+}

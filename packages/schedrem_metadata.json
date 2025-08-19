@@ -1,0 +1,11 @@
+{
+  "name": "schedrem",
+  "version": "1.4.4",
+  "summary": "A cross-platform task scheduler and reminder configured in YAML.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schedrem-1.4.4.tar.gz",
+  "download_time": "2025-08-19T14:45:28.008733",
+  "package_url": "https://pypi.org/project/schedrem/"
+}

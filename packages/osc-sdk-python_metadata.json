@@ -1,0 +1,11 @@
+{
+  "name": "osc-sdk-python",
+  "version": "0.36.0",
+  "summary": "Outscale Gateway python SDK",
+  "author": "Outscal SAS",
+  "license": null,
+  "home_page": "https://github.com/outscale/osc_sdk_python",
+  "download_filename": "osc_sdk_python-0.36.0.tar.gz",
+  "download_time": "2025-08-19T14:45:14.693776",
+  "package_url": "https://pypi.org/project/osc-sdk-python/"
+}

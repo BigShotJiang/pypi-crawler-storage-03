@@ -1,0 +1,11 @@
+{
+  "name": "musicgen-trainer",
+  "version": "1.0.1",
+  "summary": "A module for advanced music generation and synthesis.",
+  "author": "Flana",
+  "license": null,
+  "home_page": "https://github.com/yourusername/musicgen_trainer",
+  "download_filename": "musicgen_trainer-1.0.1.tar.gz",
+  "download_time": "2025-08-19T14:45:51.939878",
+  "package_url": "https://pypi.org/project/musicgen-trainer/"
+}
