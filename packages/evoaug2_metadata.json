@@ -1,11 +1,11 @@
 {
   "name": "evoaug2",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Evolution-Inspired Data Augmentation for Genomic Sequences - DataLoader Version",
   "author": "Peter K. Koo",
   "license": "MIT",
   "home_page": "https://github.com/aduranu/evoaug",
-  "download_filename": "evoaug2-2.0.2.tar.gz",
-  "download_time": "2025-08-19T19:16:07.446376",
+  "download_filename": "evoaug2-2.0.3.tar.gz",
+  "download_time": "2025-08-19T20:22:23.408006",
   "package_url": "https://pypi.org/project/evoaug2/"
 }

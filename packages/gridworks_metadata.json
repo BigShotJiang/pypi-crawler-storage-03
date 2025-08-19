@@ -1,11 +1,11 @@
 {
   "name": "gridworks",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "Gridworks",
   "author": "GridWorks",
   "license": "MIT",
   "home_page": "https://github.com/thegridelectric/gridworks",
-  "download_filename": "gridworks-1.5.2.tar.gz",
-  "download_time": "2025-08-19T15:43:05.210036",
+  "download_filename": "gridworks-1.5.3.tar.gz",
+  "download_time": "2025-08-19T20:22:33.326591",
   "package_url": "https://pypi.org/project/gridworks/"
 }

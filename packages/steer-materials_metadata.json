@@ -1,11 +1,11 @@
 {
   "name": "steer-materials",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Modelling energy storage from cell to site - STEER OpenCell Design",
   "author": "Nicholas Siemons",
   "license": null,
   "home_page": "https://github.com/stanford-developers/steer-materials/",
-  "download_filename": "steer_materials-0.1.5.tar.gz",
-  "download_time": "2025-08-19T19:51:39.075850",
+  "download_filename": "steer_materials-0.1.7.tar.gz",
+  "download_time": "2025-08-19T20:22:24.433956",
   "package_url": "https://pypi.org/project/steer-materials/"
 }

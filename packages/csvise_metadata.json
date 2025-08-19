@@ -1,11 +1,11 @@
 {
   "name": "csvise",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "summary": "CLI Tools for Tabular Data - CSV analysis, validation, and beautiful display",
   "author": "Rawsab Said",
   "license": null,
   "home_page": "https://github.com/rawsabsaid/csvise-cli-tool",
-  "download_filename": "csvise-1.2.0.tar.gz",
-  "download_time": "2025-08-19T19:41:07.557422",
+  "download_filename": "csvise-1.2.2.tar.gz",
+  "download_time": "2025-08-19T20:22:06.842147",
   "package_url": "https://pypi.org/project/csvise/"
 }

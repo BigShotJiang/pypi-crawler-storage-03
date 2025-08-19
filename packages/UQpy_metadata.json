@@ -1,0 +1,11 @@
+{
+  "name": "UQpy",
+  "version": "4.2.1",
+  "summary": "UQpy is a general purpose toolbox for Uncertainty Quantification",
+  "author": "Michael D. Shields, Dimitris G. Giovanis, Audrey Olivier, Aakash Bangalore-Satish, Mohit Chauhan, Lohit Vandanapu, Ketson R.M. dos Santos",
+  "license": "MIT",
+  "home_page": "https://github.com/SURGroup/UQpy",
+  "download_filename": "UQpy-4.2.1.tar.gz",
+  "download_time": "2025-08-19T20:22:18.765152",
+  "package_url": "https://pypi.org/project/UQpy/"
+}

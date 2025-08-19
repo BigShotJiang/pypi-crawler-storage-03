@@ -1,0 +1,11 @@
+{
+  "name": "swapdog",
+  "version": "0.1.0",
+  "summary": "Monitors RAM usage and enables swap devices",
+  "author": null,
+  "license": "GNU General Public License v3.0 only",
+  "home_page": null,
+  "download_filename": "swapdog-0.1.0.tar.gz",
+  "download_time": "2025-08-19T20:22:24.946224",
+  "package_url": "https://pypi.org/project/swapdog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-pool",
+  "version": "0.6.1",
+  "summary": "a thread-safe connection pool for ClickHouse",
+  "author": "Eric McCarthy",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://ericmccarthy7.github.io/clickhouse-pool/",
+  "download_filename": "clickhouse_pool-0.6.1.tar.gz",
+  "download_time": "2025-08-19T20:21:55.060606",
+  "package_url": "https://pypi.org/project/clickhouse-pool/"
+}
