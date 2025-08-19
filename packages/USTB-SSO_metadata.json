@@ -1,0 +1,11 @@
+{
+  "name": "USTB-SSO",
+  "version": "1.2.0",
+  "summary": "USTB Single Sign-On Authentication Library",
+  "author": "Harry Huang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ustb_sso-1.2.0.tar.gz",
+  "download_time": "2025-08-19T05:19:28.755319",
+  "package_url": "https://pypi.org/project/USTB-SSO/"
+}

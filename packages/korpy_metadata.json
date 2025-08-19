@@ -1,11 +1,11 @@
 {
   "name": "korpy",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A handy toolkit for korean texts",
   "author": "MatthewKim",
   "license": null,
   "home_page": "https://github.com/MatthewKim12/korpy",
-  "download_filename": "korpy-0.0.2.tar.gz",
-  "download_time": "2025-08-19T04:33:15.041906",
+  "download_filename": "korpy-0.0.3.tar.gz",
+  "download_time": "2025-08-19T05:19:30.367444",
   "package_url": "https://pypi.org/project/korpy/"
 }

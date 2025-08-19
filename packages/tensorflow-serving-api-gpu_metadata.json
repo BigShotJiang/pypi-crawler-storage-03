@@ -1,0 +1,11 @@
+{
+  "name": "tensorflow-serving-api-gpu",
+  "version": "2.19.1",
+  "summary": "TensorFlow Serving Python API.",
+  "author": "Google Inc.",
+  "license": "Apache 2.0",
+  "home_page": "http://tensorflow.org/serving",
+  "download_filename": "tensorflow_serving_api_gpu-2.19.1-py2.py3-none-any.whl",
+  "download_time": "2025-08-19T05:19:46.311878",
+  "package_url": "https://pypi.org/project/tensorflow-serving-api-gpu/"
+}
