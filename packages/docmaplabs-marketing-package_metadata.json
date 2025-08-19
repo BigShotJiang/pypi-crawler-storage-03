@@ -1,0 +1,11 @@
+{
+  "name": "docmaplabs-marketing-package",
+  "version": "0.2.1",
+  "summary": "Twitter Lead Generation + Healthcare agent (OpenRouter + Airtable) with optional FastAPI and poller",
+  "author": "Docmap.co.UK",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docmaplabs_marketing_package-0.2.1.tar.gz",
+  "download_time": "2025-08-19T10:21:26.735548",
+  "package_url": "https://pypi.org/project/docmaplabs-marketing-package/"
+}

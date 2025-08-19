@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-odoo",
+  "version": "3.3.1",
+  "summary": "A library to help package Odoo addons with setuptools",
+  "author": "ACSONE SA/NV",
+  "license": "LGPLv3",
+  "home_page": "http://github.com/acsone/setuptools-odoo",
+  "download_filename": "setuptools_odoo-3.3.1.tar.gz",
+  "download_time": "2025-08-19T10:21:32.394516",
+  "package_url": "https://pypi.org/project/setuptools-odoo/"
+}

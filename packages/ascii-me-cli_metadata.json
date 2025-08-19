@@ -1,0 +1,11 @@
+{
+  "name": "ascii-me-cli",
+  "version": "0.1.0",
+  "summary": "Convierte imágenes y GIFs en animaciones ASCII en la terminal",
+  "author": "WetZap",
+  "license": null,
+  "home_page": "https://github.com/WetZap/Ascii-Me",
+  "download_filename": "ascii_me_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-19T10:21:24.167217",
+  "package_url": "https://pypi.org/project/ascii-me-cli/"
+}

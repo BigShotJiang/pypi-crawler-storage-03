@@ -1,11 +1,11 @@
 {
   "name": "chainsoup",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A fluent, pipeline-based interface for querying HTML/XML with BeautifulSoup.",
   "author": "ThefCraft",
   "license": null,
   "home_page": "https://github.com/thefcraft/chainsoup",
-  "download_filename": "chainsoup-0.1.7.tar.gz",
-  "download_time": "2025-08-18T20:52:36.248274",
+  "download_filename": "chainsoup-0.1.8.tar.gz",
+  "download_time": "2025-08-19T10:21:13.349705",
   "package_url": "https://pypi.org/project/chainsoup/"
 }

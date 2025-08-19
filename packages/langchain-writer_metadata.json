@@ -1,0 +1,11 @@
+{
+  "name": "langchain-writer",
+  "version": "0.3.3",
+  "summary": "An integration package connecting Writer and LangChain",
+  "author": "Writer, Inc.",
+  "license": "MIT",
+  "home_page": "https://www.writer.com",
+  "download_filename": "langchain_writer-0.3.3.tar.gz",
+  "download_time": "2025-08-19T10:21:03.552708",
+  "package_url": "https://pypi.org/project/langchain-writer/"
+}

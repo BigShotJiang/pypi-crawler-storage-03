@@ -1,11 +1,11 @@
 {
   "name": "axon-api",
-  "version": "0.2.1",
+  "version": "0.9.0",
   "summary": "Zero-dependency WSGI framework with request batching, multipart streaming, and HTTP range support. Built for applications that require high performance without the bloat.",
   "author": "B LLC",
   "license": "MIT",
   "home_page": "https://github.com/b-is-for-build/axon-api",
-  "download_filename": "axon_api-0.2.1.tar.gz",
-  "download_time": "2025-08-17T10:43:18.752404",
+  "download_filename": "axon_api-0.9.0.tar.gz",
+  "download_time": "2025-08-19T10:21:05.131291",
   "package_url": "https://pypi.org/project/axon-api/"
 }

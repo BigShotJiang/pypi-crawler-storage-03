@@ -1,11 +1,11 @@
 {
   "name": "nrl-sdk-lib",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "A library for working with the NRL SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nrl_sdk_lib-0.1.13.tar.gz",
-  "download_time": "2025-08-19T09:42:57.140586",
+  "download_filename": "nrl_sdk_lib-0.1.14.tar.gz",
+  "download_time": "2025-08-19T10:21:35.486985",
   "package_url": "https://pypi.org/project/nrl-sdk-lib/"
 }
