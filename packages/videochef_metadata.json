@@ -1,11 +1,11 @@
 {
   "name": "videochef",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Whip up some fast, embarrassingly parallel video processing",
   "author": "Jonah Pearl",
   "license": "MIT",
   "home_page": "https://github.com/jonahpearl/videochef",
-  "download_filename": "videochef-0.2.1.tar.gz",
-  "download_time": "2025-08-19T18:26:33.748539",
+  "download_filename": "videochef-0.2.2.tar.gz",
+  "download_time": "2025-08-19T19:29:22.581717",
   "package_url": "https://pypi.org/project/videochef/"
 }

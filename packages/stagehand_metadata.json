@@ -1,0 +1,11 @@
+{
+  "name": "stagehand",
+  "version": "0.5.1",
+  "summary": "Python SDK for Stagehand",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stagehand-0.5.1.tar.gz",
+  "download_time": "2025-08-19T19:29:09.314168",
+  "package_url": "https://pypi.org/project/stagehand/"
+}

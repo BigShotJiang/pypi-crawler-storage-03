@@ -1,15 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T19:16:49.763824
-- **Total Packages**: 82
-- **Total Size**: 30.41 MB
+- **Download Time**: 2025-08-19T19:29:47.357439
+- **Total Packages**: 77
+- **Total Size**: 12.06 MB
 
 ## Packages List
+- kwik
+- modelswrkpi
+- steer-core
+- abstract-gui
+- nanoplot
+- kitcoda
+- neatlogs
+- durabletask.azuremanaged
+- stagehand
+- tobiko-cloud-pydantic
+- txgraffiti
+- tobiko-cloud-api-client
+- super-cc
+- context-log-python
+- tobiko-cloud-helpers
+- sensory-data-client
+- dadosic-selenium
+- structregistry
+- dashlab
+- centra-sdk
+- writer-sdk
+- hape
+- codegen
+- cs-models
+- django-bulk-hooks
+- Pydata-visualizer
+- dxpy
+- scriptcraft-python
+- arize
+- hurahura
+- gammarers.aws-frontend-web-app-deploy-stack
+- micropython-stubber
+- HS-TasNet
+- videochef
+- python-terminusgps
+- kececinumbers
+- whisperlivekit
+- agemcp
 - dsjson
 - docxcomtpl
 - ormysql
-- dashlab
 - quantinuum-sphinx
 - coiled
 - quickinsights
@@ -18,19 +55,16 @@
 - vital
 - fes-calculator
 - find-executable
-- HS-TasNet
 - cmbagent
 - evoaug2
 - methodosintscan
 - ivybloom
 - agentcraft-db-client
-- codegen
 - pytour
 - gradio-client
 - lfx
 - odoo-addon-helpdesk-mgmt
 - mythologizer-postgres
-- abstract-gui
 - catchery
 - cmbagent-autogen
 - outerbounds
@@ -49,42 +83,3 @@
 - ob-metaflow-extensions
 - fostrom
 - mseedlib
-- context-log-python
-- python-terminusgps
-- nzilbb-labbcat
-- structifyai
-- dkist-service-configuration
-- napari_video
-- workspace-mcp
-- compressed-tensors
-- qiskit-ibm-runtime
-- strangeworks-core
-- binsync
-- openvancy
-- Herkules
-- pipeloom
-- airbyte-source-faker
-- docent-python
-- configcraft
-- adafruit-circuitpython-epd
-- spatialise
-- ork.build
-- steer-materials
-- mirumoji
-- orionis
-- incogniton
-- csp
-- botmark
-- mcp-django-shell
-- libretificacaotjcore
-- typer_model_args
-- reqif
-- rms-pdstable
-- momovu
-- actscene-ocr
-- pygpt-net
-- canonmap
-- virt-wrapper
-- autogen-ext
-- autogen-core
-- autogen-agentchat

@@ -1,0 +1,11 @@
+{
+  "name": "neatlogs",
+  "version": "1.0.0",
+  "summary": "A Python package for extracting and managing LLM logs to build a collaborative workspace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neatlogs-1.0.0.tar.gz",
+  "download_time": "2025-08-19T19:29:08.272302",
+  "package_url": "https://pypi.org/project/neatlogs/"
+}
