@@ -1,0 +1,11 @@
+{
+  "name": "turing-bot-client",
+  "version": "0.0.4",
+  "summary": "This library allows the development of bots for the turing game on play.turinggame.ai",
+  "author": "Simon Schmid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "turing_bot_client-0.0.4.tar.gz",
+  "download_time": "2025-08-19T08:49:34.200846",
+  "package_url": "https://pypi.org/project/turing-bot-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fdsnnetextender",
+  "version": "4.0.0",
+  "summary": "Fetching extended network code",
+  "author": "Jonathan Schaeffer, RESIF",
+  "license": null,
+  "home_page": "https://gricad-gitlab.univ-grenoble-alpes.fr/OSUG/RESIF/fdsnnetextender",
+  "download_filename": "fdsnnetextender-4.0.0.tar.gz",
+  "download_time": "2025-08-19T08:50:02.115892",
+  "package_url": "https://pypi.org/project/fdsnnetextender/"
+}

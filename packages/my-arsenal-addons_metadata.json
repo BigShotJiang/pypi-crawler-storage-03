@@ -1,0 +1,11 @@
+{
+  "name": "my-arsenal-addons",
+  "version": "0.1.0",
+  "summary": "一键部署自定义 cheatsheets 到 Arsenal 工具的自定义命令目录",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourname/my-arsenal-addons",
+  "download_filename": "my_arsenal_addons-0.1.0.tar.gz",
+  "download_time": "2025-08-19T08:49:39.436658",
+  "package_url": "https://pypi.org/project/my-arsenal-addons/"
+}

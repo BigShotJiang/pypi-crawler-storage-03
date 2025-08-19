@@ -1,0 +1,11 @@
+{
+  "name": "fastfetch-bin-edge",
+  "version": "2.50.2",
+  "summary": "Binary distribution of fastfetch CLI tool via pip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastfetch_bin_edge-2.50.2-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-19T08:49:37.344947",
+  "package_url": "https://pypi.org/project/fastfetch-bin-edge/"
+}

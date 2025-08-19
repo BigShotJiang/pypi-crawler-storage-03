@@ -1,11 +1,11 @@
 {
   "name": "drx-protocol",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "DrX protocol",
   "author": "DrX Works",
   "license": null,
   "home_page": "https://drx.works/",
-  "download_filename": "drx_protocol-1.0.3.tar.gz",
-  "download_time": "2025-08-18T10:48:17.089281",
+  "download_filename": "drx_protocol-1.0.4.tar.gz",
+  "download_time": "2025-08-19T08:49:41.019023",
   "package_url": "https://pypi.org/project/drx-protocol/"
 }

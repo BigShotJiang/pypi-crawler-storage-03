@@ -1,0 +1,11 @@
+{
+  "name": "wxdb",
+  "version": "0.0.2",
+  "summary": "wechat database manager.",
+  "author": "Msky",
+  "license": "MIT",
+  "home_page": "https://github.com/miloira/wxdb",
+  "download_filename": "wxdb-0.0.2.tar.gz",
+  "download_time": "2025-08-19T08:50:01.078222",
+  "package_url": "https://pypi.org/project/wxdb/"
+}
