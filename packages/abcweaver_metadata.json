@@ -1,0 +1,11 @@
+{
+  "name": "abcweaver",
+  "version": "0.1.1",
+  "summary": "🎼 ABC ↔ MusicXML Transformation Engine with Redis Stream Processing",
+  "author": "G.Music Assembly",
+  "license": "MIT",
+  "home_page": "https://github.com/gerico1007/abcweaver",
+  "download_filename": "abcweaver-0.1.1.tar.gz",
+  "download_time": "2025-08-19T18:27:10.619338",
+  "package_url": "https://pypi.org/project/abcweaver/"
+}

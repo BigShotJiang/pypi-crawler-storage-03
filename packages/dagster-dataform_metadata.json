@@ -1,0 +1,11 @@
+{
+  "name": "dagster-dataform",
+  "version": "0.0.1",
+  "summary": "A Dagster integration for Dataform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dagster_dataform-0.0.1.tar.gz",
+  "download_time": "2025-08-19T18:27:06.122784",
+  "package_url": "https://pypi.org/project/dagster-dataform/"
+}

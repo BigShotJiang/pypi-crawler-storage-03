@@ -1,11 +1,11 @@
 {
   "name": "torch-floating-point",
-  "version": "0.0.3",
-  "summary": "Floating Point Quantization Library",
+  "version": "0.0.6",
+  "summary": "A PyTorch library for custom floating point quantization with autograd support",
   "author": "Samir Moustafa",
   "license": null,
   "home_page": "https://github.com/SamirMoustafa/torch-floating-point",
-  "download_filename": "torch-floating-point-0.0.3.tar.gz",
-  "download_time": "2025-08-19T16:24:57.224470",
+  "download_filename": "torch-floating-point-0.0.6.tar.gz",
+  "download_time": "2025-08-19T18:26:51.202882",
   "package_url": "https://pypi.org/project/torch-floating-point/"
 }

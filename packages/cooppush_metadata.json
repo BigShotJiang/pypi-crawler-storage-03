@@ -1,11 +1,11 @@
 {
   "name": "cooppush",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "MPE inspired push environment with tunable inter-action dependence for coop MARL",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cooppush-1.0.3-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2025-08-18T21:51:11.704897",
+  "download_filename": "cooppush-1.1.0-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-19T18:26:53.583236",
   "package_url": "https://pypi.org/project/cooppush/"
 }

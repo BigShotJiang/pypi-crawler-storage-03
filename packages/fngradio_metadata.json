@@ -1,11 +1,11 @@
 {
   "name": "fngradio",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "summary": "Define Gradio using type hints",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fngradio-0.0.5.tar.gz",
-  "download_time": "2025-08-19T04:00:31.596430",
+  "download_filename": "fngradio-0.0.8.tar.gz",
+  "download_time": "2025-08-19T18:27:10.046947",
   "package_url": "https://pypi.org/project/fngradio/"
 }
