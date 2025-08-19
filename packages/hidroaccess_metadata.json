@@ -1,0 +1,11 @@
+{
+  "name": "hidroaccess",
+  "version": "1.1.1",
+  "summary": "Pacote para download de dados da ANA",
+  "author": "Miguel Brondani",
+  "license": "MIT",
+  "home_page": "https://github.com/mBrond/AccessHidroWebService",
+  "download_filename": "hidroaccess-1.1.1.tar.gz",
+  "download_time": "2025-08-19T21:51:08.775019",
+  "package_url": "https://pypi.org/project/hidroaccess/"
+}

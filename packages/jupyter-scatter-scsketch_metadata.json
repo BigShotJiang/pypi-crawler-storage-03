@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-scatter-scsketch",
+  "version": "0.22.0",
+  "summary": "An interactive scatter plot widget for Jupyter Notebook, Lab, and Google Colab that can handle millions of points and supports view linking (and adds support for directional search)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jupyter_scatter_scsketch-0.22.0.tar.gz",
+  "download_time": "2025-08-19T21:51:32.634732",
+  "package_url": "https://pypi.org/project/jupyter-scatter-scsketch/"
+}

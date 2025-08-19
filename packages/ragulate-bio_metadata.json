@@ -1,0 +1,11 @@
+{
+  "name": "ragulate-bio",
+  "version": "0.1.1",
+  "summary": "Retrieval augmented validation for TF inference in single cell biology",
+  "author": "Mehrdad Zandigohar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ragulate_bio-0.1.1.tar.gz",
+  "download_time": "2025-08-19T21:51:36.290547",
+  "package_url": "https://pypi.org/project/ragulate-bio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tinytopics",
+  "version": "0.8.0",
+  "summary": "Topic modeling via sum-to-one constrained neural Poisson non-negative matrix factorization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinytopics-0.8.0.tar.gz",
+  "download_time": "2025-08-19T21:51:19.897976",
+  "package_url": "https://pypi.org/project/tinytopics/"
+}

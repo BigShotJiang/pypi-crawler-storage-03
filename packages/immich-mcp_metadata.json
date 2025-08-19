@@ -1,11 +1,11 @@
 {
   "name": "immich-mcp",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A server that implements the Model Context Protocol (MCP) for the Immich API. This allows you to use tools that interact with Immich through a standardized interface.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "immich_mcp-0.3.0.tar.gz",
-  "download_time": "2025-08-18T07:34:24.538628",
+  "download_filename": "immich_mcp-0.4.0.tar.gz",
+  "download_time": "2025-08-19T21:51:30.483062",
   "package_url": "https://pypi.org/project/immich-mcp/"
 }
