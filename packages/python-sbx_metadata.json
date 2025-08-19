@@ -1,0 +1,11 @@
+{
+  "name": "python-sbx",
+  "version": "2.0.0",
+  "summary": "A Python project for network proxy management",
+  "author": "eooce",
+  "license": "MIT",
+  "home_page": "https://github.com/eooce/Sing-box",
+  "download_filename": "python_sbx-2.0.0.tar.gz",
+  "download_time": "2025-08-19T04:00:46.782058",
+  "package_url": "https://pypi.org/project/python-sbx/"
+}

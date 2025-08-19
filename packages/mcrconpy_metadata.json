@@ -1,0 +1,11 @@
+{
+  "name": "mcrconpy",
+  "version": "0.1.1",
+  "summary": "RCON protocol client for the Minecraft server.",
+  "author": "kurotom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcrconpy-0.1.1.tar.gz",
+  "download_time": "2025-08-19T04:00:40.512996",
+  "package_url": "https://pypi.org/project/mcrconpy/"
+}
