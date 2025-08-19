@@ -1,0 +1,11 @@
+{
+  "name": "external-vision-gateway-adapter-package",
+  "version": "0.1.5",
+  "summary": "Gateway Adapter to be used by clients to communicate with the gateway service.",
+  "author": "Ugenteraan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "external_vision_gateway_adapter_package-0.1.5.tar.gz",
+  "download_time": "2025-08-19T07:40:03.790730",
+  "package_url": "https://pypi.org/project/external-vision-gateway-adapter-package/"
+}

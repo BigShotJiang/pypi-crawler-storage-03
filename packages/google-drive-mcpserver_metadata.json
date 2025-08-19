@@ -1,0 +1,11 @@
+{
+  "name": "google-drive-mcpserver",
+  "version": "0.1.0",
+  "summary": "Google Calendar MCP Server",
+  "author": "yanrujing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "google_drive_mcpserver-0.1.0.tar.gz",
+  "download_time": "2025-08-19T07:40:11.943928",
+  "package_url": "https://pypi.org/project/google-drive-mcpserver/"
+}

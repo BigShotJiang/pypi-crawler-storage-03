@@ -1,0 +1,11 @@
+{
+  "name": "kbputils",
+  "version": "0.2.1",
+  "summary": "Utilities to handle .kbp files created with Karaoke Builder Studio.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kbputils-0.2.1.tar.gz",
+  "download_time": "2025-08-19T07:39:54.647547",
+  "package_url": "https://pypi.org/project/kbputils/"
+}

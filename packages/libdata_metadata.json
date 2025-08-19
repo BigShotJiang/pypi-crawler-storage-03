@@ -1,11 +1,11 @@
 {
   "name": "libdata",
-  "version": "0.25.3",
+  "version": "0.25.5",
   "summary": "Unified interface to access data.",
   "author": "xi",
   "license": "MIT",
   "home_page": "https://github.com/XoriieInpottn/libdata",
-  "download_filename": "libdata-0.25.3-py3-none-any.whl",
-  "download_time": "2025-08-19T04:53:39.574571",
+  "download_filename": "libdata-0.25.5-py3-none-any.whl",
+  "download_time": "2025-08-19T07:40:05.895072",
   "package_url": "https://pypi.org/project/libdata/"
 }

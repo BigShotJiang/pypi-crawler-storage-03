@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T07:19:50.059026
-- **Total Packages**: 90
-- **Total Size**: 61.87 MB
+- **Download Time**: 2025-08-19T07:40:33.908476
+- **Total Packages**: 85
+- **Total Size**: 24.52 MB
 
 ## Packages List
+- myxagent
+- lohas-app-hotel-search-gzp-mcp-server
+- alibabacloud-docmind-api20220711
+- soltrack
+- coltools
+- jcweaver
+- odoo-addon-purchase-work-acceptance-invoice-plan
+- devstack-cli
+- odoo-addon-membership-prorate
+- xkeys
+- random-fox-image
+- mcp2
+- bizydraft
+- shownamer
+- kbputils
+- mcp-server-tapd
+- yirgacheffe
+- graphragkhoj
+- dooit
+- ntloss
+- protomorph
+- vios
+- mosstool
+- ssb-befolkning-fagfunksjoner
+- bgp-data-interface
+- openspeleo-lib
+- synclub-mcp
+- pyplantsim
+- py-cli-agent
+- arx-tools
+- external-vision-gateway-adapter-package
+- localstack-core
+- wiliot-testers
+- libdata
+- craydel-database-wrapper
+- protenix
+- libprobe
+- matrice
+- deepwiki-cli
+- feldera
+- ipyslides
+- Geoarchpy
+- mnist-synthetic
+- gllm-agents-binary
+- google-drive-mcpserver
+- odoo-addon-purchase-order-owner
+- muffin-admin
+- oarepo
+- policyengine-us
+- php-framework-scaffolder
+- pulumi-oci
 - odoo-addon-account-invoice-supplierinfo-update
 - botmark
 - powertrain-build
@@ -31,8 +82,6 @@
 - ramifice
 - gnome-speech2text-service
 - nonebot-plugin-envious
-- myxagent
-- pyplantsim
 - crewai-tools
 - starlasu-specs
 - tf-models-nightly
@@ -42,57 +91,3 @@
 - emerge
 - soso-qt-extras
 - snowplow-signals
-- dataeval
-- p115nano302
-- leann-core
-- alibabacloud-cloudauth20190307
-- openspeleo-lib
-- leann-backend-hnsw
-- openant
-- leann-backend-diskann
-- leann
-- odoo-addon-voip-oca
-- jpy-sync-db-lite
-- p115servedb
-- amaceing-toolkit
-- rushia-dl
-- keyboardsounds
-- pyIGRF14
-- matrice
-- odoo-addon-partner-supplierinfo-smartbutton
-- pulumi-vault
-- pymobiledevice3
-- alitiq
-- pulumi-wavefront
-- superlinked-server
-- p115dav
-- ingenialink
-- pulumi-tls
-- ccf
-- pulumi-vsphere
-- beaconled
-- dbt-jobs-as-code
-- ai21
-- mangotools
-- pulumi-awsx
-- comfyui-frontend-package
-- memg
-- urarovite
-- pulumi-venafi
-- pypolca
-- pygpt-net
-- p115open302
-- python3-cloudpods
-- gdml
-- synclub-mcp
-- talos-python3
-- pulumi-snowflake
-- pyclog
-- pulumi-xyz
-- pulumi-spotinst
-- odoo-addon-membership-variable-period
-- p115tiny302
-- Rangekeeper
-- fown
-- my-mongo-mcp
-- spectree

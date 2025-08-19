@@ -1,11 +1,11 @@
 {
   "name": "pyplantsim",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A Python wrapper for Siemens Tecnomatix Plant Simulation COM Interface",
   "author": "Luca Bernstiel",
   "license": "MIT",
   "home_page": "https://github.com/malun22/pyplantsim",
-  "download_filename": "pyplantsim-0.1.7.tar.gz",
-  "download_time": "2025-08-19T07:19:11.617797",
+  "download_filename": "pyplantsim-0.1.9.tar.gz",
+  "download_time": "2025-08-19T07:40:02.182628",
   "package_url": "https://pypi.org/project/pyplantsim/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "graphragkhoj",
+  "version": "1.0.0",
+  "summary": "GraphRAG: A graph-based retrieval-augmented generation (RAG) system.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphragkhoj-1.0.0.tar.gz",
+  "download_time": "2025-08-19T07:39:56.300455",
+  "package_url": "https://pypi.org/project/graphragkhoj/"
+}
