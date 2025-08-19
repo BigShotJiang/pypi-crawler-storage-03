@@ -1,11 +1,11 @@
 {
   "name": "kicad-sch-api",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Professional KiCAD schematic manipulation library with exact format preservation and AI agent integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kicad_sch_api-0.1.6.tar.gz",
-  "download_time": "2025-08-19T04:53:35.535153",
+  "download_filename": "kicad_sch_api-0.1.7.tar.gz",
+  "download_time": "2025-08-19T05:42:47.536384",
   "package_url": "https://pypi.org/project/kicad-sch-api/"
 }

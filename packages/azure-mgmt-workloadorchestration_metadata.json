@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-workloadorchestration",
+  "version": "1.0.0b1",
+  "summary": "Microsoft Azure Workloadorchestration Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_workloadorchestration-1.0.0b1.tar.gz",
+  "download_time": "2025-08-19T05:42:26.689483",
+  "package_url": "https://pypi.org/project/azure-mgmt-workloadorchestration/"
+}

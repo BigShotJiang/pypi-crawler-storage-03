@@ -1,0 +1,11 @@
+{
+  "name": "veadk-python",
+  "version": "0.2.2",
+  "summary": "Volcengine agent development kit, integrations with Volcengine cloud services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "veadk_python-0.2.2.tar.gz",
+  "download_time": "2025-08-19T05:42:27.772600",
+  "package_url": "https://pypi.org/project/veadk-python/"
+}
