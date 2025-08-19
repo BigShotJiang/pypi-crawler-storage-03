@@ -1,0 +1,11 @@
+{
+  "name": "inspire-dictdiffer",
+  "version": "0.0.6",
+  "summary": "Dictdiffer is a library that helps you to diff and patch dictionaries.",
+  "author": "Invenio Collaboration",
+  "license": null,
+  "home_page": "https://github.com/inveniosoftware/dictdiffer",
+  "download_filename": "inspire_dictdiffer-0.0.6.tar.gz",
+  "download_time": "2025-08-19T07:51:50.881703",
+  "package_url": "https://pypi.org/project/inspire-dictdiffer/"
+}

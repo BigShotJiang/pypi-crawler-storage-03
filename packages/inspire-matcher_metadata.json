@@ -1,0 +1,11 @@
+{
+  "name": "inspire-matcher",
+  "version": "9.0.46",
+  "summary": "Find the records in INSPIRE most similar to a given record or reference.",
+  "author": "CERN",
+  "license": "GPLv3",
+  "home_page": "https://github.com/inspirehep/inspire-matcher",
+  "download_filename": "inspire_matcher-9.0.46.tar.gz",
+  "download_time": "2025-08-19T07:51:47.092549",
+  "package_url": "https://pypi.org/project/inspire-matcher/"
+}

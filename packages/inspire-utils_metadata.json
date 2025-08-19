@@ -1,0 +1,11 @@
+{
+  "name": "inspire-utils",
+  "version": "3.0.66",
+  "summary": "INSPIRE-specific utils.",
+  "author": "CERN",
+  "license": "GPLv3",
+  "home_page": "https://github.com/inspirehep/inspire-utils",
+  "download_filename": "inspire_utils-3.0.66.tar.gz",
+  "download_time": "2025-08-19T07:51:46.447378",
+  "package_url": "https://pypi.org/project/inspire-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rcpchgrowth",
+  "version": "4.4.0",
+  "summary": "SDS and Centile calculations for UK Growth Data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcpchgrowth-4.4.0.tar.gz",
+  "download_time": "2025-08-19T07:51:45.166854",
+  "package_url": "https://pypi.org/project/rcpchgrowth/"
+}

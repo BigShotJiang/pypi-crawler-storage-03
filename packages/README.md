@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T07:40:33.908476
-- **Total Packages**: 85
-- **Total Size**: 24.52 MB
+- **Download Time**: 2025-08-19T07:52:11.870309
+- **Total Packages**: 76
+- **Total Size**: 24.78 MB
 
 ## Packages List
+- xpander-sdk
+- pulumiverse-grafana
+- janim
+- galaxy-peach
+- odoo-addon-sale-order-blanket-order
+- sbcdp
+- django-bulk-hooks
+- criteo-api-retailmedia-sdk
+- pulumiverse-acme
+- criteo-api-marketingsolutions-sdk
+- concordia-cli
+- odoo-addon-shopfloor
+- voxcity
+- ssslm
+- ipyslides
+- airflow-unicore-integration
+- example-fgen-basic
+- pulumi-eks
+- amqmonitoring
+- pulumiverse-scaleway
+- pyoptex
+- lusid-scheduler-sdk
+- random-fox-image
+- gradio-customuploadbutton
+- device-protocol-sdk
+- muffin-admin
+- matrice
+- php-framework-scaffolder
+- google-drive-mcpserver
+- atlas-rucio-policy-package
+- pulumi-azure
+- yuipybase
+- policyengine-us
+- rcpchgrowth
+- igbot-implementation
+- inspire-utils
+- inspire-matcher
+- pyEQL
+- igbot-base
+- phone-gen
+- fastcs
+- inspire-json-merger
+- inspire-dictdiffer
+- gpu-benchmark-linux
+- dde-agent-lib
+- bafser
+- cartesia-line
 - myxagent
 - lohas-app-hotel-search-gzp-mcp-server
 - alibabacloud-docmind-api20220711
@@ -16,7 +63,6 @@
 - devstack-cli
 - odoo-addon-membership-prorate
 - xkeys
-- random-fox-image
 - mcp2
 - bizydraft
 - shownamer
@@ -36,58 +82,3 @@
 - pyplantsim
 - py-cli-agent
 - arx-tools
-- external-vision-gateway-adapter-package
-- localstack-core
-- wiliot-testers
-- libdata
-- craydel-database-wrapper
-- protenix
-- libprobe
-- matrice
-- deepwiki-cli
-- feldera
-- ipyslides
-- Geoarchpy
-- mnist-synthetic
-- gllm-agents-binary
-- google-drive-mcpserver
-- odoo-addon-purchase-order-owner
-- muffin-admin
-- oarepo
-- policyengine-us
-- php-framework-scaffolder
-- pulumi-oci
-- odoo-addon-account-invoice-supplierinfo-update
-- botmark
-- powertrain-build
-- adjango
-- feu
-- django-bulk-hooks
-- zamp-public-workflow-sdk
-- rf-mcp
-- niteco.opal-rest-tool
-- abstract-ide
-- touchscroller
-- bhp-pro
-- alibabacloud-cs20151215
-- codegen
-- xesql-mcp-server
-- reyweb
-- reykit
-- rasesql-mcp-server
-- odoo-addon-membership-initial-fee
-- labx-py
-- python-postgres
-- abstract-gui
-- ramifice
-- gnome-speech2text-service
-- nonebot-plugin-envious
-- crewai-tools
-- starlasu-specs
-- tf-models-nightly
-- costmodels
-- streamlit-nightly
-- odoo-addon-sale-order-line-cancel
-- emerge
-- soso-qt-extras
-- snowplow-signals
