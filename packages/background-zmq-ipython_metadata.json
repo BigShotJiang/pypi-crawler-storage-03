@@ -1,0 +1,11 @@
+{
+  "name": "background-zmq-ipython",
+  "version": "1.20250819.151221",
+  "summary": "Background ZMQ IPython/Jupyter kernel",
+  "author": "Albert Zeyer",
+  "license": "2-clause BSD license",
+  "home_page": "https://github.com/albertz/background-zmq-ipython",
+  "download_filename": "background_zmq_ipython-1.20250819.151221.tar.gz",
+  "download_time": "2025-08-19T13:18:52.464814",
+  "package_url": "https://pypi.org/project/background-zmq-ipython/"
+}

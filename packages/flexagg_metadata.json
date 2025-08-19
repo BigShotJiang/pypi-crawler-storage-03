@@ -1,11 +1,11 @@
 {
   "name": "flexagg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Flexagg - A flexible aggregator CLI for dynamic script execution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flexagg-0.1.0.tar.gz",
-  "download_time": "2025-08-18T12:42:01.087990",
+  "download_filename": "flexagg-0.1.1.tar.gz",
+  "download_time": "2025-08-19T13:18:55.947660",
   "package_url": "https://pypi.org/project/flexagg/"
 }

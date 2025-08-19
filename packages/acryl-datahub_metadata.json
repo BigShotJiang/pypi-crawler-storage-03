@@ -1,11 +1,11 @@
 {
   "name": "acryl-datahub",
-  "version": "1.2.0.5",
+  "version": "1.2.0.6",
   "summary": "A CLI to work with DataHub metadata",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://docs.datahub.com/",
-  "download_filename": "acryl_datahub-1.2.0.5.tar.gz",
-  "download_time": "2025-08-19T11:51:43.648179",
+  "download_filename": "acryl_datahub-1.2.0.6.tar.gz",
+  "download_time": "2025-08-19T13:18:50.726338",
   "package_url": "https://pypi.org/project/acryl-datahub/"
 }

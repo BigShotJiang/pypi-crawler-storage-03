@@ -1,11 +1,11 @@
 {
   "name": "distortions",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Interactive visualization of distortion in nonlinear embeddings.",
   "author": null,
   "license": "CC-BY-4.0",
   "home_page": null,
-  "download_filename": "distortions-0.0.3.tar.gz",
-  "download_time": "2025-08-18T16:54:16.859604",
+  "download_filename": "distortions-0.0.4.tar.gz",
+  "download_time": "2025-08-19T13:19:04.322926",
   "package_url": "https://pypi.org/project/distortions/"
 }

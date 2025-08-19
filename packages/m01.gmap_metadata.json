@@ -1,0 +1,11 @@
+{
+  "name": "m01.gmap",
+  "version": "0.8.2",
+  "summary": "Google map geo location and z3c.form widget for Zope3",
+  "author": "Roger Ineichen, Projekt01 GmbH",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/m01.gmap",
+  "download_filename": "m01.gmap-0.8.2.tar.gz",
+  "download_time": "2025-08-19T13:19:16.632794",
+  "package_url": "https://pypi.org/project/m01.gmap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "redis-hashring",
+  "version": "0.6.0",
+  "summary": "Python library for distributed applications using a Redis hash ring",
+  "author": "Close Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/closeio/redis-hashring",
+  "download_filename": "redis_hashring-0.6.0.tar.gz",
+  "download_time": "2025-08-19T13:19:14.899845",
+  "package_url": "https://pypi.org/project/redis-hashring/"
+}
