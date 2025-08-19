@@ -1,11 +1,11 @@
 {
   "name": "graphcalc",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "summary": "A Python package for graph computation functions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graphcalc-1.2.7.tar.gz",
-  "download_time": "2025-08-19T17:41:32.284166",
+  "download_filename": "graphcalc-1.2.8.tar.gz",
+  "download_time": "2025-08-19T17:51:57.595295",
   "package_url": "https://pypi.org/project/graphcalc/"
 }

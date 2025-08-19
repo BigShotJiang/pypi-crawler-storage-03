@@ -1,0 +1,11 @@
+{
+  "name": "serverless-builder",
+  "version": "2.19.6",
+  "summary": "Python interface to easily generate `serverless.yml`.",
+  "author": "Epsy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "serverless_builder-2.19.6.tar.gz",
+  "download_time": "2025-08-19T17:52:02.805347",
+  "package_url": "https://pypi.org/project/serverless-builder/"
+}

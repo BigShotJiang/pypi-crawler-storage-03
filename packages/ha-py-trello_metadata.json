@@ -1,0 +1,11 @@
+{
+  "name": "ha-py-trello",
+  "version": "0.24.1",
+  "summary": "Python wrapper around the Trello API (Home Assistant specific)",
+  "author": "Scott Giminiani (originally Richard Kolkovich)",
+  "license": "BSD License",
+  "home_page": "https://github.com/ScottG489/ha-py-trello",
+  "download_filename": "ha_py_trello-0.24.1.tar.gz",
+  "download_time": "2025-08-19T17:52:07.125962",
+  "package_url": "https://pypi.org/project/ha-py-trello/"
+}

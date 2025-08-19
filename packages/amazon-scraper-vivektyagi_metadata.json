@@ -1,11 +1,11 @@
 {
   "name": "amazon-scraper-vivektyagi",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "A Python module to scrape product details from Amazon India using Selenium.",
   "author": "VIVEK TYAGI",
   "license": null,
   "home_page": null,
-  "download_filename": "amazon_scraper_vivektyagi-0.1.8.tar.gz",
-  "download_time": "2025-08-19T17:42:07.223541",
+  "download_filename": "amazon_scraper_vivektyagi-0.1.9.tar.gz",
+  "download_time": "2025-08-19T17:52:09.249332",
   "package_url": "https://pypi.org/project/amazon-scraper-vivektyagi/"
 }
