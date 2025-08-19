@@ -1,11 +1,11 @@
 {
   "name": "roshtools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Handy Python utilities for strings, files, timing, and networking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "roshtools-0.1.1.tar.gz",
-  "download_time": "2025-08-19T22:42:50.331926",
+  "download_filename": "roshtools-0.1.2.tar.gz",
+  "download_time": "2025-08-19T23:18:38.613701",
   "package_url": "https://pypi.org/project/roshtools/"
 }

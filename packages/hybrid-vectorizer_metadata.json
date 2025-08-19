@@ -1,11 +1,11 @@
 {
   "name": "hybrid-vectorizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Unified embedding for tabular, text, and multimodal data",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "hybrid_vectorizer-0.1.1.tar.gz",
-  "download_time": "2025-08-18T04:25:46.544507",
+  "download_filename": "hybrid_vectorizer-0.1.2.tar.gz",
+  "download_time": "2025-08-19T23:18:17.907287",
   "package_url": "https://pypi.org/project/hybrid-vectorizer/"
 }

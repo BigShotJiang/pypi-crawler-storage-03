@@ -1,11 +1,11 @@
 {
   "name": "composabl-dev",
-  "version": "0.18.1.dev4",
+  "version": "0.17.2",
   "summary": "a distributed trainer to be able to train agents across a cluster of machines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "composabl_dev-0.18.1.dev4-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-08-18T19:17:20.766353",
+  "download_filename": "composabl_dev-0.17.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-08-19T23:18:34.930033",
   "package_url": "https://pypi.org/project/composabl-dev/"
 }

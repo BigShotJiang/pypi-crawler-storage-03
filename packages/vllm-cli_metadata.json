@@ -1,11 +1,11 @@
 {
   "name": "vllm-cli",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "A CLI tool to conveniently serve LLMs with vLLM",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vllm_cli-0.2.1.tar.gz",
-  "download_time": "2025-08-17T20:53:04.411037",
+  "download_filename": "vllm_cli-0.2.3.tar.gz",
+  "download_time": "2025-08-19T23:18:23.732848",
   "package_url": "https://pypi.org/project/vllm-cli/"
 }
