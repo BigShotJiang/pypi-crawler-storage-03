@@ -1,11 +1,11 @@
 {
   "name": "low-code-api-lib-sdk",
-  "version": "0.1.0",
-  "summary": "SDK для работы с API Low Code Api Lib",
+  "version": "0.1.1",
+  "summary": "Мощный SDK для работы с API Low Code с расширенными возможностями обработки ошибок и сетевого взаимодействия",
   "author": "Pavlo Gorosko",
   "license": null,
   "home_page": "https://github.com/pablaofficeal/Low-Code-Api-Lib-SDK",
-  "download_filename": "low_code_api_lib_sdk-0.1.0.tar.gz",
-  "download_time": "2025-08-17T15:40:17.387961",
+  "download_filename": "low_code_api_lib_sdk-0.1.1.tar.gz",
+  "download_time": "2025-08-19T15:53:26.190806",
   "package_url": "https://pypi.org/project/low-code-api-lib-sdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sk-linearregression",
-  "version": "0.2.0a21",
+  "version": "0.2.0a25",
   "summary": "My own Linear Regression under the sk.* namespace",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sk_linearregression-0.2.0a21.tar.gz",
-  "download_time": "2025-08-19T15:42:51.063025",
+  "download_filename": "sk_linearregression-0.2.0a25.tar.gz",
+  "download_time": "2025-08-19T15:53:25.550936",
   "package_url": "https://pypi.org/project/sk-linearregression/"
 }

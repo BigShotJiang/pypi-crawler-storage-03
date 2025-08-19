@@ -1,0 +1,11 @@
+{
+  "name": "mergin-client",
+  "version": "0.10.4",
+  "summary": "Mergin Maps utils and client",
+  "author": "Lutra Consulting Ltd.",
+  "license": "MIT",
+  "home_page": "https://github.com/MerginMaps/python-api-client",
+  "download_filename": "mergin_client-0.10.4.tar.gz",
+  "download_time": "2025-08-19T15:53:24.287168",
+  "package_url": "https://pypi.org/project/mergin-client/"
+}

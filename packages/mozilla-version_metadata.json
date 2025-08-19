@@ -1,0 +1,11 @@
+{
+  "name": "mozilla-version",
+  "version": "5.0.0",
+  "summary": "Process Firefox versions numbers. Tells whether they are valid or not, whether they are nightlies or regular releases, whether this version precedes that other.",
+  "author": "Mozilla Release Engineering",
+  "license": "MPL2",
+  "home_page": "https://github.com/mozilla-releng/mozilla-version",
+  "download_filename": "mozilla_version-5.0.0.tar.gz",
+  "download_time": "2025-08-19T15:53:18.931971",
+  "package_url": "https://pypi.org/project/mozilla-version/"
+}
