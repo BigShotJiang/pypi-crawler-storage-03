@@ -1,0 +1,11 @@
+{
+  "name": "topogmesh",
+  "version": "0.1.5",
+  "summary": "Generate 3D print files from .tif files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "topogmesh-0.1.5.tar.gz",
+  "download_time": "2025-08-19T17:01:49.623793",
+  "package_url": "https://pypi.org/project/topogmesh/"
+}
