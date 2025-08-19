@@ -1,0 +1,11 @@
+{
+  "name": "x402",
+  "version": "0.2.1",
+  "summary": "x402: An internet native payments protocol",
+  "author": "Coinbase Developer Platform",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "x402-0.2.1.tar.gz",
+  "download_time": "2025-08-19T17:41:38.035884",
+  "package_url": "https://pypi.org/project/x402/"
+}

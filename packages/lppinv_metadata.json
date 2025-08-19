@@ -1,11 +1,11 @@
 {
   "name": "lppinv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Linear Programming via Pseudoinverse Estimation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lppinv-1.0.0.tar.gz",
-  "download_time": "2025-08-19T17:17:36.383416",
+  "download_filename": "lppinv-1.0.1.tar.gz",
+  "download_time": "2025-08-19T17:41:40.401787",
   "package_url": "https://pypi.org/project/lppinv/"
 }

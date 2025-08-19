@@ -1,0 +1,11 @@
+{
+  "name": "openworm-ai",
+  "version": "0.2.7",
+  "summary": "Investigating the use of LLMs and other AI technology in OpenWorm",
+  "author": "OpenWorm contributors",
+  "license": "LGPLv3",
+  "home_page": "https://openworm.ai",
+  "download_filename": "openworm_ai-0.2.7.tar.gz",
+  "download_time": "2025-08-19T17:41:42.129879",
+  "package_url": "https://pypi.org/project/openworm-ai/"
+}
