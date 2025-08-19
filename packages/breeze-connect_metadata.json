@@ -1,0 +1,11 @@
+{
+  "name": "breeze-connect",
+  "version": "1.0.64",
+  "summary": "ICICI Direct Breeze",
+  "author": "ICICI Direct Breeze",
+  "license": null,
+  "home_page": "https://github.com/Idirect-Tech/Breeze-Python-SDK/",
+  "download_filename": "breeze_connect-1.0.64.tar.gz",
+  "download_time": "2025-08-19T10:56:19.809821",
+  "package_url": "https://pypi.org/project/breeze-connect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Terminal-Speil-B1",
+  "version": "1.0.10",
+  "summary": "You can play the game by running the following commands(in you terminal): pip install pipx  | pipx install Terminal-Speil-B1 | terminal-speil-b1 | The full description of the game is given below.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terminal_speil_b1-1.0.10.tar.gz",
+  "download_time": "2025-08-19T10:56:13.647685",
+  "package_url": "https://pypi.org/project/Terminal-Speil-B1/"
+}

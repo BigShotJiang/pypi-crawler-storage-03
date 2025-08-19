@@ -1,11 +1,11 @@
 {
   "name": "tool-optimus-log-collector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Async logging collector service for Azure Blob Storage",
   "author": "Your Name",
   "license": null,
   "home_page": "https://github.com/WZBDCZ_gme/GM-GPD-DevTest/TOOL_OPTIMUS_LOG_COLLECTOR",
-  "download_filename": "tool_optimus_log_collector-0.1.0.tar.gz",
-  "download_time": "2025-08-19T10:21:06.671469",
+  "download_filename": "tool_optimus_log_collector-0.1.1.tar.gz",
+  "download_time": "2025-08-19T10:56:40.343193",
   "package_url": "https://pypi.org/project/tool-optimus-log-collector/"
 }

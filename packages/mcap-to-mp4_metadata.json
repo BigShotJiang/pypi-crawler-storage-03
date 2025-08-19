@@ -1,0 +1,11 @@
+{
+  "name": "mcap-to-mp4",
+  "version": "0.3.0",
+  "summary": "A tool to convert ROS topics recored with mcap to MP4 file",
+  "author": "Daisuke Sato",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcap_to_mp4-0.3.0.tar.gz",
+  "download_time": "2025-08-19T10:56:15.791485",
+  "package_url": "https://pypi.org/project/mcap-to-mp4/"
+}

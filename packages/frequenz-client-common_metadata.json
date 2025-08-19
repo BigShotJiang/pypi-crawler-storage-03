@@ -1,0 +1,11 @@
+{
+  "name": "frequenz-client-common",
+  "version": "0.3.5",
+  "summary": "Common code and utilities for Frequenz API clients",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "frequenz_client_common-0.3.5.tar.gz",
+  "download_time": "2025-08-19T10:56:12.013493",
+  "package_url": "https://pypi.org/project/frequenz-client-common/"
+}

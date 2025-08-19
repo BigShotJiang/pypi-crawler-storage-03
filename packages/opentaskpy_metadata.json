@@ -1,0 +1,11 @@
+{
+  "name": "opentaskpy",
+  "version": "25.32.0",
+  "summary": "A framework for automation execution of commands and transferring files between hosts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentaskpy-25.32.0.tar.gz",
+  "download_time": "2025-08-19T10:56:34.334086",
+  "package_url": "https://pypi.org/project/opentaskpy/"
+}

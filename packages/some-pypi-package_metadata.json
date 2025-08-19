@@ -1,0 +1,11 @@
+{
+  "name": "some-pypi-package",
+  "version": "0.0.7",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "some_pypi_package-0.0.7.tar.gz",
+  "download_time": "2025-08-19T10:56:13.107163",
+  "package_url": "https://pypi.org/project/some-pypi-package/"
+}

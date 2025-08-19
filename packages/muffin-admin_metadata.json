@@ -1,11 +1,11 @@
 {
   "name": "muffin-admin",
-  "version": "11.2.6",
+  "version": "11.2.9",
   "summary": "Admin interface for Muffin Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "muffin_admin-11.2.6.tar.gz",
-  "download_time": "2025-08-19T10:21:32.916666",
+  "download_filename": "muffin_admin-11.2.9.tar.gz",
+  "download_time": "2025-08-19T10:56:16.892126",
   "package_url": "https://pypi.org/project/muffin-admin/"
 }
