@@ -1,11 +1,11 @@
 {
   "name": "openevolve",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Open-source implementation of AlphaEvolve",
   "author": "codelion",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openevolve-0.2.0.tar.gz",
-  "download_time": "2025-08-17T13:16:58.344993",
+  "download_filename": "openevolve-0.2.1.tar.gz",
+  "download_time": "2025-08-19T09:21:28.137281",
   "package_url": "https://pypi.org/project/openevolve/"
 }

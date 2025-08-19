@@ -1,0 +1,11 @@
+{
+  "name": "pygard",
+  "version": "0.1.3",
+  "summary": "A modern async Python client for Gard data service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygard-0.1.3.tar.gz",
+  "download_time": "2025-08-19T09:21:08.334259",
+  "package_url": "https://pypi.org/project/pygard/"
+}

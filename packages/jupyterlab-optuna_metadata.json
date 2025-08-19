@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-optuna",
+  "version": "0.2.4",
+  "summary": "A JupyterLab extension for Optuna",
+  "author": "Optuna Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jupyterlab_optuna-0.2.4-py3-none-any.whl",
+  "download_time": "2025-08-19T09:21:32.880949",
+  "package_url": "https://pypi.org/project/jupyterlab-optuna/"
+}

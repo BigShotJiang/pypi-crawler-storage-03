@@ -1,0 +1,11 @@
+{
+  "name": "celescope",
+  "version": "2.7.6",
+  "summary": "Single Cell Analysis Pipelines",
+  "author": "zhouyiqi",
+  "license": null,
+  "home_page": "https://github.com/singleron-RD/CeleScope",
+  "download_filename": "celescope-2.7.6.tar.gz",
+  "download_time": "2025-08-19T09:20:54.542473",
+  "package_url": "https://pypi.org/project/celescope/"
+}
