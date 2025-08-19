@@ -1,0 +1,11 @@
+{
+  "name": "xoflib",
+  "version": "0.3.2",
+  "summary": "A package for the Shake and Ascon extendable-output functions (XOFs)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xoflib-0.3.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2025-08-19T15:43:16.187781",
+  "package_url": "https://pypi.org/project/xoflib/"
+}

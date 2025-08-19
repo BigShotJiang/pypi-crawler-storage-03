@@ -1,11 +1,11 @@
 {
   "name": "mandelbrot-benchmark",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Benchmark Numba, Taichi, Warp, CuPy Kernel, Triton using Mandelbrot set",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mandelbrot_benchmark-1.0.0.tar.gz",
-  "download_time": "2025-08-19T08:26:31.022810",
+  "download_filename": "mandelbrot_benchmark-1.1.0.tar.gz",
+  "download_time": "2025-08-19T15:43:24.865610",
   "package_url": "https://pypi.org/project/mandelbrot-benchmark/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "langextract-azureopenai",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "LangExtract provider plugin for Azure OpenAI",
   "author": "LangExtract Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "langextract_azureopenai-0.1.4.tar.gz",
-  "download_time": "2025-08-19T11:16:32.534170",
+  "download_filename": "langextract_azureopenai-0.1.6.tar.gz",
+  "download_time": "2025-08-19T15:42:53.548543",
   "package_url": "https://pypi.org/project/langextract-azureopenai/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ligandparam",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "A ligand parameterization package for Amber",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ligandparam-0.3.3.tar.gz",
-  "download_time": "2025-08-18T15:57:21.150866",
+  "download_filename": "ligandparam-0.3.4.tar.gz",
+  "download_time": "2025-08-19T15:42:49.762515",
   "package_url": "https://pypi.org/project/ligandparam/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "TP-HTTP-Request-Response-Parser",
+  "version": "2025.8.19",
+  "summary": "Parse/ Unparse the HTTP Request/ Response",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tp_http_request_response_parser-2025.8.19.tar.gz",
+  "download_time": "2025-08-19T15:43:17.348132",
+  "package_url": "https://pypi.org/project/TP-HTTP-Request-Response-Parser/"
+}
