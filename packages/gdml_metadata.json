@@ -1,0 +1,11 @@
+{
+  "name": "gdml",
+  "version": "0.1.1",
+  "summary": "A machine learning and deep learning utilities library.",
+  "author": "Gokulraj S",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gokulraj0906/gdml",
+  "download_filename": "gdml-0.1.1.tar.gz",
+  "download_time": "2025-08-19T06:53:34.403924",
+  "package_url": "https://pypi.org/project/gdml/"
+}

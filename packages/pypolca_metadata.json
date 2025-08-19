@@ -1,0 +1,11 @@
+{
+  "name": "pypolca",
+  "version": "0.4.0",
+  "summary": "Standalone Python implementation of the POLCA polisher from MaSuRCA",
+  "author": "George Bouras",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypolca-0.4.0.tar.gz",
+  "download_time": "2025-08-19T06:53:32.242127",
+  "package_url": "https://pypi.org/project/pypolca/"
+}

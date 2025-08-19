@@ -1,0 +1,11 @@
+{
+  "name": "my-mongo-mcp",
+  "version": "0.1.1",
+  "summary": "Fork of mongo-mcp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "my_mongo_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-19T06:53:41.178373",
+  "package_url": "https://pypi.org/project/my-mongo-mcp/"
+}

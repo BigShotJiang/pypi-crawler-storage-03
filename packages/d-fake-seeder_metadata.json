@@ -1,0 +1,11 @@
+{
+  "name": "d-fake-seeder",
+  "version": "0.0.42",
+  "summary": "Python gtk fake seeder",
+  "author": "David O Neill",
+  "license": null,
+  "home_page": null,
+  "download_filename": "d_fake_seeder-0.0.42.tar.gz",
+  "download_time": "2025-08-19T06:54:17.295664",
+  "package_url": "https://pypi.org/project/d-fake-seeder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "classfromtypeddict",
+  "version": "0.0.4",
+  "summary": "ClassFromTypedDict converts a dict following a TypedDict schema into a class",
+  "author": "marsoupilami",
+  "license": null,
+  "home_page": null,
+  "download_filename": "classfromtypeddict-0.0.4.tar.gz",
+  "download_time": "2025-08-19T06:54:15.731359",
+  "package_url": "https://pypi.org/project/classfromtypeddict/"
+}

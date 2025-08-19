@@ -1,11 +1,11 @@
 {
   "name": "partial_fstring",
-  "version": "0.0.5.1",
+  "version": "0.0.5.3",
   "summary": "Python fstring-based template interpolation.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/partial_fstring",
-  "download_filename": "partial_fstring-0.0.5.1.tar.gz",
-  "download_time": "2025-08-18T16:54:44.414922",
+  "download_filename": "partial_fstring-0.0.5.3.tar.gz",
+  "download_time": "2025-08-19T06:53:54.777789",
   "package_url": "https://pypi.org/project/partial_fstring/"
 }
