@@ -1,0 +1,11 @@
+{
+  "name": "dbt-colibri",
+  "version": "0.2.3",
+  "summary": "A column lineage parser and dashboarding tool",
+  "author": "bned",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbt_colibri-0.2.3.tar.gz",
+  "download_time": "2025-08-19T05:52:57.926784",
+  "package_url": "https://pypi.org/project/dbt-colibri/"
+}

@@ -1,12 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-19T05:43:06.502091
-- **Total Packages**: 75
-- **Total Size**: 8.44 MB
+- **Download Time**: 2025-08-19T05:53:27.813048
+- **Total Packages**: 71
+- **Total Size**: 7.66 MB
 
 ## Packages List
 - abstract-gui
+- geo-explorer
+- cube-alchemy
+- jira-creator
+- pulumi-databricks
+- wormhole-proxy
+- botoprune
+- shinestacker
+- dycw-utilities
+- pulumi-dnsimple
+- mcp-kicad-sch-api
+- PyQtier
+- lanchain-sgframework
+- deepwiki-cli
+- alibabacloud-aiccs20191015
+- smartutils-py
+- crewai-tools
+- pulumi-dbtcloud
+- django-yaml-field
+- dbt-colibri
+- expressive
+- sciv
+- pulumi-alicloud
+- goedge-core-sdk-python
 - passive_equipment
 - azure-mgmt-workloadorchestration
 - pulumi-confluentcloud
@@ -35,9 +58,7 @@
 - llm-client-redis
 - hjy-datamanager-v2
 - hjy-configmanager-v2
-- PyQtier
 - xiaothink
-- lanchain-sgframework
 - pulumi-auth0
 - pulumi-artifactory
 - ui-tars
@@ -54,30 +75,5 @@
 - dj-notify
 - pulumi-aiven
 - yica-yirage
-- jira-creator
-- dycw-utilities
 - aibrix-kvcache
 - ecopipeline
-- zh2ru-idterms
-- hdf-dq-framework
-- HoloSTT
-- cartesia-line
-- cfpack
-- gmscloud
-- cube-alchemy
-- titta
-- sciv
-- zuu
-- USTB-SSO
-- pybirdsreynolds
-- pypomes-core
-- korpy
-- json-duplicate-keys
-- owa-msgs
-- owa-env-gst
-- owa-env-desktop
-- owa-core
-- owa-cli
-- ocap
-- mcap-owa-support
-- quarkstudio
