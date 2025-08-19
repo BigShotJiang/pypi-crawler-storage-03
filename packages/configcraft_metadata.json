@@ -1,11 +1,11 @@
 {
   "name": "configcraft",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python library for DRY configuration management with inheritance patterns and secure configuration merging.",
   "author": "Sanhe Hu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "configcraft-0.1.1.tar.gz",
-  "download_time": "2025-08-17T22:18:23.766909",
+  "download_filename": "configcraft-0.1.2.tar.gz",
+  "download_time": "2025-08-19T19:16:35.957676",
   "package_url": "https://pypi.org/project/configcraft/"
 }

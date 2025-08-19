@@ -1,11 +1,11 @@
 {
   "name": "actscene-ocr",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Actscene OCR: 日本語書類向けの包括的OCRパイプライン (PaddleOCRベース)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "actscene_ocr-0.1.4.tar.gz",
-  "download_time": "2025-08-19T18:50:02.542887",
+  "download_filename": "actscene_ocr-0.1.5.tar.gz",
+  "download_time": "2025-08-19T19:16:45.896673",
   "package_url": "https://pypi.org/project/actscene-ocr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "duosubs",
+  "version": "1.1.0",
+  "summary": "Semantic subtitle aligner and merger for bilingual subtitle syncing.",
+  "author": "CK-Explorer ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duosubs-1.1.0.tar.gz",
+  "download_time": "2025-08-19T19:16:19.987022",
+  "package_url": "https://pypi.org/project/duosubs/"
+}

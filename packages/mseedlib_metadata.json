@@ -1,0 +1,11 @@
+{
+  "name": "mseedlib",
+  "version": "0.0.9",
+  "summary": "⚠️ DEPRECATED: This project is no longer maintained, use pymseed instead",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mseedlib-0.0.9.tar.gz",
+  "download_time": "2025-08-19T19:16:25.868535",
+  "package_url": "https://pypi.org/project/mseedlib/"
+}

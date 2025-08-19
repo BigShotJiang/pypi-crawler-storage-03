@@ -1,0 +1,11 @@
+{
+  "name": "agentcraft-db-client",
+  "version": "0.1.0",
+  "summary": "Python SDK for a AgentCraft (Crafted) Vector DB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentcraft_db_client-0.1.0.tar.gz",
+  "download_time": "2025-08-19T19:16:09.228610",
+  "package_url": "https://pypi.org/project/agentcraft-db-client/"
+}
