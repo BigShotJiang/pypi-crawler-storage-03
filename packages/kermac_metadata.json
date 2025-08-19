@@ -1,0 +1,11 @@
+{
+  "name": "kermac",
+  "version": "0.1.2",
+  "summary": "Pytorch routines for (Ker)nel (Mac)hines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kermac-0.1.2.tar.gz",
+  "download_time": "2025-08-19T11:39:37.718699",
+  "package_url": "https://pypi.org/project/kermac/"
+}

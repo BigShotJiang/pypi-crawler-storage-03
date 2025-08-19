@@ -1,0 +1,11 @@
+{
+  "name": "cog2tiles",
+  "version": "0.0.4",
+  "summary": "COG to web map tiles converter with concurrent processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cog2tiles-0.0.4.tar.gz",
+  "download_time": "2025-08-19T11:39:38.239922",
+  "package_url": "https://pypi.org/project/cog2tiles/"
+}

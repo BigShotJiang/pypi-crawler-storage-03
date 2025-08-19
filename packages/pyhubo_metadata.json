@@ -1,0 +1,11 @@
+{
+  "name": "pyhubo",
+  "version": "0.0.1",
+  "summary": "A python package for resource-efficient quantum optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyhubo-0.0.1.tar.gz",
+  "download_time": "2025-08-19T11:39:35.640840",
+  "package_url": "https://pypi.org/project/pyhubo/"
+}

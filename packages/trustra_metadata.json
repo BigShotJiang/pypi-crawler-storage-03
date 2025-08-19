@@ -1,0 +1,11 @@
+{
+  "name": "trustra",
+  "version": "1.0.0",
+  "summary": "Trust-first AutoML: Automated ML with built-in fairness, drift, and reliability.",
+  "author": "Devansh Singh",
+  "license": null,
+  "home_page": "https://github.com/Devansh-567/Trustra---Trust-First-AutoML-Framework",
+  "download_filename": "trustra-1.0.0.tar.gz",
+  "download_time": "2025-08-19T11:39:12.512201",
+  "package_url": "https://pypi.org/project/trustra/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "inkhinge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "The next-generation deep learning toolkit designed specifically for spectral analysis",
   "author": "Fenglong Li,Siyang Li,Kehan Li,Zhiqing Guo,Kailong Fan",
   "license": null,
   "home_page": "https://github.com/1412universe/inkhinge",
-  "download_filename": "inkhinge-1.0.0.tar.gz",
-  "download_time": "2025-08-18T04:26:05.405495",
+  "download_filename": "inkhinge-1.0.1.tar.gz",
+  "download_time": "2025-08-19T11:39:03.641792",
   "package_url": "https://pypi.org/project/inkhinge/"
 }
