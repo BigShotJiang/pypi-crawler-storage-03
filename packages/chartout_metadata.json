@@ -1,0 +1,11 @@
+{
+  "name": "chartout",
+  "version": "0.0.0",
+  "summary": "Chartout - Print Your Insights, Anytime, Anywhere",
+  "author": "mattijn",
+  "license": "GPL-3.0 license",
+  "home_page": "https://chartout.io",
+  "download_filename": "chartout-0.0.0.tar.gz",
+  "download_time": "2025-08-19T18:50:12.815098",
+  "package_url": "https://pypi.org/project/chartout/"
+}

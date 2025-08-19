@@ -1,11 +1,11 @@
 {
   "name": "typed-sentinels",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "summary": "Statically-typed sentinel objects with singleton qualities.",
   "author": "Alchemyst",
   "license": null,
   "home_page": null,
-  "download_filename": "typed_sentinels-0.1.0.tar.gz",
-  "download_time": "2025-08-19T18:26:46.706223",
+  "download_filename": "typed_sentinels-1.0.1.tar.gz",
+  "download_time": "2025-08-19T18:50:35.588289",
   "package_url": "https://pypi.org/project/typed-sentinels/"
 }

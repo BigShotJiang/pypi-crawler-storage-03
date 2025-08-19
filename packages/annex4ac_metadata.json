@@ -1,11 +1,11 @@
 {
   "name": "annex4ac",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "Annex IV-as-Code CLI: generate & validate EU AI Act Annex IV with legal compliance",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "annex4ac-1.4.4.tar.gz",
-  "download_time": "2025-08-19T18:26:47.864545",
+  "download_filename": "annex4ac-1.4.5.tar.gz",
+  "download_time": "2025-08-19T18:50:04.737287",
   "package_url": "https://pypi.org/project/annex4ac/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "suplex",
+  "version": "0.2.6",
+  "summary": "A Python library for interacting with Supabase REST API in Reflex applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "suplex-0.2.6.tar.gz",
+  "download_time": "2025-08-19T18:50:24.001427",
+  "package_url": "https://pypi.org/project/suplex/"
+}

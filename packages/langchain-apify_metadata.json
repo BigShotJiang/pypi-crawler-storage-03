@@ -1,0 +1,11 @@
+{
+  "name": "langchain-apify",
+  "version": "0.1.4",
+  "summary": "An integration package connecting Apify and LangChain",
+  "author": "Apify Technologies s.r.o.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_apify-0.1.4.tar.gz",
+  "download_time": "2025-08-19T18:50:05.298433",
+  "package_url": "https://pypi.org/project/langchain-apify/"
+}
