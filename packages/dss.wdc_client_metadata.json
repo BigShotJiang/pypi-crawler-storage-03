@@ -1,0 +1,11 @@
+{
+  "name": "dss.wdc_client",
+  "version": "0.9.0",
+  "summary": "A small client for the WDC-Rest-API.",
+  "author": "Tino Schöllhorn",
+  "license": null,
+  "home_page": "https://dss-wdc.wiso.uni-hamburg.de/",
+  "download_filename": "dss_wdc_client-0.9.0.tar.gz",
+  "download_time": "2025-08-19T11:51:50.538852",
+  "package_url": "https://pypi.org/project/dss.wdc_client/"
+}

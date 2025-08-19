@@ -1,0 +1,11 @@
+{
+  "name": "classto",
+  "version": "2.0.0",
+  "summary": "A Python library for browser-based manual image classification",
+  "author": "Simon Hardmeier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "classto-2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-19T11:51:35.159309",
+  "package_url": "https://pypi.org/project/classto/"
+}

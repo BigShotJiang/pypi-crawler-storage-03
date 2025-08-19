@@ -1,11 +1,11 @@
 {
   "name": "start-compiler",
-  "version": "1.9.9.5.1",
+  "version": "1.9.9.6",
   "summary": "A package to compile the langauge START",
   "author": "Joost Broekens; Jonne Goedhart",
   "license": "Creative Commons CC BY-NC-SA 4.0",
   "home_page": "https://github.com/jjgsherwood/start_compiler",
-  "download_filename": "start_compiler-1.9.9.5.1.tar.gz",
-  "download_time": "2025-08-18T10:48:07.306146",
+  "download_filename": "start_compiler-1.9.9.6-py3-none-any.whl",
+  "download_time": "2025-08-19T11:51:31.541924",
   "package_url": "https://pypi.org/project/start-compiler/"
 }

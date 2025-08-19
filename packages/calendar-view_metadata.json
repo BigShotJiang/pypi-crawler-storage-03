@@ -1,0 +1,11 @@
+{
+  "name": "calendar-view",
+  "version": "2.5.0",
+  "summary": "Library provides a graphical view of the calendar.",
+  "author": "Oleksandr Sakhnevych, Daniil Limariev",
+  "license": null,
+  "home_page": "https://github.com/sakhnevych/calendar-view",
+  "download_filename": "calendar_view-2.5.0.tar.gz",
+  "download_time": "2025-08-19T11:51:33.613976",
+  "package_url": "https://pypi.org/project/calendar-view/"
+}

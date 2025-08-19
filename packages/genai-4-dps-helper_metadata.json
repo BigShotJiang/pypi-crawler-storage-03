@@ -1,0 +1,11 @@
+{
+  "name": "genai-4-dps-helper",
+  "version": "0.2.32",
+  "summary": "A common library for reusable and repeated code for the GenAI4DPS Training Courses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genai_4_dps_helper-0.2.32.tar.gz",
+  "download_time": "2025-08-19T11:51:34.129555",
+  "package_url": "https://pypi.org/project/genai-4-dps-helper/"
+}
