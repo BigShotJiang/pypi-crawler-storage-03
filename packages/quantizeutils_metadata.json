@@ -1,0 +1,11 @@
+{
+  "name": "quantizeutils",
+  "version": "0.1.1",
+  "summary": "quantization utility modules to bridge torch fx and PT2E quantized models, as well as ONNX and others, inspired by methods in mmdeploy, without the outdated dependencies and some features not found in it.",
+  "author": "Elisa Aleman",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "quantizeutils-0.1.1.tar.gz",
+  "download_time": "2025-08-19T03:44:31.517667",
+  "package_url": "https://pypi.org/project/quantizeutils/"
+}

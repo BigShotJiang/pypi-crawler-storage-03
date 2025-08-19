@@ -1,0 +1,11 @@
+{
+  "name": "rust-crate-pipeline",
+  "version": "2.2.1",
+  "summary": "A comprehensive pipeline for analyzing Rust crates with AI enrichment and enhanced scraping",
+  "author": "SigilDERG Team",
+  "license": null,
+  "home_page": "https://github.com/SigilDERG/rust-crate-pipeline",
+  "download_filename": "rust_crate_pipeline-2.2.1.tar.gz",
+  "download_time": "2025-08-19T03:43:57.528258",
+  "package_url": "https://pypi.org/project/rust-crate-pipeline/"
+}

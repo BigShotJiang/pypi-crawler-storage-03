@@ -1,0 +1,11 @@
+{
+  "name": "birdsong",
+  "version": "1.4.0",
+  "summary": "A Python API to Canary Lab's historian web services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "birdsong-1.4.0.tar.gz",
+  "download_time": "2025-08-19T03:44:41.253292",
+  "package_url": "https://pypi.org/project/birdsong/"
+}

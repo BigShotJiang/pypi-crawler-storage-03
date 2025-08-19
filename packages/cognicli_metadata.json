@@ -1,11 +1,11 @@
 {
   "name": "cognicli",
-  "version": "2.0.7",
+  "version": "2.0.9",
   "summary": "A premium, full-featured AI command line interface with Transformers and GGUF support",
   "author": "SynapseMoN",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cognicli/cognicli",
-  "download_filename": "cognicli-2.0.7.tar.gz",
-  "download_time": "2025-08-19T02:57:59.461530",
+  "download_filename": "cognicli-2.0.9.tar.gz",
+  "download_time": "2025-08-19T03:43:58.674447",
   "package_url": "https://pypi.org/project/cognicli/"
 }

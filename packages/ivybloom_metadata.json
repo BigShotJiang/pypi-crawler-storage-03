@@ -1,11 +1,11 @@
 {
   "name": "ivybloom",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Command-line interface for computational biology and drug discovery",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ivybloom-0.4.1.tar.gz",
-  "download_time": "2025-08-18T23:50:53.085441",
+  "download_filename": "ivybloom-0.4.2.tar.gz",
+  "download_time": "2025-08-19T03:44:05.726839",
   "package_url": "https://pypi.org/project/ivybloom/"
 }

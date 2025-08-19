@@ -1,0 +1,11 @@
+{
+  "name": "fastpy-rs",
+  "version": "0.1.1",
+  "summary": null,
+  "author": "Evgeny Igumnov <igumnovnsk@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/evgenyigumnov/fastpy-rs",
+  "download_filename": "fastpy_rs-0.1.1.tar.gz",
+  "download_time": "2025-08-19T03:44:21.513933",
+  "package_url": "https://pypi.org/project/fastpy-rs/"
+}

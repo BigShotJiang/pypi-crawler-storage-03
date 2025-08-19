@@ -1,0 +1,11 @@
+{
+  "name": "types-flake8-builtins",
+  "version": "3.0.0.20250819",
+  "summary": "Typing stubs for flake8-builtins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_flake8_builtins-3.0.0.20250819.tar.gz",
+  "download_time": "2025-08-19T03:44:43.013602",
+  "package_url": "https://pypi.org/project/types-flake8-builtins/"
+}

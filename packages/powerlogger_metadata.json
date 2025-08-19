@@ -1,11 +1,11 @@
 {
   "name": "powerlogger",
-  "version": "1.0.3",
-  "summary": "A high-performance, thread-safe logging library with Rich console output and UTF-8 support",
+  "version": "1.0.6",
+  "summary": "Enhanced logging functionality with Rich console output and file rotation",
   "author": "Pandiyaraj Karuppasamy",
   "license": "MIT",
   "home_page": "https://github.com/Pandiyarajk/powerlogger",
-  "download_filename": "powerlogger-1.0.3.tar.gz",
-  "download_time": "2025-08-17T07:17:33.325896",
+  "download_filename": "powerlogger-1.0.6.tar.gz",
+  "download_time": "2025-08-19T03:44:14.242415",
   "package_url": "https://pypi.org/project/powerlogger/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dbt-synapse",
+  "version": "1.8.4",
+  "summary": "An Azure Synapse adapter plugin for dbt",
+  "author": "Pradeep Srikakolapu, Nandan Hegde, Chaerin Lee, Alieu Sanneh, Anders Swanson, Sam Debruyn",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/dbt-synapse",
+  "download_filename": "dbt-synapse-1.8.4.tar.gz",
+  "download_time": "2025-08-19T03:44:05.148269",
+  "package_url": "https://pypi.org/project/dbt-synapse/"
+}
