@@ -1,0 +1,11 @@
+{
+  "name": "dashkit-table",
+  "version": "1.0.0",
+  "summary": "Modern Handsontable component for Dash with native theming support",
+  "author": "Dashkit Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dashkit_table-1.0.0.tar.gz",
+  "download_time": "2025-08-20T11:39:43.766190",
+  "package_url": "https://pypi.org/project/dashkit-table/"
+}

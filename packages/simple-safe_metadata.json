@@ -1,0 +1,11 @@
+{
+  "name": "simple-safe",
+  "version": "0.3.0",
+  "summary": "A simple Web3-native CLI for Safe multisig wallets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_safe-0.3.0.tar.gz",
+  "download_time": "2025-08-20T11:39:39.640964",
+  "package_url": "https://pypi.org/project/simple-safe/"
+}

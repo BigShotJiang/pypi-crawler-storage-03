@@ -1,0 +1,11 @@
+{
+  "name": "django-api-helper",
+  "version": "0.0.9",
+  "summary": "An abstraction layer for creating APIs in Django Rest Framework, supports rpc style APIs.",
+  "author": "Ruchit Kharwa",
+  "license": null,
+  "home_page": "https://github.com/RuchitMicro/django-api-helper",
+  "download_filename": "django_api_helper-0.0.9.tar.gz",
+  "download_time": "2025-08-20T11:39:25.257792",
+  "package_url": "https://pypi.org/project/django-api-helper/"
+}

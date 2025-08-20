@@ -1,0 +1,11 @@
+{
+  "name": "gpt-oss-redteam",
+  "version": "0.1.0",
+  "summary": "Simple, reproducible red teaming pipeline for GPT-OSS via Ollama with DeepSeek-based prompt generation",
+  "author": "K Power",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpt_oss_redteam-0.1.0.tar.gz",
+  "download_time": "2025-08-20T11:39:29.383289",
+  "package_url": "https://pypi.org/project/gpt-oss-redteam/"
+}

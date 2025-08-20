@@ -1,11 +1,11 @@
 {
   "name": "bafser",
-  "version": "2.0.10",
+  "version": "2.0.12",
   "summary": "Base for flask server",
   "author": "Mixel Te",
   "license": null,
   "home_page": null,
-  "download_filename": "bafser-2.0.10.tar.gz",
-  "download_time": "2025-08-19T12:40:18.314305",
+  "download_filename": "bafser-2.0.12.tar.gz",
+  "download_time": "2025-08-20T11:39:47.371817",
   "package_url": "https://pypi.org/project/bafser/"
 }
