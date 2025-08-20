@@ -1,11 +1,11 @@
 {
   "name": "pywhatsweb",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Biblioteca Python para WhatsApp Web corporativo baseada em sidecar Node.js com whatsapp-web.js",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "pywhatsweb-0.4.2.tar.gz",
-  "download_time": "2025-08-20T17:18:42.935338",
+  "download_filename": "pywhatsweb-0.4.4.tar.gz",
+  "download_time": "2025-08-20T18:52:36.159149",
   "package_url": "https://pypi.org/project/pywhatsweb/"
 }

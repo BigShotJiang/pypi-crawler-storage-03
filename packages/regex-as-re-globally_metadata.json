@@ -1,11 +1,11 @@
 {
   "name": "regex-as-re-globally",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Creates a regex-as-re-globally.pth to replace stdlib \"re\" module with \"regex\" module globally before any code runs.",
   "author": "Dave Brondsema",
-  "license": null,
+  "license": "BSD",
   "home_page": "https://github.com/brondsem/regex-as-re-globally/",
-  "download_filename": "regex_as_re_globally-0.0.4.tar.gz",
-  "download_time": "2025-08-20T17:18:23.882500",
+  "download_filename": "regex_as_re_globally-0.0.5.tar.gz",
+  "download_time": "2025-08-20T18:52:59.406343",
   "package_url": "https://pypi.org/project/regex-as-re-globally/"
 }

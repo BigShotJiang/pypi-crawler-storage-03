@@ -1,0 +1,11 @@
+{
+  "name": "virtool-workflow",
+  "version": "7.2.3",
+  "summary": "A framework for developing bioinformatics workflows for Virtool.",
+  "author": "Ian Boyes",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "virtool_workflow-7.2.3.tar.gz",
+  "download_time": "2025-08-20T18:52:50.486907",
+  "package_url": "https://pypi.org/project/virtool-workflow/"
+}

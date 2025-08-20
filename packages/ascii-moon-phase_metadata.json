@@ -1,0 +1,11 @@
+{
+  "name": "ascii-moon-phase",
+  "version": "0.3.0",
+  "summary": "Display the current lunar phase as ASCII art.",
+  "author": null,
+  "license": "Copyright 2025 Al Sweigart",
+  "home_page": null,
+  "download_filename": "ascii_moon_phase-0.3.0.tar.gz",
+  "download_time": "2025-08-20T18:53:12.561934",
+  "package_url": "https://pypi.org/project/ascii-moon-phase/"
+}

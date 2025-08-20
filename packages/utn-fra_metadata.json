@@ -1,11 +1,11 @@
 {
   "name": "utn-fra",
-  "version": "1.0.1.3",
+  "version": "1.0.1.4",
   "summary": "Set de datos con informacion para trabajos y examenes",
   "author": "Facundo Falcone",
   "license": null,
   "home_page": "https://pypi.org/project/utn-fra/",
-  "download_filename": "utn_fra-1.0.1.3-py3-none-any.whl",
-  "download_time": "2025-08-20T18:10:53.422410",
+  "download_filename": "utn_fra-1.0.1.4-py3-none-any.whl",
+  "download_time": "2025-08-20T18:52:56.235963",
   "package_url": "https://pypi.org/project/utn-fra/"
 }

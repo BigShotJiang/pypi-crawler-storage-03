@@ -1,11 +1,11 @@
 {
   "name": "b10-tcache",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Distributed PyTorch compilation cache for Baseten - Environment-aware, lock-free compilation cache management",
   "author": "Shounak Ray",
   "license": "MIT",
   "home_page": "https://docs.baseten.co/development/model/b10-tcache",
-  "download_filename": "b10_tcache-0.3.2.tar.gz",
-  "download_time": "2025-08-20T16:48:01.568529",
+  "download_filename": "b10_tcache-0.3.4.tar.gz",
+  "download_time": "2025-08-20T18:52:43.700242",
   "package_url": "https://pypi.org/project/b10-tcache/"
 }

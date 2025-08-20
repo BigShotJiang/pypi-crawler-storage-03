@@ -1,11 +1,11 @@
 {
   "name": "dash-dashkit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Modern dashboard components for Dash applications",
   "author": "Dashkit Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dash_dashkit-1.0.4.tar.gz",
-  "download_time": "2025-08-20T18:11:07.959643",
+  "download_filename": "dash_dashkit-1.0.5.tar.gz",
+  "download_time": "2025-08-20T18:52:44.752062",
   "package_url": "https://pypi.org/project/dash-dashkit/"
 }

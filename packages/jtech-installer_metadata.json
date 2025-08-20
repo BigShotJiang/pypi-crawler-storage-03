@@ -1,11 +1,11 @@
 {
   "name": "jtech-installer",
-  "version": "0.1.0",
-  "summary": "Instalador de Ambiente para JTECH™ Core Framework",
+  "version": "0.2.1",
+  "summary": "Instalador Enterprise para JTECH™ Core Framework - Veolia",
   "author": null,
-  "license": "MIT",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "jtech_installer-0.1.0.tar.gz",
-  "download_time": "2025-08-20T18:29:49.091479",
+  "download_filename": "jtech_installer-0.2.1.tar.gz",
+  "download_time": "2025-08-20T18:52:58.349849",
   "package_url": "https://pypi.org/project/jtech-installer/"
 }

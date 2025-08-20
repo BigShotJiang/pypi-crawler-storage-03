@@ -1,11 +1,11 @@
 {
   "name": "FHIL-python-utils",
-  "version": "0.1.4",
-  "summary": "General utility functions for Python data analysis and visualization",
+  "version": "0.1.5",
+  "summary": "General utility functions for Python data analysis and visualization at Fred Hutch Innovation Lab",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fhil_python_utils-0.1.4.tar.gz",
-  "download_time": "2025-08-19T19:41:10.124217",
+  "download_filename": "fhil_python_utils-0.1.5.tar.gz",
+  "download_time": "2025-08-20T18:53:04.737528",
   "package_url": "https://pypi.org/project/FHIL-python-utils/"
 }
