@@ -1,0 +1,11 @@
+{
+  "name": "sentry-scrubber",
+  "version": "2.3.0",
+  "summary": "A lightweight and flexible Python library for scrubbing sensitive information from Sentry events before they are sent to the server.",
+  "author": "Andrei Andreev",
+  "license": "MIT",
+  "home_page": "https://github.com/drew2a/sentry-scrubber",
+  "download_filename": "sentry_scrubber-2.3.0.tar.gz",
+  "download_time": "2025-08-20T13:48:50.645014",
+  "package_url": "https://pypi.org/project/sentry-scrubber/"
+}

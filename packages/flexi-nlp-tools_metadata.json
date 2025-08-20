@@ -1,0 +1,11 @@
+{
+  "name": "flexi-nlp-tools",
+  "version": "0.6.0",
+  "summary": "NLP toolkit based on the flexi-dict data structure, designed for efficient fuzzy search, with a focus on simplicity, performance, and flexibility.",
+  "author": "Tetiana Lytvynenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flexi_nlp_tools-0.6.0.tar.gz",
+  "download_time": "2025-08-20T13:48:05.220879",
+  "package_url": "https://pypi.org/project/flexi-nlp-tools/"
+}

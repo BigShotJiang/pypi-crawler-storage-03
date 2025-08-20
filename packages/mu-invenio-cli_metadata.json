@@ -1,0 +1,11 @@
+{
+  "name": "mu-invenio-cli",
+  "version": "1.1.2",
+  "summary": "Invenio Command Line Interface",
+  "author": "Dominik Dubovsky <485020@mail.muni.cz>",
+  "license": null,
+  "home_page": "https://gitlab.ics.muni.cz/dataraptors/elter/dar-cli",
+  "download_filename": "mu_invenio_cli-1.1.2.tar.gz",
+  "download_time": "2025-08-20T13:48:56.480353",
+  "package_url": "https://pypi.org/project/mu-invenio-cli/"
+}

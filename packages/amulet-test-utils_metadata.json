@@ -1,0 +1,11 @@
+{
+  "name": "amulet-test-utils",
+  "version": "1.2.0",
+  "summary": "A C++ test utility library.",
+  "author": "James Clare",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amulet_test_utils-1.2.0.tar.gz",
+  "download_time": "2025-08-20T13:48:39.139448",
+  "package_url": "https://pypi.org/project/amulet-test-utils/"
+}

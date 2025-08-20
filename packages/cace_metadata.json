@@ -1,0 +1,11 @@
+{
+  "name": "cace",
+  "version": "2.8.3",
+  "summary": "Circuit Automatic Characterization Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cace-2.8.3.tar.gz",
+  "download_time": "2025-08-20T13:48:08.035996",
+  "package_url": "https://pypi.org/project/cace/"
+}

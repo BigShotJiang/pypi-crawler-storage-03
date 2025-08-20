@@ -1,11 +1,11 @@
 {
   "name": "simplexpy",
-  "version": "0.0.1",
-  "summary": "Simplex Python SDK",
+  "version": "0.0.2",
+  "summary": "A comprehensive Python SDK for structural engineering calculations, foundation design, and Eurocode compliance",
   "author": null,
-  "license": null,
+  "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "simplexpy-0.0.1.tar.gz",
-  "download_time": "2025-08-20T13:21:15.738652",
+  "download_filename": "simplexpy-0.0.2.tar.gz",
+  "download_time": "2025-08-20T13:48:47.936420",
   "package_url": "https://pypi.org/project/simplexpy/"
 }
