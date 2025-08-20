@@ -1,11 +1,11 @@
 {
   "name": "dv-pipecat-ai",
-  "version": "0.0.74.dev685",
+  "version": "0.0.74.dev692",
   "summary": "An open source framework for voice (and multimodal) assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dv_pipecat_ai-0.0.74.dev685.tar.gz",
-  "download_time": "2025-08-18T07:34:42.332651",
+  "download_filename": "dv_pipecat_ai-0.0.74.dev692.tar.gz",
+  "download_time": "2025-08-20T09:43:24.584962",
   "package_url": "https://pypi.org/project/dv-pipecat-ai/"
 }

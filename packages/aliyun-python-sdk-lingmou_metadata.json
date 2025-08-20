@@ -1,0 +1,11 @@
+{
+  "name": "aliyun-python-sdk-lingmou",
+  "version": "1.0.1",
+  "summary": "The lingmou module of Aliyun Python sdk.",
+  "author": "Aliyun",
+  "license": "Apache",
+  "home_page": "http://develop.aliyun.com/sdk/python",
+  "download_filename": "aliyun-python-sdk-lingmou-1.0.1.tar.gz",
+  "download_time": "2025-08-20T09:43:08.656815",
+  "package_url": "https://pypi.org/project/aliyun-python-sdk-lingmou/"
+}
