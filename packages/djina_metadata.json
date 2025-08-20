@@ -1,0 +1,11 @@
+{
+  "name": "djina",
+  "version": "0.1.2",
+  "summary": "Djina's Python API",
+  "author": "Nelson Monteiro",
+  "license": "MIT",
+  "home_page": "https://github.com/djinalab/djina-python-api",
+  "download_filename": "djina-0.1.2.tar.gz",
+  "download_time": "2025-08-20T12:40:41.679449",
+  "package_url": "https://pypi.org/project/djina/"
+}

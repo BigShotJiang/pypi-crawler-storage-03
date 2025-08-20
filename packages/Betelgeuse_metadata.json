@@ -1,0 +1,11 @@
+{
+  "name": "Betelgeuse",
+  "version": "1.12.0",
+  "summary": "Betelgeuse is a Python program that reads standard Python test cases and generates XML files that are suited to be imported by Polarion importers.",
+  "author": "Elyézer Rezende, Og Maciel",
+  "license": "GPLv3",
+  "home_page": "https://github.com/SatelliteQE/betelgeuse",
+  "download_filename": "betelgeuse-1.12.0.tar.gz",
+  "download_time": "2025-08-20T12:40:57.681736",
+  "package_url": "https://pypi.org/project/Betelgeuse/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stlitepack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A package for converting streamlit apps to stlite apps to remove the need for hosting",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stlitepack-0.2.0.tar.gz",
-  "download_time": "2025-08-20T10:56:17.799315",
+  "download_filename": "stlitepack-0.3.0.tar.gz",
+  "download_time": "2025-08-20T12:40:40.645840",
   "package_url": "https://pypi.org/project/stlitepack/"
 }

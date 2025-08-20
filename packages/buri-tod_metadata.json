@@ -1,0 +1,11 @@
+{
+  "name": "buri-tod",
+  "version": "0.3",
+  "summary": "B.U.R.I (Backdoor Utility for Remote Interaction) is a modular, encrypted command-and-control (C2) webshell client designed for secure and interactive remote administration. It provides a feature-rich interface for managing remote systems via an encrypted PHP webshell, supporting AES-GCM encryption, reverse shell capabilities, and extensible command modules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "buri_tod-0.3.tar.gz",
+  "download_time": "2025-08-20T12:40:09.058521",
+  "package_url": "https://pypi.org/project/buri-tod/"
+}

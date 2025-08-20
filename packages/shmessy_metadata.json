@@ -1,0 +1,11 @@
+{
+  "name": "shmessy",
+  "version": "2.0.3",
+  "summary": "If your data is messy - Use Shmessy!",
+  "author": "Ohad Mata",
+  "license": null,
+  "home_page": "https://github.com/ohadmata/shmessy",
+  "download_filename": "shmessy-2.0.3.tar.gz",
+  "download_time": "2025-08-20T12:40:23.361941",
+  "package_url": "https://pypi.org/project/shmessy/"
+}

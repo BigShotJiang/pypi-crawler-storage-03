@@ -1,0 +1,11 @@
+{
+  "name": "go2jinja",
+  "version": "0.2.0",
+  "summary": "Library for converting Go Templates to Jinja Templates",
+  "author": "Michael Engel",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://github.com/engelmi/go2jinja",
+  "download_filename": "go2jinja-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-20T12:40:16.465242",
+  "package_url": "https://pypi.org/project/go2jinja/"
+}

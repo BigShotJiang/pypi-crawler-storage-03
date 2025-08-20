@@ -1,0 +1,11 @@
+{
+  "name": "cloudperf",
+  "version": "0.0.52",
+  "summary": "Relative performance index for cloud services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudperf-0.0.52.tar.gz",
+  "download_time": "2025-08-20T12:40:26.531961",
+  "package_url": "https://pypi.org/project/cloudperf/"
+}
