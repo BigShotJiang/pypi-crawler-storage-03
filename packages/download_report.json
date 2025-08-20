@@ -1,14 +1,22 @@
 {
-  "download_time": "2025-08-20T05:20:26.023092",
-  "total_packages_downloaded": 73,
-  "total_size_mb": 13.11,
+  "download_time": "2025-08-20T05:44:00.802093",
+  "total_packages_downloaded": 74,
+  "total_size_mb": 0.5,
   "packages": [
+    "pympebm",
+    "emerald-hws",
+    "py-sgframework",
+    "bubblebarrier",
+    "korpy",
+    "zdocker",
+    "k7eel",
+    "contextlite",
+    "docs-reader",
+    "pytorch-retrieve",
+    "mtbp3cd",
     "casbin-async-postgres-watcher",
     "mcp-django-shell",
-    "k7eel",
     "must-cdk",
-    "zdocker",
-    "abt-utils",
     "pybusinesscentral",
     "sciv",
     "nrgrank",
@@ -68,13 +76,6 @@
     "odoo-addon-report-alternative-layout",
     "vyperdatum",
     "pytest-dsl-ui",
-    "dtreenetwork",
-    "copious",
-    "ktoolbox",
-    "odoo-addon-website-snippet-country-phone-code-dropdown",
-    "get-the-nini",
-    "lugach",
-    "odoo-addon-web-widget-x2many-2d-matrix",
-    "passagemath-macaulay2-jupyterkernel"
+    "dtreenetwork"
   ]
 }

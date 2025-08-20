@@ -1,11 +1,11 @@
 {
   "name": "pympebm",
-  "version": "0.4.16",
+  "version": "0.4.19",
   "summary": "Mixed-Pathology Event-Based Modeling for Disease Progression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pympebm-0.4.16.tar.gz",
-  "download_time": "2025-08-19T20:21:53.520038",
+  "download_filename": "pympebm-0.4.19.tar.gz",
+  "download_time": "2025-08-20T05:43:16.672534",
   "package_url": "https://pypi.org/project/pympebm/"
 }

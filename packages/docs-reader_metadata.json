@@ -1,11 +1,11 @@
 {
   "name": "docs-reader",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "To track previous or nearest import lines and show helper documents automatically",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "docs_reader-0.1.0.tar.gz",
-  "download_time": "2025-08-19T18:50:37.758323",
+  "download_filename": "docs_reader-0.1.0.post1.tar.gz",
+  "download_time": "2025-08-20T05:43:21.692181",
   "package_url": "https://pypi.org/project/docs-reader/"
 }
