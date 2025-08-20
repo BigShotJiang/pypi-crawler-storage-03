@@ -1,11 +1,11 @@
 {
   "name": "airbyte-cdk",
-  "version": "6.60.14",
+  "version": "6.60.15",
   "summary": "A framework for writing Airbyte Connectors.",
   "author": "Airbyte",
   "license": "MIT",
   "home_page": "https://airbyte.com",
-  "download_filename": "airbyte_cdk-6.60.14.tar.gz",
-  "download_time": "2025-08-19T18:26:50.691337",
+  "download_filename": "airbyte_cdk-6.60.15.tar.gz",
+  "download_time": "2025-08-20T17:18:40.771836",
   "package_url": "https://pypi.org/project/airbyte-cdk/"
 }

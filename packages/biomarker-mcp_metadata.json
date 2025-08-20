@@ -1,0 +1,11 @@
+{
+  "name": "biomarker-mcp",
+  "version": "0.2.0",
+  "summary": "Natural language interface for celltype marker query through MCP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "biomarker_mcp-0.2.0.tar.gz",
+  "download_time": "2025-08-20T17:18:36.391711",
+  "package_url": "https://pypi.org/project/biomarker-mcp/"
+}

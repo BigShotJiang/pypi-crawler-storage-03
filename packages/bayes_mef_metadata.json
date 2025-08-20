@@ -1,0 +1,11 @@
+{
+  "name": "bayes_mef",
+  "version": "0.1.9",
+  "summary": "Python implementation of the Bayesian MEF method",
+  "author": "Shantanu Kodgirwar",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/microscopic-image-analysis/bayes-mef",
+  "download_filename": "bayes_mef-0.1.9.tar.gz",
+  "download_time": "2025-08-20T17:18:35.841627",
+  "package_url": "https://pypi.org/project/bayes_mef/"
+}

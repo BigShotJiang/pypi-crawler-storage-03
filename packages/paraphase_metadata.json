@@ -1,0 +1,11 @@
+{
+  "name": "paraphase",
+  "version": "3.3.4",
+  "summary": "paraphase: HiFi-based caller for highly homologous genes",
+  "author": "Xiao Chen",
+  "license": "BSD-3-Clause-Clear",
+  "home_page": "https://github.com/PacificBiosciences/paraphase",
+  "download_filename": "paraphase-3.3.4.tar.gz",
+  "download_time": "2025-08-20T17:18:44.572660",
+  "package_url": "https://pypi.org/project/paraphase/"
+}

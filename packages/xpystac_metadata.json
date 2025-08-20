@@ -1,0 +1,11 @@
+{
+  "name": "xpystac",
+  "version": "0.3.0",
+  "summary": "Extend xarray.open_dataset to accept pystac objects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xpystac-0.3.0.tar.gz",
+  "download_time": "2025-08-20T17:18:05.664268",
+  "package_url": "https://pypi.org/project/xpystac/"
+}

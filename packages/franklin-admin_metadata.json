@@ -1,11 +1,11 @@
 {
   "name": "franklin-admin",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "Administrator plugin for Franklin - adds user management commands",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "franklin_admin-0.1.32.tar.gz",
-  "download_time": "2025-08-19T20:52:28.197945",
+  "download_filename": "franklin_admin-0.1.33.tar.gz",
+  "download_time": "2025-08-20T17:18:15.621711",
   "package_url": "https://pypi.org/project/franklin-admin/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ActivityStream",
+  "version": "0.5.1",
+  "summary": null,
+  "author": null,
+  "license": "Apache License, http://www.apache.org/licenses/LICENSE-2.0",
+  "home_page": "http://sf.net/p/activitystream",
+  "download_filename": "activitystream-0.5.1.tar.gz",
+  "download_time": "2025-08-20T17:18:32.020404",
+  "package_url": "https://pypi.org/project/ActivityStream/"
+}
