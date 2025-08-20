@@ -1,0 +1,11 @@
+{
+  "name": "AmiAutomation",
+  "version": "0.1.5.6",
+  "summary": "Package to extract binary files into pandas dataframes",
+  "author": "AMI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "AmiAutomation-0.1.5.6-py3-none-any.whl",
+  "download_time": "2025-08-20T20:22:15.226228",
+  "package_url": "https://pypi.org/project/AmiAutomation/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "step-criterion",
+  "version": "0.1.0",
+  "summary": "Comprehensive stepwise model selection for statsmodels: AIC, BIC, Adjusted R², and p-values with OLS/GLM support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "step_criterion-0.1.0.tar.gz",
+  "download_time": "2025-08-20T20:22:25.749459",
+  "package_url": "https://pypi.org/project/step-criterion/"
+}

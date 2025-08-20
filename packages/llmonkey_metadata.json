@@ -1,0 +1,11 @@
+{
+  "name": "llmonkey",
+  "version": "1.0.2",
+  "summary": "A library to talk to different language models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmonkey-1.0.2.tar.gz",
+  "download_time": "2025-08-20T20:22:13.109915",
+  "package_url": "https://pypi.org/project/llmonkey/"
+}
