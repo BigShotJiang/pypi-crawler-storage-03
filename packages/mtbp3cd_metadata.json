@@ -1,11 +1,11 @@
 {
   "name": "mtbp3cd",
-  "version": "0.1.25",
+  "version": "0.1.29",
   "summary": "my tool box for file management",
   "author": "Y. Hsu",
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "mtbp3cd-0.1.25-py3-none-any.whl",
-  "download_time": "2025-08-20T17:42:13.598772",
+  "download_filename": "mtbp3cd-0.1.29-py3-none-any.whl",
+  "download_time": "2025-08-20T18:10:49.754645",
   "package_url": "https://pypi.org/project/mtbp3cd/"
 }

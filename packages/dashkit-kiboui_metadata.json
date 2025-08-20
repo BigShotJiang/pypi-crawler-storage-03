@@ -1,11 +1,11 @@
 {
   "name": "dashkit-kiboui",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Contribution graph components for Dash with native theming support",
-  "author": "Dashkit Team",
-  "license": "MIT",
-  "home_page": "https://pypi.org/project/dashkit_kiboui/",
-  "download_filename": "dashkit_kiboui-1.0.1.tar.gz",
-  "download_time": "2025-08-20T16:48:29.941686",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dashkit_kiboui-1.0.4.tar.gz",
+  "download_time": "2025-08-20T18:11:17.101295",
   "package_url": "https://pypi.org/project/dashkit-kiboui/"
 }

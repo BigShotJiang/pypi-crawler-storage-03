@@ -1,11 +1,11 @@
 {
   "name": "dashkit-shadcn",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Shadcn/ui-inspired chart components for Dash with native theming support",
-  "author": "Dashkit Team",
-  "license": "MIT",
-  "home_page": "https://pypi.org/project/dashkit_shadcn/",
-  "download_filename": "dashkit_shadcn-1.0.1.tar.gz",
-  "download_time": "2025-08-20T16:48:30.462576",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dashkit_shadcn-1.0.4.tar.gz",
+  "download_time": "2025-08-20T18:11:15.809350",
   "package_url": "https://pypi.org/project/dashkit-shadcn/"
 }

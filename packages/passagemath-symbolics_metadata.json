@@ -1,11 +1,11 @@
 {
   "name": "passagemath-symbolics",
-  "version": "10.6.5",
+  "version": "10.6.6",
   "summary": "passagemath: Symbolic calculus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_symbolics-10.6.5.tar.gz",
-  "download_time": "2025-08-17T12:37:39.521686",
+  "download_filename": "passagemath_symbolics-10.6.6.tar.gz",
+  "download_time": "2025-08-20T18:11:19.720043",
   "package_url": "https://pypi.org/project/passagemath-symbolics/"
 }

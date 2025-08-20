@@ -1,11 +1,11 @@
 {
   "name": "passagemath-tachyon",
-  "version": "10.6.5",
+  "version": "10.6.6",
   "summary": "passagemath: Interface to the ray tracing system tachyon",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_tachyon-10.6.5.tar.gz",
-  "download_time": "2025-08-17T12:37:38.454757",
+  "download_filename": "passagemath_tachyon-10.6.6.tar.gz",
+  "download_time": "2025-08-20T18:11:17.743359",
   "package_url": "https://pypi.org/project/passagemath-tachyon/"
 }

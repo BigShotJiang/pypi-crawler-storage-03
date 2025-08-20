@@ -1,11 +1,11 @@
 {
   "name": "shushpy",
-  "version": "0.0.1.dev2",
+  "version": "0.0.1.dev5",
   "summary": "Remove all comments and docstrings from Python code using a safe AST-based transform.",
   "author": "vodkar",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "shushpy-0.0.1.dev2.tar.gz",
-  "download_time": "2025-08-17T09:39:36.048028",
+  "download_filename": "shushpy-0.0.1.dev5.tar.gz",
+  "download_time": "2025-08-20T18:11:04.274252",
   "package_url": "https://pypi.org/project/shushpy/"
 }
