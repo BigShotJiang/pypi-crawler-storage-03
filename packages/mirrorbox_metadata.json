@@ -1,0 +1,11 @@
+{
+  "name": "mirrorbox",
+  "version": "0.1.0",
+  "summary": "A smart, caching proxy for Docker, designed to bypass registry restrictions and accelerate your image pulls.",
+  "author": null,
+  "license": "**Copyright (c) 2025 Pouya Rezapour**  \n        Contact: pouyarezapourr@gmail.com\n        \n        Permission is hereby granted for **both commercial and non-commercial use** of this software and its associated code, **provided that** the following conditions are met:\n        \n        1. **Notification and Approval:** Prior to using this software or code in any personal or commercial project, you must contact the author (Pouya Rezapour) and inform them about your intended use. Usage is permitted only after this notification.  \n        2. **Copyright Notice:** The above copyright notice and this permission notice must be included in all copies or significant portions of the Software.  \n        3. **Disclaimer:** The Software is provided \"as-is\", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. The authors shall not be liable for any claims, damages, or other liabilities arising from its use.\n        \n        By using this software, you agree to comply with the conditions above.\n        ",
+  "home_page": null,
+  "download_filename": "mirrorbox-0.1.0.tar.gz",
+  "download_time": "2025-08-20T06:54:41.346216",
+  "package_url": "https://pypi.org/project/mirrorbox/"
+}

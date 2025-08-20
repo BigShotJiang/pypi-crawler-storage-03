@@ -1,11 +1,11 @@
 {
   "name": "Spin-dependent-d-band-center",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Package for spin-dependent d-band center app",
   "author": "Satadeep",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spin_dependent_d_band_center-1.0.2.tar.gz",
-  "download_time": "2025-08-20T06:32:58.327600",
+  "download_filename": "spin_dependent_d_band_center-1.0.3.tar.gz",
+  "download_time": "2025-08-20T06:54:58.104652",
   "package_url": "https://pypi.org/project/Spin-dependent-d-band-center/"
 }

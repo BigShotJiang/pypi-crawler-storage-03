@@ -1,11 +1,11 @@
 {
   "name": "redis-mcp-server",
-  "version": "0.3.0",
+  "version": "0.2.0",
   "summary": "Redis MCP Server - Model Context Protocol server for Redis",
   "author": "Redis",
   "license": null,
   "home_page": null,
-  "download_filename": "redis_mcp_server-0.3.0.tar.gz",
-  "download_time": "2025-08-19T14:19:54.642002",
+  "download_filename": "redis_mcp_server-0.2.0.tar.gz",
+  "download_time": "2025-08-20T06:54:36.514397",
   "package_url": "https://pypi.org/project/redis-mcp-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "copious",
-  "version": "0.1.30",
+  "version": "0.1.32",
   "summary": "A handy tool that make your day to day programming much easier. ",
   "author": "brianlan",
   "license": null,
   "home_page": "https://github.com/brianlan/copious",
-  "download_filename": "copious-0.1.30.tar.gz",
-  "download_time": "2025-08-20T04:32:35.995255",
+  "download_filename": "copious-0.1.32.tar.gz",
+  "download_time": "2025-08-20T06:54:43.987157",
   "package_url": "https://pypi.org/project/copious/"
 }
