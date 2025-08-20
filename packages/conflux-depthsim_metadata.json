@@ -1,0 +1,11 @@
+{
+  "name": "conflux-depthsim",
+  "version": "0.1.0",
+  "summary": "Professional order book depth simulation for backtesting and market analysis",
+  "author": "Conflux ML Engine Team",
+  "license": "MIT",
+  "home_page": "https://github.com/stefan-mcf/depthsim",
+  "download_filename": "conflux_depthsim-0.1.0.tar.gz",
+  "download_time": "2025-08-20T23:39:58.165848",
+  "package_url": "https://pypi.org/project/conflux-depthsim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "create-smithery-python-unofficial",
+  "version": "0.1.1",
+  "summary": "Unofficial Python CLI for creating MCP servers for Smithery",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "create_smithery_python_unofficial-0.1.1.tar.gz",
+  "download_time": "2025-08-20T23:39:35.324243",
+  "package_url": "https://pypi.org/project/create-smithery-python-unofficial/"
+}

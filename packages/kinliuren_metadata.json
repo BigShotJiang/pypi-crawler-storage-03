@@ -1,0 +1,11 @@
+{
+  "name": "kinliuren",
+  "version": "0.1.2.9",
+  "summary": "Dailiuren (大六壬) is one of the three greatest Chinese Divination systems ever.",
+  "author": "Ken Tang",
+  "license": null,
+  "home_page": "https://github.com/kentang2017/kinliuren",
+  "download_filename": "kinliuren-0.1.2.9.tar.gz",
+  "download_time": "2025-08-20T23:39:48.224070",
+  "package_url": "https://pypi.org/project/kinliuren/"
+}
