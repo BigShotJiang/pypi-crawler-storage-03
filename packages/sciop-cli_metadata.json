@@ -1,11 +1,11 @@
 {
   "name": "sciop-cli",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": "A CLI for sciop",
   "author": null,
   "license": "EUPL-1.2",
   "home_page": null,
-  "download_filename": "sciop_cli-0.2.4.tar.gz",
-  "download_time": "2025-08-20T02:55:26.290948",
+  "download_filename": "sciop_cli-0.3.0.tar.gz",
+  "download_time": "2025-08-20T05:19:51.883813",
   "package_url": "https://pypi.org/project/sciop-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tokenometry",
+  "version": "1.0.2",
+  "summary": "A sophisticated multi-strategy crypto analysis bot for trading signals",
+  "author": "nguyenph88",
+  "license": "MIT",
+  "home_page": "https://github.com/nguyenph88/Tokenometry",
+  "download_filename": "tokenometry-1.0.2.tar.gz",
+  "download_time": "2025-08-20T05:19:59.734333",
+  "package_url": "https://pypi.org/project/tokenometry/"
+}

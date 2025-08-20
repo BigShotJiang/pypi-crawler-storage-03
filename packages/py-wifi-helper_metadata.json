@@ -1,0 +1,11 @@
+{
+  "name": "py-wifi-helper",
+  "version": "2.0.4",
+  "summary": "A cross-platform WiFi management tool for Windows, macOS, and Ubuntu",
+  "author": "Yuan-Yi Chang",
+  "license": null,
+  "home_page": "https://github.com/changyy/py-wifi-helper",
+  "download_filename": "py_wifi_helper-2.0.4.tar.gz",
+  "download_time": "2025-08-20T05:19:57.628655",
+  "package_url": "https://pypi.org/project/py-wifi-helper/"
+}

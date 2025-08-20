@@ -1,0 +1,11 @@
+{
+  "name": "rl_cli",
+  "version": "0.2.15",
+  "summary": "Runloop CLI for interacting with the Runloop APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rl_cli-0.2.15.tar.gz",
+  "download_time": "2025-08-20T05:20:03.931276",
+  "package_url": "https://pypi.org/project/rl_cli/"
+}

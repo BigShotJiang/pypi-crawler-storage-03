@@ -1,0 +1,11 @@
+{
+  "name": "judge0-api-wrapper",
+  "version": "1.1.3",
+  "summary": "API wrapper for Judge0 service",
+  "author": "Fabul0n",
+  "license": "MIT",
+  "home_page": "https://github.com/Fabul0n/judge0-api-wrapper",
+  "download_filename": "judge0_api_wrapper-1.1.3.tar.gz",
+  "download_time": "2025-08-20T05:19:52.924771",
+  "package_url": "https://pypi.org/project/judge0-api-wrapper/"
+}
