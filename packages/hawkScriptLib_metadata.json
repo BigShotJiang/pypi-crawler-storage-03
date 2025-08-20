@@ -1,0 +1,11 @@
+{
+  "name": "hawkScriptLib",
+  "version": "0.1.2",
+  "summary": "This library is used for communication between Hawk script and hz team's GUI PLC driver",
+  "author": "Johnny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hawkscriptlib-0.1.2.tar.gz",
+  "download_time": "2025-08-20T04:54:02.595226",
+  "package_url": "https://pypi.org/project/hawkScriptLib/"
+}

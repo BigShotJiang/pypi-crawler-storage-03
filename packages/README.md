@@ -1,11 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T04:33:17.136962
-- **Total Packages**: 84
-- **Total Size**: 18.41 MB
+- **Download Time**: 2025-08-20T04:54:46.993442
+- **Total Packages**: 83
+- **Total Size**: 9.32 MB
 
 ## Packages List
+- csv-server
+- hawkScriptLib
+- fiftyone-devicedetection-onpremise
+- fiftyone-devicedetection
+- fiftyone-devicedetection-shared
+- fiftyone-devicedetection-cloud
+- miamcpdoc
+- factorio-draftsman
+- nonebot-plugin-llmchat
+- ccux
+- zdocker
+- nymcard-push-notification
+- debabelizer
+- forge-ai-code
+- simplekg
+- sciv
+- ktoolbox-pure-py
+- mrx-runway
+- pyMetaModel
+- replan2eplus
+- npcsh
+- bear-utils
+- super-cc
+- npcpy
+- llm-profile
+- pyproforma
+- fnb
+- Trueflagger2
+- pybangla
+- odoo-addon-account-tax-rounding-method
+- HoloAI
+- windscroll-physiocycledeco
 - quapp-braket
 - HippoRAG-Lite
 - LCS-Algorithms
@@ -14,7 +46,6 @@
 - vyperdatum
 - ivybloom
 - py-abt-utils
-- ccux
 - pytest-dsl-ui
 - dtreenetwork
 - copious
@@ -22,8 +53,6 @@
 - odoo-addon-website-snippet-country-phone-code-dropdown
 - get-the-nini
 - py-dbt-utils
-- lanchain-sgframework
-- forge-ai-code
 - lugach
 - odoo-addon-web-widget-x2many-2d-matrix
 - passagemath-macaulay2-jupyterkernel
@@ -34,7 +63,6 @@
 - diffusers
 - odoo-addon-stock-split-picking-dimension
 - odoo-addon-stock-picking-batch-creation
-- replan2eplus
 - odoo-addon-stock-picking-import-serial-number
 - google-sheets-helper
 - snowflake-connector-python-nightly
@@ -61,32 +89,3 @@
 - otlmow-model
 - syncraft
 - swarms
-- ragflow-sdk
-- gaussian-process-api
-- odoo-addon-sale-invoice-blocking
-- tKot
-- sciv
-- pulumi-vault
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.aws-aps
-- openvr
-- omnara
-- robhan-cdk-lib.utils
-- pyirx
-- mobly-android-partner-tools
-- commonutility
-- liquiphy
-- odoo-addon-website-sale-loyalty-suggestion-wizard-multi-gift
-- keras-nightly
-- odoo-addon-sale-order-blanket-order-stock-prebook-release
-- odoo-addon-sale-order-blanket-order
-- qbox-types
-- odoo-addon-report-qweb-field-option
-- apollo-io-mcp
-- odoo-addon-purchase-work-acceptance-invoice-plan
-- odoo-addon-purchase-order-line-original-date
-- primfunctions
-- odoo-addon-purchase-stock-manual-currency
-- babyGPT
-- publicsuffixlist
-- civic-transparency-types
