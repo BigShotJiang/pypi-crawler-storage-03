@@ -1,0 +1,11 @@
+{
+  "name": "openvr",
+  "version": "2.12.1401",
+  "summary": "Unofficial python bindings for Valve OpenVR SDK",
+  "author": "Christopher Bruns and others",
+  "license": "BSD",
+  "home_page": "https://github.com/cmbruns/pyopenvr",
+  "download_filename": "openvr-2.12.1401.tar.gz",
+  "download_time": "2025-08-20T03:59:33.655095",
+  "package_url": "https://pypi.org/project/openvr/"
+}

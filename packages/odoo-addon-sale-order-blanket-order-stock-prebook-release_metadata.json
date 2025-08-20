@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-sale-order-blanket-order-stock-prebook-release",
-  "version": "16.0.1.1.0",
+  "version": "16.0.1.1.0.2",
   "summary": "Ensure that the date priotity when releasing qty is the start date of the blanker order",
   "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/sale-blanket",
-  "download_filename": "odoo_addon_sale_order_blanket_order_stock_prebook_release-16.0.1.1.0-py3-none-any.whl",
-  "download_time": "2025-08-19T10:46:12.225999",
+  "download_filename": "odoo_addon_sale_order_blanket_order_stock_prebook_release-16.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2025-08-20T03:59:39.942952",
   "package_url": "https://pypi.org/project/odoo-addon-sale-order-blanket-order-stock-prebook-release/"
 }

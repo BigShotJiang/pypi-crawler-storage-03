@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T03:41:57.776392
-- **Total Packages**: 73
-- **Total Size**: 29.57 MB
+- **Download Time**: 2025-08-20T04:00:15.779764
+- **Total Packages**: 84
+- **Total Size**: 7.3 MB
 
 ## Packages List
+- gaussian-process-api
+- odoo-addon-sale-invoice-blocking
+- tKot
+- sciv
+- pulumi-vault
+- robhan-cdk-lib.aws-grafana
+- robhan-cdk-lib.aws-aps
+- openvr
+- replan2eplus
+- omnara
+- robhan-cdk-lib.utils
+- pyirx
+- mobly-android-partner-tools
+- commonutility
+- liquiphy
+- odoo-addon-website-sale-loyalty-suggestion-wizard-multi-gift
+- keras-nightly
+- odoo-addon-sale-order-blanket-order-stock-prebook-release
+- odoo-addon-sale-order-blanket-order
+- qbox-types
+- odoo-addon-report-qweb-field-option
+- apollo-io-mcp
+- odoo-addon-purchase-work-acceptance-invoice-plan
+- odoo-addon-purchase-order-line-original-date
+- primfunctions
+- odoo-addon-purchase-stock-manual-currency
+- babyGPT
+- publicsuffixlist
+- civic-transparency-types
+- copious
+- gllm-inference-binary
+- jeanmemory
+- snek-tui
+- ndice
+- mcp4hal
 - phicode
 - cdktf-cdktf-provider-ionoscloud
 - gumerov-expansion-coefficients
@@ -21,7 +56,6 @@
 - myxagent
 - phonic
 - mcp-kicad-sch-api
-- sciv
 - deezspot-spotizerr
 - freecrawl-mcp
 - qrpa
@@ -47,7 +81,6 @@
 - phg-vis
 - mcp-unit
 - wordss
-- mcp4hal
 - persian-datepicker
 - eval-mcp
 - maleo-identity
@@ -57,25 +90,3 @@
 - axmp-openapi-mcp-server
 - odoo-addon-l10n-us-mis-financial-report
 - odoo-addon-l10n-us-gaap
-- odoo-addon-l10n-us-form-1099
-- image-token
-- cobweb-launcher
-- pybrave
-- mdformat_mkdocs
-- tombi
-- cachetic
-- gaussian-process-api
-- mcp-tester
-- mcpevals
-- hanzo
-- mcpstack-mimic
-- xl-docx
-- mcp-airflow-api
-- fabrial
-- llama-index-readers-confluence
-- llama-index-embeddings-heroku
-- bash2gitlab
-- keystone-api-client
-- karrio-veho
-- karrio-tge
-- karrio-shipengine
