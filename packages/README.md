@@ -1,18 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T10:56:19.341031
-- **Total Packages**: 83
-- **Total Size**: 56.36 MB
+- **Download Time**: 2025-08-20T11:17:52.506453
+- **Total Packages**: 82
+- **Total Size**: 33.21 MB
 
 ## Packages List
+- gsrap
+- MeUtils
+- aiodbcore
+- vllm-inference
+- tb-nightly
+- returnn
+- trackeval
+- thug
+- code-expert-mcp
+- countries-dictionary
+- ktoolbox
+- syncraft
+- qwak-core
+- gdal2numpy
+- bizyairsdk
+- PyTransportNSWv2
+- pyrat-game
+- apis-core-rdf
+- polars-genson
+- ewoksxrpd
+- imagesorcery-mcp
+- ktoolbox-pure-py
+- legit-api-client
+- xsd2doc
+- ai-rulez
+- adaup
+- graphql-http-server
+- sensory-data-client
+- cb-pyutils
+- PyChromecast
+- zex-sdk
+- asyncakumuli
+- llmbridge-py
+- ast2000tools
+- koronascript
+- hamtaa-texttools
+- yoapi-cli
+- mnist-synthetic
+- pandas-type-detector
+- safe-eth-py
+- moviebox-api
+- matrice
+- Musicreater
+- mcp-server-multi-fetch
+- llmring-registry
+- xync-schema
+- ndonnx
+- fsspec-utils
+- apigeecli
 - my-first-pypi-demo
 - sheetwhat
 - gammarers.aws-secure-log-bucket
 - collibra-connector
 - pymimir
 - dlwheel
-- gdal2numpy
 - genuine-fake
 - cli-arena
 - djangoldp-becknld
@@ -22,13 +70,9 @@
 - prek
 - konduktor-nightly
 - faird
-- trackeval
 - dashlab
 - centering-lgram
-- MeUtils
 - zwishh
-- ast2000tools
-- adaup
 - trainy-policy-nightly
 - linksocks
 - tc-hivemind-backend
@@ -44,48 +88,3 @@
 - oai2ollama
 - frequenz-client-electricity-trading
 - localpkg
-- co-datascientist
-- letta-nightly
-- apmtools
-- bplusplus
-- qecore
-- ctlib-webstack
-- pyxdaq
-- ctlib-geoip
-- gitlab-pipeline-analyzer
-- gammy
-- pydorm
-- skivvy
-- seam
-- harmony-cli
-- arshai
-- brainles-preprocessing
-- sconext-ckan
-- chunkhound
-- scontoolkit
-- fraiseql
-- pyflange
-- zih-ldap
-- fostrom
-- async-map-mongo
-- wx-chatbot-client
-- poetry-plugin-ivcap
-- dpy-container-pagination
-- jaaql-middleware-python
-- lusid-sdk
-- energy-counters
-- ErisPulse-OneBot11Adapter
-- ErisPulse-TelegramAdapter
-- oc-dms-mirror
-- LightWin
-- gsrap
-- cuery
-- py-dss-toolkit
-- llm-chat-term
-- syft_toolbox
-- syncraft
-- versionator-mcp
-- AI-WQ-package
-- stlitepack
-- spark-nlp
-- claudeguard

@@ -1,11 +1,11 @@
 {
   "name": "ast2000tools",
-  "version": "1.7.3",
+  "version": "1.7.4",
   "summary": "Tools required for the course AST2000 at the University of Oslo.",
   "author": "Lars Frogner",
   "license": null,
-  "home_page": null,
-  "download_filename": "ast2000tools-1.7.3-py36-none-any.whl",
-  "download_time": "2025-08-20T10:55:46.497449",
+  "home_page": "https://lars-frogner.github.io/ast2000tools/",
+  "download_filename": "ast2000tools-1.7.4-py310-none-any.whl",
+  "download_time": "2025-08-20T11:17:27.041241",
   "package_url": "https://pypi.org/project/ast2000tools/"
 }

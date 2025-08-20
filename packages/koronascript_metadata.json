@@ -1,0 +1,11 @@
+{
+  "name": "koronascript",
+  "version": "0.2.1",
+  "summary": "Wrapper around Korona modules for processing echosounder data",
+  "author": "Ketil Malde",
+  "license": null,
+  "home_page": "https://github.com/CRIMAC-WP4-Machine-learning/CRIMAC-KoronaScript",
+  "download_filename": "koronascript-0.2.1.tar.gz",
+  "download_time": "2025-08-20T11:17:27.553183",
+  "package_url": "https://pypi.org/project/koronascript/"
+}

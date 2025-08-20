@@ -1,0 +1,11 @@
+{
+  "name": "apigeecli",
+  "version": "0.53.10",
+  "summary": "(DEPRECATED) apigeecli simplifies and automates Apigee Edge API usage.",
+  "author": "Matthew Delotavo",
+  "license": "Apache license 2.0",
+  "home_page": "https://github.com/darumatic/apigee-cli",
+  "download_filename": "apigeecli-0.53.10.tar.gz",
+  "download_time": "2025-08-20T11:17:34.741466",
+  "package_url": "https://pypi.org/project/apigeecli/"
+}

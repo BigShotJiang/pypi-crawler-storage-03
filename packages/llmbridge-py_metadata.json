@@ -1,0 +1,11 @@
+{
+  "name": "llmbridge-py",
+  "version": "0.2.3",
+  "summary": "Unified Python interface for OpenAI, Anthropic, Google, and Ollama LLMs with optional model registry and usage tracking - deprecated",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmbridge_py-0.2.3.tar.gz",
+  "download_time": "2025-08-20T11:17:26.527649",
+  "package_url": "https://pypi.org/project/llmbridge-py/"
+}

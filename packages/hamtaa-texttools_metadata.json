@@ -1,11 +1,11 @@
 {
   "name": "hamtaa-texttools",
-  "version": "0.1.43",
+  "version": "0.1.44",
   "summary": "A set of high-level NLP tools",
   "author": "Tohidi, Montazer, Givechi, Mousavinezhad",
   "license": null,
   "home_page": null,
-  "download_filename": "hamtaa_texttools-0.1.43.tar.gz",
-  "download_time": "2025-08-17T12:37:28.425959",
+  "download_filename": "hamtaa_texttools-0.1.44.tar.gz",
+  "download_time": "2025-08-20T11:17:28.063995",
   "package_url": "https://pypi.org/project/hamtaa-texttools/"
 }
