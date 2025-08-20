@@ -1,0 +1,11 @@
+{
+  "name": "pyskani",
+  "version": "0.2.0",
+  "summary": "PyO3 bindings and Python interface to skani, a method for fast fast genomic identity calculation using sparse chaining.",
+  "author": "Martin Larralde <martin.larralde@embl.de>",
+  "license": "MIT",
+  "home_page": "https://github.com/althonos/pyskani/",
+  "download_filename": "pyskani-0.2.0.tar.gz",
+  "download_time": "2025-08-20T23:18:26.982505",
+  "package_url": "https://pypi.org/project/pyskani/"
+}

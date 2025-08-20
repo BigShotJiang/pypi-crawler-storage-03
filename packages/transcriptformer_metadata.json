@@ -1,0 +1,11 @@
+{
+  "name": "transcriptformer",
+  "version": "0.6.0",
+  "summary": "A transformer model for gene expression data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transcriptformer-0.6.0-py3-none-any.whl",
+  "download_time": "2025-08-20T23:19:05.915677",
+  "package_url": "https://pypi.org/project/transcriptformer/"
+}

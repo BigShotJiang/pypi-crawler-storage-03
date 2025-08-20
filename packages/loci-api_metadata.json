@@ -1,11 +1,11 @@
 {
   "name": "loci-api",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Aurora Labs API helper for automated upload to Loci Binary Analysis tool",
   "author": "Aurora Labs",
   "license": "Apache License 2.0",
   "home_page": "https://loci-dev.net",
-  "download_filename": "loci_api-0.2.3-py2.py3-none-any.whl",
-  "download_time": "2025-08-20T22:42:11.684845",
+  "download_filename": "loci_api-0.2.4-py2.py3-none-any.whl",
+  "download_time": "2025-08-20T23:18:44.183679",
   "package_url": "https://pypi.org/project/loci-api/"
 }

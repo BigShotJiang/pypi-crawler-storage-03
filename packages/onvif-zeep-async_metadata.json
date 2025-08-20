@@ -1,0 +1,11 @@
+{
+  "name": "onvif-zeep-async",
+  "version": "4.0.4",
+  "summary": "Async Python Client for ONVIF Camera",
+  "author": "Cherish Chen",
+  "license": "MIT",
+  "home_page": "http://github.com/hunterjm/python-onvif-zeep-async",
+  "download_filename": "onvif_zeep_async-4.0.4.tar.gz",
+  "download_time": "2025-08-20T23:19:06.428560",
+  "package_url": "https://pypi.org/project/onvif-zeep-async/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "textplumber",
+  "version": "0.0.10",
+  "summary": "Pipeline components for Sci-kit learn to extract relevant features from text data, including tokens, parts of speech, lexicon scores, document-level statistics and embeddings.",
+  "author": "Geoff Ford",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/polsci/textplumber",
+  "download_filename": "textplumber-0.0.10.tar.gz",
+  "download_time": "2025-08-20T23:19:04.377998",
+  "package_url": "https://pypi.org/project/textplumber/"
+}

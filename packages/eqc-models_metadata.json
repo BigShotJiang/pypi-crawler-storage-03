@@ -1,0 +1,11 @@
+{
+  "name": "eqc-models",
+  "version": "0.14.2",
+  "summary": "Optimization and ML modeling package targeting EQC devices",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eqc_models-0.14.2.tar.gz",
+  "download_time": "2025-08-20T23:18:38.413599",
+  "package_url": "https://pypi.org/project/eqc-models/"
+}

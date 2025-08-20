@@ -1,11 +1,11 @@
 {
   "name": "ci-cmg-mb-cruise-migration",
-  "version": "1.28.5",
+  "version": "1.28.6",
   "summary": "migrates multibeam metadata from mb schema to cruise schema",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ci_cmg_mb_cruise_migration-1.28.5.tar.gz",
-  "download_time": "2025-08-19T22:20:52.509203",
+  "download_filename": "ci_cmg_mb_cruise_migration-1.28.6.tar.gz",
+  "download_time": "2025-08-20T23:18:52.954405",
   "package_url": "https://pypi.org/project/ci-cmg-mb-cruise-migration/"
 }
