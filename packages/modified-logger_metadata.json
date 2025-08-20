@@ -1,0 +1,11 @@
+{
+  "name": "modified-logger",
+  "version": "1.1.0",
+  "summary": "Personal logging abstract from python's logging library that fits my needs",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "modified_logger-1.1.0.tar.gz",
+  "download_time": "2025-08-20T19:30:33.687840",
+  "package_url": "https://pypi.org/project/modified-logger/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-route53-recovery-control-config",
+  "version": "1.40.14",
+  "summary": "Type annotations for boto3 Route53RecoveryControlConfig 1.40.14 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "mypy_boto3_route53_recovery_control_config-1.40.14-py3-none-any.whl",
+  "download_time": "2025-08-20T19:29:56.933819",
+  "package_url": "https://pypi.org/project/mypy-boto3-route53-recovery-control-config/"
+}

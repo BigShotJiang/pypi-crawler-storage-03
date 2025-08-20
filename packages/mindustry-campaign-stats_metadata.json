@@ -1,0 +1,11 @@
+{
+  "name": "mindustry-campaign-stats",
+  "version": "2.1.1",
+  "summary": "Python API and CLI tool to read Mindustry's campaign global stats.",
+  "author": "Maxime \"Epoc\" Gross",
+  "license": "DBAD",
+  "home_page": "https://github.com/EpocDotFr/mindustry-campaign-stats",
+  "download_filename": "mindustry_campaign_stats-2.1.1.tar.gz",
+  "download_time": "2025-08-20T19:29:55.764121",
+  "package_url": "https://pypi.org/project/mindustry-campaign-stats/"
+}
