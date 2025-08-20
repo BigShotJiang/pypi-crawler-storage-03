@@ -1,11 +1,11 @@
 {
   "name": "pyclog",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A Python package for reading and writing .clog files with logging integration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyclog-0.1.2.tar.gz",
-  "download_time": "2025-08-19T10:56:28.978168",
+  "download_filename": "pyclog-0.1.3.tar.gz",
+  "download_time": "2025-08-20T07:41:22.812854",
   "package_url": "https://pypi.org/project/pyclog/"
 }

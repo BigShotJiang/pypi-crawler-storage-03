@@ -1,11 +1,11 @@
 {
   "name": "karrio-sapient",
-  "version": "2025.5rc14",
+  "version": "2025.5rc16",
   "summary": "Karrio - SAPIENT Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_sapient-2025.5rc14-py3-none-any.whl",
-  "download_time": "2025-08-19T17:52:17.301473",
+  "download_filename": "karrio_sapient-2025.5rc16-py3-none-any.whl",
+  "download_time": "2025-08-20T07:41:53.678827",
   "package_url": "https://pypi.org/project/karrio-sapient/"
 }

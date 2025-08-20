@@ -1,11 +1,11 @@
 {
   "name": "vkube",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "VKube-CLI User-End",
   "author": "vcloud-team",
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "vkube-2.0.0.tar.gz",
-  "download_time": "2025-08-19T09:43:02.328057",
+  "download_filename": "vkube-2.0.1.tar.gz",
+  "download_time": "2025-08-20T07:41:48.454221",
   "package_url": "https://pypi.org/project/vkube/"
 }

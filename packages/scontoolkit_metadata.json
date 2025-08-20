@@ -1,0 +1,11 @@
+{
+  "name": "scontoolkit",
+  "version": "0.0.2b3",
+  "summary": "An SDK to suppoort building extensions of the SingularConnector ",
+  "author": null,
+  "license": null,
+  "home_page": "https://www.singularlogic.eu/",
+  "download_filename": "scontoolkit-0.0.2b3.tar.gz",
+  "download_time": "2025-08-20T07:41:25.638164",
+  "package_url": "https://pypi.org/project/scontoolkit/"
+}

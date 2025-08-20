@@ -1,0 +1,11 @@
+{
+  "name": "sopel-amputator",
+  "version": "0.3.0",
+  "summary": "Sopel plugin that detects AMP links and finds their canonical forms using AmputatorBot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sopel_amputator-0.3.0.tar.gz",
+  "download_time": "2025-08-20T07:41:51.543277",
+  "package_url": "https://pypi.org/project/sopel-amputator/"
+}

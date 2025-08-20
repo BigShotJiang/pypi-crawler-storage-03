@@ -1,11 +1,11 @@
 {
   "name": "decentmesh",
-  "version": "0.0.164",
+  "version": "0.0.165",
   "summary": "Simple connection over decentralized network",
   "author": "Jiri Otoupal",
   "license": "JO-CAL",
   "home_page": "https://github.com/jiri-otoupal/DecentNet-Py",
-  "download_filename": "decentmesh-0.0.164.tar.gz",
-  "download_time": "2025-08-19T20:22:08.993469",
+  "download_filename": "decentmesh-0.0.165.tar.gz",
+  "download_time": "2025-08-20T07:41:41.857900",
   "package_url": "https://pypi.org/project/decentmesh/"
 }
