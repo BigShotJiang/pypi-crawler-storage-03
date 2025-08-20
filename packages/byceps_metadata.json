@@ -1,0 +1,11 @@
+{
+  "name": "byceps",
+  "version": "0.0.3",
+  "summary": "LAN party web platform",
+  "author": "Jochen Kupperschmidt",
+  "license": "Revised BSD License",
+  "home_page": null,
+  "download_filename": "byceps-0.0.3.tar.gz",
+  "download_time": "2025-08-20T15:21:24.572423",
+  "package_url": "https://pypi.org/project/byceps/"
+}

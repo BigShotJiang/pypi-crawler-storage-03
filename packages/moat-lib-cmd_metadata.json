@@ -1,0 +1,11 @@
+{
+  "name": "moat-lib-cmd",
+  "version": "0.3.8",
+  "summary": "A simple command/stream multiplexer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_lib_cmd-0.3.8.tar.gz",
+  "download_time": "2025-08-20T15:21:18.893232",
+  "package_url": "https://pypi.org/project/moat-lib-cmd/"
+}

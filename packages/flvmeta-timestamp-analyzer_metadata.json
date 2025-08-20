@@ -1,11 +1,11 @@
 {
   "name": "flvmeta-timestamp-analyzer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "FLV音视频时间戳分析工具，可通过MCP协议调用",
   "author": "CoderWGB",
   "license": null,
   "home_page": "https://github.com/Soar-Coding-Life/flvmeta-timestamp-analyzer",
-  "download_filename": "flvmeta_timestamp_analyzer-1.0.4.tar.gz",
-  "download_time": "2025-08-20T14:46:25.032788",
+  "download_filename": "flvmeta_timestamp_analyzer-1.0.5.tar.gz",
+  "download_time": "2025-08-20T15:21:44.778493",
   "package_url": "https://pypi.org/project/flvmeta-timestamp-analyzer/"
 }

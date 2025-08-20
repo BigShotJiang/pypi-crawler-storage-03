@@ -1,11 +1,11 @@
 {
   "name": "endofactory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Revolutionary EndoVQA dataset construction tool for rapid dataset mixing and configuration",
   "author": "TiramisuQiao",
   "license": "MIT",
   "home_page": "https://github.com/your-org/EndoFactory",
-  "download_filename": "endofactory-0.1.0.tar.gz",
-  "download_time": "2025-08-20T15:07:18.891932",
+  "download_filename": "endofactory-0.1.1.tar.gz",
+  "download_time": "2025-08-20T15:21:59.116164",
   "package_url": "https://pypi.org/project/endofactory/"
 }

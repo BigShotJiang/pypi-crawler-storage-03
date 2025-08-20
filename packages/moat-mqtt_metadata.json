@@ -1,0 +1,11 @@
+{
+  "name": "moat-mqtt",
+  "version": "0.42.11",
+  "summary": "Async MQTT broker and client, with optional MoaT-KV support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moat_mqtt-0.42.11.tar.gz",
+  "download_time": "2025-08-20T15:21:20.433794",
+  "package_url": "https://pypi.org/project/moat-mqtt/"
+}
