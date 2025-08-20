@@ -1,11 +1,11 @@
 {
   "name": "pymimir",
-  "version": "0.13.47",
+  "version": "0.13.48",
   "summary": "Mimir planning library",
   "author": "Simon Stahlberg, Dominik Drexler",
   "license": null,
   "home_page": "https://github.com/simon-stahlberg/mimir",
-  "download_filename": "pymimir-0.13.47.tar.gz",
-  "download_time": "2025-08-20T10:55:36.835202",
+  "download_filename": "pymimir-0.13.48.tar.gz",
+  "download_time": "2025-08-20T17:42:29.344402",
   "package_url": "https://pypi.org/project/pymimir/"
 }

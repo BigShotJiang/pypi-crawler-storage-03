@@ -1,0 +1,11 @@
+{
+  "name": "tastysoup",
+  "version": "0.2.1",
+  "summary": "A tasty SEO-focused wrapper around BeautifulSoup",
+  "author": "Amal Alexander",
+  "license": "MIT",
+  "home_page": "https://github.com/amal-alexander",
+  "download_filename": "tastysoup-0.2.1.tar.gz",
+  "download_time": "2025-08-20T17:42:06.799966",
+  "package_url": "https://pypi.org/project/tastysoup/"
+}

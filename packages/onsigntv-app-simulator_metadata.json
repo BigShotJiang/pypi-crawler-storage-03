@@ -1,0 +1,11 @@
+{
+  "name": "onsigntv-app-simulator",
+  "version": "1.5.0",
+  "summary": "Assist the development of apps for OnSign TV platform by running them locally.",
+  "author": "OnSign TV",
+  "license": "MIT",
+  "home_page": "https://github.com/onsigntv/app-simulator",
+  "download_filename": "onsigntv-app-simulator-1.5.0.tar.gz",
+  "download_time": "2025-08-20T17:42:28.288487",
+  "package_url": "https://pypi.org/project/onsigntv-app-simulator/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fsr-tools",
+  "version": "1.0.0",
+  "summary": "Linear Feedback Shift Registers in pure Python3",
+  "author": "Anubhav Mattoo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fsr_tools-1.0.0.tar.gz",
+  "download_time": "2025-08-20T17:42:12.557603",
+  "package_url": "https://pypi.org/project/fsr-tools/"
+}

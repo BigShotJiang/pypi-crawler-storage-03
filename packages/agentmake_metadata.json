@@ -1,11 +1,11 @@
 {
   "name": "agentmake",
-  "version": "1.0.49",
+  "version": "1.0.52",
   "summary": "AgentMake AI: a software developement kit for developing agentic AI applications that support 16 AI backends and work with 7 agentic components, such as tools and agents. (Developer: Eliran Wong)",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://github.com/eliranwong/agentmake",
-  "download_filename": "agentmake-1.0.49.tar.gz",
-  "download_time": "2025-08-20T15:07:52.273582",
+  "download_filename": "agentmake-1.0.52.tar.gz",
+  "download_time": "2025-08-20T17:42:16.758037",
   "package_url": "https://pypi.org/project/agentmake/"
 }

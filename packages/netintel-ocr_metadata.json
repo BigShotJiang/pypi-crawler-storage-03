@@ -1,11 +1,11 @@
 {
   "name": "netintel-ocr",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A tool for extracting network intelligence from PDFs using OCR and VisionAI with automatic vector database integration, table extraction, and mermaid support.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netintel_ocr-0.1.7-py3-none-any.whl",
-  "download_time": "2025-08-20T17:18:03.922147",
+  "download_filename": "netintel_ocr-0.1.8-py3-none-any.whl",
+  "download_time": "2025-08-20T17:41:50.210824",
   "package_url": "https://pypi.org/project/netintel-ocr/"
 }
