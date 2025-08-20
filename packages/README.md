@@ -1,27 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T20:44:21.128184
-- **Total Packages**: 85
-- **Total Size**: 19.26 MB
+- **Download Time**: 2025-08-20T20:54:53.623825
+- **Total Packages**: 87
+- **Total Size**: 1.72 MB
 
 ## Packages List
-- delete-branches
-- roiextractors
-- agemcp
-- composabl-api-dev
-- composabl-train-dev
-- composabl-cli-dev
-- ya-json-server-pd
-- composabl-dev
-- eis-insurance
-- zzingestions
-- dashkit-table
-- pymore
-- django-htmx-autocomplete
-- pulumi-azure
 - debabelizer
 - gpt-oss-redteam
+- ya-json-server-pd
 - inheritance-dict
 - python-bioinformagicks
 - metis-agent
@@ -91,3 +78,18 @@
 - assemblyline-service-client
 - segmented-creator
 - inorbit-edge
+- step-criterion
+- xapp_adapta
+- pytest-snap
+- ut-eviq
+- cumulusci-plus
+- aviation-chart-server
+- mas-cli
+- evalassist
+- arklex
+- nubrain
+- kodexa
+- gdsfactoryplus
+- batch-img
+- mmrl
+- catchery

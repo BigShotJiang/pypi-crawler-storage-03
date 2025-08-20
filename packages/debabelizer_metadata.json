@@ -1,11 +1,11 @@
 {
   "name": "debabelizer",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Universal voice processing library with support for multiple STT/TTS providers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "debabelizer-0.1.13.tar.gz",
-  "download_time": "2025-08-20T20:43:39.370780",
+  "download_filename": "debabelizer-0.1.14.tar.gz",
+  "download_time": "2025-08-20T20:54:03.948332",
   "package_url": "https://pypi.org/project/debabelizer/"
 }
