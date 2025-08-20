@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T22:42:50.104487
+- **Download Time**: 2025-08-20T22:52:25.737702
 - **Total Packages**: 82
-- **Total Size**: 10.62 MB
+- **Total Size**: 27.8 MB
 
 ## Packages List
+- eval-protocol
+- ov-training-kit
+- librovore
+- simple-kanban-gui
+- rheedium
+- rms-filecache
+- thestage-elastic-models
+- universal-mcp-google-calendar
+- paracelsus
+- sphinx-lua-ls
+- opensearch-benchmark
+- aryn-mcp-server
+- rl-envs-forge
+- pulumi-eks
+- pygpt-net
+- merobox
+- ob-project-utils
+- great-expectations-cloud
+- automation-logging
+- galaxy-peach
+- nvidia-nat-opentelemetry
+- nvidia-nat-phoenix
+- nvidia-nat-mem0ai
 - nvidia-nat-mysql
 - nvidia-nat-crewai
 - mcp-postgresql-ops
@@ -17,7 +40,6 @@
 - aioplus
 - nvidia-nat-all
 - agentex-sdk
-- merobox
 - nvidia-nat-redis
 - memory-fs
 - sqlmesh
@@ -27,7 +49,6 @@
 - nvidia-nat-ingestion
 - nvidia-nat-langchain
 - nvidia-nat-zep-cloud
-- paracelsus
 - nvidia-nat-s3
 - icecube-skywriter
 - nvidia-nat
@@ -38,7 +59,6 @@
 - nvidia-nat-test
 - aiqtoolkit-langchain
 - skipper-tool
-- great-expectations-cloud
 - pynbntnmodem
 - aiqtoolkit-zep-cloud
 - mitogen
@@ -68,23 +88,3 @@
 - azure-template
 - pulumi-cloudflare
 - pycarlo
-- atlassian-python-api
-- statsig-python-core
-- SpringRank
-- conductor-py
-- rds-tunnel
-- dz-locations
-- verma-net-radiation
-- cw-sdk
-- malevich-app
-- agent-eval
-- segmented-creator
-- sfzen
-- malevich-coretools
-- mscore3
-- simple-carla
-- foxglove2zmq
-- shepherd-score
-- regula-documentreader-webclient
-- witticism
-- forecasting-tools

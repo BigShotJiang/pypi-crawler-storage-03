@@ -1,0 +1,11 @@
+{
+  "name": "rl-envs-forge",
+  "version": "5.18.2",
+  "summary": "Environments for reinforcement learning",
+  "author": "mariusdgm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rl_envs_forge-5.18.2.tar.gz",
+  "download_time": "2025-08-20T22:51:48.532895",
+  "package_url": "https://pypi.org/project/rl-envs-forge/"
+}
