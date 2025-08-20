@@ -1,0 +1,11 @@
+{
+  "name": "superannotate",
+  "version": "4.4.38",
+  "summary": "Python SDK to SuperAnnotate platform",
+  "author": "SuperAnnotate AI",
+  "license": "MIT",
+  "home_page": "https://github.com/superannotateai/superannotate-python-sdk",
+  "download_filename": "superannotate-4.4.38.tar.gz",
+  "download_time": "2025-08-20T08:47:15.730077",
+  "package_url": "https://pypi.org/project/superannotate/"
+}

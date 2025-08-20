@@ -1,0 +1,11 @@
+{
+  "name": "pyjarsigner",
+  "version": "0.2.7",
+  "summary": "Pure Python3 implementation to sign JAR and APK files",
+  "author": "Subho Halder",
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pyjarsigner-0.2.7.tar.gz",
+  "download_time": "2025-08-20T08:47:22.524286",
+  "package_url": "https://pypi.org/project/pyjarsigner/"
+}

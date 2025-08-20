@@ -1,0 +1,11 @@
+{
+  "name": "policyengine-data",
+  "version": "0.5.0",
+  "summary": "A package to create representative microdata for PolicyEngine's policy models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "policyengine_data-0.5.0.tar.gz",
+  "download_time": "2025-08-20T08:47:40.822836",
+  "package_url": "https://pypi.org/project/policyengine-data/"
+}

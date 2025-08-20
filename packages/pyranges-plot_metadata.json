@@ -1,0 +1,11 @@
+{
+  "name": "pyranges-plot",
+  "version": "0.1.5",
+  "summary": "'Genomic intervals data visualization package for dataframe objects generated with PyRanges.'",
+  "author": "Ester Muñoz del Campo, Marco Mariotti",
+  "license": null,
+  "home_page": "https://github.com/pyranges/pyranges_plot",
+  "download_filename": "pyranges_plot-0.1.5.tar.gz",
+  "download_time": "2025-08-20T08:47:24.640164",
+  "package_url": "https://pypi.org/project/pyranges-plot/"
+}
