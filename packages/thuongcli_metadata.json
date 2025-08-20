@@ -1,0 +1,11 @@
+{
+  "name": "thuongcli",
+  "version": "1.0.9",
+  "summary": "Điều khiển máy tính bằng CLI",
+  "author": "Tran Dinh Thuong",
+  "license": null,
+  "home_page": "https://github.com/qbquangb/thuongcli",
+  "download_filename": "thuongcli-1.0.9.tar.gz",
+  "download_time": "2025-08-20T06:32:54.667773",
+  "package_url": "https://pypi.org/project/thuongcli/"
+}

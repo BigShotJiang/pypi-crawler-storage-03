@@ -1,11 +1,11 @@
 {
   "name": "GENetLib",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "A Python Library for Gene–environment Interaction Analysis via Deep Learning",
   "author": "Yuhao Zhong",
   "license": "MIT",
   "home_page": "https://github.com/Barry57/GENetLib/",
-  "download_filename": "genetlib-1.2.5.tar.gz",
-  "download_time": "2025-08-20T05:53:58.792554",
+  "download_filename": "genetlib-1.2.6.tar.gz",
+  "download_time": "2025-08-20T06:33:23.142815",
   "package_url": "https://pypi.org/project/GENetLib/"
 }

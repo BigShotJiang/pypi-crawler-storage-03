@@ -1,11 +1,11 @@
 {
   "name": "django-typed2django",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Convert Pydantic models to Django models dynamically",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_typed2django-1.0.5.tar.gz",
-  "download_time": "2025-08-20T02:55:21.468617",
+  "download_filename": "django_typed2django-1.0.6.tar.gz",
+  "download_time": "2025-08-20T06:32:56.239921",
   "package_url": "https://pypi.org/project/django-typed2django/"
 }

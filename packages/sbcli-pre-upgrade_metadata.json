@@ -1,11 +1,11 @@
 {
   "name": "sbcli-pre-upgrade",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "summary": "CLI for managing SimplyBlock cluster",
   "author": "Hamdy",
   "license": null,
   "home_page": "https://www.simplyblock.io/",
-  "download_filename": "sbcli_pre_upgrade-1.1.18.tar.gz",
-  "download_time": "2025-08-19T20:22:12.586217",
+  "download_filename": "sbcli_pre_upgrade-1.1.19.tar.gz",
+  "download_time": "2025-08-20T06:32:56.752440",
   "package_url": "https://pypi.org/project/sbcli-pre-upgrade/"
 }

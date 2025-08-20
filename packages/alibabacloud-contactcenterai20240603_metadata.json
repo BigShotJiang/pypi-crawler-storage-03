@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-contactcenterai20240603",
+  "version": "3.6.6",
+  "summary": "Alibaba Cloud ContactCenterAI (20240603) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_contactcenterai20240603-3.6.6.tar.gz",
+  "download_time": "2025-08-20T06:32:51.981637",
+  "package_url": "https://pypi.org/project/alibabacloud-contactcenterai20240603/"
+}

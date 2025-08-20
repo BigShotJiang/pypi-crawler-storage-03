@@ -1,0 +1,11 @@
+{
+  "name": "ahserver",
+  "version": "1.0.8",
+  "summary": "A application server base on aiohttp",
+  "author": "yu moqing",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ahserver-1.0.8-py3-none-any.whl",
+  "download_time": "2025-08-20T06:32:55.710037",
+  "package_url": "https://pypi.org/project/ahserver/"
+}

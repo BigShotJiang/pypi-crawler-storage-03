@@ -1,0 +1,11 @@
+{
+  "name": "hakisto",
+  "version": "0.4.1",
+  "summary": "Logging re-imagined",
+  "author": "Bernhard Radermacher",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://gitlab.com/hakisto-py/logger",
+  "download_filename": "hakisto-0.4.1.tar.gz",
+  "download_time": "2025-08-20T06:32:55.198774",
+  "package_url": "https://pypi.org/project/hakisto/"
+}

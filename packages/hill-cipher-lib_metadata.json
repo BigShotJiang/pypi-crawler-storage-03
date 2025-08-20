@@ -1,0 +1,11 @@
+{
+  "name": "hill-cipher-lib",
+  "version": "0.1.0",
+  "summary": "A simple implementation of the Hill Cipher encryption and decryption.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hill_cipher_lib-0.1.0.tar.gz",
+  "download_time": "2025-08-20T06:32:46.784730",
+  "package_url": "https://pypi.org/project/hill-cipher-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-feathers",
+  "version": "1.0b10",
+  "summary": "A comprehensive Wagtail CMS extension providing theming and foundational features.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_feathers-1.0b10.tar.gz",
+  "download_time": "2025-08-20T06:32:53.053316",
+  "package_url": "https://pypi.org/project/wagtail-feathers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-endpoint-product-catalog",
+  "version": "18.0.1.0.0.2",
+  "summary": "Handle endpoints for product catalogs",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/web-api-contrib",
+  "download_filename": "odoo_addon_endpoint_product_catalog-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-20T06:32:48.891294",
+  "package_url": "https://pypi.org/project/odoo-addon-endpoint-product-catalog/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-vod20170321",
-  "version": "3.8.1",
+  "version": "3.8.2",
   "summary": "Alibaba Cloud ApsaraVideo for VOD (20170321) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_vod20170321-3.8.1.tar.gz",
-  "download_time": "2025-08-19T13:18:40.655703",
+  "download_filename": "alibabacloud_vod20170321-3.8.2.tar.gz",
+  "download_time": "2025-08-20T06:33:18.949360",
   "package_url": "https://pypi.org/project/alibabacloud-vod20170321/"
 }
