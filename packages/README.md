@@ -1,25 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T15:44:16.838678
-- **Total Packages**: 69
-- **Total Size**: 28.7 MB
+- **Download Time**: 2025-08-20T15:59:19.694397
+- **Total Packages**: 67
+- **Total Size**: 23.86 MB
 
 ## Packages List
-- gostrap
-- letschatty
-- langgraph-cli
-- neuro-simulator
-- session-info2
-- lusid-sdk
-- returnn
-- vcdiff-py
-- txgraffiti
-- unset
-- jetfuelburn
-- wordatlas
-- karellen-llvm-toolchain-tools
-- python-terminusgps
 - splusdata
 - karellen-llvm-lldb
 - vtds-provider-mock
@@ -75,3 +61,15 @@
 - zvic
 - kandc
 - dsat-ai
+- pydggsapi
+- torchrl-nightly
+- rxfoundry.clients.swifty-oauth-api
+- blockchain-payment-mcp
+- Navygram
+- mosheh
+- mindroot
+- laine
+- openfl-nightly
+- solweig-gpu
+- aait
+- moat-kv-knx
