@@ -1,11 +1,11 @@
 {
   "name": "autostore",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "File Storage Made Simple",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "autostore-0.1.16.tar.gz",
-  "download_time": "2025-08-20T19:16:40.990597",
+  "download_filename": "autostore-0.1.17.tar.gz",
+  "download_time": "2025-08-20T21:52:01.776760",
   "package_url": "https://pypi.org/project/autostore/"
 }

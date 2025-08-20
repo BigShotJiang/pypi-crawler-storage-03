@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-swipecards",
+  "version": "0.4.0",
+  "summary": "Streamlit Swipecards allow you to add interactive swipeable cards to your app. Supports both image cards and table row swiping with cell highlighting.",
+  "author": "Julian",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streamlit_swipecards-0.4.0.tar.gz",
+  "download_time": "2025-08-20T21:51:51.442550",
+  "package_url": "https://pypi.org/project/streamlit-swipecards/"
+}
