@@ -1,11 +1,11 @@
 {
   "name": "cuery",
-  "version": "0.17.2",
+  "version": "0.17.4",
   "summary": "Prompt (cue) management and execution for tabular data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cuery-0.17.2.tar.gz",
-  "download_time": "2025-08-20T09:43:21.846097",
+  "download_filename": "cuery-0.17.4.tar.gz",
+  "download_time": "2025-08-20T10:21:31.118346",
   "package_url": "https://pypi.org/project/cuery/"
 }

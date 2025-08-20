@@ -1,0 +1,11 @@
+{
+  "name": "pytemporal",
+  "version": "1.0.2",
+  "summary": "High-performance bitemporal timeseries update processor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytemporal-1.0.2-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2025-08-20T10:22:02.557619",
+  "package_url": "https://pypi.org/project/pytemporal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anaplan-sdk",
+  "version": "0.4.5",
+  "summary": "Streamlined Python Interface for Anaplan",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "anaplan_sdk-0.4.5.tar.gz",
+  "download_time": "2025-08-20T10:21:53.804513",
+  "package_url": "https://pypi.org/project/anaplan-sdk/"
+}

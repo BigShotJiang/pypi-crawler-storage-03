@@ -1,0 +1,11 @@
+{
+  "name": "iching",
+  "version": "3.8.2",
+  "summary": "Book of Changes",
+  "author": "Cheng-Jun Wang",
+  "license": null,
+  "home_page": "https://github.com/chengjun/iching",
+  "download_filename": "iching-3.8.2.tar.gz",
+  "download_time": "2025-08-20T10:22:04.617893",
+  "package_url": "https://pypi.org/project/iching/"
+}

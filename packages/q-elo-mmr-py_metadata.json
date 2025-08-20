@@ -1,0 +1,11 @@
+{
+  "name": "q-elo-mmr-py",
+  "version": "1.0.2",
+  "summary": "Python bindings for Elo-MRR",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "q_elo_mmr_py-1.0.2.tar.gz",
+  "download_time": "2025-08-20T10:21:38.376220",
+  "package_url": "https://pypi.org/project/q-elo-mmr-py/"
+}

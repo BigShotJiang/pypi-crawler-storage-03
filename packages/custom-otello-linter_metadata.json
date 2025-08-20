@@ -1,0 +1,11 @@
+{
+  "name": "custom-otello-linter",
+  "version": "1.0.5",
+  "summary": "flake8 based linter for frontend tests",
+  "author": "Irina",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/iri6e4k0/custom-otello-linter",
+  "download_filename": "custom_otello_linter-1.0.5.tar.gz",
+  "download_time": "2025-08-20T10:21:28.528428",
+  "package_url": "https://pypi.org/project/custom-otello-linter/"
+}

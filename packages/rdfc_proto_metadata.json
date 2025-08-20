@@ -1,0 +1,11 @@
+{
+  "name": "rdfc_proto",
+  "version": "0.0.1",
+  "summary": "Python protobuf bindings for RDF-Connect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdfc_proto-0.0.1.tar.gz",
+  "download_time": "2025-08-20T10:21:59.423810",
+  "package_url": "https://pypi.org/project/rdfc_proto/"
+}

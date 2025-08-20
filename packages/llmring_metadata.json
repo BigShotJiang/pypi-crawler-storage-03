@@ -1,0 +1,11 @@
+{
+  "name": "llmring",
+  "version": "0.3.0",
+  "summary": "Unified Python interface for OpenAI, Anthropic, Google, and Ollama LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmring-0.3.0.tar.gz",
+  "download_time": "2025-08-20T10:21:46.614011",
+  "package_url": "https://pypi.org/project/llmring/"
+}

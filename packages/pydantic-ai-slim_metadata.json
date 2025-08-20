@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-slim",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "Agent Framework / shim to use Pydantic with LLMs, slim package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_slim-0.7.3.tar.gz",
-  "download_time": "2025-08-19T06:53:43.261680",
+  "download_filename": "pydantic_ai_slim-0.7.4.tar.gz",
+  "download_time": "2025-08-20T10:21:43.541890",
   "package_url": "https://pypi.org/project/pydantic-ai-slim/"
 }
