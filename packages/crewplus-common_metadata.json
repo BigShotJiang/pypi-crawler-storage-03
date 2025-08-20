@@ -1,0 +1,11 @@
+{
+  "name": "crewplus-common",
+  "version": "1.0.0",
+  "summary": "Crewplus Common components -- minimum API server with fastapi, DAL, mysql, swagger, logger and env settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crewplus_common-1.0.0.tar.gz",
+  "download_time": "2025-08-20T09:53:24.666743",
+  "package_url": "https://pypi.org/project/crewplus-common/"
+}

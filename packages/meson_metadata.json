@@ -1,11 +1,11 @@
 {
   "name": "meson",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "summary": "A high performance build system",
   "author": "Jussi Pakkanen",
   "license": "Apache License, Version 2.0",
   "home_page": "https://mesonbuild.com",
-  "download_filename": "meson-1.8.3.tar.gz",
-  "download_time": "2025-08-19T22:42:33.861356",
+  "download_filename": "meson-1.8.4.tar.gz",
+  "download_time": "2025-08-20T09:53:29.776691",
   "package_url": "https://pypi.org/project/meson/"
 }

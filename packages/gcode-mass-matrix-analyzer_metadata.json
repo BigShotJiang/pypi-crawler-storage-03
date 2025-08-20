@@ -1,0 +1,11 @@
+{
+  "name": "gcode-mass-matrix-analyzer",
+  "version": "1.0.0",
+  "summary": "Extract mass matrices from 3D printer G-code files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcode_mass_matrix_analyzer-1.0.0.tar.gz",
+  "download_time": "2025-08-20T09:53:29.229713",
+  "package_url": "https://pypi.org/project/gcode-mass-matrix-analyzer/"
+}
