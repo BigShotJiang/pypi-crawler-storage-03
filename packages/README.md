@@ -1,11 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T04:00:15.779764
+- **Download Time**: 2025-08-20T04:33:17.136962
 - **Total Packages**: 84
-- **Total Size**: 7.3 MB
+- **Total Size**: 18.41 MB
 
 ## Packages List
+- quapp-braket
+- HippoRAG-Lite
+- LCS-Algorithms
+- pyhwpx
+- odoo-addon-report-alternative-layout
+- vyperdatum
+- ivybloom
+- py-abt-utils
+- ccux
+- pytest-dsl-ui
+- dtreenetwork
+- copious
+- ktoolbox
+- odoo-addon-website-snippet-country-phone-code-dropdown
+- get-the-nini
+- py-dbt-utils
+- lanchain-sgframework
+- forge-ai-code
+- lugach
+- odoo-addon-web-widget-x2many-2d-matrix
+- passagemath-macaulay2-jupyterkernel
+- finalsa-i18n
+- py-attio
+- odoo-addon-fs-storage
+- godml
+- diffusers
+- odoo-addon-stock-split-picking-dimension
+- odoo-addon-stock-picking-batch-creation
+- replan2eplus
+- odoo-addon-stock-picking-import-serial-number
+- google-sheets-helper
+- snowflake-connector-python-nightly
+- cursus
+- keras-nlp-nightly
+- keras-hub-nightly
+- odoo-addon-shopfloor
+- odoo-addon-stock-available-to-promise-release
+- dash-mantine-components
+- hpvsim
+- PyNinja
+- pyvider-telemetry
+- norsodikin
+- cdktf-cdktf-provider-spotinst
+- cdktf-cdktf-provider-vault
+- chromedriver-binary
+- abdwp
+- robotframework-schemathesislibrary
+- pynbntnmodem
+- podflow
+- feature-engineering-nikel
+- odoo-addon-fetchmail-notify-error-to-sender
+- langgraph
+- otlmow-model
+- syncraft
+- swarms
+- ragflow-sdk
 - gaussian-process-api
 - odoo-addon-sale-invoice-blocking
 - tKot
@@ -14,7 +70,6 @@
 - robhan-cdk-lib.aws-grafana
 - robhan-cdk-lib.aws-aps
 - openvr
-- replan2eplus
 - omnara
 - robhan-cdk-lib.utils
 - pyirx
@@ -35,58 +90,3 @@
 - babyGPT
 - publicsuffixlist
 - civic-transparency-types
-- copious
-- gllm-inference-binary
-- jeanmemory
-- snek-tui
-- ndice
-- mcp4hal
-- phicode
-- cdktf-cdktf-provider-ionoscloud
-- gumerov-expansion-coefficients
-- ccux
-- guojiqe-sdk
-- jambo
-- odoo-addon-product-sticker
-- llm-profile
-- BiFuncLib
-- modal
-- limber-timber
-- abstract-paths
-- myxagent
-- phonic
-- mcp-kicad-sch-api
-- deezspot-spotizerr
-- freecrawl-mcp
-- qrpa
-- hypha
-- tamar-file-hub-client
-- browsr
-- atomic-mcp
-- ork.build
-- dycw-utilities
-- crewplus
-- keras-rs-nightly
-- mirrai
-- odoo-addon-openupgrade-scripts
-- pytbox
-- pandas-type-detector
-- GANDLF
-- nxp-lf
-- imagescraper-mavi
-- obshell-mcp
-- wove
-- mrbcl
-- debabelizer
-- phg-vis
-- mcp-unit
-- wordss
-- persian-datepicker
-- eval-mcp
-- maleo-identity
-- talkpipe
-- nonebot-plugin-omikuji
-- asfenix-cpu
-- axmp-openapi-mcp-server
-- odoo-addon-l10n-us-mis-financial-report
-- odoo-addon-l10n-us-gaap

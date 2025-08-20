@@ -1,0 +1,11 @@
+{
+  "name": "dtreenetwork",
+  "version": "0.1.3",
+  "summary": "A Layered Decision Tree Based Model for Classification tasks",
+  "author": "Zeshan Khan",
+  "license": "MIT",
+  "home_page": "https://github.com/zeshanalvi/treenet",
+  "download_filename": "dtreenetwork-0.1.3-py3-none-any.whl",
+  "download_time": "2025-08-20T04:32:35.420642",
+  "package_url": "https://pypi.org/project/dtreenetwork/"
+}

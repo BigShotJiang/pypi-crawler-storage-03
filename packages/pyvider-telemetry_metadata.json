@@ -1,0 +1,11 @@
+{
+  "name": "pyvider-telemetry",
+  "version": "0.0.16",
+  "summary": "Pyvider Telemetry: An opinionated, developer-friendly telemetry wrapper for Python.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyvider_telemetry-0.0.16.tar.gz",
+  "download_time": "2025-08-20T04:32:53.463359",
+  "package_url": "https://pypi.org/project/pyvider-telemetry/"
+}

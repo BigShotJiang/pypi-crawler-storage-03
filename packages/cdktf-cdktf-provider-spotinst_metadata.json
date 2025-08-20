@@ -1,0 +1,11 @@
+{
+  "name": "cdktf-cdktf-provider-spotinst",
+  "version": "14.5.1",
+  "summary": "Prebuilt spotinst Provider for Terraform CDK (cdktf)",
+  "author": "HashiCorp",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/cdktf/cdktf-provider-spotinst.git",
+  "download_filename": "cdktf_cdktf_provider_spotinst-14.5.1.tar.gz",
+  "download_time": "2025-08-20T04:32:54.655800",
+  "package_url": "https://pypi.org/project/cdktf-cdktf-provider-spotinst/"
+}

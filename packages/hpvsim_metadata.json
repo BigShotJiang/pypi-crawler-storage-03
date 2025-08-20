@@ -1,0 +1,11 @@
+{
+  "name": "hpvsim",
+  "version": "2.2.4",
+  "summary": "HPVsim: Human Papillomavirus Simulator",
+  "author": "Robyn Stuart, Jamie Cohen, Cliff Kerr, Romesh Abeysuriya, Mariah Boudreau, Daniel Klein, Hao Hu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hpvsim-2.2.4.tar.gz",
+  "download_time": "2025-08-20T04:32:52.294393",
+  "package_url": "https://pypi.org/project/hpvsim/"
+}

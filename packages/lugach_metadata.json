@@ -1,11 +1,11 @@
 {
   "name": "lugach",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "An application that makes Liberty University GAs' lives easier.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lugach-0.1.0.tar.gz",
-  "download_time": "2025-08-19T04:00:47.436176",
+  "download_filename": "lugach-0.1.2.tar.gz",
+  "download_time": "2025-08-20T04:32:40.027882",
   "package_url": "https://pypi.org/project/lugach/"
 }
