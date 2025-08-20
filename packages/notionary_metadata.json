@@ -1,0 +1,11 @@
+{
+  "name": "notionary",
+  "version": "0.2.21",
+  "summary": "Python library for programmatic Notion workspace management - databases, pages, and content with advanced Markdown support",
+  "author": "Mathis Arends",
+  "license": "MIT",
+  "home_page": "https://github.com/mathisarends/notionary",
+  "download_filename": "notionary-0.2.21.tar.gz",
+  "download_time": "2025-08-20T19:51:48.068299",
+  "package_url": "https://pypi.org/project/notionary/"
+}

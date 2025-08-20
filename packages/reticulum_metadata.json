@@ -1,11 +1,11 @@
 {
   "name": "reticulum",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Exposure Scanner for Cloud Infrastructure Security Analysis",
   "author": "Jose Palanco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reticulum-0.2.2.tar.gz",
-  "download_time": "2025-08-20T19:30:12.951443",
+  "download_filename": "reticulum-0.3.0.tar.gz",
+  "download_time": "2025-08-20T19:51:55.448292",
   "package_url": "https://pypi.org/project/reticulum/"
 }

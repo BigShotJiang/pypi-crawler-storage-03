@@ -1,0 +1,11 @@
+{
+  "name": "qlip-serve-client",
+  "version": "0.1.17",
+  "summary": "Client tools for qlip.serve",
+  "author": "TheStage AI team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "qlip_serve_client-0.1.17-py3-none-any.whl",
+  "download_time": "2025-08-20T19:51:59.130950",
+  "package_url": "https://pypi.org/project/qlip-serve-client/"
+}

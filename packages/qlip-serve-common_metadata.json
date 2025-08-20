@@ -1,0 +1,11 @@
+{
+  "name": "qlip-serve-common",
+  "version": "0.1.17",
+  "summary": "Common abstractions and utilities for qlip.serve.* libraries",
+  "author": "TheStage AI team",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "qlip_serve_common-0.1.17-py3-none-any.whl",
+  "download_time": "2025-08-20T19:52:05.995087",
+  "package_url": "https://pypi.org/project/qlip-serve-common/"
+}

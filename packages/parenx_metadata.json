@@ -1,11 +1,11 @@
 {
   "name": "parenx",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "GeoJSON network simplification using raster image skeletonization and Voronoi polygons",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parenx-0.7.4.tar.gz",
-  "download_time": "2025-08-20T18:52:54.673926",
+  "download_filename": "parenx-0.7.5.tar.gz",
+  "download_time": "2025-08-20T19:51:57.537060",
   "package_url": "https://pypi.org/project/parenx/"
 }
