@@ -1,0 +1,11 @@
+{
+  "name": "ni.measurementlink.sessionmanagement.v1.proto",
+  "version": "0.1.0.dev0",
+  "summary": "Protobuf data types for NI session management gRPC APIs",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/ni-apis-python",
+  "download_filename": "ni_measurementlink_sessionmanagement_v1_proto-0.1.0.dev0.tar.gz",
+  "download_time": "2025-08-20T15:07:17.872534",
+  "package_url": "https://pypi.org/project/ni.measurementlink.sessionmanagement.v1.proto/"
+}

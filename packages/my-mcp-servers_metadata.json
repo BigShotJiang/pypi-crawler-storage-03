@@ -1,11 +1,11 @@
 {
   "name": "my-mcp-servers",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Model Context Protocol servers for PostgreSQL and Alibaba Cloud Bailian image generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "my_mcp_servers-0.1.6.tar.gz",
-  "download_time": "2025-08-19T14:56:26.737997",
+  "download_filename": "my_mcp_servers-0.1.7.tar.gz",
+  "download_time": "2025-08-20T15:07:39.313384",
   "package_url": "https://pypi.org/project/my-mcp-servers/"
 }

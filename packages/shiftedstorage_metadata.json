@@ -1,0 +1,11 @@
+{
+  "name": "shiftedstorage",
+  "version": "0.1.0",
+  "summary": "Distributed community storage using ipfs-cluster, Tailscale and Docker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shiftedstorage-0.1.0.tar.gz",
+  "download_time": "2025-08-20T15:07:11.845946",
+  "package_url": "https://pypi.org/project/shiftedstorage/"
+}
