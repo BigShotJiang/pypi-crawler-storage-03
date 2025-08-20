@@ -1,0 +1,11 @@
+{
+  "name": "chopdiff",
+  "version": "0.2.6",
+  "summary": "Chunking, diff filtering, and windowed transforms of text to support LLM applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chopdiff-0.2.6.tar.gz",
+  "download_time": "2025-08-20T23:51:50.135925",
+  "package_url": "https://pypi.org/project/chopdiff/"
+}
