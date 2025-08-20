@@ -1,0 +1,11 @@
+{
+  "name": "vectocore",
+  "version": "1.1.1",
+  "summary": "A simple vector core library",
+  "author": "hd-ai-lab",
+  "license": null,
+  "home_page": "https://www.vectocore.com/",
+  "download_filename": "vectocore-1.1.1.tar.gz",
+  "download_time": "2025-08-20T01:26:21.698468",
+  "package_url": "https://pypi.org/project/vectocore/"
+}

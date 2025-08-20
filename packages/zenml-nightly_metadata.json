@@ -1,11 +1,11 @@
 {
   "name": "zenml-nightly",
-  "version": "0.84.2.dev20250819",
+  "version": "0.84.2.dev20250820",
   "summary": "ZenML: Write production-ready ML code.",
   "author": "ZenML GmbH",
   "license": "Apache-2.0",
   "home_page": "https://zenml.io",
-  "download_filename": "zenml_nightly-0.84.2.dev20250819.tar.gz",
-  "download_time": "2025-08-19T01:28:09.577475",
+  "download_filename": "zenml_nightly-0.84.2.dev20250820.tar.gz",
+  "download_time": "2025-08-20T01:26:33.315763",
   "package_url": "https://pypi.org/project/zenml-nightly/"
 }

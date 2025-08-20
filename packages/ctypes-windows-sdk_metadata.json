@@ -1,0 +1,11 @@
+{
+  "name": "ctypes-windows-sdk",
+  "version": "0.0.16",
+  "summary": "Ctypes port of Windows SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctypes_windows_sdk-0.0.16.tar.gz",
+  "download_time": "2025-08-20T01:26:26.967633",
+  "package_url": "https://pypi.org/project/ctypes-windows-sdk/"
+}
