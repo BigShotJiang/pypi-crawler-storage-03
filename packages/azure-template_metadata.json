@@ -1,11 +1,11 @@
 {
   "name": "azure-template",
-  "version": "0.1.0b5241469",
+  "version": "0.1.0b5241649",
   "summary": "Microsoft Azure Template Package Client Library for Python",
   "author": "Microsoft Corporation",
   "license": "MIT License",
   "home_page": "https://github.com/Azure/azure-sdk-for-python",
-  "download_filename": "azure_template-0.1.0b5241469.tar.gz",
-  "download_time": "2025-08-20T19:16:43.607963",
+  "download_filename": "azure_template-0.1.0b5241649.tar.gz",
+  "download_time": "2025-08-20T19:41:51.139507",
   "package_url": "https://pypi.org/project/azure-template/"
 }

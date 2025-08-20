@@ -1,0 +1,11 @@
+{
+  "name": "bubbleid",
+  "version": "0.0.9",
+  "summary": "BubbleID Framework",
+  "author": "cldunlap",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cldunlap73/BubbleID",
+  "download_filename": "bubbleid-0.0.9.tar.gz",
+  "download_time": "2025-08-20T19:41:42.668372",
+  "package_url": "https://pypi.org/project/bubbleid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "paystack-api-wrapper",
+  "version": "1.0.0",
+  "summary": "A Python wrapper for the Paystack API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paystack_api_wrapper-1.0.0.tar.gz",
+  "download_time": "2025-08-20T19:41:39.968744",
+  "package_url": "https://pypi.org/project/paystack-api-wrapper/"
+}
