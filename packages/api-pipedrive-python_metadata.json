@@ -1,0 +1,11 @@
+{
+  "name": "api-pipedrive-python",
+  "version": "1.1",
+  "summary": "API wrapper for Pipedrive written in Python",
+  "author": "Weriqui Ferreira de Souza",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api_pipedrive_python-1.1.tar.gz",
+  "download_time": "2025-08-20T21:18:49.459042",
+  "package_url": "https://pypi.org/project/api-pipedrive-python/"
+}

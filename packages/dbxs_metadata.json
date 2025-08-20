@@ -1,0 +1,11 @@
+{
+  "name": "dbxs",
+  "version": "2025.8.20",
+  "summary": "DBXS (“D.B. Access”) is an SQL database access layer for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbxs-2025.8.20.tar.gz",
+  "download_time": "2025-08-20T21:18:29.114345",
+  "package_url": "https://pypi.org/project/dbxs/"
+}

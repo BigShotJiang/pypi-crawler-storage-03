@@ -1,0 +1,11 @@
+{
+  "name": "file-clerk",
+  "version": "1.1.14",
+  "summary": "A collection of functions for dealing with files and file content.",
+  "author": "hundredvisionsguy",
+  "license": "MIT",
+  "home_page": "https://github.com/HundredVisionsGuy/file-clerk",
+  "download_filename": "file_clerk-1.1.14.tar.gz",
+  "download_time": "2025-08-20T21:18:55.204430",
+  "package_url": "https://pypi.org/project/file-clerk/"
+}

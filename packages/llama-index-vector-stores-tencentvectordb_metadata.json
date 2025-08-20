@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-tencentvectordb",
+  "version": "0.4.1",
+  "summary": "llama-index vector_stores tencentvectordb integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_tencentvectordb-0.4.1.tar.gz",
+  "download_time": "2025-08-20T21:18:59.454582",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-tencentvectordb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bpandas",
+  "version": "0.1.1",
+  "summary": "Funções utilitárias para facilitar o uso do pandas",
+  "author": "David Closs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bpandas-0.1.1.tar.gz",
+  "download_time": "2025-08-20T21:18:48.413917",
+  "package_url": "https://pypi.org/project/bpandas/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "chidian",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chidian-0.1.3.tar.gz",
-  "download_time": "2025-08-18T20:19:40.875741",
+  "download_filename": "chidian-0.1.4.tar.gz",
+  "download_time": "2025-08-20T21:19:10.579517",
   "package_url": "https://pypi.org/project/chidian/"
 }

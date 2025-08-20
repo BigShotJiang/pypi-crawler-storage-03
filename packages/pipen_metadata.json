@@ -1,0 +1,11 @@
+{
+  "name": "pipen",
+  "version": "0.17.14",
+  "summary": "A pipeline framework for python",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/pipen",
+  "download_filename": "pipen-0.17.14.tar.gz",
+  "download_time": "2025-08-20T21:18:44.253146",
+  "package_url": "https://pypi.org/project/pipen/"
+}
