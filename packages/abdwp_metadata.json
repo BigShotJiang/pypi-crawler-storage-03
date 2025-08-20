@@ -1,11 +1,11 @@
 {
   "name": "abdwp",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Analyzing Baseball Data with Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abdwp-0.4.1.tar.gz",
-  "download_time": "2025-08-20T04:32:56.386975",
+  "download_filename": "abdwp-0.4.2.tar.gz",
+  "download_time": "2025-08-20T14:21:32.240284",
   "package_url": "https://pypi.org/project/abdwp/"
 }

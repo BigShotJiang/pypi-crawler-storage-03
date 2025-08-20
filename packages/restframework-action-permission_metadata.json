@@ -1,0 +1,11 @@
+{
+  "name": "restframework-action-permission",
+  "version": "1.1.6",
+  "summary": "Action based way of handling permissions in DRF.",
+  "author": "Hadi Mohseni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "restframework_action_permission-1.1.6.tar.gz",
+  "download_time": "2025-08-20T14:21:52.882846",
+  "package_url": "https://pypi.org/project/restframework-action-permission/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-optimization",
+  "version": "0.7.0",
+  "summary": "Qiskit Optimization: A library for optimization applications using quantum computing",
+  "author": "Qiskit Optimization Development Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/qiskit-community/qiskit-optimization",
+  "download_filename": "qiskit_optimization-0.7.0.tar.gz",
+  "download_time": "2025-08-20T14:21:44.394907",
+  "package_url": "https://pypi.org/project/qiskit-optimization/"
+}

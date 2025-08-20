@@ -1,0 +1,11 @@
+{
+  "name": "digitalguide",
+  "version": "0.0.496",
+  "summary": "A Python Library to write digital guides for telegram",
+  "author": "Soeren Etler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "digitalguide-0.0.496.tar.gz",
+  "download_time": "2025-08-20T14:21:13.652784",
+  "package_url": "https://pypi.org/project/digitalguide/"
+}

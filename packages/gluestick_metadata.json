@@ -1,0 +1,11 @@
+{
+  "name": "gluestick",
+  "version": "2.2.24",
+  "summary": "ETL utility functions built on Pandas",
+  "author": "hotglue",
+  "license": "MIT",
+  "home_page": "https://github.com/hotgluexyz/gluestick",
+  "download_filename": "gluestick-2.2.24.tar.gz",
+  "download_time": "2025-08-20T14:21:43.179558",
+  "package_url": "https://pypi.org/project/gluestick/"
+}
