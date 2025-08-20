@@ -1,0 +1,11 @@
+{
+  "name": "mcpstack-mimic",
+  "version": "0.0.1",
+  "summary": "MIMIC-IV MCPStack tool (standalone package) with pluggable SQLite/BigQuery backends.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpstack_mimic-0.0.1.tar.gz",
+  "download_time": "2025-08-20T03:41:50.724029",
+  "package_url": "https://pypi.org/project/mcpstack-mimic/"
+}

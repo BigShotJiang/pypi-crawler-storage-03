@@ -1,11 +1,11 @@
 {
   "name": "mcp-kicad-sch-api",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "summary": "Model Context Protocol server for KiCAD schematic manipulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_kicad_sch_api-0.1.4.tar.gz",
-  "download_time": "2025-08-19T15:43:00.003785",
+  "download_filename": "mcp_kicad_sch_api-0.2.0.tar.gz",
+  "download_time": "2025-08-20T03:41:21.481793",
   "package_url": "https://pypi.org/project/mcp-kicad-sch-api/"
 }

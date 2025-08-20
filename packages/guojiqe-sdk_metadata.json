@@ -1,11 +1,11 @@
 {
   "name": "guojiqe-sdk",
-  "version": "0.1.0",
-  "summary": "A Python SDK for interacting with Guoji Quantum's quantum computing services.",
+  "version": "0.0.1",
+  "summary": "A Python SDK for interacting with Guoji Quantum and Electronic Computing Service Platform.",
   "author": "CETC Guoji Quantum",
   "license": null,
-  "home_page": "https://github.com/yourusername/my-sdk",
-  "download_filename": "guojiqe_sdk-0.1.0.tar.gz",
-  "download_time": "2025-08-19T09:20:57.987143",
+  "home_page": "https://github.com/guojiquantum/guojiqe-sdk",
+  "download_filename": "guojiqe_sdk-0.0.1.tar.gz",
+  "download_time": "2025-08-20T03:41:15.769205",
   "package_url": "https://pypi.org/project/guojiqe-sdk/"
 }

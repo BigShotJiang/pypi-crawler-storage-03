@@ -1,11 +1,11 @@
 {
   "name": "phg-vis",
-  "version": "1.0.7",
-  "summary": "A package for phg modeling language",
+  "version": "1.0.9",
+  "summary": "A package for the PHG modeling language and 3D visualization tool.",
   "author": "romeosoft",
   "license": null,
-  "home_page": "https://github.com/panguojun/phg",
-  "download_filename": "phg_vis-1.0.7.tar.gz",
-  "download_time": "2025-08-19T03:44:18.453598",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "phg_vis-1.0.9.tar.gz",
+  "download_time": "2025-08-20T03:41:35.833136",
   "package_url": "https://pypi.org/project/phg-vis/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "freecrawl-mcp",
+  "version": "0.1.2",
+  "summary": "FreeCrawl MCP Server - Self-hosted web scraping and document processing as a Firecrawl replacement",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "freecrawl_mcp-0.1.2.tar.gz",
+  "download_time": "2025-08-20T03:41:23.261781",
+  "package_url": "https://pypi.org/project/freecrawl-mcp/"
+}

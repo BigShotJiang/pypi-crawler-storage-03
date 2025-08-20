@@ -1,0 +1,11 @@
+{
+  "name": "cachetic",
+  "version": "0.4.1",
+  "summary": "Simple cache with pydantic.",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cachetic-0.4.1.tar.gz",
+  "download_time": "2025-08-20T03:41:47.803380",
+  "package_url": "https://pypi.org/project/cachetic/"
+}

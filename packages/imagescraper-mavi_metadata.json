@@ -1,0 +1,11 @@
+{
+  "name": "imagescraper-mavi",
+  "version": "0.1.3",
+  "summary": "A simple Python package to scrape images from Google, Bing, and Yahoo",
+  "author": "MaviMods",
+  "license": null,
+  "home_page": "https://github.com/MaviMods/imagescraper",
+  "download_filename": "imagescraper_mavi-0.1.3.tar.gz",
+  "download_time": "2025-08-20T03:41:32.907391",
+  "package_url": "https://pypi.org/project/imagescraper-mavi/"
+}
