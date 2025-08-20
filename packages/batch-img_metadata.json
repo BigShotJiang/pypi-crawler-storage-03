@@ -1,11 +1,11 @@
 {
   "name": "batch-img",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "Batch processing (resize, rotate, add border) image files (HEIC, JPG, PNG)",
-  "author": "John Liu",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "batch_img-0.0.9.tar.gz",
-  "download_time": "2025-08-19T19:16:23.491681",
+  "download_filename": "batch_img-0.1.0.tar.gz",
+  "download_time": "2025-08-20T15:43:59.766590",
   "package_url": "https://pypi.org/project/batch-img/"
 }

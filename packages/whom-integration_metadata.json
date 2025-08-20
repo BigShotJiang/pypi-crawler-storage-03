@@ -1,11 +1,11 @@
 {
   "name": "whom-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python library for Whom API integration, supporting multiple systems and web automation drivers",
   "author": "Doc9",
   "license": null,
   "home_page": "https://github.com/doc9/whom-integration",
-  "download_filename": "whom_integration-1.0.0.tar.gz",
-  "download_time": "2025-08-20T15:21:35.442242",
+  "download_filename": "whom_integration-1.0.1.tar.gz",
+  "download_time": "2025-08-20T15:44:06.011879",
   "package_url": "https://pypi.org/project/whom-integration/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mantis-tsfm",
+  "version": "0.2.0",
+  "summary": "Mantis: Lightweight Calibrated Foundation Model for User-Friendly Time Series Classification",
+  "author": "Vasilii Feofanov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mantis_tsfm-0.2.0.tar.gz",
+  "download_time": "2025-08-20T15:43:59.254968",
+  "package_url": "https://pypi.org/project/mantis-tsfm/"
+}

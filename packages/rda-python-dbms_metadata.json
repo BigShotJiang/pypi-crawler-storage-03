@@ -1,11 +1,11 @@
 {
   "name": "rda-python-dbms",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "summary": "RDA Python Package to manage PostreSQL databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rda_python_dbms-1.0.15.tar.gz",
-  "download_time": "2025-08-19T21:18:28.540097",
+  "download_filename": "rda_python_dbms-1.0.16.tar.gz",
+  "download_time": "2025-08-20T15:43:49.465805",
   "package_url": "https://pypi.org/project/rda-python-dbms/"
 }
