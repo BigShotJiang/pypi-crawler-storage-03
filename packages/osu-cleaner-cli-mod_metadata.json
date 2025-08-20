@@ -1,11 +1,11 @@
 {
   "name": "osu-cleaner-cli-mod",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Remove unwanted files from osu! Songs directory. Modified Version",
   "author": "Layerex",
   "license": null,
   "home_page": "https://github.com/miyuki-ts/osu-cleaner-cli-mod",
-  "download_filename": "osu_cleaner_cli_mod-0.0.7.tar.gz",
-  "download_time": "2025-08-19T22:20:32.560730",
+  "download_filename": "osu_cleaner_cli_mod-0.0.8.tar.gz",
+  "download_time": "2025-08-20T08:27:02.955340",
   "package_url": "https://pypi.org/project/osu-cleaner-cli-mod/"
 }

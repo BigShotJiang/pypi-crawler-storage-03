@@ -1,0 +1,11 @@
+{
+  "name": "PyPNM",
+  "version": "1.17.9.34.post3",
+  "summary": "Reading, writing and displaying PPM and PGM image files, including 16 bits per channel, in pure Python",
+  "author": "Ilya Razmanov",
+  "license": null,
+  "home_page": "https://dnyarri.github.io/",
+  "download_filename": "pypnm-1.17.9.34.post3.tar.gz",
+  "download_time": "2025-08-20T08:27:17.951737",
+  "package_url": "https://pypi.org/project/PyPNM/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Mac-letterhead",
-  "version": "0.13.2",
+  "version": "0.13.5",
   "summary": "A macOS utility to merge letterhead with PDF documents using a drag-and-drop interface",
   "author": "Erik",
   "license": null,
   "home_page": null,
-  "download_filename": "mac_letterhead-0.13.2.tar.gz",
-  "download_time": "2025-08-20T07:41:43.087611",
+  "download_filename": "mac_letterhead-0.13.5.tar.gz",
+  "download_time": "2025-08-20T08:26:59.890609",
   "package_url": "https://pypi.org/project/Mac-letterhead/"
 }
