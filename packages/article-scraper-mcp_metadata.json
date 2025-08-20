@@ -1,0 +1,11 @@
+{
+  "name": "article-scraper-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server that fetches article data (title, text, author, date) from a URL using newspaper3k",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "article_scraper_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-20T21:42:01.370884",
+  "package_url": "https://pypi.org/project/article-scraper-mcp/"
+}

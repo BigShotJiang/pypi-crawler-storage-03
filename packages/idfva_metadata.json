@@ -1,0 +1,11 @@
+{
+  "name": "idfva",
+  "version": "0.1.2",
+  "summary": "This model generates investigation polygons which are used to estimate and store incremental erosion and deposition volumes along the path of a debris flow at user- defined resolution. The user will need: 1) a .LAS or .TIF of topographic change, 2) a DEM of the AOI, and 3) a shapefile (polyline) of the debris flow path of interest. Each incremental volume is georeferenced and stored within a shapefile attribute associated with a catchment area and distance from outlet for analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idfva-0.1.2.tar.gz",
+  "download_time": "2025-08-20T21:41:38.099293",
+  "package_url": "https://pypi.org/project/idfva/"
+}
