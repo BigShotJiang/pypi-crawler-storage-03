@@ -1,0 +1,11 @@
+{
+  "name": "licensepy",
+  "version": "1.1.0",
+  "summary": "A Rust CLI packaged for Python project dependency license check and license header formatting.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "licensepy-1.1.0.tar.gz",
+  "download_time": "2025-08-20T07:51:39.137267",
+  "package_url": "https://pypi.org/project/licensepy/"
+}

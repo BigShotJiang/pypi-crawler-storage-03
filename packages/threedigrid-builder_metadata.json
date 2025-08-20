@@ -1,0 +1,11 @@
+{
+  "name": "threedigrid-builder",
+  "version": "1.24.6",
+  "summary": "Generate a 3Di simulation grid from a model schematisation.",
+  "author": "Martijn Siemerink",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://docs.3di.lizard.net/",
+  "download_filename": "threedigrid_builder-1.24.6.tar.gz",
+  "download_time": "2025-08-20T07:51:32.909518",
+  "package_url": "https://pypi.org/project/threedigrid-builder/"
+}

@@ -1,11 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T07:41:57.652566
-- **Total Packages**: 61
-- **Total Size**: 11.73 MB
+- **Download Time**: 2025-08-20T07:52:09.920226
+- **Total Packages**: 85
+- **Total Size**: 14.49 MB
 
 ## Packages List
+- ctlib-webstack
+- robotframework-schemathesislibrary
+- otcdocstheme
+- general-calculator-zsd
+- datareservoirio
+- wittiot
+- aorta-sirius-dev
+- soa-kafka-python
+- justoneapi
+- mignonFramework
+- magnumnp
+- beancode
+- aait
+- meilisearch
+- sciv
+- kurs-dolara
+- scontoolkit
+- odoo-addon-report-paperformat-company-dependent
+- threedigrid-builder
+- bubus
+- pyturso
+- cache-dit
+- syncraft
+- basalam-sdk
+- test-elo-mmr-py
+- php-framework-scaffolder
+- odoo-addon-l10n-es-pos-sii
+- friendli-gradio
+- licensepy
+- concurrent-collections
+- tof
+- tencent-wedata-feature-engineering
+- ida-hcli
+- odoo-addon-queue-job
+- smartdownsample
+- maia-test-framework
+- rasa-pro
+- peakrdl-python
+- srtify
+- python-fluepdot
+- odoo-addon-auto-backup
 - spex-tools
 - superset-chat
 - stimulsoft-data-adapters
@@ -15,11 +56,8 @@
 - SimplHDL
 - pyclog
 - zdocker
-- sciv
 - lsapy
 - tc-hivemind-backend
-- scontoolkit
-- ctlib-webstack
 - work-tool-mcp
 - superset-mcp-server
 - zbWidgetLib
@@ -45,25 +83,11 @@
 - jsonquotefixer
 - PaperBee
 - decentmesh
-- smartdownsample
 - Mac-letterhead
 - csvai
 - mlsauce
 - apis-core-rdf
-- friendli-gradio
 - rediacc-cli
 - lace-client
 - exosphere-cli
 - durable-dot-dict
-- vkube
-- karrio-veho
-- karrio-tge
-- karrio-shipengine
-- sopel-amputator
-- oarepo-runtime
-- karrio-seko
-- karrio-sapient
-- karrio-mydhl
-- karrio-hay-post
-- karrio-easyship
-- karrio-dhl-parcel-de

@@ -1,11 +1,11 @@
 {
   "name": "otcdocstheme",
-  "version": "1.13.1",
+  "version": "1.13.3",
   "summary": "OpenTelekomCloud Docs Theme",
   "author": "Artem Goncharov",
   "license": null,
   "home_page": "https://cloud.otc.com",
-  "download_filename": "otcdocstheme-1.13.1.tar.gz",
-  "download_time": "2025-08-19T11:51:49.473554",
+  "download_filename": "otcdocstheme-1.13.3.tar.gz",
+  "download_time": "2025-08-20T07:51:24.480114",
   "package_url": "https://pypi.org/project/otcdocstheme/"
 }
