@@ -1,11 +1,11 @@
 {
   "name": "napari_video",
-  "version": "0.2.11",
+  "version": "0.2.13",
   "summary": "napari plugin for reading videos.",
   "author": "Jan Clemens",
   "license": null,
   "home_page": "https://github.com/janclemenslab/napari-video",
-  "download_filename": "napari_video-0.2.11.tar.gz",
-  "download_time": "2025-08-19T19:16:29.328950",
+  "download_filename": "napari_video-0.2.13.tar.gz",
+  "download_time": "2025-08-20T09:21:43.734231",
   "package_url": "https://pypi.org/project/napari_video/"
 }

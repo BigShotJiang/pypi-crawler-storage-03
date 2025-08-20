@@ -1,0 +1,11 @@
+{
+  "name": "mockafka-py",
+  "version": "0.2.2",
+  "summary": "A mock library for confluent kafka",
+  "author": "alm0ra",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mockafka_py-0.2.2.tar.gz",
+  "download_time": "2025-08-20T09:21:32.841064",
+  "package_url": "https://pypi.org/project/mockafka-py/"
+}

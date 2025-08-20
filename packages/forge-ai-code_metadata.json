@@ -1,11 +1,11 @@
 {
   "name": "forge-ai-code",
-  "version": "1.2.4",
-  "summary": "智能AI编程助手 - 通过自然语言对话进行编程开发",
+  "version": "1.2.5",
+  "summary": "智能AI编程助手 - 支持多种AI模型的自适应提示词系统",
   "author": "Forge AI Team",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/forge-ai/forge-ai-code",
-  "download_filename": "forge_ai_code-1.2.4.tar.gz",
-  "download_time": "2025-08-20T06:33:25.767799",
+  "download_filename": "forge_ai_code-1.2.5.tar.gz",
+  "download_time": "2025-08-20T09:22:14.740998",
   "package_url": "https://pypi.org/project/forge-ai-code/"
 }

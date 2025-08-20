@@ -1,0 +1,11 @@
+{
+  "name": "cyberwave",
+  "version": "0.1.3",
+  "summary": "Python SDK for the CyberWave Platform",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cyberwave-0.1.3.tar.gz",
+  "download_time": "2025-08-20T09:22:08.604475",
+  "package_url": "https://pypi.org/project/cyberwave/"
+}
