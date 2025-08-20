@@ -1,0 +1,11 @@
+{
+  "name": "wayfarer",
+  "version": "0.13.2",
+  "summary": "A library to add spatial functions to networkx",
+  "author": "Seth Girvin",
+  "license": "MIT",
+  "home_page": "https://github.com/compassinformatics/wayfarer/",
+  "download_filename": "wayfarer-0.13.2.tar.gz",
+  "download_time": "2025-08-20T16:48:04.728140",
+  "package_url": "https://pypi.org/project/wayfarer/"
+}

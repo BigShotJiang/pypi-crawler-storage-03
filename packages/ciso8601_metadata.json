@@ -1,0 +1,11 @@
+{
+  "name": "ciso8601",
+  "version": "2.3.3",
+  "summary": "Fast ISO8601 date time parser for Python written in C",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/closeio/ciso8601",
+  "download_filename": "ciso8601-2.3.3.tar.gz",
+  "download_time": "2025-08-20T16:48:29.422769",
+  "package_url": "https://pypi.org/project/ciso8601/"
+}

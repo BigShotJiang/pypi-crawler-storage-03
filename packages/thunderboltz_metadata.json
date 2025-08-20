@@ -1,0 +1,11 @@
+{
+  "name": "thunderboltz",
+  "version": "0.4.2",
+  "summary": "A 0D Direct Simulation Monte-Carlo code for the calculation of transport coefficients and 0D gas modeling.",
+  "author": "Ryan Park",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "thunderboltz-0.4.2.tar.gz",
+  "download_time": "2025-08-20T16:48:35.744397",
+  "package_url": "https://pypi.org/project/thunderboltz/"
+}

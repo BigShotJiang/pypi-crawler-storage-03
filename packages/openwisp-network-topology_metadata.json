@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-network-topology",
+  "version": "1.1.2",
+  "summary": "OpenWISP Network Topology",
+  "author": "OpenWISP",
+  "license": "BSD-3-Clause",
+  "home_page": "http://openwisp.org",
+  "download_filename": "openwisp_network_topology-1.1.2.tar.gz",
+  "download_time": "2025-08-20T16:48:14.687356",
+  "package_url": "https://pypi.org/project/openwisp-network-topology/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "space-log",
+  "version": "0.2.0",
+  "summary": "Space-log is a simple event logging system.",
+  "author": "Florian Bruggisser",
+  "license": "MIT License",
+  "home_page": "https://github.com/cansik/space-log",
+  "download_filename": "space_log-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-20T16:48:22.604884",
+  "package_url": "https://pypi.org/project/space-log/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "detectlanguage",
+  "version": "2.0.0",
+  "summary": "Language Detection API Client",
+  "author": "Laurynas Butkus",
+  "license": "MIT",
+  "home_page": "https://github.com/detectlanguage/detectlanguage-python",
+  "download_filename": "detectlanguage-2.0.0.tar.gz",
+  "download_time": "2025-08-20T16:48:00.523459",
+  "package_url": "https://pypi.org/project/detectlanguage/"
+}

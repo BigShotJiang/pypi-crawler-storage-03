@@ -1,11 +1,11 @@
 {
   "name": "karen",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "summary": "Evaluates & categorises Spider-Man's combos in Marvel Rivals.",
   "author": "EvilDuck",
   "license": null,
   "home_page": "https://github.com/EvilDuck14/Karen/",
-  "download_filename": "karen-1.0.2.tar.gz",
-  "download_time": "2025-08-19T10:45:32.925984",
+  "download_filename": "karen-1.1.0.tar.gz",
+  "download_time": "2025-08-20T16:48:21.040747",
   "package_url": "https://pypi.org/project/karen/"
 }

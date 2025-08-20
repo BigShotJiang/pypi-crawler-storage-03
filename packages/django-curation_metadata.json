@@ -1,0 +1,11 @@
+{
+  "name": "django-curation",
+  "version": "2.1.0",
+  "summary": "A model used for curating other models and proxying their attributes",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "django_curation-2.1.0.tar.gz",
+  "download_time": "2025-08-20T16:48:33.142668",
+  "package_url": "https://pypi.org/project/django-curation/"
+}

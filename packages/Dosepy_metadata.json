@@ -1,0 +1,11 @@
+{
+  "name": "Dosepy",
+  "version": "0.12.0",
+  "summary": "Film dosimetry and gamma analysis for dose distributions in radiotherapy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dosepy-0.12.0.tar.gz",
+  "download_time": "2025-08-20T16:48:24.694407",
+  "package_url": "https://pypi.org/project/Dosepy/"
+}
