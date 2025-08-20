@@ -1,0 +1,11 @@
+{
+  "name": "mkcd",
+  "version": "0.0.0",
+  "summary": "Get Linux utilities like tail,head,cat,cd,ls,cp,mv,rm in Windows directly without needing to manage WSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkcd-0.0.0.tar.gz",
+  "download_time": "2025-08-20T05:53:43.822861",
+  "package_url": "https://pypi.org/project/mkcd/"
+}

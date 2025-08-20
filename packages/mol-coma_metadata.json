@@ -1,0 +1,11 @@
+{
+  "name": "mol-coma",
+  "version": "2.1.0",
+  "summary": "Choi, J., Seo, S. & Park, S. COMA: efficient structure-constrained molecular generation using contractive and margin losses. J Cheminform 15, 8 (2023). https://doi.org/10.1186/s13321-023-00679-y",
+  "author": "Jonghwan Choi",
+  "license": null,
+  "home_page": "https://github.com/mathcom/mol-coma",
+  "download_filename": "mol_coma-2.1.0-py3-none-any.whl",
+  "download_time": "2025-08-20T05:54:03.766447",
+  "package_url": "https://pypi.org/project/mol-coma/"
+}

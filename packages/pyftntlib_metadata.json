@@ -1,11 +1,11 @@
 {
   "name": "pyftntlib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A python package for all Fortinet products API.",
   "author": "p4r4n0y1ng",
   "license": null,
   "home_page": "https://github.com/p4r4n0y1ng/pyfmg",
-  "download_filename": "pyftntlib-0.0.2.tar.gz",
-  "download_time": "2025-08-19T20:22:08.478049",
+  "download_filename": "pyftntlib-0.0.3.tar.gz",
+  "download_time": "2025-08-20T05:53:50.263745",
   "package_url": "https://pypi.org/project/pyftntlib/"
 }

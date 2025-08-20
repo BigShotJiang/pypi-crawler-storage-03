@@ -1,0 +1,11 @@
+{
+  "name": "aamoradian",
+  "version": "0.1.0",
+  "summary": "A minimal Python library template ready for PyPI",
+  "author": null,
+  "license": "📌 LICENSE (مثلاً MIT)\n        `text\n        MIT License\n        Copyright (c) 2025 Amir Abbas Moradian\n        Permission is hereby granted, free of charge, ...",
+  "home_page": null,
+  "download_filename": "aamoradian-0.1.0.tar.gz",
+  "download_time": "2025-08-20T05:54:07.442894",
+  "package_url": "https://pypi.org/project/aamoradian/"
+}

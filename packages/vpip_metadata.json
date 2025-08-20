@@ -1,11 +1,11 @@
 {
   "name": "vpip",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "A CLI which aims to provide an npm-like experience when working with Python packages.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vpip-0.11.0.tar.gz",
-  "download_time": "2025-08-19T14:19:44.214060",
+  "download_filename": "vpip-0.11.1.tar.gz",
+  "download_time": "2025-08-20T05:53:42.024050",
   "package_url": "https://pypi.org/project/vpip/"
 }

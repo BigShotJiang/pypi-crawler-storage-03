@@ -1,0 +1,11 @@
+{
+  "name": "PyAsyncPGX",
+  "version": "1.0.0",
+  "summary": "High-performance asynchronous PostgreSQL wrapper with Redis-like API",
+  "author": "AsyncPGX Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "PyAsyncPGX-1.0.0.tar.gz",
+  "download_time": "2025-08-20T05:53:52.127959",
+  "package_url": "https://pypi.org/project/PyAsyncPGX/"
+}
