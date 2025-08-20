@@ -1,0 +1,11 @@
+{
+  "name": "graphrag-ecolink",
+  "version": "0.1.0",
+  "summary": "GraphRAG Ecolink: A graph-based retrieval-augmented generation (RAG) system.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrag_ecolink-0.1.0.tar.gz",
+  "download_time": "2025-08-20T02:55:09.632145",
+  "package_url": "https://pypi.org/project/graphrag-ecolink/"
+}

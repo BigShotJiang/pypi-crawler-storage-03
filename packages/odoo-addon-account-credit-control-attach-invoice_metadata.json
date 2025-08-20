@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-credit-control-attach-invoice",
+  "version": "18.0.1.0.0.9",
+  "summary": "Extend account credit control to print credit control summary with invoices",
+  "author": "Camptocamp,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/credit-control",
+  "download_filename": "odoo_addon_account_credit_control_attach_invoice-18.0.1.0.0.9-py3-none-any.whl",
+  "download_time": "2025-08-20T02:54:48.151459",
+  "package_url": "https://pypi.org/project/odoo-addon-account-credit-control-attach-invoice/"
+}

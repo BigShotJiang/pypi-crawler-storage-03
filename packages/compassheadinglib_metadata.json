@@ -1,0 +1,11 @@
+{
+  "name": "compassheadinglib",
+  "version": "2025.8.19",
+  "summary": "A small, pure-python library for converting 360-decimal-degree headings (like 90.756) into human-friendly names and concepts (like 'Northeast' or 'Southeast by East') in multiple languages.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compassheadinglib-2025.8.19.tar.gz",
+  "download_time": "2025-08-20T02:54:57.687399",
+  "package_url": "https://pypi.org/project/compassheadinglib/"
+}

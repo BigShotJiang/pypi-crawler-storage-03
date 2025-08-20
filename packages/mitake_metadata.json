@@ -1,11 +1,11 @@
 {
   "name": "mitake",
-  "version": "0.9.1",
-  "summary": "Python library for Mitake SMS API - 三竹簡訊 Python SDK",
+  "version": "0.9.2",
+  "summary": "Python library for Mitake SMS API",
   "author": "tzangms",
   "license": null,
   "home_page": "https://github.com/tzangms/mitake",
-  "download_filename": "mitake-0.9.1.tar.gz",
-  "download_time": "2025-08-19T13:47:21.844851",
+  "download_filename": "mitake-0.9.2.tar.gz",
+  "download_time": "2025-08-20T02:54:56.613573",
   "package_url": "https://pypi.org/project/mitake/"
 }

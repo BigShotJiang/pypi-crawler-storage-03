@@ -1,11 +1,11 @@
 {
   "name": "dragonfly-radiance",
-  "version": "0.4.56",
+  "version": "0.4.57",
   "summary": "Dragonfly extension for radiance simulation.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/dragonfly-radiance",
-  "download_filename": "dragonfly_radiance-0.4.56.tar.gz",
-  "download_time": "2025-08-19T23:39:38.150377",
+  "download_filename": "dragonfly_radiance-0.4.57.tar.gz",
+  "download_time": "2025-08-20T02:55:13.869021",
   "package_url": "https://pypi.org/project/dragonfly-radiance/"
 }
