@@ -1,11 +1,11 @@
 {
   "name": "harmony-cli",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Beautiful CLI for Harmony AI - Advanced AI Assistant by Mergen AI",
   "author": "Mergen AI",
   "license": "MIT",
   "home_page": "https://github.com/mergen-ai/harmony-cli",
-  "download_filename": "harmony_cli-1.2.0.tar.gz",
-  "download_time": "2025-08-17T17:17:07.699758",
+  "download_filename": "harmony_cli-1.4.0.tar.gz",
+  "download_time": "2025-08-20T10:56:02.622103",
   "package_url": "https://pypi.org/project/harmony-cli/"
 }

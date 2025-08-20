@@ -1,11 +1,11 @@
 {
   "name": "dashlab",
-  "version": "0.1.40",
+  "version": "0.1.41",
   "summary": "A Python package for dashboard and data visualization tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dashlab-0.1.40.tar.gz",
-  "download_time": "2025-08-19T19:51:49.482683",
+  "download_filename": "dashlab-0.1.41.tar.gz",
+  "download_time": "2025-08-20T10:55:44.360962",
   "package_url": "https://pypi.org/project/dashlab/"
 }

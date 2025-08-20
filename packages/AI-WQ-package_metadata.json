@@ -1,0 +1,11 @@
+{
+  "name": "AI-WQ-package",
+  "version": "3.0.1",
+  "summary": "A python package to support forecast submission, evaluation and access to FTP site for DESTIN-E S2S AI prediction project",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_wq_package-3.0.1.tar.gz",
+  "download_time": "2025-08-20T10:56:17.281864",
+  "package_url": "https://pypi.org/project/AI-WQ-package/"
+}

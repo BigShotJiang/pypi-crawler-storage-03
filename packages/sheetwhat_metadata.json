@@ -1,0 +1,11 @@
+{
+  "name": "sheetwhat",
+  "version": "0.6.0",
+  "summary": "Submission correctness tests for spreadsheets",
+  "author": "Vincent Vankrunkelsven",
+  "license": null,
+  "home_page": "https://github.com/datacamp/sheetwhat",
+  "download_filename": "sheetwhat-0.6.0.tar.gz",
+  "download_time": "2025-08-20T10:55:35.249877",
+  "package_url": "https://pypi.org/project/sheetwhat/"
+}

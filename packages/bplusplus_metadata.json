@@ -1,0 +1,11 @@
+{
+  "name": "bplusplus",
+  "version": "1.2.5",
+  "summary": "A simple method to create AI models for biodiversity, with collect and prepare pipeline",
+  "author": "Titus Venverloo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bplusplus-1.2.5.tar.gz",
+  "download_time": "2025-08-20T10:55:56.920701",
+  "package_url": "https://pypi.org/project/bplusplus/"
+}

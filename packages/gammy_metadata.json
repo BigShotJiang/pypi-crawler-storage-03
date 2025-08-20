@@ -1,0 +1,11 @@
+{
+  "name": "gammy",
+  "version": "0.5.6",
+  "summary": "Generalized additive models with a Bayesian twist",
+  "author": "Stratos Staboulis <stratos@stratokraft.fi>",
+  "license": "MIT",
+  "home_page": "https://malmgrek.github.io/gammy",
+  "download_filename": "gammy-0.5.6.tar.gz",
+  "download_time": "2025-08-20T10:56:00.541329",
+  "package_url": "https://pypi.org/project/gammy/"
+}
