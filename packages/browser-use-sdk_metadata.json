@@ -1,11 +1,11 @@
 {
   "name": "browser-use-sdk",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "summary": "The official Python library for the browser-use API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "browser_use_sdk-0.3.0.tar.gz",
-  "download_time": "2025-08-20T17:18:39.132595",
+  "download_filename": "browser_use_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-20T19:16:09.855302",
   "package_url": "https://pypi.org/project/browser-use-sdk/"
 }

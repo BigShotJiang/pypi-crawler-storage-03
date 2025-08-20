@@ -1,0 +1,11 @@
+{
+  "name": "vcsinfo",
+  "version": "2.2.116",
+  "summary": "Utilities to normalize working with different Version Control Systems",
+  "author": "Adobe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcsinfo-2.2.116.tar.gz",
+  "download_time": "2025-08-20T19:16:22.635280",
+  "package_url": "https://pypi.org/project/vcsinfo/"
+}

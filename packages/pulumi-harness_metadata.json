@@ -1,11 +1,11 @@
 {
   "name": "pulumi-harness",
-  "version": "0.7.7",
+  "version": "0.8.0",
   "summary": "A Pulumi package for creating and managing Harness  resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_harness-0.7.7.tar.gz",
-  "download_time": "2025-08-19T06:30:48.786140",
+  "download_filename": "pulumi_harness-0.8.0.tar.gz",
+  "download_time": "2025-08-20T19:16:36.812463",
   "package_url": "https://pypi.org/project/pulumi-harness/"
 }

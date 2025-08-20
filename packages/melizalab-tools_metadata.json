@@ -1,0 +1,11 @@
+{
+  "name": "melizalab-tools",
+  "version": "2025.8.20",
+  "summary": "Meliza lab scripts and modules for auditory neurophysiology",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "melizalab_tools-2025.8.20.tar.gz",
+  "download_time": "2025-08-20T19:16:25.237987",
+  "package_url": "https://pypi.org/project/melizalab-tools/"
+}

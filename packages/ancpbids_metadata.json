@@ -1,0 +1,11 @@
+{
+  "name": "ancpbids",
+  "version": "0.3.1",
+  "summary": "Read/write/validate/query BIDS datasets",
+  "author": "Erdal Karaca",
+  "license": "MIT",
+  "home_page": "https://github.com/ANCPLabOldenburg/ancp-bids",
+  "download_filename": "ancpbids-0.3.1.tar.gz",
+  "download_time": "2025-08-20T19:16:32.070611",
+  "package_url": "https://pypi.org/project/ancpbids/"
+}

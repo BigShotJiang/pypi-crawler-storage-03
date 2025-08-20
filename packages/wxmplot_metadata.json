@@ -1,0 +1,11 @@
+{
+  "name": "wxmplot",
+  "version": "2025.1.5",
+  "summary": "wxPython plotting widgets using matplotlib",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxmplot-2025.1.5.tar.gz",
+  "download_time": "2025-08-20T19:16:07.995291",
+  "package_url": "https://pypi.org/project/wxmplot/"
+}

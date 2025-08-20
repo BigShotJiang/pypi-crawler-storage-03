@@ -1,0 +1,11 @@
+{
+  "name": "hierarchical-conf",
+  "version": "1.0.4",
+  "summary": "A tool for loading settings from files hierarchically",
+  "author": "QuintoAndar",
+  "license": null,
+  "home_page": "https://github.com/quintoandar/hierarchical-conf",
+  "download_filename": "hierarchical_conf-1.0.4.tar.gz",
+  "download_time": "2025-08-20T19:16:24.714495",
+  "package_url": "https://pypi.org/project/hierarchical-conf/"
+}

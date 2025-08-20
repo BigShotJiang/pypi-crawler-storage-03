@@ -1,11 +1,11 @@
 {
   "name": "errorhub",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "All you will ever need for error handling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "errorhub-0.1.0.tar.gz",
-  "download_time": "2025-08-20T18:29:39.149264",
+  "download_filename": "errorhub-0.1.2.tar.gz",
+  "download_time": "2025-08-20T19:16:33.127812",
   "package_url": "https://pypi.org/project/errorhub/"
 }
