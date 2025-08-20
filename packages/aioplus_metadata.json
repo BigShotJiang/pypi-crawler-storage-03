@@ -1,11 +1,11 @@
 {
   "name": "aioplus",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Because asyncio.gather() is not enough!",
   "author": "Sergei Y. Bogdanov",
   "license": "MIT",
   "home_page": "https://github.com/syubogdanov/aioplus",
-  "download_filename": "aioplus-0.3.0.tar.gz",
-  "download_time": "2025-08-20T08:47:16.753420",
+  "download_filename": "aioplus-0.4.0.tar.gz",
+  "download_time": "2025-08-20T22:42:07.014094",
   "package_url": "https://pypi.org/project/aioplus/"
 }

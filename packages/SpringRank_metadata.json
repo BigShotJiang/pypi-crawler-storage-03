@@ -1,0 +1,11 @@
+{
+  "name": "SpringRank",
+  "version": "0.0.9",
+  "summary": "SpringRank: A physical model for efficient ranking in networks",
+  "author": "Caterina De Bacco, Cris Moore",
+  "license": null,
+  "home_page": null,
+  "download_filename": "springrank-0.0.9.tar.gz",
+  "download_time": "2025-08-20T22:42:39.845410",
+  "package_url": "https://pypi.org/project/SpringRank/"
+}

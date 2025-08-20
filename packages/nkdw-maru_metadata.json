@@ -1,0 +1,11 @@
+{
+  "name": "nkdw-maru",
+  "version": "1.0.0",
+  "summary": "File and package backup for dnf and flatpak. Saves to a single yaml file for the lulz",
+  "author": "maru",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nkdw_maru-1.0.0.tar.gz",
+  "download_time": "2025-08-20T22:42:27.473710",
+  "package_url": "https://pypi.org/project/nkdw-maru/"
+}
