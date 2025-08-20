@@ -1,0 +1,11 @@
+{
+  "name": "runmero",
+  "version": "2.5.0",
+  "summary": "مكتبة RunMero القوية لإدارة العمليات في الخلفية مع دعم أطر الويب المتعددة في بيئة Termux - ",
+  "author": "mero",
+  "license": "MIT",
+  "home_page": "https://github.com/mero-palestine/runmero",
+  "download_filename": "runmero-2.5.0.tar.gz",
+  "download_time": "2025-08-20T16:25:26.774729",
+  "package_url": "https://pypi.org/project/runmero/"
+}

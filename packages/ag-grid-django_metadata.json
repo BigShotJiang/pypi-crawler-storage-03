@@ -1,0 +1,11 @@
+{
+  "name": "ag-grid-django",
+  "version": "0.0.7.83",
+  "summary": "A Django app that integrates AG Grid for advanced data grid functionalities",
+  "author": "kasie",
+  "license": null,
+  "home_page": "https://github.com/kyong-dev/ag-grid-django",
+  "download_filename": "ag_grid_django-0.0.7.83.tar.gz",
+  "download_time": "2025-08-20T16:25:01.703284",
+  "package_url": "https://pypi.org/project/ag-grid-django/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "blindbase",
+  "version": "0.13.0",
+  "summary": "Accessible CLI chess study tool with Stockfish analysis and  Lichess integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blindbase-0.13.0.tar.gz",
+  "download_time": "2025-08-20T16:25:06.444811",
+  "package_url": "https://pypi.org/project/blindbase/"
+}

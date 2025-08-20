@@ -1,0 +1,11 @@
+{
+  "name": "zipcode-features",
+  "version": "0.0.1",
+  "summary": "A tool to get features based on census data from zipcodes",
+  "author": "Eric Schles",
+  "license": "MIT",
+  "home_page": "https://github.com/EricSchles/zipcode_features",
+  "download_filename": "zipcode_features-0.0.1.tar.gz",
+  "download_time": "2025-08-20T16:24:50.629011",
+  "package_url": "https://pypi.org/project/zipcode-features/"
+}

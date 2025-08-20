@@ -1,0 +1,11 @@
+{
+  "name": "tectonic-utils",
+  "version": "0.2.1",
+  "summary": "A small package of useful geophysics utilities",
+  "author": "Kathryn Materna",
+  "license": "MIT",
+  "home_page": "https://github.com/kmaterna/Tectonic_Utils",
+  "download_filename": "tectonic_utils-0.2.1.tar.gz",
+  "download_time": "2025-08-20T16:24:42.156337",
+  "package_url": "https://pypi.org/project/tectonic-utils/"
+}

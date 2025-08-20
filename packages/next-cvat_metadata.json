@@ -1,0 +1,11 @@
+{
+  "name": "next-cvat",
+  "version": "0.1.25",
+  "summary": "Minimalistic python SDK for CVAT",
+  "author": "nextml",
+  "license": null,
+  "home_page": null,
+  "download_filename": "next_cvat-0.1.25-py3-none-any.whl",
+  "download_time": "2025-08-20T16:25:00.143382",
+  "package_url": "https://pypi.org/project/next-cvat/"
+}
