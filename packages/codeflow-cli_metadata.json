@@ -1,0 +1,11 @@
+{
+  "name": "codeflow-cli",
+  "version": "0.1.2",
+  "summary": "Interactive CLI agent for Groq API with chat, model selection, and file diff capabilities",
+  "author": "Groq CLI Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-username/codeflow-cli",
+  "download_filename": "codeflow-cli-0.1.2.tar.gz",
+  "download_time": "2025-08-20T13:21:01.620943",
+  "package_url": "https://pypi.org/project/codeflow-cli/"
+}

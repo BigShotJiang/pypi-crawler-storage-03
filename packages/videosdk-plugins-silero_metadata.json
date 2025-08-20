@@ -1,0 +1,11 @@
+{
+  "name": "videosdk-plugins-silero",
+  "version": "0.0.25",
+  "summary": "VideoSDK Agent Framework plugin for silero",
+  "author": "videosdk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdk_plugins_silero-0.0.25.tar.gz",
+  "download_time": "2025-08-20T13:21:10.500643",
+  "package_url": "https://pypi.org/project/videosdk-plugins-silero/"
+}

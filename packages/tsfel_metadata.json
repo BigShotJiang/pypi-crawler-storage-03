@@ -1,0 +1,11 @@
+{
+  "name": "tsfel",
+  "version": "0.2.0",
+  "summary": "Library for time series feature extraction",
+  "author": "Fraunhofer Portugal",
+  "license": null,
+  "home_page": "https://github.com/fraunhoferportugal/tsfel/",
+  "download_filename": "tsfel-0.2.0.tar.gz",
+  "download_time": "2025-08-20T13:21:14.695748",
+  "package_url": "https://pypi.org/project/tsfel/"
+}

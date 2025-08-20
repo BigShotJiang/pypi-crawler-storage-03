@@ -1,0 +1,11 @@
+{
+  "name": "pyomie",
+  "version": "0.1.3",
+  "summary": "A client for OMIE - Spain and Portugal electricity market data",
+  "author": "Luis Miranda",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyomie-0.1.3.tar.gz",
+  "download_time": "2025-08-20T13:21:00.048975",
+  "package_url": "https://pypi.org/project/pyomie/"
+}

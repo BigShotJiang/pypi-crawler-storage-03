@@ -1,0 +1,11 @@
+{
+  "name": "doapetry",
+  "version": "0.1.1",
+  "summary": "Create a DOAP based on the pyproject.toml",
+  "author": "Natanael Arndt",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/white-gecko/doapetry",
+  "download_filename": "doapetry-0.1.1.tar.gz",
+  "download_time": "2025-08-20T13:21:09.444441",
+  "package_url": "https://pypi.org/project/doapetry/"
+}
