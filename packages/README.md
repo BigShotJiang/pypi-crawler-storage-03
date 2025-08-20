@@ -1,27 +1,77 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-20T20:22:51.825649
-- **Total Packages**: 81
-- **Total Size**: 22.11 MB
+- **Download Time**: 2025-08-20T20:44:21.128184
+- **Total Packages**: 85
+- **Total Size**: 19.26 MB
 
 ## Packages List
+- delete-branches
+- roiextractors
+- agemcp
+- composabl-api-dev
+- composabl-train-dev
+- composabl-cli-dev
+- ya-json-server-pd
+- composabl-dev
+- eis-insurance
+- zzingestions
+- dashkit-table
+- pymore
+- django-htmx-autocomplete
+- pulumi-azure
+- debabelizer
+- gpt-oss-redteam
+- inheritance-dict
+- python-bioinformagicks
+- metis-agent
+- unitpackage
+- vizql-data-service-py
+- dbt-mcp
+- ni.grpcdevice.v1.proto
+- bash2gitlab
+- immich-mcp
+- ai-trackdown-pytools
+- simplesingletable
+- bungio
+- jeteve-omniorb
+- gammarers.aws-rds-database-running-schedule-stack
+- evsemaster
+- linux2mqtt
+- anatools
+- odsbox
+- worker-automate-hub
+- dash-bootstrap-components
+- monday-client
+- c2cgeoportal-admin
+- c2cgeoportal-geoportal
+- c2cgeoportal-commons
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- pyqrack-cpu-complex128
+- pyqrack-cpu
+- sp-obs
+- pyqrack-complex128
+- pyqrack
+- skipper-tool
+- letta-client
+- rediacc
+- fastapi-myauth
+- spatialstudio
+- symclatron
 - empyrebase
 - writer
 - s4-platform-api
-- cw-sdk
 - pyatlan
 - tfd-py
 - django-eose
 - xflow-py
 - pardakht
 - python-terminusgps
-- odsbox
 - uhi
 - errorhub
 - llmonkey
 - blaxel
-- skipper-tool
 - devento
 - AmiAutomation
 - kagent-adk
@@ -41,49 +91,3 @@
 - assemblyline-service-client
 - segmented-creator
 - inorbit-edge
-- step-criterion
-- xapp_adapta
-- pytest-snap
-- ut-eviq
-- cumulusci-plus
-- aviation-chart-server
-- mas-cli
-- evalassist
-- arklex
-- nubrain
-- kodexa
-- gdsfactoryplus
-- batch-img
-- mmrl
-- catchery
-- methodnetworkscan
-- discoursemap
-- docent-python
-- mcp-composer
-- a2a-sdk
-- cog
-- pulumi-gcp
-- FAIRLinked
-- lbt-dragonfly
-- petrus
-- dragonfly-radiance
-- caneth
-- dragonfly-energy
-- netintel-ocr
-- tce-lib
-- html-for-docx
-- crypto-yfinance
-- vellum-workflow-server
-- rayforge
-- Praxos-python
-- splunk-soar-sdk
-- openssl-encrypt
-- v2raypy
-- lionagi
-- ewoksid12
-- codechest
-- oteltest
-- evnex
-- cppsage
-- keepercommander
-- apache-airflow

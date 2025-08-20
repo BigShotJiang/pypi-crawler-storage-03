@@ -1,11 +1,11 @@
 {
   "name": "django-htmx-autocomplete",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "A Django autocomplete component powered by htmx",
   "author": "Luc Belliveau",
   "license": "MIT",
   "home_page": "https://github.com/PHACDataHub/django-htmx-autocomplete",
-  "download_filename": "django_htmx_autocomplete-1.0.11.tar.gz",
-  "download_time": "2025-08-20T18:52:59.927408",
+  "download_filename": "django_htmx_autocomplete-1.0.12.tar.gz",
+  "download_time": "2025-08-20T20:43:38.196453",
   "package_url": "https://pypi.org/project/django-htmx-autocomplete/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agemcp",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "PostgreSQL MCP",
   "author": "veloper",
   "license": null,
   "home_page": null,
-  "download_filename": "agemcp-0.5.1.tar.gz",
-  "download_time": "2025-08-20T19:41:42.136978",
+  "download_filename": "agemcp-0.5.2.tar.gz",
+  "download_time": "2025-08-20T20:43:31.841144",
   "package_url": "https://pypi.org/project/agemcp/"
 }

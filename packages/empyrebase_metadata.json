@@ -1,11 +1,11 @@
 {
   "name": "empyrebase",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "summary": "A simple python wrapper for the Firebase API with current deps",
   "author": "emrothenberg",
   "license": "MIT",
   "home_page": "https://github.com/emrothenberg/empyrebase",
-  "download_filename": "empyrebase-2.1.2.tar.gz",
-  "download_time": "2025-08-20T20:22:06.260799",
+  "download_filename": "empyrebase-2.2.0.tar.gz",
+  "download_time": "2025-08-20T20:44:02.232809",
   "package_url": "https://pypi.org/project/empyrebase/"
 }
