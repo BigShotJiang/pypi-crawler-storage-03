@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-appiumwindows",
+  "version": "0.1.0",
+  "summary": "Robot Framework AppiumLibrary extension for Windows desktop automation using NovaWindows Driver instead of WinAppDriver.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "robotframework_appiumwindows-0.1.0.tar.gz",
+  "download_time": "2025-08-20T14:45:46.209240",
+  "package_url": "https://pypi.org/project/robotframework-appiumwindows/"
+}

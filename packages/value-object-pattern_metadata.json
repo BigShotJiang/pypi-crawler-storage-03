@@ -1,11 +1,11 @@
 {
   "name": "value-object-pattern",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "The Value Object Pattern is a Python package that streamlines the creation and management of value objects in your projects.",
   "author": "Adria Montoto",
   "license": null,
   "home_page": null,
-  "download_filename": "value_object_pattern-1.9.0.tar.gz",
-  "download_time": "2025-08-20T14:21:59.779472",
+  "download_filename": "value_object_pattern-1.10.0.tar.gz",
+  "download_time": "2025-08-20T14:46:20.857137",
   "package_url": "https://pypi.org/project/value-object-pattern/"
 }

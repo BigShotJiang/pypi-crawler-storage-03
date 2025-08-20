@@ -1,0 +1,11 @@
+{
+  "name": "szamlazz.py",
+  "version": "1.5.1",
+  "summary": "Python client for Szamlazz.hu :: Számla Agent",
+  "author": "Kristof Daja (theriverman)",
+  "license": "MIT License | Copyright (c) 2020 — 2025 Kristof Daja",
+  "home_page": "https://github.com/theriverman/szamlazz.py",
+  "download_filename": "szamlazz_py-1.5.1.tar.gz",
+  "download_time": "2025-08-20T14:45:53.465460",
+  "package_url": "https://pypi.org/project/szamlazz.py/"
+}

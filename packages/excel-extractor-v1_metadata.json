@@ -1,0 +1,11 @@
+{
+  "name": "excel-extractor-v1",
+  "version": "0.1.0",
+  "summary": "Extract Excel formulas, validations, hyperlinks, notes, and rich cell metadata using xlwings or openpyxl. CLI and Python API.",
+  "author": "Ameer Techsoft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excel_extractor_v1-0.1.0.tar.gz",
+  "download_time": "2025-08-20T14:45:49.344590",
+  "package_url": "https://pypi.org/project/excel-extractor-v1/"
+}
