@@ -1,11 +1,11 @@
 {
   "name": "McSixRu",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "AI library for Russian users with OpenRouter integration",
-  "author": "Your Name",
+  "author": "McSIxRu",
   "license": null,
   "home_page": null,
-  "download_filename": "McSixRu-1.0.1.tar.gz",
-  "download_time": "2025-08-20T18:10:55.432769",
+  "download_filename": "McSixRu-1.0.3.tar.gz",
+  "download_time": "2025-08-20T18:29:40.194048",
   "package_url": "https://pypi.org/project/McSixRu/"
 }

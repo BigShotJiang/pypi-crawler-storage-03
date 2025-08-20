@@ -1,11 +1,11 @@
 {
   "name": "trulens-providers-cortex",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "summary": "A TruLens extension package adding Snowflake Cortex support for LLM App evaluation.",
   "author": "Snowflake Inc.",
   "license": "MIT",
   "home_page": "https://trulens.org/",
-  "download_filename": "trulens_providers_cortex-2.2.3.tar.gz",
-  "download_time": "2025-08-19T20:52:16.784489",
+  "download_filename": "trulens_providers_cortex-2.2.4.tar.gz",
+  "download_time": "2025-08-20T18:29:13.899343",
   "package_url": "https://pypi.org/project/trulens-providers-cortex/"
 }
