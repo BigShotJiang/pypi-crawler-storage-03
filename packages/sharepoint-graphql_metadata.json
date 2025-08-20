@@ -1,0 +1,11 @@
+{
+  "name": "sharepoint-graphql",
+  "version": "0.1.6",
+  "summary": "This Python utility enables users to interact with SharePoint sites via Microsoft Graph API, facilitating tasks such as listing, downloading, uploading, moving, and deleting files.",
+  "author": "Pong Wong",
+  "license": null,
+  "home_page": "https://github.com/woponi/Sharepoint-GraphQL-Python",
+  "download_filename": "sharepoint_graphql-0.1.6.tar.gz",
+  "download_time": "2025-08-20T07:19:57.955402",
+  "package_url": "https://pypi.org/project/sharepoint-graphql/"
+}

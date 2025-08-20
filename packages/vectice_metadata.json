@@ -1,0 +1,11 @@
+{
+  "name": "vectice",
+  "version": "25.3.5.0",
+  "summary": "Vectice Python library",
+  "author": "Vectice Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://www.vectice.com",
+  "download_filename": "vectice-25.3.5.0.tar.gz",
+  "download_time": "2025-08-20T07:20:23.676027",
+  "package_url": "https://pypi.org/project/vectice/"
+}

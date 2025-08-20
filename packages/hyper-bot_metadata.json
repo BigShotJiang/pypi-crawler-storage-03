@@ -1,0 +1,11 @@
+{
+  "name": "hyper-bot",
+  "version": "0.81.0",
+  "summary": "稳定高效、易于开发的QQ Bot框架",
+  "author": "Harcic",
+  "license": null,
+  "home_page": "https://github.com/HarcicYang/HypeR_Bot",
+  "download_filename": "hyper_bot-0.81.0.tar.gz",
+  "download_time": "2025-08-20T07:20:17.886701",
+  "package_url": "https://pypi.org/project/hyper-bot/"
+}

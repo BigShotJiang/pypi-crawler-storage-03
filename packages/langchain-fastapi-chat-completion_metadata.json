@@ -1,11 +1,11 @@
 {
   "name": "langchain-fastapi-chat-completion",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A bridge to use Langchain output as an OpenAI chat completion API.",
   "author": "Kim Minjong",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_fastapi_chat_completion-1.0.1.tar.gz",
-  "download_time": "2025-08-19T09:21:24.168792",
+  "download_filename": "langchain_fastapi_chat_completion-1.0.2.tar.gz",
+  "download_time": "2025-08-20T07:20:25.492895",
   "package_url": "https://pypi.org/project/langchain-fastapi-chat-completion/"
 }

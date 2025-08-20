@@ -1,0 +1,11 @@
+{
+  "name": "elements",
+  "version": "3.20.0",
+  "summary": "Building blocks for productive research.",
+  "author": null,
+  "license": null,
+  "home_page": "http://github.com/danijar/elements",
+  "download_filename": "elements-3.20.0.tar.gz",
+  "download_time": "2025-08-20T07:19:56.141933",
+  "package_url": "https://pypi.org/project/elements/"
+}

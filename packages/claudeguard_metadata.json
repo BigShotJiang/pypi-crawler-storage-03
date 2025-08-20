@@ -1,11 +1,11 @@
 {
   "name": "claudeguard",
-  "version": "0.1.1",
-  "summary": "Claude Code security guard - fixes broken permission system with intelligent pattern matching",
+  "version": "0.1.2",
+  "summary": "Claude Code security guard - an alternative Claude Code permission framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claudeguard-0.1.1.tar.gz",
-  "download_time": "2025-08-20T06:32:57.264095",
+  "download_filename": "claudeguard-0.1.2.tar.gz",
+  "download_time": "2025-08-20T07:20:24.254467",
   "package_url": "https://pypi.org/project/claudeguard/"
 }
