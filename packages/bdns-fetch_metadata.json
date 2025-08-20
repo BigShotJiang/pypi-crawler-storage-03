@@ -1,0 +1,11 @@
+{
+  "name": "bdns-fetch",
+  "version": "2.1.0",
+  "summary": "A comprehensive command-line tool for accessing Spanish government BDNS subsidies data",
+  "author": "José María Cruz Lorite",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "bdns_fetch-2.1.0.tar.gz",
+  "download_time": "2025-08-20T22:18:53.882674",
+  "package_url": "https://pypi.org/project/bdns-fetch/"
+}

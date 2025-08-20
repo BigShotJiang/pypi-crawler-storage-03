@@ -1,0 +1,11 @@
+{
+  "name": "mcpstack-jupyter",
+  "version": "0.0.1",
+  "summary": "MCPStack delegator for jupyter-mcp-server (Option A: reuse their tools verbatim).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpstack_jupyter-0.0.1.tar.gz",
+  "download_time": "2025-08-20T22:18:48.157188",
+  "package_url": "https://pypi.org/project/mcpstack-jupyter/"
+}

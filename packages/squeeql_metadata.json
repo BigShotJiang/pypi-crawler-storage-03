@@ -1,0 +1,11 @@
+{
+  "name": "squeeql",
+  "version": "2025.8.2",
+  "summary": "Simple utilities for using sqlite3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "squeeql-2025.8.2.tar.gz",
+  "download_time": "2025-08-20T22:18:50.770393",
+  "package_url": "https://pypi.org/project/squeeql/"
+}
