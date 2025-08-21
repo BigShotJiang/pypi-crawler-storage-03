@@ -1,11 +1,11 @@
 {
   "name": "sshdol",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Easy dict-like access to server files",
-  "author": "OtoSense",
+  "author": null,
   "license": "apache-2.0",
   "home_page": "https://github.com/i2mint/sshdol",
-  "download_filename": "sshdol-0.0.6.tar.gz",
-  "download_time": "2025-08-20T16:25:05.395869",
+  "download_filename": "sshdol-0.0.8.tar.gz",
+  "download_time": "2025-08-21T16:54:07.671927",
   "package_url": "https://pypi.org/project/sshdol/"
 }

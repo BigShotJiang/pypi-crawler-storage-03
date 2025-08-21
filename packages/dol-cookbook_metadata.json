@@ -1,0 +1,11 @@
+{
+  "name": "dol-cookbook",
+  "version": "0.1.7",
+  "summary": "recipes for dol tools",
+  "author": null,
+  "license": "mit",
+  "home_page": null,
+  "download_filename": "dol_cookbook-0.1.7.tar.gz",
+  "download_time": "2025-08-21T16:54:15.028967",
+  "package_url": "https://pypi.org/project/dol-cookbook/"
+}

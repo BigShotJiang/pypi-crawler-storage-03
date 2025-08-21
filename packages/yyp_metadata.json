@@ -1,11 +1,11 @@
 {
   "name": "yyp",
-  "version": "0.1.9",
+  "version": "0.2.2",
   "summary": "多分支 worktree 管理工具",
-  "author": "xpp",
+  "author": "yyp",
   "license": null,
   "home_page": null,
-  "download_filename": "yyp-0.1.9.tar.gz",
-  "download_time": "2025-08-21T14:20:35.018554",
+  "download_filename": "yyp-0.2.2.tar.gz",
+  "download_time": "2025-08-21T16:54:06.112324",
   "package_url": "https://pypi.org/project/yyp/"
 }

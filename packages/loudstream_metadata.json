@@ -1,11 +1,11 @@
 {
   "name": "loudstream",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "summary": "Python wrapper for libebur128 with streaming support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "loudstream-0.1.5.tar.gz",
-  "download_time": "2025-08-20T14:21:41.997666",
+  "download_filename": "loudstream-0.2.0.tar.gz",
+  "download_time": "2025-08-21T16:54:06.635860",
   "package_url": "https://pypi.org/project/loudstream/"
 }

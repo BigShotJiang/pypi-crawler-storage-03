@@ -1,0 +1,11 @@
+{
+  "name": "feedx",
+  "version": "0.1.2",
+  "summary": "Package for running A/B experiments on shopping feeds.",
+  "author": "Google gTech Ads Data Science",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google-marketing-solutions/feedx",
+  "download_filename": "feedx-0.1.2.tar.gz",
+  "download_time": "2025-08-21T16:54:19.719828",
+  "package_url": "https://pypi.org/project/feedx/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "QUARK-plugin-tsp",
-  "version": "2.3.0",
+  "version": "2.4.1",
   "summary": "Quark plugin providing problem generation and mapping modules for the tsp problem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quark_plugin_tsp-2.3.0.tar.gz",
-  "download_time": "2025-08-21T15:54:46.144969",
+  "download_filename": "quark_plugin_tsp-2.4.1.tar.gz",
+  "download_time": "2025-08-21T16:53:42.384451",
   "package_url": "https://pypi.org/project/QUARK-plugin-tsp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hibachi-xyz",
+  "version": "0.1.12",
+  "summary": "Hibachi SDK for accessing the API",
+  "author": "Hibachi Engineer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hibachi_xyz-0.1.12.tar.gz",
+  "download_time": "2025-08-21T16:53:44.495541",
+  "package_url": "https://pypi.org/project/hibachi-xyz/"
+}

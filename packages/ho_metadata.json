@@ -1,0 +1,11 @@
+{
+  "name": "ho",
+  "version": "0.0.9",
+  "summary": "Http Objects - Tools to make python interfaces to http services",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/ho",
+  "download_filename": "ho-0.0.9.tar.gz",
+  "download_time": "2025-08-21T16:54:09.752330",
+  "package_url": "https://pypi.org/project/ho/"
+}

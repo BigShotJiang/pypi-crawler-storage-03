@@ -1,11 +1,11 @@
 {
   "name": "kodexa",
-  "version": "7.4.417109114977",
+  "version": "7.4.417132965764",
   "summary": "Python SDK for the Kodexa Platform",
   "author": "Austin Redenbaugh",
   "license": null,
   "home_page": null,
-  "download_filename": "kodexa-7.4.417109114977.tar.gz",
-  "download_time": "2025-08-20T20:22:31.912437",
+  "download_filename": "kodexa-7.4.417132965764.tar.gz",
+  "download_time": "2025-08-21T16:54:13.983227",
   "package_url": "https://pypi.org/project/kodexa/"
 }
