@@ -1,24 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T20:54:01.493378
-- **Total Packages**: 76
-- **Total Size**: 8.45 MB
+- **Download Time**: 2025-08-21T21:19:16.447620
+- **Total Packages**: 77
+- **Total Size**: 20.21 MB
 
 ## Packages List
-- rezen
-- scc-firewall-manager-sdk
-- obsidiana
-- datacontract-helper
-- lunary
-- sapiopycommons
-- philoch-bib-sdk
-- pysarflow
-- reva-coregistration
 - cw-sdk
 - http-snapshot
+- scc-firewall-manager-sdk
 - scikit-kinematics
 - marEx
+- py-nucflag
+- datacontract-helper
 - pulumi-provider-boilerplate
 - predibase
 - predibase-api
@@ -82,3 +76,10 @@
 - augint-billing-lib
 - whisper-eval-serbian
 - fair-llm
+- bhp-pro
+- singer-sdk
+- ragl
+- NREL-altdss-schema
+- pmma
+- django-cravensworth
+- morin

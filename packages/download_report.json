@@ -1,21 +1,15 @@
 {
-  "download_time": "2025-08-21T20:54:01.493378",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 8.45,
+  "download_time": "2025-08-21T21:19:16.447620",
+  "total_packages_downloaded": 77,
+  "total_size_mb": 20.21,
   "packages": [
-    "rezen",
-    "scc-firewall-manager-sdk",
-    "obsidiana",
-    "datacontract-helper",
-    "lunary",
-    "sapiopycommons",
-    "philoch-bib-sdk",
-    "pysarflow",
-    "reva-coregistration",
     "cw-sdk",
     "http-snapshot",
+    "scc-firewall-manager-sdk",
     "scikit-kinematics",
     "marEx",
+    "py-nucflag",
+    "datacontract-helper",
     "pulumi-provider-boilerplate",
     "predibase",
     "predibase-api",
@@ -78,6 +72,13 @@
     "bacolonyzer",
     "augint-billing-lib",
     "whisper-eval-serbian",
-    "fair-llm"
+    "fair-llm",
+    "bhp-pro",
+    "singer-sdk",
+    "ragl",
+    "NREL-altdss-schema",
+    "pmma",
+    "django-cravensworth",
+    "morin"
   ]
 }
