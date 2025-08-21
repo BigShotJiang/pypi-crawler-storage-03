@@ -1,11 +1,11 @@
 {
   "name": "pymediawikidocker",
-  "version": "0.20.3",
+  "version": "0.20.4",
   "summary": "Python controlled (semantic) mediawiki docker application cluster installation",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pymediawikidocker-0.20.3.tar.gz",
-  "download_time": "2025-08-21T10:57:27.352754",
+  "download_filename": "pymediawikidocker-0.20.4.tar.gz",
+  "download_time": "2025-08-21T15:22:02.793362",
   "package_url": "https://pypi.org/project/pymediawikidocker/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "open-geodata",
-  "version": "23.1.5",
+  "version": "23.1.6",
   "summary": "Dados Espaciais do Brasil",
   "author": "michelmetran",
   "license": null,
   "home_page": null,
-  "download_filename": "open_geodata-23.1.5.tar.gz",
-  "download_time": "2025-08-21T14:46:06.414408",
+  "download_filename": "open_geodata-23.1.6.tar.gz",
+  "download_time": "2025-08-21T15:22:34.963435",
   "package_url": "https://pypi.org/project/open-geodata/"
 }

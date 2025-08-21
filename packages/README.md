@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T14:57:44.640711
-- **Total Packages**: 79
-- **Total Size**: 16.08 MB
+- **Download Time**: 2025-08-21T15:22:42.882925
+- **Total Packages**: 76
+- **Total Size**: 9.84 MB
 
 ## Packages List
+- circuitpython-ilps28qsw
+- github-org-manager
+- proof-of-portfolio
+- pygator
+- simple-chetec
+- ut-ioc
 - hsfiles_jupyter
 - telnyx
 - optimade-maker
@@ -20,7 +26,6 @@
 - jrl-cmakemodules
 - pepycli
 - tlq-client
-- mcp-server-dnspod
 - odoo-addon-fieldservice-kanban-info-route
 - mlscaffold
 - pscaffold
@@ -33,7 +38,6 @@
 - python-ledgercommon
 - batch-img
 - quickslurm
-- proof-of-portfolio
 - openpecha
 - pulp-certguard-client
 - pulp-file-client
@@ -41,7 +45,6 @@
 - pulpcore
 - umepr
 - code-puppy
-- alignsar
 - CHE-QNM
 - anthropic-zeusdb
 - karabo
@@ -79,9 +82,3 @@
 - clarifai-grpc
 - claude-cto
 - lully
-- docify-ai
-- validate-actions
-- lieme
-- knit-script
-- agentstate
-- mlpro-int-optuna

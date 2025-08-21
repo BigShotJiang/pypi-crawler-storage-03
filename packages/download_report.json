@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-08-21T14:57:44.640711",
-  "total_packages_downloaded": 79,
-  "total_size_mb": 16.08,
+  "download_time": "2025-08-21T15:22:42.882925",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 9.84,
   "packages": [
+    "circuitpython-ilps28qsw",
+    "github-org-manager",
+    "proof-of-portfolio",
+    "pygator",
+    "simple-chetec",
+    "ut-ioc",
     "hsfiles_jupyter",
     "telnyx",
     "optimade-maker",
@@ -17,7 +23,6 @@
     "jrl-cmakemodules",
     "pepycli",
     "tlq-client",
-    "mcp-server-dnspod",
     "odoo-addon-fieldservice-kanban-info-route",
     "mlscaffold",
     "pscaffold",
@@ -30,7 +35,6 @@
     "python-ledgercommon",
     "batch-img",
     "quickslurm",
-    "proof-of-portfolio",
     "openpecha",
     "pulp-certguard-client",
     "pulp-file-client",
@@ -38,7 +42,6 @@
     "pulpcore",
     "umepr",
     "code-puppy",
-    "alignsar",
     "CHE-QNM",
     "anthropic-zeusdb",
     "karabo",
@@ -75,12 +78,6 @@
     "odoo-addon-fieldservice-sale-sign",
     "clarifai-grpc",
     "claude-cto",
-    "lully",
-    "docify-ai",
-    "validate-actions",
-    "lieme",
-    "knit-script",
-    "agentstate",
-    "mlpro-int-optuna"
+    "lully"
   ]
 }
