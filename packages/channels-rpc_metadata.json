@@ -1,11 +1,11 @@
 {
   "name": "channels-rpc",
-  "version": "0.2.0",
+  "version": "0.3.5",
   "summary": "JSON-RPC implementation for Django's channels library.",
   "author": "Zvi Baratz",
   "license": null,
   "home_page": null,
-  "download_filename": "channels_rpc-0.2.0.tar.gz",
-  "download_time": "2025-08-20T08:47:26.173414",
+  "download_filename": "channels_rpc-0.3.5.tar.gz",
+  "download_time": "2025-08-21T15:54:37.885165",
   "package_url": "https://pypi.org/project/channels-rpc/"
 }

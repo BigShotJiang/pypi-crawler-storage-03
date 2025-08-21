@@ -1,11 +1,11 @@
 {
   "name": "passagemath-gap-pkg-tomlib-data",
-  "version": "10.6.5",
+  "version": "10.6.7",
   "summary": "passagemath: Computational Group Theory with GAP: tomlib data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_gap_pkg_tomlib_data-10.6.5.tar.gz",
-  "download_time": "2025-08-17T12:38:07.937439",
+  "download_filename": "passagemath_gap_pkg_tomlib_data-10.6.7.tar.gz",
+  "download_time": "2025-08-21T15:54:25.970526",
   "package_url": "https://pypi.org/project/passagemath-gap-pkg-tomlib-data/"
 }
