@@ -1,0 +1,11 @@
+{
+  "name": "stfu-terraform",
+  "version": "0.1.0",
+  "summary": "A beautiful Terraform CLI wrapper with enhanced UI capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stfu_terraform-0.1.0.tar.gz",
+  "download_time": "2025-08-21T23:40:35.685011",
+  "package_url": "https://pypi.org/project/stfu-terraform/"
+}

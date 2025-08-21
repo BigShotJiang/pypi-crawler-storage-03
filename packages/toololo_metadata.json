@@ -1,0 +1,11 @@
+{
+  "name": "toololo",
+  "version": "0.5.0",
+  "summary": "Minimal Python function calling for Claude and OpenRouter",
+  "author": "Andreas Jansson",
+  "license": null,
+  "home_page": "https://github.com/andreasjansson/toololo",
+  "download_filename": "toololo-0.5.0.tar.gz",
+  "download_time": "2025-08-21T23:40:12.850291",
+  "package_url": "https://pypi.org/project/toololo/"
+}
