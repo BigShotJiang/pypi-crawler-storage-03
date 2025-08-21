@@ -1,17 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T10:57:39.034235
-- **Total Packages**: 74
-- **Total Size**: 46.25 MB
+- **Download Time**: 2025-08-21T11:18:51.299682
+- **Total Packages**: 75
+- **Total Size**: 27.05 MB
 
 ## Packages List
+- sema4ai-mcp
+- sema4ai-http-helper
+- retracesoftware-functional
+- marketminer
+- pyvoicelib
+- lib-invoice
+- gaiaflow
+- worker-automate-hub
+- wperf-cmn-visualizer
+- rcabench
+- shushpy
+- tb-nightly
+- multi-bypass
+- kurs-dolara
+- dwh-oppfolging
+- bailo
+- reywechat
+- dbt-mcp-lightdash
+- paddleocr
+- tai-api
+- odoo-addon-shopfloor-mobile-base
+- llm-usage
+- openctp-ctp
+- gslides-api
+- scc-firewall-manager-sdk
+- django-singlestore
+- tk-base-utils
+- odoo-addon-mail-gateway-whatsapp
+- pyrheadb
+- traia-iatp
+- gpp-components
+- pynanomodem
+- japyd
+- quapp-pennylane
+- faird
+- qa-project-gen
+- geoserver-rest-by-bda
+- odoo-addon-operating-unit
+- aryaxai
+- agent-lab-sdk
+- toomanyconfigs
+- viyv-mcp
+- archipy
+- mcp-framework
+- epicure
+- afip.py
+- odoo-addon-product-multi-company
+- odoo-addon-base-multi-company
+- pymsword
+- another-ayx-python-sdk
 - Payton
 - remotivelabs-cli
 - datagouv-client
 - dequantor
 - llm-api-client
-- geoserver-rest-by-bda
 - matrice
 - abstract-gui
 - mustrd
@@ -25,7 +74,6 @@
 - sigmund
 - eve-bus
 - abs-nosql-charts-core
-- scc-firewall-manager-sdk
 - sciv
 - odoo-addon-l10n-es-aeat-sii-oca
 - grizzly-loadtester
@@ -33,50 +81,3 @@
 - sema4ai-action-server
 - konduktor-nightly
 - fastkafka2
-- trainy-policy-nightly
-- aspose-barcode-cloud
-- tapestrysdk
-- monday-api-python-sdk
-- piwik-pro-mcp
-- pystow
-- codeflow-cli
-- p2d2
-- promptmask
-- apiium
-- beswarm
-- streamlit-select-icons
-- aient
-- letta-nightly
-- laplaciannb
-- asteroid-odyssey
-- chekml
-- remarshal
-- toomanyconfigs
-- zalfmas-capnp-schemas
-- qat-compiler
-- py-persian-tts
-- dycw-utilities
-- mkdocs-graph-plugin
-- AlignSubs
-- pymediawikidocker
-- augint-billing-lib
-- ha-mqtt-publisher
-- v2xflexstack
-- aiohttp-msal
-- timeit-decorator
-- linegenerator
-- neutronapi
-- tunnelify
-- modelaudit
-- easydiffraction
-- composo
-- profile-translator-blocklist
-- urarovite
-- openfoodfacts
-- atk-common
-- g4f
-- worker-automate-hub
-- ut-dfr
-- protolint-bin
-- addonfactory_splunk_conf_parser_lib
-- material-palettes-generator

@@ -1,0 +1,11 @@
+{
+  "name": "another-ayx-python-sdk",
+  "version": "2.5.3",
+  "summary": "Python SDK for Alteryx Plugin Development and Testing",
+  "author": "Jupiter Bakakeu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "another_ayx_python_sdk-2.5.3.tar.gz",
+  "download_time": "2025-08-21T11:18:36.449346",
+  "package_url": "https://pypi.org/project/another-ayx-python-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "worker-automate-hub",
-  "version": "0.5.719",
+  "version": "0.5.721",
   "summary": "Worker Automate HUB é uma aplicação para automatizar rotinas de RPA nos ambientes Argenta.",
   "author": "Joel Paim",
   "license": null,
   "home_page": null,
-  "download_filename": "worker_automate_hub-0.5.719.tar.gz",
-  "download_time": "2025-08-21T10:57:36.441660",
+  "download_filename": "worker_automate_hub-0.5.721.tar.gz",
+  "download_time": "2025-08-21T11:18:13.439353",
   "package_url": "https://pypi.org/project/worker-automate-hub/"
 }

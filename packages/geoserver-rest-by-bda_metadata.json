@@ -1,11 +1,11 @@
 {
   "name": "geoserver-rest-by-bda",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Package for GeoServer rest API updated by Daniil Balabanov",
   "author": "Daniil Balabanov",
   "license": "MIT License",
   "home_page": "https://github.com/spacewalrus73/geoserver-rest",
-  "download_filename": "geoserver-rest-by-bda-0.0.1.tar.gz",
-  "download_time": "2025-08-21T10:56:57.302629",
+  "download_filename": "geoserver-rest-by-bda-0.0.3.tar.gz",
+  "download_time": "2025-08-21T11:18:29.668789",
   "package_url": "https://pypi.org/project/geoserver-rest-by-bda/"
 }
