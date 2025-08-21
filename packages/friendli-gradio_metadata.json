@@ -1,11 +1,11 @@
 {
   "name": "friendli-gradio",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A Python package for creating Gradio applications with Friendli serverless models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "friendli_gradio-0.0.4.tar.gz",
-  "download_time": "2025-08-20T08:26:58.836615",
+  "download_filename": "friendli_gradio-0.0.5.tar.gz",
+  "download_time": "2025-08-21T09:43:55.026906",
   "package_url": "https://pypi.org/project/friendli-gradio/"
 }

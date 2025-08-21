@@ -1,0 +1,11 @@
+{
+  "name": "oslo.limit",
+  "version": "2.8.0",
+  "summary": "Limit enforcement library to assist with quota calculation.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/oslo.limit/latest/",
+  "download_filename": "oslo_limit-2.8.0.tar.gz",
+  "download_time": "2025-08-21T09:43:42.822423",
+  "package_url": "https://pypi.org/project/oslo.limit/"
+}

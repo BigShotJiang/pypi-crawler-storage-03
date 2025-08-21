@@ -1,0 +1,11 @@
+{
+  "name": "makemcp",
+  "version": "0.1.0",
+  "summary": "A lightweight, easy-to-use wrapper for creating MCP (Model Context Protocol) servers in Python",
+  "author": "MakeMCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "makemcp-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-21T09:43:04.664674",
+  "package_url": "https://pypi.org/project/makemcp/"
+}

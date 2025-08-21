@@ -1,0 +1,11 @@
+{
+  "name": "octavia-lib",
+  "version": "3.10.0",
+  "summary": "A library to support Octavia provider drivers.",
+  "author": "OpenStack",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://docs.openstack.org/octavia-lib/latest/",
+  "download_filename": "octavia_lib-3.10.0.tar.gz",
+  "download_time": "2025-08-21T09:43:42.279126",
+  "package_url": "https://pypi.org/project/octavia-lib/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcp-postgresql-ops",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_postgresql_ops-1.0.7.tar.gz",
-  "download_time": "2025-08-21T09:22:06.498179",
+  "download_filename": "mcp_postgresql_ops-1.0.8.tar.gz",
+  "download_time": "2025-08-21T09:43:31.305402",
   "package_url": "https://pypi.org/project/mcp-postgresql-ops/"
 }

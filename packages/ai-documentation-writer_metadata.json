@@ -1,0 +1,11 @@
+{
+  "name": "ai-documentation-writer",
+  "version": "0.1.0",
+  "summary": "AI-powered tool to automatically generate documentation for developers and AI Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_documentation_writer-0.1.0.tar.gz",
+  "download_time": "2025-08-21T09:43:53.919095",
+  "package_url": "https://pypi.org/project/ai-documentation-writer/"
+}
