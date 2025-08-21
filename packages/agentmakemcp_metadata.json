@@ -1,11 +1,11 @@
 {
   "name": "agentmakemcp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "AgentMake AI MCP Servers - Easy setup of MCP servers running AgentMake AI agentic components.",
   "author": "Eliran Wong",
   "license": "GNU General Public License (GPL)",
   "home_page": "https://toolmate.ai",
-  "download_filename": "agentmakemcp-0.0.4.tar.gz",
-  "download_time": "2025-08-20T17:42:27.248759",
+  "download_filename": "agentmakemcp-0.0.5.tar.gz",
+  "download_time": "2025-08-21T14:57:08.798039",
   "package_url": "https://pypi.org/project/agentmakemcp/"
 }

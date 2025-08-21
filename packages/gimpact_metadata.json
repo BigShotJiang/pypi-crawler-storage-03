@@ -1,0 +1,11 @@
+{
+  "name": "gimpact",
+  "version": "1.0.2",
+  "summary": "An unofficial python extension for the GImpact collision library",
+  "author": "Stephen Nneji",
+  "license": null,
+  "home_page": "https://github.com/StephenNneji",
+  "download_filename": "gimpact-1.0.2.tar.gz",
+  "download_time": "2025-08-21T14:57:09.381437",
+  "package_url": "https://pypi.org/project/gimpact/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jrl-cmakemodules",
+  "version": "1.0.0",
+  "summary": "CMake utility toolbox",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/jrl-cmakemodules",
+  "download_filename": "jrl_cmakemodules-1.0.0.tar.gz",
+  "download_time": "2025-08-21T14:57:03.455770",
+  "package_url": "https://pypi.org/project/jrl-cmakemodules/"
+}

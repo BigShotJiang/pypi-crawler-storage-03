@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fieldservice-kanban-info-route",
+  "version": "15.0.1.0.0.2",
+  "summary": "Display route information on Field Service Kanban cards.",
+  "author": "APSL-Nagarro, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/field-service",
+  "download_filename": "odoo_addon_fieldservice_kanban_info_route-15.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-21T14:57:05.842115",
+  "package_url": "https://pypi.org/project/odoo-addon-fieldservice-kanban-info-route/"
+}

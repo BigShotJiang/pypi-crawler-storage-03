@@ -1,21 +1,69 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T14:46:42.006873
-- **Total Packages**: 77
-- **Total Size**: 23.3 MB
+- **Download Time**: 2025-08-21T14:57:44.640711
+- **Total Packages**: 79
+- **Total Size**: 16.08 MB
 
 ## Packages List
+- hsfiles_jupyter
+- telnyx
+- optimade-maker
+- push-service
+- pymediawikidocker
+- chainlit
+- pytket-braket
+- vcdiff-py
+- wind-farm-loads
+- maai
+- DepthTensor
+- jrl-cmakemodules
+- pepycli
+- tlq-client
+- mcp-server-dnspod
+- odoo-addon-fieldservice-kanban-info-route
+- mlscaffold
+- pscaffold
+- graph-games-proto
+- properprot-client
+- agentmakemcp
+- gimpact
+- sidetool
+- property-driven-ml
+- python-ledgercommon
+- batch-img
+- quickslurm
+- proof-of-portfolio
+- openpecha
+- pulp-certguard-client
+- pulp-file-client
+- pulpcore-client
+- pulpcore
+- umepr
+- code-puppy
+- alignsar
+- CHE-QNM
+- anthropic-zeusdb
+- karabo
+- karabo.bound
+- 3lc-ultralytics
+- karabo.services
+- karabo.gui
+- karabo.karathon
+- karabo.daemontools
+- karabo.native
+- lusid-workflow-sdk
+- qb-gui-api
+- dshellInterpreter
+- pytrain-ogr-api
+- antishlop-cli
 - KunQuant
 - odoo-addon-html-image-url-extractor
 - ut-gen
-- sidetool
 - jupyter-server
 - lnbits
 - spl-core
-- pscaffold
 - legit-api-client
-- code-puppy
 - llamaindex-zeusdb
 - open-geodata
 - rxiv-maker
@@ -26,7 +74,6 @@
 - xcube-eopf
 - emmett-core
 - mex-model
-- graph-games-proto
 - umep
 - odoo-addon-fieldservice-sale-sign
 - clarifai-grpc
@@ -36,50 +83,5 @@
 - validate-actions
 - lieme
 - knit-script
-- proof-of-portfolio
 - agentstate
 - mlpro-int-optuna
-- astronomer-registry-cleanup
-- mlpro-int-hyperopt
-- compoconf
-- abstract-gui
-- proc-shell
-- huggingface-zeusdb
-- mlpro-int-mujoco
-- mi4-conventional-commits-lib
-- wind-farm-loads
-- django-documentdb
-- darwin-fiftyone
-- pytrain-ogr
-- dq-validation
-- fraiseql
-- fast-bitrix24-mcp
-- pyxend
-- simple-chetec
-- jsonschema-diff
-- grimoirelab
-- mlrun
-- strot
-- BloodSpiderModel
-- HS-TasNet
-- claude-codex-bridge
-- trackeval
-- nord-config-generator
-- cog
-- cloudbeat-selenium
-- spdl
-- odp-sdk
-- cloudbeat-pytest
-- syntha
-- spdl-io
-- cloudbeat-common
-- spdl-core
-- adrtlib
-- better-social-notifications
-- pywhatsweb
-- olas-operate-middleware
-- mlpro-int-pettingzoo
-- amigo_sdk
-- prefig
-- phonexia-voiceprint-comparison-client
-- pyapi-service-kit
