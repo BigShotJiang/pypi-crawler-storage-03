@@ -1,11 +1,11 @@
 {
   "name": "neutronapi",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "A modern, high-performance Python web framework built for async applications with universal dependency injection and comprehensive typing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neutronapi-0.2.3.tar.gz",
-  "download_time": "2025-08-21T17:42:26.817531",
+  "download_filename": "neutronapi-0.2.5.tar.gz",
+  "download_time": "2025-08-21T17:53:29.692160",
   "package_url": "https://pypi.org/project/neutronapi/"
 }
