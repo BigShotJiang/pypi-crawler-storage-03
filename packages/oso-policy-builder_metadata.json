@@ -1,0 +1,11 @@
+{
+  "name": "oso-policy-builder",
+  "version": "0.1.0",
+  "summary": "Pythonic builder for Oso's Polar policies",
+  "author": "Oso Security, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oso_policy_builder-0.1.0.tar.gz",
+  "download_time": "2025-08-21T22:30:38.753237",
+  "package_url": "https://pypi.org/project/oso-policy-builder/"
+}

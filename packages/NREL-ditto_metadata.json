@@ -1,0 +1,11 @@
+{
+  "name": "NREL-ditto",
+  "version": "0.0.14",
+  "summary": "Many to one to many distrbution system model converter ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nrel_ditto-0.0.14.tar.gz",
+  "download_time": "2025-08-21T22:30:57.843001",
+  "package_url": "https://pypi.org/project/NREL-ditto/"
+}
