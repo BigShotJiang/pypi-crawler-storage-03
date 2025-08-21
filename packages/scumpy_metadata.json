@@ -1,0 +1,11 @@
+{
+  "name": "scumpy",
+  "version": "0.1.0",
+  "summary": "A library for solving mathematical problems and saving solutions to clipboard.",
+  "author": "Scumpy Team",
+  "license": null,
+  "home_page": "https://github.com/your_username/scumpy",
+  "download_filename": "scumpy-0.1.0.tar.gz",
+  "download_time": "2025-08-21T11:39:43.001155",
+  "package_url": "https://pypi.org/project/scumpy/"
+}

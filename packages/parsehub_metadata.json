@@ -1,11 +1,11 @@
 {
   "name": "parsehub",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "summary": "支持AI总结的社交媒体聚合解析器",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "parsehub-1.3.3.tar.gz",
-  "download_time": "2025-08-21T04:31:26.885241",
+  "download_filename": "parsehub-1.3.4.tar.gz",
+  "download_time": "2025-08-21T11:40:10.866763",
   "package_url": "https://pypi.org/project/parsehub/"
 }

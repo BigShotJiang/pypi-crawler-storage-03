@@ -1,0 +1,11 @@
+{
+  "name": "rpcclient",
+  "version": "4.11.1",
+  "summary": "rpcclient for connecting with the rpcserver",
+  "author": null,
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+  "home_page": null,
+  "download_filename": "rpcclient-4.11.1.tar.gz",
+  "download_time": "2025-08-21T11:39:40.411313",
+  "package_url": "https://pypi.org/project/rpcclient/"
+}

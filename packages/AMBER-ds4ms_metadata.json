@@ -1,0 +1,11 @@
+{
+  "name": "AMBER-ds4ms",
+  "version": "1.0.1",
+  "summary": "AMBER: Algorithm for Multiplexing spectrometer Background Estimation with Rotation-independence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amber_ds4ms-1.0.1.tar.gz",
+  "download_time": "2025-08-21T11:39:55.982389",
+  "package_url": "https://pypi.org/project/AMBER-ds4ms/"
+}

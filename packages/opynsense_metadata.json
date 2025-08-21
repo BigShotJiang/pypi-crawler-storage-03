@@ -1,0 +1,11 @@
+{
+  "name": "opynsense",
+  "version": "0.1.1",
+  "summary": "A Python library for interacting with OpnSense router OS through the REST API",
+  "author": "Oliver Galbraith",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/ollie-galbraith/opynsense",
+  "download_filename": "opynsense-0.1.1.tar.gz",
+  "download_time": "2025-08-21T11:39:42.487783",
+  "package_url": "https://pypi.org/project/opynsense/"
+}
