@@ -1,0 +1,11 @@
+{
+  "name": "DAESIM-preprocess",
+  "version": "0.0.7",
+  "summary": "Harvesting environmental forcing data for running the Dynamic Agro-Ecosystem Simulator (DAESIM)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daesim_preprocess-0.0.7.tar.gz",
+  "download_time": "2025-08-21T05:53:48.629312",
+  "package_url": "https://pypi.org/project/DAESIM-preprocess/"
+}

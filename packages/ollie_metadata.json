@@ -1,0 +1,11 @@
+{
+  "name": "ollie",
+  "version": "0.1.0",
+  "summary": "Ollama-based code assistant",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollie-0.1.0.tar.gz",
+  "download_time": "2025-08-21T05:53:47.014576",
+  "package_url": "https://pypi.org/project/ollie/"
+}

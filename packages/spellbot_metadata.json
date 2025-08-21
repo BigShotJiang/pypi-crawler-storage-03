@@ -1,11 +1,11 @@
 {
   "name": "spellbot",
-  "version": "15.6.3",
+  "version": "15.6.5",
   "summary": "The Discord bot for SpellTable",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spellbot-15.6.3-py3-none-any.whl",
-  "download_time": "2025-08-20T06:33:26.287645",
+  "download_filename": "spellbot-15.6.5-py3-none-any.whl",
+  "download_time": "2025-08-21T05:53:49.710272",
   "package_url": "https://pypi.org/project/spellbot/"
 }
