@@ -1,0 +1,11 @@
+{
+  "name": "long-audio-whisper",
+  "version": "1.0.0",
+  "summary": "A library to bypass OpenAI Whisper's 25MB limit by chunking long audio files, with LLM-powered text enhancement and precise timestamp reconstruction for SRT/VTT formats.",
+  "author": "bokamix",
+  "license": "MIT",
+  "home_page": "https://github.com/bokamix/long-audio-whisper",
+  "download_filename": "long_audio_whisper-1.0.0.tar.gz",
+  "download_time": "2025-08-21T08:26:53.388012",
+  "package_url": "https://pypi.org/project/long-audio-whisper/"
+}

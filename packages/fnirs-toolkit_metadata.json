@@ -1,11 +1,11 @@
 {
   "name": "fnirs-toolkit",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "summary": "A comprehensive Python package for fNIRS data analysis",
   "author": "Jamie, Wendy",
   "license": "MIT",
   "home_page": "https://github.com/xzywisdili/fNIRSAnalysisProcess",
-  "download_filename": "fnirs_toolkit-0.2.8.tar.gz",
-  "download_time": "2025-08-21T07:51:58.176258",
+  "download_filename": "fnirs_toolkit-0.2.10.tar.gz",
+  "download_time": "2025-08-21T08:27:35.781501",
   "package_url": "https://pypi.org/project/fnirs-toolkit/"
 }

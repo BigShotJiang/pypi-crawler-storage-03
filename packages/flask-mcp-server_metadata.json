@@ -1,0 +1,11 @@
+{
+  "name": "flask-mcp-server",
+  "version": "0.6.0",
+  "summary": "Flask-MCP-Server is a lightweight, production-ready Model Context Protocol (MCP) server for Flask, with tool discovery, endpoint registration, async support, and full compliance with the latest MCP 2025-06-18 specification.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_mcp_server-0.6.0.tar.gz",
+  "download_time": "2025-08-21T08:27:03.104741",
+  "package_url": "https://pypi.org/project/flask-mcp-server/"
+}

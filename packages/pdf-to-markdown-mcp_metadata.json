@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-markdown-mcp",
+  "version": "0.1.0",
+  "summary": "PDF转Markdown MCP服务器 - Python版本",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_to_markdown_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-21T08:26:55.160574",
+  "package_url": "https://pypi.org/project/pdf-to-markdown-mcp/"
+}
