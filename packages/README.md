@@ -1,17 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T03:42:30.753112
-- **Total Packages**: 83
-- **Total Size**: 24.51 MB
+- **Download Time**: 2025-08-21T04:00:02.062231
+- **Total Packages**: 81
+- **Total Size**: 10.08 MB
 
 ## Packages List
+- mirrai
+- mcp-postgresql-ops
+- comma-fixer
+- pyqrack-cuda-complex128
+- pyqrack-cuda
+- pyqrack-cpu-complex128
+- media-downloader
+- pyqrack-cpu
+- pyqrack-complex128
+- pyqrack
 - lbt-dragonfly
 - plixlab
 - pysantec
 - sharepoint-graphql
 - lbt-honeybee
-- mcp-postgresql-ops
 - hypetext
 - statline
 - envoy-schema
@@ -70,7 +79,6 @@
 - qqtools
 - unitree-dds-wrapper
 - chartspy
-- media-downloader
 - p115updatedb
 - qtmodel
 - isic-cli
@@ -79,13 +87,3 @@
 - runbooks
 - cli-lite
 - general-calculator-zsd
-- honeybee-core
-- battlenet-client
-- dycw-utilities
-- dragonfly-schema
-- llama-index-llms-sagemaker-endpoint
-- xl-docx
-- bizydraft
-- rms-cloud-tasks
-- spec-driven-mcp
-- cracknuts
