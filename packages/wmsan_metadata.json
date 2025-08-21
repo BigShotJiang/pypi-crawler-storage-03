@@ -1,0 +1,11 @@
+{
+  "name": "wmsan",
+  "version": "2025.0.0",
+  "summary": "Compute seismic sources of ambient noise using wave model hindcast outputs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wmsan-2025.0.0-py2.py3-none-any.whl",
+  "download_time": "2025-08-21T10:45:34.157072",
+  "package_url": "https://pypi.org/project/wmsan/"
+}

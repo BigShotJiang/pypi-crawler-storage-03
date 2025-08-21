@@ -1,0 +1,11 @@
+{
+  "name": "werk24",
+  "version": "2.2.0",
+  "summary": "AI-powered platform for extracting and analyzing data from technical drawings / CAD drawings to enhance manufacturing workflows.",
+  "author": null,
+  "license": "Parameters\n        \n        Licensor:             W24 Service GmbH\n        Licensed Work:        Werk24 Techread Client\n                              The Licensed Work is (c) 2025 W24 Service GmbH\n        Use Grant:            The Software may only be used in combination with a commercial license: https://werk24.io\n        \n                              Refer to assets/fonts/STIX_2.0.2_license.pdf for a font-specific license.",
+  "home_page": null,
+  "download_filename": "werk24-2.2.0.tar.gz",
+  "download_time": "2025-08-21T10:45:30.259278",
+  "package_url": "https://pypi.org/project/werk24/"
+}

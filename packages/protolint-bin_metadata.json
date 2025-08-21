@@ -1,11 +1,11 @@
 {
   "name": "protolint-bin",
-  "version": "0.56.2",
+  "version": "0.56.3",
   "summary": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "protolint_bin-0.56.2-py2.py3-none-macosx_10_0_arm64.whl",
-  "download_time": "2025-08-21T10:21:29.286286",
+  "download_filename": "protolint_bin-0.56.3-py2.py3-none-macosx_10_0_arm64.whl",
+  "download_time": "2025-08-21T10:45:58.871575",
   "package_url": "https://pypi.org/project/protolint-bin/"
 }

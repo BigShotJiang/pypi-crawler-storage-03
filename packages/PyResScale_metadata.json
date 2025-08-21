@@ -1,0 +1,11 @@
+{
+  "name": "PyResScale",
+  "version": "1.0.0",
+  "summary": "Scale elements to fit user resolution.",
+  "author": "Jack Bennett",
+  "license": null,
+  "home_page": "https://github.com/TheChainsawBoy/PyResScale",
+  "download_filename": "PyResScale-1.0.0.tar.gz",
+  "download_time": "2025-08-21T10:45:37.474879",
+  "package_url": "https://pypi.org/project/PyResScale/"
+}

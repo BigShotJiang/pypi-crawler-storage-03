@@ -1,11 +1,11 @@
 {
   "name": "ut-ctl",
-  "version": "1.1.0.20250819",
+  "version": "1.1.0.20250821",
   "summary": "Utilities for systemd management",
   "author": "Bernd Stroehle",
   "license": null,
   "home_page": null,
-  "download_filename": "ut_ctl-1.1.0.20250819.tar.gz",
-  "download_time": "2025-08-19T14:19:56.775217",
+  "download_filename": "ut_ctl-1.1.0.20250821.tar.gz",
+  "download_time": "2025-08-21T10:45:40.787656",
   "package_url": "https://pypi.org/project/ut-ctl/"
 }

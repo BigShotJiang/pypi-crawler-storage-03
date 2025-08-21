@@ -1,11 +1,11 @@
 {
   "name": "beswarm",
-  "version": "0.2.67",
+  "version": "0.2.69",
   "summary": "MAS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beswarm-0.2.67.tar.gz",
-  "download_time": "2025-08-20T07:20:28.604186",
+  "download_filename": "beswarm-0.2.69.tar.gz",
+  "download_time": "2025-08-21T10:45:30.804352",
   "package_url": "https://pypi.org/project/beswarm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "asteroid-odyssey",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "A Python SDK for browser automation using Asteroid platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asteroid_odyssey-1.1.0.tar.gz",
-  "download_time": "2025-08-21T09:43:10.743955",
+  "download_filename": "asteroid_odyssey-1.2.1.tar.gz",
+  "download_time": "2025-08-21T10:45:38.575838",
   "package_url": "https://pypi.org/project/asteroid-odyssey/"
 }
