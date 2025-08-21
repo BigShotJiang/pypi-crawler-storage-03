@@ -1,0 +1,11 @@
+{
+  "name": "gcloud-rest-datastore",
+  "version": "9.0.0",
+  "summary": "Python Client for Google Cloud Datastore",
+  "author": "Vi Engineering",
+  "license": "MIT",
+  "home_page": "https://github.com/talkiq/gcloud-aio",
+  "download_filename": "gcloud_rest_datastore-9.0.0.tar.gz",
+  "download_time": "2025-08-21T14:21:01.308094",
+  "package_url": "https://pypi.org/project/gcloud-rest-datastore/"
+}

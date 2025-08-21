@@ -1,0 +1,11 @@
+{
+  "name": "freehackquest-libclient-py",
+  "version": "0.2.54",
+  "summary": "FreeHackQuest Python Client Library for fhq-server",
+  "author": "FreeHackQuest Team",
+  "license": null,
+  "home_page": "https://github.com/freehackquest/freehackquest-libclient-py",
+  "download_filename": "freehackquest-libclient-py-0.2.54.tar.gz",
+  "download_time": "2025-08-21T14:20:25.627910",
+  "package_url": "https://pypi.org/project/freehackquest-libclient-py/"
+}

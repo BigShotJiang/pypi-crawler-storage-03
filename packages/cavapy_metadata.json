@@ -1,0 +1,11 @@
+{
+  "name": "cavapy",
+  "version": "0.3.1",
+  "summary": "CAVA Python package. Retrive climate data.",
+  "author": "Riccardo Soldan",
+  "license": "MIT",
+  "home_page": "https://github.com/Risk-Team/cavapy",
+  "download_filename": "cavapy-0.3.1.tar.gz",
+  "download_time": "2025-08-21T14:20:50.479353",
+  "package_url": "https://pypi.org/project/cavapy/"
+}

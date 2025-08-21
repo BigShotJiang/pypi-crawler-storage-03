@@ -1,11 +1,11 @@
 {
   "name": "rocket-welder-sdk",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "High-performance video streaming client library for RocketWelder services",
   "author": "ModelingEvolution",
   "license": null,
   "home_page": "https://github.com/modelingevolution/rocket-welder-sdk",
-  "download_filename": "rocket_welder_sdk-1.0.4.tar.gz",
-  "download_time": "2025-08-21T13:48:35.688284",
+  "download_filename": "rocket_welder_sdk-1.0.5.tar.gz",
+  "download_time": "2025-08-21T14:20:30.902535",
   "package_url": "https://pypi.org/project/rocket-welder-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ccs-digitalmarketplace-utils",
+  "version": "78.2.0",
+  "summary": "Common utils for Digital Marketplace apps.",
+  "author": "GDS Developers, CCS Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccs_digitalmarketplace_utils-78.2.0.tar.gz",
+  "download_time": "2025-08-21T14:20:25.115525",
+  "package_url": "https://pypi.org/project/ccs-digitalmarketplace-utils/"
+}

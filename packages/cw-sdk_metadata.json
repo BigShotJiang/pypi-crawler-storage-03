@@ -1,11 +1,11 @@
 {
   "name": "cw-sdk",
-  "version": "0.2.1",
+  "version": "0.1.1",
   "summary": "Utils para SharePoint y Graph API para Customs Watch",
   "author": "Manuel Traverso",
   "license": "MIT",
   "home_page": "https://github.com/customswatch/cw_sdk",
-  "download_filename": "cw_sdk-0.2.1.tar.gz",
-  "download_time": "2025-08-20T22:18:28.563536",
+  "download_filename": "cw_sdk-0.1.1.tar.gz",
+  "download_time": "2025-08-21T14:20:58.180636",
   "package_url": "https://pypi.org/project/cw-sdk/"
 }
