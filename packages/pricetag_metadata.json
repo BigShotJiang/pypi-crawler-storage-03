@@ -1,0 +1,11 @@
+{
+  "name": "pricetag",
+  "version": "1.0.0",
+  "summary": "A pure-Python library for extracting price and currency information from unstructured text",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pricetag-1.0.0.tar.gz",
+  "download_time": "2025-08-21T23:51:53.704651",
+  "package_url": "https://pypi.org/project/pricetag/"
+}

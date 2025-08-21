@@ -1,11 +1,11 @@
 {
   "name": "agent-eval",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "summary": "Agent evaluation toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_eval-0.1.39.tar.gz",
-  "download_time": "2025-08-20T22:18:30.134706",
+  "download_filename": "agent_eval-0.1.40.tar.gz",
+  "download_time": "2025-08-21T23:52:05.267560",
   "package_url": "https://pypi.org/project/agent-eval/"
 }
