@@ -1,0 +1,11 @@
+{
+  "name": "rdgc",
+  "version": "0.7.0",
+  "summary": "RDGC Data Generator for Contests",
+  "author": "weilycoder",
+  "license": "SATA",
+  "home_page": null,
+  "download_filename": "rdgc-0.7.0.tar.gz",
+  "download_time": "2025-08-21T15:43:27.259818",
+  "package_url": "https://pypi.org/project/rdgc/"
+}

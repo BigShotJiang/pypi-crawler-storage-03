@@ -1,0 +1,11 @@
+{
+  "name": "general-superstaq",
+  "version": "0.5.48",
+  "summary": "The general module that provides tools and access to Superstaq.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "general_superstaq-0.5.48.tar.gz",
+  "download_time": "2025-08-21T15:43:43.995128",
+  "package_url": "https://pypi.org/project/general-superstaq/"
+}

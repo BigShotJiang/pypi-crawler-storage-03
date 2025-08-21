@@ -1,0 +1,11 @@
+{
+  "name": "mcploader",
+  "version": "0.1.0",
+  "summary": "This package is a small helper module that lets you define and consume multiple MCP servers (stdio, SSE, or Streamable HTTP) from a JSON configuration. It uses `pydantic-ai` MCP clients and validates configuration with Pydantic models.",
+  "author": "Mert Sirakaya",
+  "license": "MIT",
+  "home_page": "https://github.com/fswair/mcploader",
+  "download_filename": "mcploader-0.1.0.tar.gz",
+  "download_time": "2025-08-21T15:43:55.410562",
+  "package_url": "https://pypi.org/project/mcploader/"
+}

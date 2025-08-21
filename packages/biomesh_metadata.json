@@ -1,0 +1,11 @@
+{
+  "name": "biomesh",
+  "version": "0.1.0",
+  "summary": "Create meshes from segmented imaging data for finite element simulations using Gmsh.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "biomesh-0.1.0.tar.gz",
+  "download_time": "2025-08-21T15:43:32.419721",
+  "package_url": "https://pypi.org/project/biomesh/"
+}
