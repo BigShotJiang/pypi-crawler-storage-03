@@ -1,11 +1,11 @@
 {
   "name": "django-bulk-hooks",
-  "version": "0.1.242",
+  "version": "0.1.244",
   "summary": "Hook-style hooks for Django bulk operations like bulk_create and bulk_update.",
   "author": "Konrad Beck",
   "license": "MIT",
   "home_page": "https://github.com/AugendLimited/django-bulk-hooks",
-  "download_filename": "django_bulk_hooks-0.1.242.tar.gz",
-  "download_time": "2025-08-21T19:41:43.888059",
+  "download_filename": "django_bulk_hooks-0.1.244.tar.gz",
+  "download_time": "2025-08-21T19:52:04.940050",
   "package_url": "https://pypi.org/project/django-bulk-hooks/"
 }

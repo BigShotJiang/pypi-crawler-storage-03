@@ -1,0 +1,11 @@
+{
+  "name": "types-boto3-iotthingsgraph",
+  "version": "1.40.15",
+  "summary": "Type annotations for boto3 IoTThingsGraph 1.40.15 service generated with mypy-boto3-builder 8.11.0",
+  "author": "Vlad Emelianov",
+  "license": "MIT License",
+  "home_page": "https://github.com/youtype/mypy_boto3_builder",
+  "download_filename": "types_boto3_iotthingsgraph-1.40.15.tar.gz",
+  "download_time": "2025-08-21T19:52:36.030802",
+  "package_url": "https://pypi.org/project/types-boto3-iotthingsgraph/"
+}
