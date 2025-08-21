@@ -1,0 +1,11 @@
+{
+  "name": "roadtx",
+  "version": "1.18.1",
+  "summary": "ROADtools Token eXchange",
+  "author": "Dirk-jan Mollema",
+  "license": "MIT",
+  "home_page": "https://github.com/dirkjanm/ROADtools/",
+  "download_filename": "roadtx-1.18.1.tar.gz",
+  "download_time": "2025-08-21T07:33:34.246794",
+  "package_url": "https://pypi.org/project/roadtx/"
+}

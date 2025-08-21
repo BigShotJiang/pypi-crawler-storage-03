@@ -1,0 +1,11 @@
+{
+  "name": "led-ctl",
+  "version": "1.0.0",
+  "summary": "Control LEDs with Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "led_ctl-1.0.0.tar.gz",
+  "download_time": "2025-08-21T07:33:46.256591",
+  "package_url": "https://pypi.org/project/led-ctl/"
+}

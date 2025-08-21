@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware.stableset",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "C-Extension type for python that provides a set implementation that is stable on iteration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_stableset-0.1.1-cp311-cp311-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-18T13:53:57.643691",
+  "download_filename": "retracesoftware_stableset-0.1.3-cp311-cp311-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-21T07:33:40.022236",
   "package_url": "https://pypi.org/project/retracesoftware.stableset/"
 }

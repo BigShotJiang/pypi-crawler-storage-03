@@ -1,11 +1,11 @@
 {
   "name": "py-sgframework",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "sgFramework Python Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_sgframework-0.1.6.tar.gz",
-  "download_time": "2025-08-21T07:03:32.290742",
+  "download_filename": "py_sgframework-0.1.8-py3-none-any.whl",
+  "download_time": "2025-08-21T07:33:19.790047",
   "package_url": "https://pypi.org/project/py-sgframework/"
 }

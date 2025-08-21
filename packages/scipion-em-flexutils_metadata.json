@@ -1,0 +1,11 @@
+{
+  "name": "scipion-em-flexutils",
+  "version": "3.4.0",
+  "summary": "Tools for 3D visualization and manipulation of flexibility data",
+  "author": "David Herreros",
+  "license": null,
+  "home_page": "https://github.com/scipion-em/scipion-em-flexutils",
+  "download_filename": "scipion_em_flexutils-3.4.0.tar.gz",
+  "download_time": "2025-08-21T07:33:46.776928",
+  "package_url": "https://pypi.org/project/scipion-em-flexutils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "genuine-fake",
-  "version": "1.2.23",
+  "version": "1.2.24",
   "summary": "Get genuine data for your testing requirements.",
   "author": "Andile Jaden Mbele",
   "license": null,
   "home_page": "https://github.com/xeroxzen/genuine-fake",
-  "download_filename": "genuine-fake-1.2.23.tar.gz",
-  "download_time": "2025-08-20T10:55:38.456125",
+  "download_filename": "genuine_fake-1.2.24.tar.gz",
+  "download_time": "2025-08-21T07:33:30.491843",
   "package_url": "https://pypi.org/project/genuine-fake/"
 }

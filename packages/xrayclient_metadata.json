@@ -1,11 +1,11 @@
 {
   "name": "xrayclient",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python Client for Xray Test Management for Jira",
   "author": "Yakub Mohammad",
   "license": "MIT",
   "home_page": "https://github.com/arusatech/xrayclient",
-  "download_filename": "xrayclient-0.1.6.tar.gz",
-  "download_time": "2025-08-20T22:18:39.164582",
+  "download_filename": "xrayclient-0.1.7.tar.gz",
+  "download_time": "2025-08-21T07:33:15.591843",
   "package_url": "https://pypi.org/project/xrayclient/"
 }
