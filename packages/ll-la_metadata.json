@@ -1,0 +1,11 @@
+{
+  "name": "ll-la",
+  "version": "0.50.0",
+  "summary": "Python API for LivingApps",
+  "author": "Walter Doerwald",
+  "license": "MIT",
+  "home_page": "http://github.com/LivingLogic/LivingApps.Python.LivingAPI",
+  "download_filename": "ll_la-0.50.0.tar.gz",
+  "download_time": "2025-08-21T10:57:01.168568",
+  "package_url": "https://pypi.org/project/ll-la/"
+}

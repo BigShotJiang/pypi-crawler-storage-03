@@ -1,11 +1,11 @@
 {
   "name": "Equia",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Python SDK for accessing Equia API",
   "author": "\"VLXE A/S\"",
   "license": null,
   "home_page": "https://github.com/vlxe/equia-python-sdk",
-  "download_filename": "equia-0.1.7.tar.gz",
-  "download_time": "2025-08-21T08:49:11.742490",
+  "download_filename": "equia-0.1.8.tar.gz",
+  "download_time": "2025-08-21T10:57:02.921673",
   "package_url": "https://pypi.org/project/Equia/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "piwik-pro-mcp",
+  "version": "0.1.0",
+  "summary": "Piwik PRO Analytics MCP server",
+  "author": "Jarosław Zywert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piwik_pro_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-21T10:57:14.615709",
+  "package_url": "https://pypi.org/project/piwik-pro-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "streamlit-select-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Streamlit component that creates a selectable list of icons with labels.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamlit_select_icons-0.0.2.tar.gz",
-  "download_time": "2025-08-20T15:21:38.028581",
+  "download_filename": "streamlit_select_icons-0.0.3.tar.gz",
+  "download_time": "2025-08-21T10:57:18.721194",
   "package_url": "https://pypi.org/project/streamlit-select-icons/"
 }

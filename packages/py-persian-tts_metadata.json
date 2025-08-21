@@ -1,0 +1,11 @@
+{
+  "name": "py-persian-tts",
+  "version": "1.1.1",
+  "summary": "کتابخانه تبدیل متن به گفتار فارسی با پشتیبانی از چندین شخصیت صوتی",
+  "author": "AmirhosseinPython",
+  "license": null,
+  "home_page": "https://github.com/amirhossinpython/py_persian_tts",
+  "download_filename": "py_persian_tts-1.1.1.tar.gz",
+  "download_time": "2025-08-21T10:57:24.510313",
+  "package_url": "https://pypi.org/project/py-persian-tts/"
+}

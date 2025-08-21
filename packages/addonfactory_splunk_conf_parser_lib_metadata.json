@@ -1,0 +1,11 @@
+{
+  "name": "addonfactory_splunk_conf_parser_lib",
+  "version": "1.0.0",
+  "summary": "Splunk .conf files parser",
+  "author": "Splunk",
+  "license": null,
+  "home_page": "https://github.com/splunk/addonfactory-splunk-conf-parser-lib",
+  "download_filename": "addonfactory_splunk_conf_parser_lib-1.0.0.tar.gz",
+  "download_time": "2025-08-21T10:57:38.023696",
+  "package_url": "https://pypi.org/project/addonfactory_splunk_conf_parser_lib/"
+}

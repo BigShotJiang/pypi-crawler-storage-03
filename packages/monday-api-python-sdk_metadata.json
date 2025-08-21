@@ -1,11 +1,11 @@
 {
   "name": "monday-api-python-sdk",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "summary": "A Python SDK for interacting with Monday's GraphQL API.",
   "author": "Michael Imas",
   "license": null,
   "home_page": "https://github.com/mondaycom/monday-api-python-sdk",
-  "download_filename": "monday_api_python_sdk-1.4.4.tar.gz",
-  "download_time": "2025-08-20T08:27:13.868525",
+  "download_filename": "monday_api_python_sdk-1.4.5.tar.gz",
+  "download_time": "2025-08-21T10:57:14.040881",
   "package_url": "https://pypi.org/project/monday-api-python-sdk/"
 }

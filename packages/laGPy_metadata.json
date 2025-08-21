@@ -1,0 +1,11 @@
+{
+  "name": "laGPy",
+  "version": "2.2.0",
+  "summary": "Python implementation of local approximate GP",
+  "author": "Reygie Macasieb",
+  "license": "GNU Lesser General Public License v3 (LGPLv3)",
+  "home_page": "https://github.com/rqmacasieb/laGPy",
+  "download_filename": "lagpy-2.2.0.tar.gz",
+  "download_time": "2025-08-21T10:57:01.744205",
+  "package_url": "https://pypi.org/project/laGPy/"
+}
