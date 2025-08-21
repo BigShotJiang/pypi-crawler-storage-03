@@ -1,0 +1,11 @@
+{
+  "name": "acp-sdk",
+  "version": "1.0.3",
+  "summary": "Agent Communication Protocol SDK",
+  "author": "IBM Corp.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acp_sdk-1.0.3.tar.gz",
+  "download_time": "2025-08-21T05:43:35.240602",
+  "package_url": "https://pypi.org/project/acp-sdk/"
+}

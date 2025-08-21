@@ -1,0 +1,11 @@
+{
+  "name": "Syllabus-RL",
+  "version": "0.7",
+  "summary": "A library for training RL agent with curriculum learning",
+  "author": "Ryan Sullivan",
+  "license": null,
+  "home_page": "https://github.com/RyanNavillus/Syllabus",
+  "download_filename": "syllabus_rl-0.7.tar.gz",
+  "download_time": "2025-08-21T05:43:39.362108",
+  "package_url": "https://pypi.org/project/Syllabus-RL/"
+}

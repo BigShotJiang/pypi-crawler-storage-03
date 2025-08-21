@@ -1,0 +1,11 @@
+{
+  "name": "yt-concat",
+  "version": "0.1.0",
+  "summary": "Produce a concatenated video of clips that mention a specific word from the YouTube channel.",
+  "author": "Eugene Chan",
+  "license": "MIT",
+  "home_page": "https://github.com/Eugene526/yt-concate/tree/main",
+  "download_filename": "yt_concat-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-21T05:43:34.667774",
+  "package_url": "https://pypi.org/project/yt-concat/"
+}

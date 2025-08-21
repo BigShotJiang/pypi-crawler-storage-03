@@ -1,11 +1,11 @@
 {
   "name": "matrixbuffer",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "A Python package for high-performance GPU/CPU buffer rendering with support for tables, text, and graphics.",
   "author": "Alec Candidato",
   "license": null,
   "home_page": "https://github.com/0202alcc/matrixbuffer",
-  "download_filename": "matrixbuffer-0.2.2.tar.gz",
-  "download_time": "2025-08-21T05:20:52.666832",
+  "download_filename": "matrixbuffer-0.2.6.tar.gz",
+  "download_time": "2025-08-21T05:43:37.059794",
   "package_url": "https://pypi.org/project/matrixbuffer/"
 }
