@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T22:45:01.330668
-- **Total Packages**: 77
-- **Total Size**: 8.95 MB
+- **Download Time**: 2025-08-21T22:54:59.193828
+- **Total Packages**: 85
+- **Total Size**: 3.78 MB
 
 ## Packages List
+- godml
+- albhed
+- thds.mops
+- thds.adls
+- thds.atacama
+- thds.core
+- thds.humenc
+- qsharp-widgets
+- qsharp-jupyterlab
+- crossplane-function-pythonic
+- qsharp
+- mdbt
+- litestar-vite
+- abstract-gui
+- bitvavo-api-upgraded
+- pully
+- gqlppy
+- pydantic-discriminated
+- qbraid
+- hermes-cai
+- odoo-addon-event-contact
+- binoauth
+- terminator-py
+- synthefy
+- dycw-utilities
+- metaflow
+- metaflow-stubs
+- anal-framework
+- huckle
 - relace-agent-client
 - PyQrackIsing
 - zlang
@@ -15,16 +44,12 @@
 - binja-test-mocks
 - mauribooks
 - lineage-rpg
-- synthefy
 - basepak
 - letschatty
 - guv-calcs
 - zut
 - django-llm-poison
 - trackerfit
-- bitvavo-api-upgraded
-- abstract-gui
-- pydantic-discriminated
 - TypedUnit
 - worldalphabets
 - llamactl
@@ -66,20 +91,3 @@
 - katana-openapi-client
 - kensho-kfinance
 - browser-use
-- tobiko-cloud-api-client
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- TheiaMCR
-- pyngb
-- django-allauth-require2fa
-- spaceworld
-- temporalio
-- kolena-agents
-- regula-documentreader-webclient
-- keras
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- python-developer-v4-cli
-- hhd
-- oso-policy-builder
-- skipper-tool
