@@ -1,11 +1,11 @@
 {
   "name": "ThalamusDB",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "ThalamusDB: Semantic Query Processing on Multimodal Data",
   "author": "Immanuel Trummer, Saehan Jo",
   "license": null,
   "home_page": null,
-  "download_filename": "thalamusdb-0.1.13.tar.gz",
-  "download_time": "2025-08-20T15:07:48.320737",
+  "download_filename": "thalamusdb-0.1.14.tar.gz",
+  "download_time": "2025-08-21T02:55:24.120991",
   "package_url": "https://pypi.org/project/ThalamusDB/"
 }

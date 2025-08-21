@@ -1,0 +1,11 @@
+{
+  "name": "heapyx",
+  "version": "0.1.7",
+  "summary": "High-energy (X-ray and gamma-ray) astronomical data analysis tools",
+  "author": "Jun Yang",
+  "license": "GPLv3",
+  "home_page": "https://github.com/jyangch/heapy",
+  "download_filename": "heapyx-0.1.7.tar.gz",
+  "download_time": "2025-08-21T02:55:00.727608",
+  "package_url": "https://pypi.org/project/heapyx/"
+}

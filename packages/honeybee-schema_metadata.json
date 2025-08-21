@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-schema",
+  "version": "1.59.1",
+  "summary": "Honeybee Data-Model Objects",
+  "author": "Ladybug Tools",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ladybug-tools-in2/honeybee-schema",
+  "download_filename": "honeybee_schema-1.59.1.tar.gz",
+  "download_time": "2025-08-21T02:54:52.842547",
+  "package_url": "https://pypi.org/project/honeybee-schema/"
+}

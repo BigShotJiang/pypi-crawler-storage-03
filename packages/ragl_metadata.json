@@ -1,11 +1,11 @@
 {
   "name": "ragl",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "ragl: retrieval-augmented generation (RAG) for text.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ragl-0.6.0.tar.gz",
-  "download_time": "2025-08-20T22:42:28.051539",
+  "download_filename": "ragl-0.7.0.tar.gz",
+  "download_time": "2025-08-21T02:55:27.947358",
   "package_url": "https://pypi.org/project/ragl/"
 }

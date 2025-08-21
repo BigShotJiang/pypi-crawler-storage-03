@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-due-list-days-overdue",
+  "version": "16.0.1.0.0.6",
+  "summary": "Payments Due list days overdue",
+  "author": "Odoo Community Association (OCA), ForgeFlow",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-payment",
+  "download_filename": "odoo_addon_account_due_list_days_overdue-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-08-21T02:55:14.521379",
+  "package_url": "https://pypi.org/project/odoo-addon-account-due-list-days-overdue/"
+}

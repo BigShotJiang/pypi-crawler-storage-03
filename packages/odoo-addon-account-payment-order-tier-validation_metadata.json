@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-payment-order-tier-validation",
+  "version": "16.0.1.1.0.3",
+  "summary": "Extends the functionality of Payment Orders to support a tier validation process.",
+  "author": "Escodoo,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/bank-payment",
+  "download_filename": "odoo_addon_account_payment_order_tier_validation-16.0.1.1.0.3-py3-none-any.whl",
+  "download_time": "2025-08-21T02:55:14.009094",
+  "package_url": "https://pypi.org/project/odoo-addon-account-payment-order-tier-validation/"
+}
