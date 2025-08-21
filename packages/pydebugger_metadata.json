@@ -1,11 +1,11 @@
 {
   "name": "pydebugger",
-  "version": "0.84",
+  "version": "0.86",
   "summary": "Print objects with inspection details and color.",
   "author": "Hadi Cahyadi LD",
   "license": "BSD",
   "home_page": "https://github.com/cumulus13/pydebugger",
-  "download_filename": "pydebugger-0.84.tar.gz",
-  "download_time": "2025-08-21T07:03:32.821697",
+  "download_filename": "pydebugger-0.86.tar.gz",
+  "download_time": "2025-08-21T16:24:41.696219",
   "package_url": "https://pypi.org/project/pydebugger/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "bvlain",
-  "version": "0.25",
+  "version": "0.25.1",
   "summary": "The Bond valence site energy calculator",
   "author": "Artem Dembitskiy",
   "license": null,
   "home_page": "https://github.com/dembart/BVlain",
-  "download_filename": "bvlain-0.25.tar.gz",
-  "download_time": "2025-08-21T15:54:39.933505",
+  "download_filename": "bvlain-0.25.1.tar.gz",
+  "download_time": "2025-08-21T16:24:27.324708",
   "package_url": "https://pypi.org/project/bvlain/"
 }

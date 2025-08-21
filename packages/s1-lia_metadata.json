@@ -1,0 +1,11 @@
+{
+  "name": "s1-lia",
+  "version": "0.3.1",
+  "summary": "Search and download OPERA local incidence angle files for Sentinel-1.",
+  "author": "Zachary Hoppinen",
+  "license": "MIT",
+  "home_page": "https://github.com/zachhoppinen/s1_lia",
+  "download_filename": "s1_lia-0.3.1.tar.gz",
+  "download_time": "2025-08-21T16:24:44.276587",
+  "package_url": "https://pypi.org/project/s1-lia/"
+}

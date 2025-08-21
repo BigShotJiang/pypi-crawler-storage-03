@@ -1,11 +1,11 @@
 {
   "name": "chekml",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A versatile library for data manipulation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chekml-0.1.2.tar.gz",
-  "download_time": "2025-08-21T13:48:09.987540",
+  "download_filename": "chekml-0.1.3.tar.gz",
+  "download_time": "2025-08-21T16:24:36.066797",
   "package_url": "https://pypi.org/project/chekml/"
 }

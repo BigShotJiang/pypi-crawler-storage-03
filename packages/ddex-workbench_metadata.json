@@ -1,0 +1,11 @@
+{
+  "name": "ddex-workbench",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for DDEX Workbench - Open-source DDEX validation tools",
+  "author": "DDEX Workbench Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/daddykev/ddex-workbench",
+  "download_filename": "ddex_workbench-1.0.1.tar.gz",
+  "download_time": "2025-08-21T16:24:32.474991",
+  "package_url": "https://pypi.org/project/ddex-workbench/"
+}

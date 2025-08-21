@@ -1,0 +1,11 @@
+{
+  "name": "ocrspace-sdk-upgraded",
+  "version": "0.2.0",
+  "summary": "Upgraded OCR.Space Python SDK (file/url/bytes/base64, errors, auth, examples)",
+  "author": "Nguyen Truong Dat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocrspace_sdk_upgraded-0.2.0.tar.gz",
+  "download_time": "2025-08-21T16:24:51.502003",
+  "package_url": "https://pypi.org/project/ocrspace-sdk-upgraded/"
+}

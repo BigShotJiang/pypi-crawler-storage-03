@@ -1,0 +1,11 @@
+{
+  "name": "pyGCodeDecode",
+  "version": "1.4.1",
+  "summary": "Generate time dependent boundary conditions from a .gcode file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygcodedecode-1.4.1.tar.gz",
+  "download_time": "2025-08-21T16:24:14.823985",
+  "package_url": "https://pypi.org/project/pyGCodeDecode/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isee",
+  "version": "0.2.60",
+  "summary": "Python continuous integration (CI) support tools.",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/isee",
+  "download_filename": "isee-0.2.60.tar.gz",
+  "download_time": "2025-08-21T16:24:21.648266",
+  "package_url": "https://pypi.org/project/isee/"
+}

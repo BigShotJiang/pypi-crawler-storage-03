@@ -1,11 +1,11 @@
 {
   "name": "mlpro-int-sb3",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "MLPro: Integration StableBaselines3",
   "author": "MLPro Team",
   "license": null,
   "home_page": "https://mlpro-int-sb3.readthedocs.io",
-  "download_filename": "mlpro_int_sb3-1.0.6.tar.gz",
-  "download_time": "2025-08-21T15:43:25.475552",
+  "download_filename": "mlpro_int_sb3-1.0.7.tar.gz",
+  "download_time": "2025-08-21T16:24:35.548704",
   "package_url": "https://pypi.org/project/mlpro-int-sb3/"
 }
