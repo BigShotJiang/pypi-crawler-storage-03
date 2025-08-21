@@ -1,0 +1,11 @@
+{
+  "name": "FunctionEncoder",
+  "version": "0.2.0",
+  "summary": "A package for learning basis functions over arbitrary function sets. This allows even high-dimensional problems to be solved via a minimal number of basis functions. This allows for zero-shot transfer within these spaces, and also a mechanism for fully informative function representation via the coefficients of the basis functions. Hilbert spaces are nifty.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "functionencoder-0.2.0.tar.gz",
+  "download_time": "2025-08-21T19:16:34.306790",
+  "package_url": "https://pypi.org/project/FunctionEncoder/"
+}

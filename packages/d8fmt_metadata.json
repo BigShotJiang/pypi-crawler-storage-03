@@ -1,11 +1,11 @@
 {
   "name": "d8fmt",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "d8fmt-0.2.0.tar.gz",
-  "download_time": "2025-08-21T01:25:53.490383",
+  "download_filename": "d8fmt-0.4.0.tar.gz",
+  "download_time": "2025-08-21T19:16:43.842036",
   "package_url": "https://pypi.org/project/d8fmt/"
 }

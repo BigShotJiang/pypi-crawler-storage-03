@@ -1,0 +1,11 @@
+{
+  "name": "fakeuser",
+  "version": "1.0.0",
+  "summary": "Generate realistic user data with accurate geographic information",
+  "author": "Julian Man",
+  "license": null,
+  "home_page": "https://github.com/hoolymama/fakeuser",
+  "download_filename": "fakeuser-1.0.0.tar.gz",
+  "download_time": "2025-08-21T19:16:34.824550",
+  "package_url": "https://pypi.org/project/fakeuser/"
+}

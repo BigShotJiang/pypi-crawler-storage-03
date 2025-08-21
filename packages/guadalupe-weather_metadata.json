@@ -1,11 +1,11 @@
 {
   "name": "guadalupe-weather",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Paquete analisis de clima en Isla Guadalupe",
   "author": "Ciencia de Datos • GECI",
   "license": null,
   "home_page": "https://bitbucket.org/IslasGECI/clima_guadalupe/",
-  "download_filename": "guadalupe_weather-0.2.0.tar.gz",
-  "download_time": "2025-08-21T17:53:15.176503",
+  "download_filename": "guadalupe_weather-0.2.2.tar.gz",
+  "download_time": "2025-08-21T19:16:46.963199",
   "package_url": "https://pypi.org/project/guadalupe-weather/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "rkguinew",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tkinter-like GUI library using PyQt5 with full widget set",
   "author": "1001015dhh",
   "license": null,
   "home_page": null,
-  "download_filename": "rkguinew-0.1.1.tar.gz",
-  "download_time": "2025-08-21T18:50:27.758334",
+  "download_filename": "rkguinew-0.1.2.tar.gz",
+  "download_time": "2025-08-21T19:16:41.204555",
   "package_url": "https://pypi.org/project/rkguinew/"
 }

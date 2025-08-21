@@ -1,0 +1,11 @@
+{
+  "name": "fabrial-oven-control",
+  "version": "0.1.0",
+  "summary": "Fabrial plugin for controlling a Quincy 10 GCE lab oven, plus an oven interface and utility functions other plugins can use to control other ovens.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabrial_oven_control-0.1.0.tar.gz",
+  "download_time": "2025-08-21T19:16:39.123287",
+  "package_url": "https://pypi.org/project/fabrial-oven-control/"
+}

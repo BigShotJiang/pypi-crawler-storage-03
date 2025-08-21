@@ -1,0 +1,11 @@
+{
+  "name": "logfire-api",
+  "version": "4.3.4",
+  "summary": "Shim for the Logfire SDK which does nothing unless Logfire is installed",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logfire_api-4.3.4.tar.gz",
+  "download_time": "2025-08-21T19:16:52.167838",
+  "package_url": "https://pypi.org/project/logfire-api/"
+}

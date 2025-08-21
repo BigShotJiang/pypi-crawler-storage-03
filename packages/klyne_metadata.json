@@ -1,11 +1,11 @@
 {
   "name": "klyne",
-  "version": "0.1.94",
+  "version": "0.1.95",
   "summary": "Lightweight Python package analytics SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "klyne-0.1.94.tar.gz",
-  "download_time": "2025-08-20T22:18:48.676028",
+  "download_filename": "klyne-0.1.95.tar.gz",
+  "download_time": "2025-08-21T19:16:28.489366",
   "package_url": "https://pypi.org/project/klyne/"
 }
