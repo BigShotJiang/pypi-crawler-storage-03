@@ -1,0 +1,11 @@
+{
+  "name": "ejdate",
+  "version": "0.1.0",
+  "summary": "Easy and clean Jalali-Gregorian date conversion and formatting",
+  "author": "Alireza Asadiyan",
+  "license": "MIT",
+  "home_page": "https://github.com/alireza85as/ejdate",
+  "download_filename": "ejdate-0.1.0.tar.gz",
+  "download_time": "2025-08-21T21:40:18.132170",
+  "package_url": "https://pypi.org/project/ejdate/"
+}
