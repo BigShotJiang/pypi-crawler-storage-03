@@ -1,11 +1,11 @@
 {
   "name": "audio-glitch-detector",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Detect audio glitches and discontinuities in sinusoidal audio signals",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "audio_glitch_detector-0.2.0-py3-none-any.whl",
-  "download_time": "2025-08-18T21:18:23.340243",
+  "download_filename": "audio_glitch_detector-0.2.1-py3-none-any.whl",
+  "download_time": "2025-08-21T21:52:17.001290",
   "package_url": "https://pypi.org/project/audio-glitch-detector/"
 }

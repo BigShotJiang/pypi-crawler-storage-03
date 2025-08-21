@@ -1,11 +1,11 @@
 {
   "name": "aviation-chart-server",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "A Python service for processing and serving FAA aviation charts as tile pyramids",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aviation_chart_server-1.0.4.tar.gz",
-  "download_time": "2025-08-20T21:18:35.702799",
+  "download_filename": "aviation_chart_server-1.0.5.tar.gz",
+  "download_time": "2025-08-21T21:52:36.012197",
   "package_url": "https://pypi.org/project/aviation-chart-server/"
 }
