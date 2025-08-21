@@ -1,11 +1,11 @@
 {
   "name": "mailtrace",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mailtrace-0.1.0.tar.gz",
-  "download_time": "2025-08-21T06:39:51.534840",
+  "download_filename": "mailtrace-0.2.0.tar.gz",
+  "download_time": "2025-08-21T12:40:29.177620",
   "package_url": "https://pypi.org/project/mailtrace/"
 }

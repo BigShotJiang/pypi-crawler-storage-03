@@ -1,11 +1,11 @@
 {
   "name": "catrxneng",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "summary": "A collection of Python utilities for catalysis and reaction engineering",
   "author": "Gordon Brezicki",
   "license": null,
   "home_page": "https://github.com/gpbrez/catrxneng",
-  "download_filename": "catrxneng-1.0.25.tar.gz",
-  "download_time": "2025-08-19T17:17:44.837204",
+  "download_filename": "catrxneng-1.0.26.tar.gz",
+  "download_time": "2025-08-21T12:40:28.036338",
   "package_url": "https://pypi.org/project/catrxneng/"
 }

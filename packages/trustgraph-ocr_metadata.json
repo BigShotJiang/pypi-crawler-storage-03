@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-ocr",
-  "version": "1.2.12",
+  "version": "1.2.13",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_ocr-1.2.12.tar.gz",
-  "download_time": "2025-08-19T20:41:44.334517",
+  "download_filename": "trustgraph_ocr-1.2.13.tar.gz",
+  "download_time": "2025-08-21T12:40:46.935499",
   "package_url": "https://pypi.org/project/trustgraph-ocr/"
 }

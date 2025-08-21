@@ -1,0 +1,11 @@
+{
+  "name": "licensingpy",
+  "version": "1.0.0",
+  "summary": "🔐 Secure offline licensing system with beautiful CLI, ECDSA signatures, and hardware fingerprinting",
+  "author": "LicensingPy Team",
+  "license": "MIT",
+  "home_page": "https://github.com/jiri-otoupal/LicensingPy",
+  "download_filename": "licensingpy-1.0.0.tar.gz",
+  "download_time": "2025-08-21T12:40:26.325038",
+  "package_url": "https://pypi.org/project/licensingpy/"
+}
