@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-graph-plugin",
-  "version": "1.2.1.post1.dev0",
+  "version": "1.2.6",
   "summary": "A MkDocs plugin to generate an interactive graph of your documentation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mkdocs_graph_plugin-1.2.1.post1.dev0.tar.gz",
-  "download_time": "2025-08-21T10:46:03.645298",
+  "download_filename": "mkdocs_graph_plugin-1.2.6.tar.gz",
+  "download_time": "2025-08-21T11:52:10.865786",
   "package_url": "https://pypi.org/project/mkdocs-graph-plugin/"
 }

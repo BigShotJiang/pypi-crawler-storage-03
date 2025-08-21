@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-dataset",
-  "version": "6.7.1.post4834",
+  "version": "6.7.1.post4836",
   "summary": "NucliaDB Train Python client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_dataset-6.7.1.post4834-py3-none-any.whl",
-  "download_time": "2025-08-20T09:21:57.154160",
+  "download_filename": "nucliadb_dataset-6.7.1.post4836-py3-none-any.whl",
+  "download_time": "2025-08-21T11:52:03.735718",
   "package_url": "https://pypi.org/project/nucliadb-dataset/"
 }
