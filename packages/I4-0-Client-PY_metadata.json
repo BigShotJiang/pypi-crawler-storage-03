@@ -1,0 +1,11 @@
+{
+  "name": "I4-0-Client-PY",
+  "version": "16.0.0",
+  "summary": "Client Python bindings for I4.0.",
+  "author": "TAO71-AI",
+  "license": "TAO71 I4.0 License (v1)",
+  "home_page": "https://github.com/TAO71-AI/I4.0",
+  "download_filename": "i4_0_client_py-16.0.0.tar.gz",
+  "download_time": "2025-08-21T23:19:08.734159",
+  "package_url": "https://pypi.org/project/I4-0-Client-PY/"
+}

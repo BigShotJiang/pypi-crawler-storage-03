@@ -1,0 +1,11 @@
+{
+  "name": "pigeon-transitions",
+  "version": "2.4.1",
+  "summary": "A state machine framework for Pigeon.",
+  "author": null,
+  "license": "BSD 3 Clause",
+  "home_page": null,
+  "download_filename": "pigeon_transitions-2.4.1.tar.gz",
+  "download_time": "2025-08-21T23:19:03.506545",
+  "package_url": "https://pypi.org/project/pigeon-transitions/"
+}

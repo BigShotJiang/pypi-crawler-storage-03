@@ -1,0 +1,11 @@
+{
+  "name": "acemagic-ledctl",
+  "version": "0.1.0",
+  "summary": "ACEMAGIC P9/P9 Plus (CH340) LED controller and pattern hacks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acemagic_ledctl-0.1.0.tar.gz",
+  "download_time": "2025-08-21T23:19:07.195836",
+  "package_url": "https://pypi.org/project/acemagic-ledctl/"
+}
