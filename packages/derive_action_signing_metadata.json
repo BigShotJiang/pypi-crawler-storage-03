@@ -1,0 +1,11 @@
+{
+  "name": "derive_action_signing",
+  "version": "0.0.13",
+  "summary": "Python package to sign on-chain self-custodial requests for orders, transfers, deposits, withdrawals and RFQs.",
+  "author": "Derive.xyz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "derive_action_signing-0.0.13.tar.gz",
+  "download_time": "2025-08-21T20:22:19.906948",
+  "package_url": "https://pypi.org/project/derive_action_signing/"
+}

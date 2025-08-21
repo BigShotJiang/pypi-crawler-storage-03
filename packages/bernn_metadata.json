@@ -1,11 +1,11 @@
 {
   "name": "bernn",
-  "version": "0.2.12",
+  "version": "0.2.14",
   "summary": "Batch Effect Removal Neural Networks for Tandem Mass Spectrometry",
   "author": "Simon Pelletier",
   "license": "MIT",
   "home_page": "https://github.com/username/BERNN_MSMS",
-  "download_filename": "bernn-0.2.12.tar.gz",
-  "download_time": "2025-08-18T15:22:24.240940",
+  "download_filename": "bernn-0.2.14.tar.gz",
+  "download_time": "2025-08-21T20:22:31.112867",
   "package_url": "https://pypi.org/project/bernn/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mgp-imputer",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "summary": "Missing Value Imputation using Deep Gaussian Processes with a scikit-learn compatible API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mgp_imputer-0.0.9.tar.gz",
-  "download_time": "2025-08-21T19:52:29.561063",
+  "download_filename": "mgp_imputer-0.1.1.tar.gz",
+  "download_time": "2025-08-21T20:22:40.267787",
   "package_url": "https://pypi.org/project/mgp-imputer/"
 }

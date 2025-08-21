@@ -1,0 +1,11 @@
+{
+  "name": "zim-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server that enables AI models to access and search ZIM format knowledge bases offline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zim_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-08-21T20:22:47.301019",
+  "package_url": "https://pypi.org/project/zim-mcp-server/"
+}

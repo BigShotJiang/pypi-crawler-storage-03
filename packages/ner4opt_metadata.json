@@ -1,11 +1,11 @@
 {
   "name": "ner4opt",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "NER4OPT Library",
   "author": null,
   "license": null,
   "home_page": "https://github.com/skadio/ner4opt",
-  "download_filename": "ner4opt-1.0.4.tar.gz",
-  "download_time": "2025-08-21T15:54:44.086739",
+  "download_filename": "ner4opt-1.0.5.tar.gz",
+  "download_time": "2025-08-21T20:22:41.473483",
   "package_url": "https://pypi.org/project/ner4opt/"
 }
