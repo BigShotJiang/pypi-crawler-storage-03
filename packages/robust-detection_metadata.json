@@ -1,0 +1,11 @@
+{
+  "name": "robust-detection",
+  "version": "1.1.1",
+  "summary": "A small example package",
+  "author": "mikezhou_talk",
+  "license": "BSD License",
+  "home_page": "https://mp.weixin.qq.com/s/9FQ-Tun5FbpBepBAsdY62w",
+  "download_filename": "robust_detection-1.1.1.tar.gz",
+  "download_time": "2025-08-21T07:03:35.415146",
+  "package_url": "https://pypi.org/project/robust-detection/"
+}

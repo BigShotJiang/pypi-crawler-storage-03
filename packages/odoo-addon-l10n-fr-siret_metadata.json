@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-fr-siret",
+  "version": "18.0.1.2.0.2",
+  "summary": "Complete support for SIRET/SIREN/NIC with checksum validation",
+  "author": "=?utf-8?q?Num=C3=A9rigraphe=2CAkretion=2COdoo_Community_Association_=28OCA=29?=",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-france",
+  "download_filename": "odoo_addon_l10n_fr_siret-18.0.1.2.0.2-py3-none-any.whl",
+  "download_time": "2025-08-21T07:03:27.635612",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-fr-siret/"
+}

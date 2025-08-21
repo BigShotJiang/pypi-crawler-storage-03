@@ -1,11 +1,11 @@
 {
   "name": "fnb",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Fetch'n'Backup - Simple two-step backup tool with rsync",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fnb-0.9.0.tar.gz",
-  "download_time": "2025-08-21T06:39:35.023698",
+  "download_filename": "fnb-0.10.0.tar.gz",
+  "download_time": "2025-08-21T07:03:27.124441",
   "package_url": "https://pypi.org/project/fnb/"
 }

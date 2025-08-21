@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-voxel-oca",
+  "version": "18.0.1.0.0.13",
+  "summary": "Base module for connecting with Voxel",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-voxel",
+  "download_filename": "odoo_addon_edi_voxel_oca-18.0.1.0.0.13-py3-none-any.whl",
+  "download_time": "2025-08-21T07:03:22.456769",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-voxel-oca/"
+}

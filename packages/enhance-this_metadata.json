@@ -1,11 +1,11 @@
 {
   "name": "enhance-this",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A CLI tool to enhance prompts using Ollama AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "enhance_this-0.1.6.tar.gz",
-  "download_time": "2025-08-21T06:39:36.556438",
+  "download_filename": "enhance_this-0.1.7.tar.gz",
+  "download_time": "2025-08-21T07:03:25.553772",
   "package_url": "https://pypi.org/project/enhance-this/"
 }

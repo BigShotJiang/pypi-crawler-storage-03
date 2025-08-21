@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-plan",
+  "version": "0.1.0",
+  "summary": "A Python package for creating, analyzing and visualizing investment strategies. Portfolio-plan allows users to define portfolios with custom asset allocations, simulate investment plans over time periods, calculate returns, and compare historical performance against benchmarks",
+  "author": "Alexandre Sonderegger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portfolio_plan-0.1.0.tar.gz",
+  "download_time": "2025-08-21T07:03:29.200451",
+  "package_url": "https://pypi.org/project/portfolio-plan/"
+}

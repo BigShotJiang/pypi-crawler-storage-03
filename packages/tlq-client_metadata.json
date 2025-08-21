@@ -1,0 +1,11 @@
+{
+  "name": "tlq-client",
+  "version": "0.1.0",
+  "summary": "Python client library for TLQ (Tiny Little Queue)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tlq_client-0.1.0.tar.gz",
+  "download_time": "2025-08-21T07:03:19.789118",
+  "package_url": "https://pypi.org/project/tlq-client/"
+}
