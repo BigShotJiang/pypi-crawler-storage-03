@@ -1,11 +1,11 @@
 {
   "name": "robka",
-  "version": "2.3.4",
+  "version": "2.4.2",
   "summary": "A professional and localized Python library for interacting with Rubika Bot API, compatible with various systems.",
   "author": "httex",
   "license": null,
-  "home_page": null,
-  "download_filename": "robka-2.3.4.tar.gz",
-  "download_time": "2025-08-21T17:23:49.613282",
+  "home_page": "https://pypi.org/project/robka/",
+  "download_filename": "robka-2.4.2.tar.gz",
+  "download_time": "2025-08-21T18:50:51.921866",
   "package_url": "https://pypi.org/project/robka/"
 }

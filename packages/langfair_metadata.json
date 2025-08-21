@@ -1,0 +1,11 @@
+{
+  "name": "langfair",
+  "version": "0.6.8",
+  "summary": "LangFair is a Python library for conducting use-case level LLM bias and fairness assessments",
+  "author": "Dylan Bouchard",
+  "license": "Apache-2.0 AND MIT",
+  "home_page": "https://github.com/cvs-health/langfair",
+  "download_filename": "langfair-0.6.8.tar.gz",
+  "download_time": "2025-08-21T18:50:52.947173",
+  "package_url": "https://pypi.org/project/langfair/"
+}

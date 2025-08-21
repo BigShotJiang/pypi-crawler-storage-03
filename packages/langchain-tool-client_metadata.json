@@ -1,0 +1,11 @@
+{
+  "name": "langchain-tool-client",
+  "version": "0.0.2",
+  "summary": "LangChain Tool Client SDK (Python)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_tool_client-0.0.2.tar.gz",
+  "download_time": "2025-08-21T18:50:48.263773",
+  "package_url": "https://pypi.org/project/langchain-tool-client/"
+}

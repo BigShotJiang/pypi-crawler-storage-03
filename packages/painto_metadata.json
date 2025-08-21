@@ -1,0 +1,11 @@
+{
+  "name": "painto",
+  "version": "0.3.0",
+  "summary": "A flexible color library",
+  "author": "Michael Knowles",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "painto-0.3.0.tar.gz",
+  "download_time": "2025-08-21T18:50:46.211600",
+  "package_url": "https://pypi.org/project/painto/"
+}

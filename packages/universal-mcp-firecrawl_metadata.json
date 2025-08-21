@@ -1,11 +1,11 @@
 {
   "name": "universal-mcp-firecrawl",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A Universal MCP Application: universal_mcp_firecrawl",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "universal_mcp_firecrawl-0.1.6.tar.gz",
-  "download_time": "2025-08-21T04:31:27.935120",
+  "download_filename": "universal_mcp_firecrawl-0.1.7.tar.gz",
+  "download_time": "2025-08-21T18:50:38.959662",
   "package_url": "https://pypi.org/project/universal-mcp-firecrawl/"
 }

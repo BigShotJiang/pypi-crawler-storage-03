@@ -1,11 +1,11 @@
 {
   "name": "franklin-cli",
-  "version": "0.25.113",
+  "version": "0.25.114",
   "summary": "Terminal client for Jupyter exercises",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "franklin_cli-0.25.113.tar.gz",
-  "download_time": "2025-08-21T17:23:36.717162",
+  "download_filename": "franklin_cli-0.25.114.tar.gz",
+  "download_time": "2025-08-21T18:50:50.871687",
   "package_url": "https://pypi.org/project/franklin-cli/"
 }
