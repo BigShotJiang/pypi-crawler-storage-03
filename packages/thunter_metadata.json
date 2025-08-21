@@ -1,11 +1,11 @@
 {
   "name": "thunter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A CLI To Do list w/ time tracking.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thunter-0.1.0.tar.gz",
-  "download_time": "2025-08-20T22:18:46.584593",
+  "download_filename": "thunter-0.2.0.tar.gz",
+  "download_time": "2025-08-21T19:41:50.579078",
   "package_url": "https://pypi.org/project/thunter/"
 }

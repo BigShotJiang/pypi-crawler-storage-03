@@ -1,11 +1,11 @@
 {
   "name": "bluequbit",
-  "version": "0.17.0b1",
+  "version": "0.17.0b1.post1",
   "summary": "Python SDK to BlueQubit app",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bluequbit-0.17.0b1.tar.gz",
-  "download_time": "2025-08-21T19:16:33.787600",
+  "download_filename": "bluequbit-0.17.0b1.post1.tar.gz",
+  "download_time": "2025-08-21T19:41:59.936019",
   "package_url": "https://pypi.org/project/bluequbit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ov-training-kit",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Wrappers for scikit-learn and PyTorch models with OpenVINO optimization",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/openvinotoolkit/openvino_contrib",
-  "download_filename": "ov_training_kit-0.1.7.tar.gz",
-  "download_time": "2025-08-21T19:16:29.023901",
+  "download_filename": "ov_training_kit-0.1.8.tar.gz",
+  "download_time": "2025-08-21T19:42:09.838900",
   "package_url": "https://pypi.org/project/ov-training-kit/"
 }

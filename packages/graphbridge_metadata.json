@@ -1,11 +1,11 @@
 {
   "name": "graphbridge",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "GraphBridge is a lightweight Microsoft Graph client that uses app-only (Azure AD) authentication and streamlines SharePoint site/list operations: metadata retrieval, feature-based queries, CRUD, upsert, and field key encoding/decoding.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "graphbridge-0.0.2.tar.gz",
-  "download_time": "2025-08-20T21:51:50.930490",
+  "download_filename": "graphbridge-0.0.4.tar.gz",
+  "download_time": "2025-08-21T19:42:05.114250",
   "package_url": "https://pypi.org/project/graphbridge/"
 }
