@@ -1,0 +1,11 @@
+{
+  "name": "prx_pyaec",
+  "version": "2.0.6",
+  "summary": "PRX Acoustic echo cancellation with reset",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prx_pyaec-2.0.6.tar.gz",
+  "download_time": "2025-08-21T13:20:12.518520",
+  "package_url": "https://pypi.org/project/prx_pyaec/"
+}

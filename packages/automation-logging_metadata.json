@@ -1,11 +1,11 @@
 {
   "name": "automation-logging",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Logging for automation, offering thread-safety, log cleanup and screenshot support.",
   "author": "Vinicius Benevides",
   "license": "MIT",
   "home_page": "https://github.com/VBenevides/automation-logging",
-  "download_filename": "automation_logging-0.1.0.tar.gz",
-  "download_time": "2025-08-20T22:51:51.811998",
+  "download_filename": "automation_logging-0.1.3.tar.gz",
+  "download_time": "2025-08-21T13:20:15.100318",
   "package_url": "https://pypi.org/project/automation-logging/"
 }

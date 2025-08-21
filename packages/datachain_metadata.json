@@ -1,0 +1,11 @@
+{
+  "name": "datachain",
+  "version": "0.30.3",
+  "summary": "Wrangle unstructured AI data at scale",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datachain-0.30.3.tar.gz",
+  "download_time": "2025-08-21T13:20:34.521277",
+  "package_url": "https://pypi.org/project/datachain/"
+}

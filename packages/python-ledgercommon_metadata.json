@@ -1,0 +1,11 @@
+{
+  "name": "python-ledgercommon",
+  "version": "1.56.4",
+  "summary": "Ledger common utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_ledgercommon-1.56.4.tar.gz",
+  "download_time": "2025-08-21T13:20:31.374429",
+  "package_url": "https://pypi.org/project/python-ledgercommon/"
+}

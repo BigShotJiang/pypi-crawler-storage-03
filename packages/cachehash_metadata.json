@@ -1,0 +1,11 @@
+{
+  "name": "cachehash",
+  "version": "1.1.3",
+  "summary": "This tool memoizes data to sqlite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cachehash-1.1.3.tar.gz",
+  "download_time": "2025-08-21T13:20:44.726322",
+  "package_url": "https://pypi.org/project/cachehash/"
+}

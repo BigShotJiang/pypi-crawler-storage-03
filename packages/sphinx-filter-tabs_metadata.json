@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-filter-tabs",
+  "version": "0.9.2",
+  "summary": "A Sphinx extension for accessible, JS-free filterable content tabs.",
+  "author": null,
+  "license": "GNU General Public License v3.0",
+  "home_page": null,
+  "download_filename": "sphinx_filter_tabs-0.9.2.tar.gz",
+  "download_time": "2025-08-21T13:20:31.888656",
+  "package_url": "https://pypi.org/project/sphinx-filter-tabs/"
+}

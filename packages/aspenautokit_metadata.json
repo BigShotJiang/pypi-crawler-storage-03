@@ -1,0 +1,11 @@
+{
+  "name": "aspenautokit",
+  "version": "0.1.1",
+  "summary": "A Python package for automating Aspen Plus simulations",
+  "author": "Vincent Bailey Ladd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aspenautokit-0.1.1.tar.gz",
+  "download_time": "2025-08-21T13:20:39.611574",
+  "package_url": "https://pypi.org/project/aspenautokit/"
+}

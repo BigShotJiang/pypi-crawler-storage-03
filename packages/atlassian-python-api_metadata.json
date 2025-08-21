@@ -1,11 +1,11 @@
 {
   "name": "atlassian-python-api",
-  "version": "4.0.6",
+  "version": "4.0.7",
   "summary": "Python Atlassian REST API Wrapper",
   "author": "Matt Harasymczuk",
   "license": "Apache-2.0",
   "home_page": "https://github.com/atlassian-api/atlassian-python-api",
-  "download_filename": "atlassian_python_api-4.0.6.tar.gz",
-  "download_time": "2025-08-20T22:42:38.654122",
+  "download_filename": "atlassian_python_api-4.0.7.tar.gz",
+  "download_time": "2025-08-21T13:20:13.034441",
   "package_url": "https://pypi.org/project/atlassian-python-api/"
 }

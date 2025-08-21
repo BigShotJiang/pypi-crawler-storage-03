@@ -1,0 +1,11 @@
+{
+  "name": "ansible-dev-environment",
+  "version": "25.8.0",
+  "summary": "A pip-like ansible collection installer.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "ansible_dev_environment-25.8.0.tar.gz",
+  "download_time": "2025-08-21T13:20:33.444972",
+  "package_url": "https://pypi.org/project/ansible-dev-environment/"
+}

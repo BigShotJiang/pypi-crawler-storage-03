@@ -1,11 +1,11 @@
 {
   "name": "permify",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "summary": "Permify API",
   "author": "API Support",
   "license": "AGPL-3.0 license",
   "home_page": "https://github.com/Permify/permify-python",
-  "download_filename": "permify-1.4.2.tar.gz",
-  "download_time": "2025-08-19T11:39:05.764974",
+  "download_filename": "permify-1.4.3.tar.gz",
+  "download_time": "2025-08-21T13:20:41.657500",
   "package_url": "https://pypi.org/project/permify/"
 }

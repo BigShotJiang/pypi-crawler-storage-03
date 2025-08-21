@@ -1,0 +1,11 @@
+{
+  "name": "ansible-creator",
+  "version": "25.8.0",
+  "summary": "A CLI tool for scaffolding Ansible Content.",
+  "author": null,
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "ansible_creator-25.8.0.tar.gz",
+  "download_time": "2025-08-21T13:20:26.242382",
+  "package_url": "https://pypi.org/project/ansible-creator/"
+}

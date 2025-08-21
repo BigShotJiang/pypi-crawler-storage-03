@@ -1,0 +1,11 @@
+{
+  "name": "breakbuddy",
+  "version": "0.1.1",
+  "summary": "A CLI tool that reminds developers to take breaks after a set time interval",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "breakbuddy-0.1.1.tar.gz",
+  "download_time": "2025-08-21T13:20:27.781388",
+  "package_url": "https://pypi.org/project/breakbuddy/"
+}

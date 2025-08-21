@@ -1,0 +1,11 @@
+{
+  "name": "cloudbeat-common-test1",
+  "version": "0.0.2",
+  "summary": "Contains the common types and API client for CloudBeat",
+  "author": "CBNR Cloud Solutions LTD",
+  "license": "Apache-2.0",
+  "home_page": "https://cloudbeat.io/",
+  "download_filename": "cloudbeat_common_test1-0.0.2.tar.gz",
+  "download_time": "2025-08-21T13:20:17.212375",
+  "package_url": "https://pypi.org/project/cloudbeat-common-test1/"
+}

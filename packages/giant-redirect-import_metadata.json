@@ -1,0 +1,11 @@
+{
+  "name": "giant-redirect-import",
+  "version": "1.1.1",
+  "summary": "Reusable package which adds an option to bulk import redirects from a csv file",
+  "author": "Will-Hoey",
+  "license": "MIT",
+  "home_page": "https://github.com/giantmade/giant-redirect-import",
+  "download_filename": "giant_redirect_import-1.1.1.tar.gz",
+  "download_time": "2025-08-21T13:20:58.797207",
+  "package_url": "https://pypi.org/project/giant-redirect-import/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tf2jax",
+  "version": "0.3.8",
+  "summary": "TF2JAX: Convert TensorFlow to JAX",
+  "author": "DeepMind",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/deepmind/tf2jax",
+  "download_filename": "tf2jax-0.3.8.tar.gz",
+  "download_time": "2025-08-21T13:20:14.583075",
+  "package_url": "https://pypi.org/project/tf2jax/"
+}
