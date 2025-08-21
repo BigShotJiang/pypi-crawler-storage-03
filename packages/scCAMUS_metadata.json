@@ -1,0 +1,11 @@
+{
+  "name": "scCAMUS",
+  "version": "1.0.1",
+  "summary": "Cross-datasets annotation modeling with universal reference data and method selection",
+  "author": "Qunlun Shen",
+  "license": "MIT",
+  "home_page": "https://github.com/Zhanglabtools/CAMUS",
+  "download_filename": "sccamus-1.0.1.tar.gz",
+  "download_time": "2025-08-21T06:39:44.799802",
+  "package_url": "https://pypi.org/project/scCAMUS/"
+}

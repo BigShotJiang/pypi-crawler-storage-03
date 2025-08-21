@@ -1,0 +1,11 @@
+{
+  "name": "kalk",
+  "version": "0.19.0",
+  "summary": "a simple cli RPN calculator written in Python",
+  "author": "5j9",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "kalk-0.19.0.tar.gz",
+  "download_time": "2025-08-21T06:39:26.276153",
+  "package_url": "https://pypi.org/project/kalk/"
+}

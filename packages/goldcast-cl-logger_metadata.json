@@ -1,0 +1,11 @@
+{
+  "name": "goldcast-cl-logger",
+  "version": "0.6.2",
+  "summary": "A lightweight logging library for Content Lab projects with distributed tracing support",
+  "author": "Content Lab Team",
+  "license": "MIT",
+  "home_page": "https://github.com/goldcast/content-lab-backend",
+  "download_filename": "goldcast_cl_logger-0.6.2.tar.gz",
+  "download_time": "2025-08-21T06:39:28.840537",
+  "package_url": "https://pypi.org/project/goldcast-cl-logger/"
+}

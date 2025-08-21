@@ -1,11 +1,11 @@
 {
   "name": "df_websockets",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Websocket integration for Django",
   "author": "Matthieu Gallet",
   "license": "CECILL-B",
   "home_page": "https://github.com/d9pouces/df_websockets",
-  "download_filename": "df_websockets-1.2.4.tar.gz",
-  "download_time": "2025-08-19T21:18:28.021832",
+  "download_filename": "df_websockets-1.2.5.tar.gz",
+  "download_time": "2025-08-21T06:39:42.239963",
   "package_url": "https://pypi.org/project/df_websockets/"
 }

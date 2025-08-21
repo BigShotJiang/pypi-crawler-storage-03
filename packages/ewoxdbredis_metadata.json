@@ -1,11 +1,11 @@
 {
   "name": "ewoxdbredis",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": null,
   "author": "Martin Leo Prüss",
   "license": null,
   "home_page": null,
-  "download_filename": "ewoxdbredis-1.2.6.tar.gz",
-  "download_time": "2025-08-20T13:48:12.945173",
+  "download_filename": "ewoxdbredis-1.2.7.tar.gz",
+  "download_time": "2025-08-21T06:39:29.879086",
   "package_url": "https://pypi.org/project/ewoxdbredis/"
 }

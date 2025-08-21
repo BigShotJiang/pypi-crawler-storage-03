@@ -1,0 +1,11 @@
+{
+  "name": "ewha-cong-dynamicP",
+  "version": "0.1.0",
+  "summary": "A Python module for calculating and analyzing three types of congestion—Road, PM, and Pedestrian congestion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ewha_cong_dynamicp-0.1.0.tar.gz",
+  "download_time": "2025-08-21T06:39:49.496219",
+  "package_url": "https://pypi.org/project/ewha-cong-dynamicP/"
+}

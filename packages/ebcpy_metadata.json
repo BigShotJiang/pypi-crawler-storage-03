@@ -1,0 +1,11 @@
+{
+  "name": "ebcpy",
+  "version": "0.5.6",
+  "summary": "Python Library used for different python modules for the analysis and optimization of energy systems, buildings and indoor climate ",
+  "author": "RWTH Aachen University, E.ON Energy Research Center, Institute of Energy Efficient Buildings and Indoor Climate",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/RWTH-EBC/ebcpy",
+  "download_filename": "ebcpy-0.5.6.tar.gz",
+  "download_time": "2025-08-21T06:39:53.579466",
+  "package_url": "https://pypi.org/project/ebcpy/"
+}

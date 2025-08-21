@@ -1,0 +1,11 @@
+{
+  "name": "ewha-db-dynamicP",
+  "version": "0.1.1",
+  "summary": "A database manager for PostgreSQL with trajectory processing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ewha_db_dynamicp-0.1.1.tar.gz",
+  "download_time": "2025-08-21T06:39:38.096827",
+  "package_url": "https://pypi.org/project/ewha-db-dynamicP/"
+}
