@@ -1,11 +1,11 @@
 {
   "name": "must-cdk",
-  "version": "0.0.102",
+  "version": "0.0.104",
   "summary": "must-cdk",
   "author": "Must Admin<admin-mufin@users.noreply.github.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/globalmsq/must-cdk.git",
-  "download_filename": "must_cdk-0.0.102.tar.gz",
-  "download_time": "2025-08-20T05:19:48.685215",
+  "download_filename": "must_cdk-0.0.104.tar.gz",
+  "download_time": "2025-08-21T05:20:46.878753",
   "package_url": "https://pypi.org/project/must-cdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-discriminated",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Type-safe discriminated unions for Pydantic models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydantic_discriminated-0.1.3.tar.gz",
-  "download_time": "2025-08-20T09:21:48.365361",
+  "download_filename": "pydantic_discriminated-0.1.5.tar.gz",
+  "download_time": "2025-08-21T05:20:53.703149",
   "package_url": "https://pypi.org/project/pydantic-discriminated/"
 }

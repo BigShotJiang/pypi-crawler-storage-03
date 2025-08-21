@@ -1,0 +1,11 @@
+{
+  "name": "pyqttoolkit",
+  "version": "0.8.2",
+  "summary": "A toolkit for PyQt 5",
+  "author": "Bitbloom Ltd",
+  "license": "GPLv3",
+  "home_page": "https://github.com/BitBloomTech/pyqttoolkit",
+  "download_filename": "pyqttoolkit-0.8.2.tar.gz",
+  "download_time": "2025-08-21T05:20:41.636187",
+  "package_url": "https://pypi.org/project/pyqttoolkit/"
+}

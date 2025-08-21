@@ -1,11 +1,11 @@
 {
   "name": "kuzu",
-  "version": "0.11.1",
+  "version": "0.11.2",
   "summary": "Highly scalable, extremely fast, easy-to-use embeddable graph database",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/kuzudb/kuzu",
-  "download_filename": "kuzu-0.11.1.tar.gz",
-  "download_time": "2025-08-17T08:46:19.109444",
+  "download_filename": "kuzu-0.11.2.tar.gz",
+  "download_time": "2025-08-21T05:20:36.322611",
   "package_url": "https://pypi.org/project/kuzu/"
 }

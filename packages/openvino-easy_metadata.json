@@ -1,0 +1,11 @@
+{
+  "name": "openvino-easy",
+  "version": "1.0.0",
+  "summary": "Framework-agnostic Python wrapper for OpenVINO 2025",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openvino_easy-1.0.0.tar.gz",
+  "download_time": "2025-08-21T05:20:53.185382",
+  "package_url": "https://pypi.org/project/openvino-easy/"
+}
