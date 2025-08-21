@@ -1,0 +1,11 @@
+{
+  "name": "composer-kit-mcp",
+  "version": "0.7.2",
+  "summary": "A Model Context Protocol (MCP) server for Composer Kit UI components and Celo Composer project creation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "composer_kit_mcp-0.7.2.tar.gz",
+  "download_time": "2025-08-21T17:23:55.775337",
+  "package_url": "https://pypi.org/project/composer-kit-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clouds-aws",
+  "version": "0.4.3",
+  "summary": "A tool for easy handling of AWS CloudFormation stacks as code.",
+  "author": "Frank Wittig",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/elias5000/clouds-aws",
+  "download_filename": "clouds_aws-0.4.3.tar.gz",
+  "download_time": "2025-08-21T17:23:39.307300",
+  "package_url": "https://pypi.org/project/clouds-aws/"
+}

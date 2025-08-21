@@ -1,0 +1,11 @@
+{
+  "name": "pyampact",
+  "version": "0.0.5",
+  "summary": "pyAMPACT (Python-based Automatic Music Performance Analysis and Comparison Toolkit) is a python package that links symbolic and audio music representations to facilitate score-informed estimation of performance data in audio as well as general linking of symbolic and audio music representations with a variety of annotations.",
+  "author": "Anonymous",
+  "license": "BSD 2-clause",
+  "home_page": "https://pyampact.github.io",
+  "download_filename": "pyampact-0.0.5-py2.py3-none-any.whl",
+  "download_time": "2025-08-21T17:23:46.514438",
+  "package_url": "https://pypi.org/project/pyampact/"
+}

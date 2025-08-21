@@ -1,0 +1,11 @@
+{
+  "name": "gimi9-geocoder",
+  "version": "0.1.0",
+  "summary": "한국 주소 지오코딩을 위한 Python 라이브러리 - Korean address geocoding library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gimi9_geocoder-0.1.0.tar.gz",
+  "download_time": "2025-08-21T17:23:54.748696",
+  "package_url": "https://pypi.org/project/gimi9-geocoder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyscheduler-fox",
+  "version": "1.0.0",
+  "summary": "A powerful yet simple Python task scheduler",
+  "author": "Fox",
+  "license": "MIT",
+  "home_page": "https://github.com/Tiger-Foxx/PyScheduler",
+  "download_filename": "pyscheduler_fox-1.0.0.tar.gz",
+  "download_time": "2025-08-21T17:23:47.031158",
+  "package_url": "https://pypi.org/project/pyscheduler-fox/"
+}

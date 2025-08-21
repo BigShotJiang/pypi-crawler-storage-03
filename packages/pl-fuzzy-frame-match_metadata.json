@@ -1,11 +1,11 @@
 {
   "name": "pl-fuzzy-frame-match",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Efficient fuzzy matching for Polars DataFrames with support for multiple string similarity algorithms",
   "author": "Edward van Eechoud",
   "license": "MIT",
   "home_page": "https://github.com/edwardvaneechoud/pl-fuzzy-frame-match",
-  "download_filename": "pl_fuzzy_frame_match-0.3.0.tar.gz",
-  "download_time": "2025-08-19T06:53:50.071314",
+  "download_filename": "pl_fuzzy_frame_match-0.4.0.tar.gz",
+  "download_time": "2025-08-21T17:23:38.281511",
   "package_url": "https://pypi.org/project/pl-fuzzy-frame-match/"
 }
