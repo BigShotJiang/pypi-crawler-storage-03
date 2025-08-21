@@ -1,0 +1,11 @@
+{
+  "name": "oslo.db",
+  "version": "17.4.0",
+  "summary": "Oslo Database library",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/oslo.db/latest",
+  "download_filename": "oslo_db-17.4.0.tar.gz",
+  "download_time": "2025-08-21T09:53:21.019465",
+  "package_url": "https://pypi.org/project/oslo.db/"
+}

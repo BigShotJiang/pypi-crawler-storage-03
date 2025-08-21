@@ -1,11 +1,11 @@
 {
   "name": "ipscan",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Fast IP scanner — multithreaded Ping and ARP scanning",
   "author": "Wing",
   "license": "MIT",
   "home_page": "https://github.com/Wing9897/ipscan.git",
-  "download_filename": "ipscan-1.2.0.tar.gz",
-  "download_time": "2025-08-21T09:43:05.781875",
+  "download_filename": "ipscan-1.2.1.tar.gz",
+  "download_time": "2025-08-21T09:53:21.531329",
   "package_url": "https://pypi.org/project/ipscan/"
 }

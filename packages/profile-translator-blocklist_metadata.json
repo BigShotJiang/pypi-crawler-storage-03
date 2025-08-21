@@ -1,11 +1,11 @@
 {
   "name": "profile-translator-blocklist",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Translate IoT YAML profiles to NFTables / NFQueue files for a block-list firewall.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "profile_translator_blocklist-0.9.0.tar.gz",
-  "download_time": "2025-08-21T09:43:14.903031",
+  "download_filename": "profile_translator_blocklist-0.10.0.tar.gz",
+  "download_time": "2025-08-21T09:53:46.733063",
   "package_url": "https://pypi.org/project/profile-translator-blocklist/"
 }
