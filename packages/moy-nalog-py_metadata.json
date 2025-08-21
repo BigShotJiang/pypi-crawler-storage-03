@@ -1,0 +1,11 @@
+{
+  "name": "moy-nalog-py",
+  "version": "0.2.0",
+  "summary": "Python клиент для работы с API сервиса Мой налог",
+  "author": "senylar",
+  "license": null,
+  "home_page": "https://github.com/senylar/MoyNalogPy",
+  "download_filename": "moy_nalog_py-0.2.0.tar.gz",
+  "download_time": "2025-08-21T08:49:22.698805",
+  "package_url": "https://pypi.org/project/moy-nalog-py/"
+}

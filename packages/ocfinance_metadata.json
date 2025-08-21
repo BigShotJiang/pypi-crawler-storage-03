@@ -1,0 +1,11 @@
+{
+  "name": "ocfinance",
+  "version": "0.0.12",
+  "summary": "Download on-chain data for bitcoin (works for cryptoquant)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocfinance-0.0.12.tar.gz",
+  "download_time": "2025-08-21T08:48:43.467918",
+  "package_url": "https://pypi.org/project/ocfinance/"
+}

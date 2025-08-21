@@ -1,0 +1,11 @@
+{
+  "name": "compiler-config",
+  "version": "0.2.0",
+  "summary": null,
+  "author": "Jamie Friel",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "compiler_config-0.2.0.tar.gz",
+  "download_time": "2025-08-21T08:48:42.949410",
+  "package_url": "https://pypi.org/project/compiler-config/"
+}

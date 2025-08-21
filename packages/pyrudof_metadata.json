@@ -1,11 +1,11 @@
 {
   "name": "pyrudof",
-  "version": "0.1.82",
+  "version": "0.1.83",
   "summary": "RDF data shapes implementation in Rust",
   "author": "Jose Emilio Labra Gayo <labra@uniovi.es>, Ángel Iglesias Préstamo <angel.iglesias.prestamo@gmail.com>, Marc-Antoine Arnaud <marc-antoine.arnaud@luminvent.com>",
   "license": "MIT OR Apache-2.0",
   "home_page": "https://rudof-project.github.io/rudof",
-  "download_filename": "pyrudof-0.1.82-cp37-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-08-20T17:18:28.734680",
+  "download_filename": "pyrudof-0.1.83-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-21T08:48:52.927997",
   "package_url": "https://pypi.org/project/pyrudof/"
 }

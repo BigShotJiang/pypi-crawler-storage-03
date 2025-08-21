@@ -1,11 +1,11 @@
 {
   "name": "hip_online_store",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": "Common Python utilities for Hipages ML services; ONFS and Vector store",
   "author": "Shuming Peh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hip_online_store-0.2.12.tar.gz",
-  "download_time": "2025-08-21T08:27:08.434636",
+  "download_filename": "hip_online_store-0.2.13.tar.gz",
+  "download_time": "2025-08-21T08:48:48.216914",
   "package_url": "https://pypi.org/project/hip_online_store/"
 }
