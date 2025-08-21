@@ -1,0 +1,11 @@
+{
+  "name": "trackerfit",
+  "version": "0.2.0",
+  "summary": "Librería de visión artificial para seguimiento y conteo de repeticiones en ejercicios físicos usando MediaPipe.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trackerfit-0.2.0.tar.gz",
+  "download_time": "2025-08-21T18:28:58.177403",
+  "package_url": "https://pypi.org/project/trackerfit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gqlppy",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "An ISO GQL parser and checker",
   "author": "Alex Miłowski",
   "license": "Apache License, Version 2.0, January 2004",
   "home_page": "https://github.com/alexmilowski/gqlppy",
-  "download_filename": "gqlppy-0.2.0.tar.gz",
-  "download_time": "2025-08-21T17:53:17.484878",
+  "download_filename": "gqlppy-0.2.1.tar.gz",
+  "download_time": "2025-08-21T18:28:43.558878",
   "package_url": "https://pypi.org/project/gqlppy/"
 }

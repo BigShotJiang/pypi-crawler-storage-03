@@ -1,0 +1,11 @@
+{
+  "name": "oarepo-ui",
+  "version": "6.0.0",
+  "summary": "UI module for invenio 3.5+",
+  "author": "Mirek Simek",
+  "license": "MIT",
+  "home_page": "https://github.com/oarepo/oarepo-ui",
+  "download_filename": "oarepo_ui-6.0.0.tar.gz",
+  "download_time": "2025-08-21T18:29:00.752237",
+  "package_url": "https://pypi.org/project/oarepo-ui/"
+}

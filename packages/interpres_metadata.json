@@ -1,0 +1,11 @@
+{
+  "name": "interpres",
+  "version": "0.4.0b4",
+  "summary": "Translate from one language to another.",
+  "author": "Danny Waser",
+  "license": "LICENSE",
+  "home_page": "https://github.com/wasertech/Translator",
+  "download_filename": "interpres-0.4.0b4.tar.gz",
+  "download_time": "2025-08-21T18:29:02.297038",
+  "package_url": "https://pypi.org/project/interpres/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mccole",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Simple static site generator for tutorials",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mccole-0.9.1.tar.gz",
-  "download_time": "2025-08-21T15:43:24.333148",
+  "download_filename": "mccole-0.9.2.tar.gz",
+  "download_time": "2025-08-21T18:29:04.878513",
   "package_url": "https://pypi.org/project/mccole/"
 }

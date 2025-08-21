@@ -1,0 +1,11 @@
+{
+  "name": "awslabs.aws-documentation-mcp-server",
+  "version": "1.1.6",
+  "summary": "An AWS Labs Model Context Protocol (MCP) server for AWS Documentation",
+  "author": "Amazon Web Services",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "awslabs_aws_documentation_mcp_server-1.1.6.tar.gz",
+  "download_time": "2025-08-21T18:28:56.628661",
+  "package_url": "https://pypi.org/project/awslabs.aws-documentation-mcp-server/"
+}

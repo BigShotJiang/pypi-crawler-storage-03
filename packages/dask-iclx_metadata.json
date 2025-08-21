@@ -1,0 +1,11 @@
+{
+  "name": "dask-iclx",
+  "version": "0.5.2",
+  "summary": null,
+  "author": "Tom Runting, Ben Jones",
+  "license": null,
+  "home_page": "https://github.com/runtingt/dask-iclx",
+  "download_filename": "dask_iclx-0.5.2.tar.gz",
+  "download_time": "2025-08-21T18:29:18.232975",
+  "package_url": "https://pypi.org/project/dask-iclx/"
+}

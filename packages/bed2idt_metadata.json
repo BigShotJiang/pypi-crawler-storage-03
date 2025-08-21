@@ -1,0 +1,11 @@
+{
+  "name": "bed2idt",
+  "version": "1.3.0",
+  "summary": "Converts primer.bed files to IDT ordering templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bed2idt-1.3.0.tar.gz",
+  "download_time": "2025-08-21T18:29:11.547114",
+  "package_url": "https://pypi.org/project/bed2idt/"
+}

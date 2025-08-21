@@ -1,0 +1,11 @@
+{
+  "name": "codpydll",
+  "version": "0.2",
+  "summary": "An RKHS based module for machine learning and data mining",
+  "author": "jean-marc mercier",
+  "license": "new BSD",
+  "home_page": "https://github.com/johnlem/codpy_alpha",
+  "download_filename": "codpydll-0.2-cp39-cp39-win_amd64.whl",
+  "download_time": "2025-08-21T18:29:00.235631",
+  "package_url": "https://pypi.org/project/codpydll/"
+}
