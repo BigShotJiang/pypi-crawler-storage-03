@@ -1,11 +1,11 @@
 {
   "name": "abstract-images",
-  "version": "0.0.0.19",
-  "summary": "This module, part of the `abstract_essentials` package, provides a collection of utility functions for working with images and PDFs, including loading and saving images, extracting text from images, capturing screenshots, processing PDFs, and more.",
+  "version": "0.0.0.22",
+  "summary": "This module, part of the `abstract_essentials` package,",
   "author": "putkoff",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/AbstractEndeavors/abstract_images",
-  "download_filename": "abstract_images-0.0.0.19.tar.gz",
-  "download_time": "2025-08-21T11:39:58.536694",
+  "download_filename": "abstract_images-0.0.0.22.tar.gz",
+  "download_time": "2025-08-21T22:44:20.025599",
   "package_url": "https://pypi.org/project/abstract-images/"
 }

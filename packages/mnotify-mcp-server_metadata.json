@@ -1,0 +1,11 @@
+{
+  "name": "mnotify-mcp-server",
+  "version": "0.1.1",
+  "summary": "MNotify MCP server: expose MNotify SMS tools over the Model Context Protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnotify_mcp_server-0.1.1.tar.gz",
+  "download_time": "2025-08-21T22:44:43.113823",
+  "package_url": "https://pypi.org/project/mnotify-mcp-server/"
+}

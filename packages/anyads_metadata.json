@@ -1,11 +1,11 @@
 {
   "name": "anyads",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Official SDK for the AnyAds advertising platform for Telegram bots.",
   "author": "MaoMedia AnyAds",
   "license": null,
   "home_page": null,
-  "download_filename": "anyads-0.1.2.tar.gz",
-  "download_time": "2025-08-21T14:20:23.555414",
+  "download_filename": "anyads-0.1.3.tar.gz",
+  "download_time": "2025-08-21T22:44:46.820427",
   "package_url": "https://pypi.org/project/anyads/"
 }

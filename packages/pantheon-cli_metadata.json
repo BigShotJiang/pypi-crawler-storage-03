@@ -1,0 +1,11 @@
+{
+  "name": "pantheon-cli",
+  "version": "0.1.2",
+  "summary": "Command Line Interface for Pantheon - A framework for building distributed evolvable multi-agent systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pantheon_cli-0.1.2.tar.gz",
+  "download_time": "2025-08-21T22:44:32.962807",
+  "package_url": "https://pypi.org/project/pantheon-cli/"
+}

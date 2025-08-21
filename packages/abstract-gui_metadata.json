@@ -1,11 +1,11 @@
 {
   "name": "abstract-gui",
-  "version": "0.1.63.90",
+  "version": "0.1.63.91",
   "summary": null,
   "author": "putkoff",
   "license": null,
   "home_page": null,
-  "download_filename": "abstract_gui-0.1.63.90.tar.gz",
-  "download_time": "2025-08-21T18:29:15.665674",
+  "download_filename": "abstract_gui-0.1.63.91.tar.gz",
+  "download_time": "2025-08-21T22:44:27.636499",
   "package_url": "https://pypi.org/project/abstract-gui/"
 }

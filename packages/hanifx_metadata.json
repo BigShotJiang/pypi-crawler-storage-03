@@ -1,11 +1,11 @@
 {
   "name": "hanifx",
-  "version": "19.0.0",
-  "summary": "HanifX v19.0.0 - Real-time Auto App Detection",
+  "version": "20.0.0",
+  "summary": "Offline OTP Generator (TOTP/HOTP) with QR and backup codes",
   "author": "Hanif",
   "license": null,
   "home_page": "https://github.com/hanifx-540",
-  "download_filename": "hanifx-19.0.0.tar.gz",
-  "download_time": "2025-08-18T10:48:24.637031",
+  "download_filename": "hanifx-20.0.0.tar.gz",
+  "download_time": "2025-08-21T22:44:44.202453",
   "package_url": "https://pypi.org/project/hanifx/"
 }
