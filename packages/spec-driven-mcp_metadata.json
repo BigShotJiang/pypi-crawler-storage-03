@@ -1,11 +1,11 @@
 {
   "name": "spec-driven-mcp",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "MCP server for specification-driven development: manage feature specs, requirements, acceptance criteria, test linkage and status.",
   "author": "Tiago Melo",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "spec_driven_mcp-0.0.6.tar.gz",
-  "download_time": "2025-08-21T02:55:09.643589",
+  "download_filename": "spec_driven_mcp-0.0.7.tar.gz",
+  "download_time": "2025-08-21T03:42:29.514489",
   "package_url": "https://pypi.org/project/spec-driven-mcp/"
 }

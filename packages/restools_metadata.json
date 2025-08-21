@@ -1,0 +1,11 @@
+{
+  "name": "restools",
+  "version": "0.0.1.2",
+  "summary": "Collection of useful tools for research paper",
+  "author": "WorldSimulator",
+  "license": "Apache",
+  "home_page": "https://gitee.com/FutureAGI/ResearchTools",
+  "download_filename": "restools-0.0.1.2.tar.gz",
+  "download_time": "2025-08-21T03:41:47.800999",
+  "package_url": "https://pypi.org/project/restools/"
+}

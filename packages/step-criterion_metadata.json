@@ -1,11 +1,11 @@
 {
   "name": "step-criterion",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Educational stepwise model selection for statsmodels: AIC, BIC, Adjusted R², and p-values with OLS/GLM support for exploratory analysis.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "step_criterion-0.2.1.tar.gz",
-  "download_time": "2025-08-20T22:42:32.680010",
+  "download_filename": "step_criterion-0.2.2.tar.gz",
+  "download_time": "2025-08-21T03:41:53.587640",
   "package_url": "https://pypi.org/project/step-criterion/"
 }

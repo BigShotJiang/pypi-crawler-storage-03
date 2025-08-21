@@ -1,0 +1,11 @@
+{
+  "name": "qagen",
+  "version": "0.1.0",
+  "summary": "A powerful Chinese document QA pairs generation and validation tool with multiple LLM support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qagen-0.1.0.tar.gz",
+  "download_time": "2025-08-21T03:41:56.995754",
+  "package_url": "https://pypi.org/project/qagen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "easyapp-don",
+  "version": "0.2.2",
+  "summary": "A simple tool for building apps—even easier than Kivy and KivyMD!",
+  "author": "LvYanHua",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easyapp_don-0.2.2.tar.gz",
+  "download_time": "2025-08-21T03:41:54.158568",
+  "package_url": "https://pypi.org/project/easyapp-don/"
+}
