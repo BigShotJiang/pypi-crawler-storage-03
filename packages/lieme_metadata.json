@@ -1,0 +1,11 @@
+{
+  "name": "lieme",
+  "version": "0.2.0",
+  "summary": "Li-ion Intercalation Electrode Materials Exploration",
+  "author": "Sree Harsha Bhimineni",
+  "license": "MIT",
+  "home_page": "https://github.com/sreeharshab/lieme",
+  "download_filename": "lieme-0.2.0.tar.gz",
+  "download_time": "2025-08-21T14:46:15.500788",
+  "package_url": "https://pypi.org/project/lieme/"
+}

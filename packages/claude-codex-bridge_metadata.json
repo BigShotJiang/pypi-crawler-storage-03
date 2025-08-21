@@ -1,0 +1,11 @@
+{
+  "name": "claude-codex-bridge",
+  "version": "0.1.2",
+  "summary": "An intelligent MCP server for orchestrating task delegation between Claude and OpenAI Codex CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_codex_bridge-0.1.2.tar.gz",
+  "download_time": "2025-08-21T14:46:30.571777",
+  "package_url": "https://pypi.org/project/claude-codex-bridge/"
+}

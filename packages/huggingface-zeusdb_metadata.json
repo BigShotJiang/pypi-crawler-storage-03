@@ -1,0 +1,11 @@
+{
+  "name": "huggingface-zeusdb",
+  "version": "0.0.0",
+  "summary": "Open-source RAG with any model: Hugging Face embeddings + ZeusDB vector storage with local deployment and GPU optimization.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "huggingface_zeusdb-0.0.0.tar.gz",
+  "download_time": "2025-08-21T14:46:20.705967",
+  "package_url": "https://pypi.org/project/huggingface-zeusdb/"
+}

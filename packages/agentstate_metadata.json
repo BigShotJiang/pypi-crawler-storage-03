@@ -1,0 +1,11 @@
+{
+  "name": "agentstate",
+  "version": "1.0.1",
+  "summary": "Firebase for AI Agents - Persistent state management for AI applications",
+  "author": "Ayush Mittal",
+  "license": null,
+  "home_page": "https://github.com/ayushmi/agentstate",
+  "download_filename": "agentstate-1.0.1.tar.gz",
+  "download_time": "2025-08-21T14:46:17.067262",
+  "package_url": "https://pypi.org/project/agentstate/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlpro-int-mujoco",
+  "version": "1.0.3",
+  "summary": "MLPro: Integration MuJoCo",
+  "author": "MLPro Team",
+  "license": null,
+  "home_page": "https://mlpro-int-mujoco.readthedocs.io",
+  "download_filename": "mlpro_int_mujoco-1.0.3.tar.gz",
+  "download_time": "2025-08-21T14:46:21.227755",
+  "package_url": "https://pypi.org/project/mlpro-int-mujoco/"
+}

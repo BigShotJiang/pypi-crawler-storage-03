@@ -1,11 +1,11 @@
 {
   "name": "proof-of-portfolio",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Zero-Knowledge Proof framework for verifiable, private portfolio performance metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proof_of_portfolio-0.0.3.tar.gz",
-  "download_time": "2025-08-21T07:03:35.925029",
+  "download_filename": "proof_of_portfolio-0.0.4.tar.gz",
+  "download_time": "2025-08-21T14:46:16.544442",
   "package_url": "https://pypi.org/project/proof-of-portfolio/"
 }

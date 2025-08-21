@@ -1,11 +1,11 @@
 {
   "name": "trackeval",
-  "version": "0.1.4",
+  "version": "1.1.0",
   "summary": "Different tracking evaluation metrics including HOTA metrics.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "trackeval-0.1.4.tar.gz",
-  "download_time": "2025-08-20T11:17:12.041711",
+  "download_filename": "trackeval-1.1.0.tar.gz",
+  "download_time": "2025-08-21T14:46:31.090635",
   "package_url": "https://pypi.org/project/trackeval/"
 }

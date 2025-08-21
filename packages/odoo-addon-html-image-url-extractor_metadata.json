@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-html-image-url-extractor",
+  "version": "16.0.1.0.0.2",
+  "summary": "Extract images found in any HTML field",
+  "author": "Tecnativa, Onestein, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_html_image_url_extractor-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2025-08-21T14:46:01.114666",
+  "package_url": "https://pypi.org/project/odoo-addon-html-image-url-extractor/"
+}

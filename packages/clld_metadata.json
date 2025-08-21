@@ -1,0 +1,11 @@
+{
+  "name": "clld",
+  "version": "11.5.0",
+  "summary": "Python library supporting the development of cross-linguistic databases",
+  "author": "Robert Forkel",
+  "license": "Apache 2.0",
+  "home_page": "https://clld.org",
+  "download_filename": "clld-11.5.0.tar.gz",
+  "download_time": "2025-08-21T14:46:09.212498",
+  "package_url": "https://pypi.org/project/clld/"
+}
