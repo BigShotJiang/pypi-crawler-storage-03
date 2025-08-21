@@ -1,0 +1,11 @@
+{
+  "name": "bacolonyzer",
+  "version": "2.0.10",
+  "summary": "Analyse timeseries of QFA images",
+  "author": "Judith Bergada",
+  "license": "MIT",
+  "home_page": "https://github.com/judithbergada/bacolonyzer",
+  "download_filename": "bacolonyzer-2.0.10.tar.gz",
+  "download_time": "2025-08-21T20:43:18.393292",
+  "package_url": "https://pypi.org/project/bacolonyzer/"
+}

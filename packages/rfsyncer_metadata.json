@@ -1,0 +1,11 @@
+{
+  "name": "rfsyncer",
+  "version": "0.0.9",
+  "summary": "A symple tool to make diffs and synchronize file trees.",
+  "author": "Headorteil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rfsyncer-0.0.9.tar.gz",
+  "download_time": "2025-08-21T20:43:10.116625",
+  "package_url": "https://pypi.org/project/rfsyncer/"
+}

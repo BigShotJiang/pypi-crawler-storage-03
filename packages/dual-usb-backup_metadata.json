@@ -1,0 +1,11 @@
+{
+  "name": "dual-usb-backup",
+  "version": "0.1.0",
+  "summary": "Dual-USB Hardware Backup Module for secure offline password management.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dual_usb_backup-0.1.0.tar.gz",
+  "download_time": "2025-08-21T20:42:55.140124",
+  "package_url": "https://pypi.org/project/dual-usb-backup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imgram",
+  "version": "1.0.1",
+  "summary": "Instagram media downloader CLI (doesn't work for stories)",
+  "author": "Doozy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imgram-1.0.1.tar.gz",
+  "download_time": "2025-08-21T20:42:55.684160",
+  "package_url": "https://pypi.org/project/imgram/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "plixlab",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "summary": "Interactive scientific presentations in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plixlab-0.5.7.tar.gz",
-  "download_time": "2025-08-21T18:51:08.018256",
+  "download_filename": "plixlab-0.5.8.tar.gz",
+  "download_time": "2025-08-21T20:43:02.175686",
   "package_url": "https://pypi.org/project/plixlab/"
 }

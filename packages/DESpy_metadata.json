@@ -1,0 +1,11 @@
+{
+  "name": "DESpy",
+  "version": "1.0.0",
+  "summary": "Support for DES Modeling using Event Graphs",
+  "author": "Arnold Buss",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/ahbuss/DESpy",
+  "download_filename": "despy-1.0.0.tar.gz",
+  "download_time": "2025-08-21T20:43:11.247509",
+  "package_url": "https://pypi.org/project/DESpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verdi-llm",
+  "version": "0.1.0",
+  "summary": "An LLM tool for an even easier use of AiiDA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "verdi_llm-0.1.0.tar.gz",
+  "download_time": "2025-08-21T20:43:15.605279",
+  "package_url": "https://pypi.org/project/verdi-llm/"
+}

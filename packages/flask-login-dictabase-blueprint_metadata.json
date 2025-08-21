@@ -1,0 +1,11 @@
+{
+  "name": "flask-login-dictabase-blueprint",
+  "version": "2.0.3",
+  "summary": "A Flask Blueprint for managing users.",
+  "author": "Grant miller",
+  "license": "PSF",
+  "home_page": "https://github.com/GrantGMiller/blueprint_flask_login_dictabase",
+  "download_filename": "flask_login_dictabase_blueprint-2.0.3.tar.gz",
+  "download_time": "2025-08-21T20:43:05.360397",
+  "package_url": "https://pypi.org/project/flask-login-dictabase-blueprint/"
+}
