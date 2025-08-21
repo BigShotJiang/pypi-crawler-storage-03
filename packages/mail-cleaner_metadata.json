@@ -1,0 +1,11 @@
+{
+  "name": "mail-cleaner",
+  "version": "2.0.0",
+  "summary": "Handle and sanitize HTML & text emails",
+  "author": "Maykin Media",
+  "license": "MIT",
+  "home_page": "https://github.com/maykinmedia/mail-cleaner",
+  "download_filename": "mail_cleaner-2.0.0.tar.gz",
+  "download_time": "2025-08-21T10:21:13.503851",
+  "package_url": "https://pypi.org/project/mail-cleaner/"
+}

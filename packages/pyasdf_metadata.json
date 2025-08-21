@@ -1,0 +1,11 @@
+{
+  "name": "pyasdf",
+  "version": "0.8.2",
+  "summary": "Python module for the Adaptable Seismic Data Format (ASDF).",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pyasdf-0.8.2.tar.gz",
+  "download_time": "2025-08-21T10:21:45.537104",
+  "package_url": "https://pypi.org/project/pyasdf/"
+}

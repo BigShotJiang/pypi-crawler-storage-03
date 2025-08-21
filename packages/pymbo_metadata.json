@@ -1,0 +1,11 @@
+{
+  "name": "pymbo",
+  "version": "3.6.6",
+  "summary": "State-of-the-art multi-objective Bayesian optimization with qNEHVI, qLogEI, and mixed-variable support",
+  "author": "Jakub Jagielski",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/pymbo/",
+  "download_filename": "pymbo-3.6.6.tar.gz",
+  "download_time": "2025-08-21T10:21:19.238492",
+  "package_url": "https://pypi.org/project/pymbo/"
+}

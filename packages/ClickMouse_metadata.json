@@ -1,11 +1,11 @@
 {
   "name": "ClickMouse",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "基于Python的鼠标连点工具",
   "author": "xystudio",
   "license": null,
   "home_page": "https://github.com/xystudio/pyClickMouse",
-  "download_filename": "clickmouse-0.1.0.tar.gz",
-  "download_time": "2025-08-19T06:30:40.639285",
+  "download_filename": "clickmouse-0.1.1.tar.gz",
+  "download_time": "2025-08-21T10:21:49.725981",
   "package_url": "https://pypi.org/project/ClickMouse/"
 }
