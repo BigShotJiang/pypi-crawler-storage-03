@@ -1,11 +1,41 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T20:43:35.654553
+- **Download Time**: 2025-08-21T20:54:01.493378
 - **Total Packages**: 76
-- **Total Size**: 42.39 MB
+- **Total Size**: 8.45 MB
 
 ## Packages List
+- rezen
+- scc-firewall-manager-sdk
+- obsidiana
+- datacontract-helper
+- lunary
+- sapiopycommons
+- philoch-bib-sdk
+- pysarflow
+- reva-coregistration
+- cw-sdk
+- http-snapshot
+- scikit-kinematics
+- marEx
+- pulumi-provider-boilerplate
+- predibase
+- predibase-api
+- plotmath
+- projectdavid-common
+- akscmd
+- pykada
+- eox-tenant
+- signalblast
+- valuascript-compiler
+- klyne
+- nettracer3d
+- pydruglogics
+- crcutil
+- lt-utils
+- codearkt
+- langchain-tool-server
 - class-resolver
 - fsai-proto-specs
 - GameBox
@@ -15,7 +45,6 @@
 - dual-usb-backup
 - imgram
 - cucu
-- datacontract-helper
 - helion
 - ai-edge-quantizer
 - py-imgui-redux
@@ -28,10 +57,8 @@
 - snakestack
 - neuro-san
 - pygpt-net
-- pulumi-provider-boilerplate
 - flask-login-dictabase-blueprint
 - openpipe-art
-- akscmd
 - tlparse
 - netboxlabs-netbox-custom-objects
 - rotary-spatial-embeddings
@@ -51,34 +78,7 @@
 - sarm-sdk
 - terrapyn
 - cirrocumulus
-- http-snapshot
 - bacolonyzer
 - augint-billing-lib
 - whisper-eval-serbian
 - fair-llm
-- bhp-pro
-- singer-sdk
-- ragl
-- NREL-altdss-schema
-- pmma
-- django-cravensworth
-- morin
-- pydiverse-colspec
-- multidecoder
-- projectdavid
-- forecasting-tools
-- lusid-workflow-sdk
-- dedalus-labs
-- truss
-- cehrbert-data
-- RubigramClient
-- agentsystems-sdk
-- pardakht
-- grain
-- proof-of-portfolio
-- adomo
-- tiffwrite
-- llm-sql-prompt
-- sideko_allium
-- derive_action_signing
-- supadata

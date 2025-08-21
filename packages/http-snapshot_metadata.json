@@ -1,11 +1,11 @@
 {
   "name": "http-snapshot",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "http-snapshot is a pytest plugin that snapshots requests made with popular Python HTTP clients.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "http_snapshot-0.1.1.tar.gz",
-  "download_time": "2025-08-21T20:43:17.870792",
+  "download_filename": "http_snapshot-0.1.2.tar.gz",
+  "download_time": "2025-08-21T20:53:26.976778",
   "package_url": "https://pypi.org/project/http-snapshot/"
 }

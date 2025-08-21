@@ -1,0 +1,11 @@
+{
+  "name": "reva-coregistration",
+  "version": "1.0.0",
+  "summary": "A Python package for image coregistration and coordinate transformation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reva_coregistration-1.0.0.tar.gz",
+  "download_time": "2025-08-21T20:53:25.871663",
+  "package_url": "https://pypi.org/project/reva-coregistration/"
+}

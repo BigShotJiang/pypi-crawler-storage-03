@@ -1,0 +1,11 @@
+{
+  "name": "pykada",
+  "version": "1.0.0",
+  "summary": "A handy library for interacting with Verkada APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pykada-1.0.0.tar.gz",
+  "download_time": "2025-08-21T20:53:32.254106",
+  "package_url": "https://pypi.org/project/pykada/"
+}
