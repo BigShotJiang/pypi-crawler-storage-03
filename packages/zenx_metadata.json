@@ -1,11 +1,11 @@
 {
   "name": "zenx",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "summary": "mini-framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zenx-0.17.0.tar.gz",
-  "download_time": "2025-08-21T03:41:52.448471",
+  "download_filename": "zenx-0.17.1.tar.gz",
+  "download_time": "2025-08-21T04:48:46.363400",
   "package_url": "https://pypi.org/project/zenx/"
 }

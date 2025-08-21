@@ -1,11 +1,11 @@
 {
   "name": "sthali-db",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A FastAPI package dependency for SthaliCRUD perform DB queries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sthali_db-0.0.2.tar.gz",
-  "download_time": "2025-08-18T01:46:18.851084",
+  "download_filename": "sthali_db-0.0.3.tar.gz",
+  "download_time": "2025-08-21T04:48:44.396552",
   "package_url": "https://pypi.org/project/sthali-db/"
 }
