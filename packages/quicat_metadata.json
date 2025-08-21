@@ -1,0 +1,11 @@
+{
+  "name": "quicat",
+  "version": "0.1.2",
+  "summary": "QUIck Clonal Analysis Toolkit - quicat",
+  "author": "Daniele Lucarelli",
+  "license": null,
+  "home_page": "https://github.com/theislab/quicat",
+  "download_filename": "quicat-0.1.2.tar.gz",
+  "download_time": "2025-08-21T09:21:49.706316",
+  "package_url": "https://pypi.org/project/quicat/"
+}

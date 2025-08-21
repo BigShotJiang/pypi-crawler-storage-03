@@ -1,0 +1,11 @@
+{
+  "name": "currency-mcp",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol (MCP) server for currency conversion using the Frankfurter API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "currency_mcp-0.2.0.tar.gz",
+  "download_time": "2025-08-21T09:21:28.036560",
+  "package_url": "https://pypi.org/project/currency-mcp/"
+}

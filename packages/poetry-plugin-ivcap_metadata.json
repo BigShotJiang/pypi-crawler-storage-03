@@ -1,11 +1,11 @@
 {
   "name": "poetry-plugin-ivcap",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A custom Poetry command for IVCAP deployments",
   "author": "Max Ott",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "poetry_plugin_ivcap-0.5.0.tar.gz",
-  "download_time": "2025-08-20T10:56:08.901472",
+  "download_filename": "poetry_plugin_ivcap-0.5.1.tar.gz",
+  "download_time": "2025-08-21T09:21:39.921204",
   "package_url": "https://pypi.org/project/poetry-plugin-ivcap/"
 }

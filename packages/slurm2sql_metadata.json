@@ -1,0 +1,11 @@
+{
+  "name": "slurm2sql",
+  "version": "0.9.8",
+  "summary": "Import Slurm accounting database from sacct to sqlite3 database",
+  "author": "Richard Darst",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slurm2sql-0.9.8.tar.gz",
+  "download_time": "2025-08-21T09:21:40.493321",
+  "package_url": "https://pypi.org/project/slurm2sql/"
+}

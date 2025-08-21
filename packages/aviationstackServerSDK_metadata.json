@@ -1,0 +1,11 @@
+{
+  "name": "aviationstackServerSDK",
+  "version": "1.0.0",
+  "summary": "The Aviationstack API provides real-time and historical flight data, including flight status, airline routes, airports, and aircraft information, for aviation tracking and analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aviationstackserversdk-1.0.0.tar.gz",
+  "download_time": "2025-08-21T09:21:24.227092",
+  "package_url": "https://pypi.org/project/aviationstackServerSDK/"
+}

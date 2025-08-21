@@ -1,0 +1,11 @@
+{
+  "name": "djpay",
+  "version": "0.2.0",
+  "summary": "A reusable Django app for handling various type of paying methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djpay-0.2.0.tar.gz",
+  "download_time": "2025-08-21T09:21:38.212363",
+  "package_url": "https://pypi.org/project/djpay/"
+}

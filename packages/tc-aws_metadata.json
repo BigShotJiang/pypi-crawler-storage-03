@@ -1,11 +1,11 @@
 {
   "name": "tc-aws",
-  "version": "7.0.3",
+  "version": "7.0.4",
   "summary": "Thumbor AWS extensions",
   "author": "Thumbor-Community & William King",
   "license": null,
   "home_page": null,
-  "download_filename": "tc_aws-7.0.3.tar.gz",
-  "download_time": "2025-08-18T07:34:13.489472",
+  "download_filename": "tc_aws-7.0.4.tar.gz",
+  "download_time": "2025-08-21T09:21:48.567236",
   "package_url": "https://pypi.org/project/tc-aws/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lineage-rpg",
-  "version": "0.0.14",
+  "version": "0.0.23",
   "summary": "An interactive CLI RPG game.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lineage_rpg-0.0.14.tar.gz",
-  "download_time": "2025-08-21T08:48:46.134315",
+  "download_filename": "lineage_rpg-0.0.23.tar.gz",
+  "download_time": "2025-08-21T09:21:26.233284",
   "package_url": "https://pypi.org/project/lineage-rpg/"
 }

@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-21T08:49:26.636528
-- **Total Packages**: 82
-- **Total Size**: 54.96 MB
+- **Download Time**: 2025-08-21T09:22:16.527718
+- **Total Packages**: 88
+- **Total Size**: 25.24 MB
 
 ## Packages List
+- aviationstackServerSDK
+- activity-browser
+- bdext
+- lineage-rpg
+- apideck-unify
+- reticulum
+- currency-mcp
+- ratio1
+- omni-pathlib
+- takanarishimbo-ros2-exec-mcp
+- itertools-len
+- mcp-kyvos-server
+- smart-git-agent
+- xenoverse
+- one-chat-api
+- aioamazondevices
+- lsst-daf-butler
+- anonupload
+- ast-tool-py
+- rh-email-tpl
+- alluxiofs
+- selenium-wire-roadtx
+- sunagent-app
+- djpay
+- kailash-dataflow
+- mmcb-avt
+- poetry-plugin-ivcap
+- slurm2sql
+- kailash
+- pyplantsim
+- ethz_iam_webservice
+- rtdi-ducktape
+- airalogy
+- tart2ms
+- multiplayer-session-recorder
+- commonground-api-common
+- logtalk-jupyter-kernel
+- umep
+- mlconfgen
+- data-analyse
+- inoopa_utils
+- tc-aws
+- accessible-space
+- quicat
+- dotdict-tool
+- studyfetch-sdk
+- test-rest-api
+- async-bash-mcp
 - blackboxopt
 - lsst-utils
 - lsst-pipe-base
@@ -15,7 +63,6 @@
 - lsst-resources
 - mangotools
 - lsst-rucio-register
-- lineage-rpg
 - lsst-pex-config
 - legit-api-client
 - mcp-logseq
@@ -39,7 +86,6 @@
 - abstract-gui
 - docu-devs-api-client
 - insight-proto
-- dotdict-support
 - torch-lambda-happy
 - galaxy-peach
 - xkeys
@@ -48,43 +94,3 @@
 - bmw-lobster-tool-json
 - validate-pyproject-schema-store
 - bmw-lobster-tool-gtest
-- bmw-lobster-tool-cpptest
-- bmw-lobster-tool-cpp
-- bmw-lobster-tool-codebeamer
-- bmw-lobster-monolithic
-- bmw-lobster-core
-- bmw-lobster
-- ablelabs
-- ua-extract
-- udata-hydra
-- pulumi
-- berrydb
-- sepp-tools
-- kuzu
-- tg-jarv-dialogue-manager
-- Equia
-- bizydraft
-- radboy
-- bubblebarrier
-- rabbitmq-arq
-- zhousf-lib
-- panda-agi
-- laser-mind-client
-- universal-timeseries-transformer
-- unitree-dds-wrapper
-- pipelex
-- pulseflow
-- asknews
-- mi4-conventional-commits-lib
-- fnirs-toolkit
-- retracesoftware-functional
-- reywechat
-- abstract-images
-- faird
-- moy-nalog-py
-- aabd
-- enhance-this
-- wandelbots-api-client
-- moveshelf-api
-- video-quick-editor-mcp
-- dj-flexi-tag

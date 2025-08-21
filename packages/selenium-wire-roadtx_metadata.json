@@ -1,0 +1,11 @@
+{
+  "name": "selenium-wire-roadtx",
+  "version": "5.2.1",
+  "summary": "Extends Selenium to give you the ability to inspect requests made by the browser.",
+  "author": "Will Keeling",
+  "license": "MIT",
+  "home_page": "https://github.com/dirkjanm/selenium-wire-roadtx/",
+  "download_filename": "selenium_wire_roadtx-5.2.1.tar.gz",
+  "download_time": "2025-08-21T09:21:37.096324",
+  "package_url": "https://pypi.org/project/selenium-wire-roadtx/"
+}
