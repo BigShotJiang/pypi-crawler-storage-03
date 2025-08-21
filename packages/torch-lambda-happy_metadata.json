@@ -1,11 +1,11 @@
 {
   "name": "torch-lambda-happy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Python package exposing the LambdaHappy class",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torch_lambda_happy-0.1.4.tar.gz",
-  "download_time": "2025-08-21T08:48:59.692664",
+  "download_filename": "torch_lambda_happy-0.1.5.tar.gz",
+  "download_time": "2025-08-21T13:48:33.077131",
   "package_url": "https://pypi.org/project/torch-lambda-happy/"
 }

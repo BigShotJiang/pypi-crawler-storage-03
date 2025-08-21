@@ -1,0 +1,11 @@
+{
+  "name": "pyoxipng",
+  "version": "9.1.1",
+  "summary": "Python wrapper for multithreaded .png image file optimizer oxipng",
+  "author": "Nick Frasser <nfrasser@users.noreply.github.com>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoxipng-9.1.1.tar.gz",
+  "download_time": "2025-08-21T13:48:13.705448",
+  "package_url": "https://pypi.org/project/pyoxipng/"
+}

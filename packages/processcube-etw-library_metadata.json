@@ -1,0 +1,11 @@
+{
+  "name": "processcube-etw-library",
+  "version": "0.1.0",
+  "summary": "OAuth Identity Provider für ProcessCube",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "processcube_etw_library-0.1.0.tar.gz",
+  "download_time": "2025-08-21T13:48:47.722315",
+  "package_url": "https://pypi.org/project/processcube-etw-library/"
+}

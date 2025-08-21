@@ -1,0 +1,11 @@
+{
+  "name": "aioazuredevops",
+  "version": "2.2.2",
+  "summary": "Get data from the Azure DevOps API",
+  "author": "Aidan Timson (Timmo)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/timmo001/aioazuredevops",
+  "download_filename": "aioazuredevops-2.2.2.tar.gz",
+  "download_time": "2025-08-21T13:48:48.750126",
+  "package_url": "https://pypi.org/project/aioazuredevops/"
+}

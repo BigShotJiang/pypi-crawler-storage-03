@@ -1,0 +1,11 @@
+{
+  "name": "CHE-QNM",
+  "version": "0.0.2",
+  "summary": "Package to solve QNMs using HeunC_functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "che_qnm-0.0.2.tar.gz",
+  "download_time": "2025-08-21T13:48:25.220631",
+  "package_url": "https://pypi.org/project/CHE-QNM/"
+}

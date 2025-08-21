@@ -1,0 +1,11 @@
+{
+  "name": "omniplate",
+  "version": "2.11.12",
+  "summary": "For analysing and meta-analysing plate-reader data",
+  "author": "Peter Swain",
+  "license": "MIT",
+  "home_page": "https://swainlab.bio.ed.ac.uk/software/omniplate",
+  "download_filename": "omniplate-2.11.12.tar.gz",
+  "download_time": "2025-08-21T13:48:27.288206",
+  "package_url": "https://pypi.org/project/omniplate/"
+}

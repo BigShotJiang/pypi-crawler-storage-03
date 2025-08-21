@@ -1,0 +1,11 @@
+{
+  "name": "aiolyric",
+  "version": "2.0.2",
+  "summary": "Python package for the Honeywell Lyric Platform",
+  "author": "Aidan Timson (Timmo)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/timmo001/aiolyric",
+  "download_filename": "aiolyric-2.0.2.tar.gz",
+  "download_time": "2025-08-21T13:48:47.203616",
+  "package_url": "https://pypi.org/project/aiolyric/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cconf",
+  "version": "1.0.0",
+  "summary": "Multi-sourced (and optionally encrypted) configuration management.",
+  "author": "Dan Watson",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "cconf-1.0.0.tar.gz",
+  "download_time": "2025-08-21T13:48:05.096585",
+  "package_url": "https://pypi.org/project/cconf/"
+}

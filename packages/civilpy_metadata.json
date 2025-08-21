@@ -1,0 +1,11 @@
+{
+  "name": "civilpy",
+  "version": "0.1.19",
+  "summary": "Civil Engineering Tools in Python",
+  "author": "Dane Parks",
+  "license": "AGPL-V3",
+  "home_page": "https://daneparks.com/Dane/civilpy",
+  "download_filename": "civilpy-0.1.19.tar.gz",
+  "download_time": "2025-08-21T13:48:29.894717",
+  "package_url": "https://pypi.org/project/civilpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "avocavo",
+  "version": "1.1.1",
+  "summary": "Avocavo Python SDK - Nutrition analysis made simple with secure USDA data access",
+  "author": "Avocavo",
+  "license": "MIT",
+  "home_page": "https://github.com/avocavo/avocavo-python",
+  "download_filename": "avocavo-1.1.1.tar.gz",
+  "download_time": "2025-08-21T13:48:12.643045",
+  "package_url": "https://pypi.org/project/avocavo/"
+}
