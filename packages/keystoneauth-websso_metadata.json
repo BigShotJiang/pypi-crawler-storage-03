@@ -1,0 +1,11 @@
+{
+  "name": "keystoneauth-websso",
+  "version": "0.2.5",
+  "summary": "WebSSO CLI support for OpenStack keystoneauth library",
+  "author": "Ed Timmons",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "keystoneauth_websso-0.2.5.tar.gz",
+  "download_time": "2025-08-21T17:42:50.763464",
+  "package_url": "https://pypi.org/project/keystoneauth-websso/"
+}

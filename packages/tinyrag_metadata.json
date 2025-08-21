@@ -1,0 +1,11 @@
+{
+  "name": "tinyrag",
+  "version": "0.1.0",
+  "summary": "A minimal Python library for Retrieval-Augmented Generation with multiple vector store backends",
+  "author": "TinyRag Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Kenosis01/TinyRag",
+  "download_filename": "tinyrag-0.1.0.tar.gz",
+  "download_time": "2025-08-21T17:42:29.502184",
+  "package_url": "https://pypi.org/project/tinyrag/"
+}

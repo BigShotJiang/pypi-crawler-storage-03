@@ -1,11 +1,11 @@
 {
   "name": "django-denorm-iplweb",
-  "version": "1.2.2",
+  "version": "1.4.0",
   "summary": "Denormalization magic for Django",
   "author": null,
   "license": null,
   "home_page": "http://github.com/mpasternak/django-denorm-iplweb/",
-  "download_filename": "django_denorm_iplweb-1.2.2.tar.gz",
-  "download_time": "2025-08-21T09:53:46.220467",
+  "download_filename": "django_denorm_iplweb-1.4.0.tar.gz",
+  "download_time": "2025-08-21T17:42:53.860313",
   "package_url": "https://pypi.org/project/django-denorm-iplweb/"
 }

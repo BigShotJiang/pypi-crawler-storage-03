@@ -1,0 +1,11 @@
+{
+  "name": "nf9",
+  "version": "1.4.1",
+  "summary": "High level interface to SAOImageDS9 using pyds9()",
+  "author": "Nor Pirzkal",
+  "license": null,
+  "home_page": "https://github.com/npirzkal/GRISMCONF",
+  "download_filename": "nf9-1.4.1.tar.gz",
+  "download_time": "2025-08-21T17:42:22.708449",
+  "package_url": "https://pypi.org/project/nf9/"
+}

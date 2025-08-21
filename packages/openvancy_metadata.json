@@ -1,11 +1,11 @@
 {
   "name": "openvancy",
-  "version": "0.0.3.7",
+  "version": "0.0.3.9",
   "summary": "Defect analysis and vacancy calculation for materials science",
   "author": "E.Bringa-S.Bergamin-SiMaF",
   "license": "MIT",
   "home_page": "https://github.com/TiagoBe0/VFScript-SiMaF",
-  "download_filename": "openvancy-0.0.3.7.tar.gz",
-  "download_time": "2025-08-21T17:23:18.119366",
+  "download_filename": "openvancy-0.0.3.9.tar.gz",
+  "download_time": "2025-08-21T17:42:28.991911",
   "package_url": "https://pypi.org/project/openvancy/"
 }

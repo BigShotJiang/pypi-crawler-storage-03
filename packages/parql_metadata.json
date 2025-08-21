@@ -1,0 +1,11 @@
+{
+  "name": "parql",
+  "version": "1.0.0",
+  "summary": "A command-line tool for querying and manipulating Parquet datasets",
+  "author": "Abdul Rafey",
+  "license": null,
+  "home_page": "https://github.com/abdulrafey38/parql",
+  "download_filename": "parql-1.0.0.tar.gz",
+  "download_time": "2025-08-21T17:42:23.734717",
+  "package_url": "https://pypi.org/project/parql/"
+}

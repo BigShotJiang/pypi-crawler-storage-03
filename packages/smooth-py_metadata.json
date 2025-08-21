@@ -1,11 +1,11 @@
 {
   "name": "smooth-py",
-  "version": "0.1.3",
+  "version": "0.1.3.post0",
   "summary": null,
   "author": "Luca Pinchetti",
   "license": null,
   "home_page": null,
-  "download_filename": "smooth_py-0.1.3.tar.gz",
-  "download_time": "2025-08-21T16:54:22.324261",
+  "download_filename": "smooth_py-0.1.3.post0.tar.gz",
+  "download_time": "2025-08-21T17:42:32.647638",
   "package_url": "https://pypi.org/project/smooth-py/"
 }

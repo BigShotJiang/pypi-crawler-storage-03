@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-antiddos-public20170518",
+  "version": "1.0.5",
+  "summary": "Alibaba Cloud antiddos-public (20170518) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_antiddos-public20170518-1.0.5.tar.gz",
+  "download_time": "2025-08-21T17:42:24.246837",
+  "package_url": "https://pypi.org/project/alibabacloud-antiddos-public20170518/"
+}

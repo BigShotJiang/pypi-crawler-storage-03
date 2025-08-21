@@ -1,0 +1,11 @@
+{
+  "name": "acp-plugin-gamesdk",
+  "version": "0.2.8",
+  "summary": "ACP Plugin for Python SDK for GAME by Virtuals",
+  "author": "Steven Lee Soon Fatt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "acp_plugin_gamesdk-0.2.8.tar.gz",
+  "download_time": "2025-08-21T17:42:56.952629",
+  "package_url": "https://pypi.org/project/acp-plugin-gamesdk/"
+}

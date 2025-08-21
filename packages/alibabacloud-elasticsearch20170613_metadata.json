@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-elasticsearch20170613",
+  "version": "3.1.0",
+  "summary": "Alibaba Cloud Elasticsearch (20170613) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_elasticsearch20170613-3.1.0.tar.gz",
+  "download_time": "2025-08-21T17:42:34.730645",
+  "package_url": "https://pypi.org/project/alibabacloud-elasticsearch20170613/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "arnelify-orm",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Minimalistic dynamic library which is an ORM written in C and C++.",
   "author": "Arnelify",
   "license": "MIT",
   "home_page": "https://github.com/arnelify/arnelify-orm-python",
-  "download_filename": "arnelify_orm-0.7.4.tar.gz",
-  "download_time": "2025-08-21T10:21:46.056836",
+  "download_filename": "arnelify_orm-0.7.5.tar.gz",
+  "download_time": "2025-08-21T17:42:57.465515",
   "package_url": "https://pypi.org/project/arnelify-orm/"
 }
