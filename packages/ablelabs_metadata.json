@@ -1,0 +1,11 @@
+{
+  "name": "ablelabs",
+  "version": "0.4.0",
+  "summary": "ABLE Labs API",
+  "author": "sypark",
+  "license": "MIT",
+  "home_page": "https://github.com/ABLE-Labs/ABLE-API",
+  "download_filename": "ablelabs-0.4.0.tar.gz",
+  "download_time": "2025-08-21T07:51:38.038150",
+  "package_url": "https://pypi.org/project/ablelabs/"
+}

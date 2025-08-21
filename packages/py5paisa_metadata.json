@@ -1,0 +1,11 @@
+{
+  "name": "py5paisa",
+  "version": "0.7.21.2",
+  "summary": "Python SDK for 5paisa APIs natively written in VB.NET",
+  "author": "5paisa",
+  "license": null,
+  "home_page": "https://github.com/5paisa/py5paisa",
+  "download_filename": "py5paisa-0.7.21.2.tar.gz",
+  "download_time": "2025-08-21T07:52:11.594005",
+  "package_url": "https://pypi.org/project/py5paisa/"
+}
