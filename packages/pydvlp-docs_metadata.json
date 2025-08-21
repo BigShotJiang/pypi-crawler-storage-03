@@ -1,0 +1,11 @@
+{
+  "name": "pydvlp-docs",
+  "version": "0.1.3",
+  "summary": "Universal Python documentation generator with 40+ Sphinx extensions pre-configured. Zero-configuration setup for beautiful, professional documentation.",
+  "author": "William R. Astley",
+  "license": null,
+  "home_page": "https://will.astley.dev",
+  "download_filename": "pydvlp_docs-0.1.3.tar.gz",
+  "download_time": "2025-08-21T01:26:06.354459",
+  "package_url": "https://pypi.org/project/pydvlp-docs/"
+}

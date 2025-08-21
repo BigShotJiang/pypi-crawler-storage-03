@@ -1,11 +1,11 @@
 {
   "name": "dgenerate-ultralytics-headless",
-  "version": "8.3.181",
+  "version": "8.3.182",
   "summary": "Automatically built Ultralytics package with python-opencv-headless dependency instead of python-opencv",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "dgenerate_ultralytics_headless-8.3.181.tar.gz",
-  "download_time": "2025-08-20T01:26:35.417911",
+  "download_filename": "dgenerate_ultralytics_headless-8.3.182.tar.gz",
+  "download_time": "2025-08-21T01:26:14.507720",
   "package_url": "https://pypi.org/project/dgenerate-ultralytics-headless/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "assetra",
+  "version": "2025.8.20",
+  "summary": "ASSET Lab Resource Adequacy Package",
+  "author": "Isaac Bromley-Dulfano",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "assetra-2025.8.20.tar.gz",
+  "download_time": "2025-08-21T01:26:36.351239",
+  "package_url": "https://pypi.org/project/assetra/"
+}

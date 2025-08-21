@@ -1,0 +1,11 @@
+{
+  "name": "codeformer-cr",
+  "version": "0.0.1",
+  "summary": "PyTorch implementation of CodeFormer",
+  "author": "classronin",
+  "license": "S-Lab",
+  "home_page": "https://github.com/classronin/codeformer-cr",
+  "download_filename": "codeformer_cr-0.0.1.tar.gz",
+  "download_time": "2025-08-21T01:26:04.102167",
+  "package_url": "https://pypi.org/project/codeformer-cr/"
+}

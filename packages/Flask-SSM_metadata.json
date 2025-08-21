@@ -1,11 +1,11 @@
 {
   "name": "Flask-SSM",
-  "version": "3.10.6.0",
+  "version": "3.10.7.0",
   "summary": "A Flask based package imitate with Spring Framework",
   "author": "Xiangrui Zong",
   "license": "GNU General Public License v3 (GPLv3)",
   "home_page": "https://github.com/ZongXR/Flask-SSM",
-  "download_filename": "Flask-SSM-3.10.6.0.tar.gz",
-  "download_time": "2025-08-18T08:29:12.326958",
+  "download_filename": "Flask-SSM-3.10.7.0.tar.gz",
+  "download_time": "2025-08-21T01:26:02.953270",
   "package_url": "https://pypi.org/project/Flask-SSM/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "entanglekey",
+  "version": "1.0.0",
+  "summary": "量子もつれベースの分散セッションキー生成ライブラリ",
+  "author": "tikisan",
+  "license": null,
+  "home_page": "https://github.com/tikipiya/EntangleKey",
+  "download_filename": "entanglekey-1.0.0.tar.gz",
+  "download_time": "2025-08-21T01:26:18.663333",
+  "package_url": "https://pypi.org/project/entanglekey/"
+}

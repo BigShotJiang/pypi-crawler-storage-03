@@ -1,11 +1,11 @@
 {
   "name": "trex-lib",
-  "version": "1.6.12",
+  "version": "1.6.13",
   "summary": "TRex Core library package",
   "author": "Jack Lok",
   "license": null,
   "home_page": "https://bitbucket.org/lokjac/trex-lib",
-  "download_filename": "trex_lib-1.6.12.tar.gz",
-  "download_time": "2025-08-19T13:47:11.273522",
+  "download_filename": "trex_lib-1.6.13.tar.gz",
+  "download_time": "2025-08-21T01:26:21.519802",
   "package_url": "https://pypi.org/project/trex-lib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "polta",
+  "version": "0.8.4",
+  "summary": "Data engineering tool combining Polars transformations with Delta tables/lakes",
+  "author": "JoshTG",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polta-0.8.4.tar.gz",
+  "download_time": "2025-08-21T01:26:24.955264",
+  "package_url": "https://pypi.org/project/polta/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "PyArchiveFile",
-  "version": "0.20.0",
+  "version": "0.20.2",
   "summary": "A tar like file format name archivefile.",
   "author": "Kazuki Przyborowski",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/GameMaker2k/PyArchiveFile",
-  "download_filename": "pyarchivefile-0.20.0.tar.gz",
-  "download_time": "2025-08-20T21:19:16.311284",
+  "download_filename": "pyarchivefile-0.20.2.tar.gz",
+  "download_time": "2025-08-21T01:26:09.832897",
   "package_url": "https://pypi.org/project/PyArchiveFile/"
 }
