@@ -1,11 +1,11 @@
 {
   "name": "unrealon",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "🚀 Revolutionary web scraping platform with unbreakable stealth, AI-powered extraction, and zero-config setup. Build enterprise parsers in minutes, not months!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unrealon-1.1.5.tar.gz",
-  "download_time": "2025-08-20T08:47:24.078592",
+  "download_filename": "unrealon-1.1.6.tar.gz",
+  "download_time": "2025-08-21T04:31:11.613304",
   "package_url": "https://pypi.org/project/unrealon/"
 }

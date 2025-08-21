@@ -1,11 +1,11 @@
 {
   "name": "insta-science",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A tool to help with installing and using `science` in Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "insta_science-0.7.0.tar.gz",
-  "download_time": "2025-08-21T03:41:56.431718",
+  "download_filename": "insta_science-0.8.0.tar.gz",
+  "download_time": "2025-08-21T04:31:33.734859",
   "package_url": "https://pypi.org/project/insta-science/"
 }

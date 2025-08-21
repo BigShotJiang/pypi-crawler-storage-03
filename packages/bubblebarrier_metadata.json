@@ -1,11 +1,11 @@
 {
   "name": "bubblebarrier",
-  "version": "1.1.2",
+  "version": "1.1.5",
   "summary": "Barrier calculations for cosmic reionization models",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bubblebarrier-1.1.2.tar.gz",
-  "download_time": "2025-08-20T06:33:04.119945",
+  "download_filename": "bubblebarrier-1.1.5.tar.gz",
+  "download_time": "2025-08-21T04:31:03.838647",
   "package_url": "https://pypi.org/project/bubblebarrier/"
 }
