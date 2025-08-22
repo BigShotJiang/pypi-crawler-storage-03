@@ -1,0 +1,11 @@
+{
+  "name": "keychecker",
+  "version": "1.1.0",
+  "summary": "A fast CLI to fingerprint SSH private keys and identify which Git hosting accounts they unlock",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keychecker-1.1.0.tar.gz",
+  "download_time": "2025-08-22T04:47:48.946114",
+  "package_url": "https://pypi.org/project/keychecker/"
+}

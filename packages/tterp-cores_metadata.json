@@ -1,0 +1,11 @@
+{
+  "name": "tterp-cores",
+  "version": "0.3.3",
+  "summary": "Shared repository for microservices in ERP system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tterp_cores-0.3.3.tar.gz",
+  "download_time": "2025-08-22T04:47:44.788292",
+  "package_url": "https://pypi.org/project/tterp-cores/"
+}

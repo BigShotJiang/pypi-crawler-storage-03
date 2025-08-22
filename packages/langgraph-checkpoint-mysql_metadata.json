@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-mysql",
+  "version": "2.0.16",
+  "summary": "Library with a MySQL implementation of LangGraph checkpoint saver.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_checkpoint_mysql-2.0.16.tar.gz",
+  "download_time": "2025-08-22T04:47:44.274694",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-mysql/"
+}
