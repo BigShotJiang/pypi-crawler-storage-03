@@ -1,32 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T10:22:18.341367
-- **Total Packages**: 89
-- **Total Size**: 58.18 MB
+- **Download Time**: 2025-08-22T10:46:24.329543
+- **Total Packages**: 87
+- **Total Size**: 2.65 MB
 
 ## Packages List
-- http-misc
-- pysmlight
-- matrice
-- TOMCA
-- universal-mcp-google-calendar
-- hbdjinvoicing
-- scobra
-- rubetek-socket-api
-- mangoautomation
-- BoschRpaMagicBox
-- e2b-code-interpreter
-- fgutils
-- alignsar
-- pdm
-- naeural-core
-- ebtorch
-- embeddings-zh
-- opentelemetry-semantic-conventions-ai
-- qelrix-cli
-- ai-edge-torch-nightly
-- aztp-client
 - django-documentdb
 - cognite-power-ops
 - chutes
@@ -57,10 +36,12 @@
 - sarm-sdk
 - splurge-tools
 - bizyui
+- alignsar
 - lineagentic-catalog
 - ufanet-intercom-api
 - magtense
 - zmrobopi
+- matrice
 - mcp-postgresql-ops
 - miot-mcp
 - brainles-preprocessing
@@ -87,6 +68,7 @@
 - TotalSegmentator
 - kopen-web-shop-flask
 - cryptozaurus
+- fgutils
 - evnex
 - semantics.py3
 - motorcortex-python
@@ -95,3 +77,19 @@
 - resdata
 - vitriolic
 - cellar-extractor
+- anson.py3
+- seam
+- localstack-core
+- swvo
+- prometheus-mcp-server
+- the37lab-ampa-sdk
+- anomalies
+- apify
+- ut-xml
+- ut-eviq
+- toucan-connectors
+- aipyapp
+- sassy-rs
+- nvidia-nat-opentelemetry
+- nvidia-nat-phoenix
+- nvidia-nat-mem0ai
