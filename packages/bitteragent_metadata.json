@@ -1,0 +1,11 @@
+{
+  "name": "bitteragent",
+  "version": "0.1.1",
+  "summary": "Minimal Python CLI agent with native tools for shell execution and file operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitteragent-0.1.1.tar.gz",
+  "download_time": "2025-08-22T20:54:42.362644",
+  "package_url": "https://pypi.org/project/bitteragent/"
+}

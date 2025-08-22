@@ -1,11 +1,11 @@
 {
   "name": "exopie",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A package for finding exoplanet interiors",
   "author": "Mykhaylo Plotnykov",
   "license": null,
   "home_page": "https://github.com/mplotnyko/exopie/",
-  "download_filename": "exopie-1.2.0.tar.gz",
-  "download_time": "2025-08-22T15:41:36.362472",
+  "download_filename": "exopie-1.2.1.tar.gz",
+  "download_time": "2025-08-22T20:54:50.623926",
   "package_url": "https://pypi.org/project/exopie/"
 }

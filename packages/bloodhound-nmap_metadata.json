@@ -1,0 +1,11 @@
+{
+  "name": "bloodhound-nmap",
+  "version": "0.1.2",
+  "summary": "Transform Nmap scan results into BloodHound-compatible OpenGraph format for network analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bloodhound_nmap-0.1.2.tar.gz",
+  "download_time": "2025-08-22T20:55:06.149948",
+  "package_url": "https://pypi.org/project/bloodhound-nmap/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kubelingo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "CKAD Studying Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kubelingo-0.2.0.tar.gz",
-  "download_time": "2025-08-21T18:29:17.721172",
+  "download_filename": "kubelingo-0.2.1.tar.gz",
+  "download_time": "2025-08-22T20:54:21.145704",
   "package_url": "https://pypi.org/project/kubelingo/"
 }

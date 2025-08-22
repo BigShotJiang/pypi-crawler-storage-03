@@ -1,11 +1,11 @@
 {
   "name": "mixd",
-  "version": "1.1.2",
+  "version": "1.2",
   "summary": "Dev HTTPS server with optional Cloudflared tunnel",
   "author": "mixddev",
   "license": null,
   "home_page": "https://github.com/yourusername/mixd",
-  "download_filename": "mixd-1.1.2.tar.gz",
-  "download_time": "2025-08-21T20:22:42.677235",
+  "download_filename": "mixd-1.2.tar.gz",
+  "download_time": "2025-08-22T20:54:49.976657",
   "package_url": "https://pypi.org/project/mixd/"
 }

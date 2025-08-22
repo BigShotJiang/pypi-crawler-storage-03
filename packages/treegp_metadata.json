@@ -1,0 +1,11 @@
+{
+  "name": "treegp",
+  "version": "1.4.0",
+  "summary": "treegp",
+  "author": "PFLeget",
+  "license": "BSD License",
+  "home_page": "https://github.com/PFLeget/treegp",
+  "download_filename": "treegp-1.4.0.tar.gz",
+  "download_time": "2025-08-22T20:55:11.885343",
+  "package_url": "https://pypi.org/project/treegp/"
+}
