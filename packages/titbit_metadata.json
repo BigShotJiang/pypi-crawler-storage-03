@@ -1,0 +1,11 @@
+{
+  "name": "titbit",
+  "version": "0.1.10",
+  "summary": "A place to dump might-be-useful-again code as an alternative of leaving in a notebook where it will never be found again",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/titbit",
+  "download_filename": "titbit-0.1.10.tar.gz",
+  "download_time": "2025-08-22T20:22:59.133374",
+  "package_url": "https://pypi.org/project/titbit/"
+}

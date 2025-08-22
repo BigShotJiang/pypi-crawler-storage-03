@@ -1,11 +1,11 @@
 {
   "name": "certbot-dns-micetro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Certbot plugin for Micetro DNS authentication",
   "author": "Nat Biggs",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/cedarville-university/certbot-dns-micetro",
-  "download_filename": "certbot_dns_micetro-1.0.1.tar.gz",
-  "download_time": "2025-08-22T13:22:58.864628",
+  "download_filename": "certbot_dns_micetro-1.0.2.tar.gz",
+  "download_time": "2025-08-22T20:23:26.697644",
   "package_url": "https://pypi.org/project/certbot-dns-micetro/"
 }

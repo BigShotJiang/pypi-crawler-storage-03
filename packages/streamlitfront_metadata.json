@@ -1,0 +1,11 @@
+{
+  "name": "streamlitfront",
+  "version": "0.1.35",
+  "summary": "Generate streamlit frontends from python functions",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/streamlitfront",
+  "download_filename": "streamlitfront-0.1.35.tar.gz",
+  "download_time": "2025-08-22T20:23:06.853472",
+  "package_url": "https://pypi.org/project/streamlitfront/"
+}

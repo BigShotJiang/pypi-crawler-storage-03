@@ -1,0 +1,11 @@
+{
+  "name": "nukebount",
+  "version": "0.1.1",
+  "summary": "مكتبة لتحميل وتشغيل ملف exe من رابط",
+  "author": "اسمك",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nukebount-0.1.1.tar.gz",
+  "download_time": "2025-08-22T20:22:45.703888",
+  "package_url": "https://pypi.org/project/nukebount/"
+}

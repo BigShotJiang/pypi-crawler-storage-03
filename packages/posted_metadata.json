@@ -1,0 +1,11 @@
+{
+  "name": "posted",
+  "version": "0.1.5",
+  "summary": "Interfacing with message-broker functionality",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/posted",
+  "download_filename": "posted-0.1.5.tar.gz",
+  "download_time": "2025-08-22T20:23:04.282965",
+  "package_url": "https://pypi.org/project/posted/"
+}

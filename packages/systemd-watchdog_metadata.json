@@ -1,11 +1,11 @@
 {
   "name": "systemd-watchdog",
-  "version": "0.9.1",
+  "version": "1.0.1",
   "summary": "sd_notify and sd_watchdog_enabled functionality for writing Python daemons under systemd",
   "author": "AaronDMarasco",
   "license": "MIT",
   "home_page": "http://github.com/AaronDMarasco/systemd-watchdog/",
-  "download_filename": "systemd_watchdog-0.9.1.tar.gz",
-  "download_time": "2025-08-21T20:22:31.757947",
+  "download_filename": "systemd_watchdog-1.0.1.tar.gz",
+  "download_time": "2025-08-22T20:22:52.198079",
   "package_url": "https://pypi.org/project/systemd-watchdog/"
 }

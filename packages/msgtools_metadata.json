@@ -1,11 +1,11 @@
 {
   "name": "msgtools",
-  "version": "0.40.6",
+  "version": "0.40.7",
   "summary": "Tools for fixed binary protocols",
   "author": "Miles Gazic",
   "license": "LGPLv2",
   "home_page": "https://github.com/MilesEngineering/MsgTools/",
-  "download_filename": "msgtools-0.40.6.tar.gz",
-  "download_time": "2025-08-19T22:21:07.119283",
+  "download_filename": "msgtools-0.40.7.tar.gz",
+  "download_time": "2025-08-22T20:23:41.932162",
   "package_url": "https://pypi.org/project/msgtools/"
 }

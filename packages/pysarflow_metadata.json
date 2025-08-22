@@ -1,11 +1,11 @@
 {
   "name": "pysarflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "An open-source python library for SAR data processing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysarflow-0.1.0.tar.gz",
-  "download_time": "2025-08-21T20:53:25.341966",
+  "download_filename": "pysarflow-0.1.1.tar.gz",
+  "download_time": "2025-08-22T20:22:51.543115",
   "package_url": "https://pypi.org/project/pysarflow/"
 }

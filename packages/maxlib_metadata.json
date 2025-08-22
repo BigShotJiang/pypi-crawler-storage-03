@@ -1,0 +1,11 @@
+{
+  "name": "maxlib",
+  "version": "0.1b1",
+  "summary": "A utility library containing classes, errors, filters, and max functions",
+  "author": "Sudo",
+  "license": null,
+  "home_page": "https://github.com/xNoBanOnlyZXC/WebMaxLib",
+  "download_filename": "maxlib-0.1b1.tar.gz",
+  "download_time": "2025-08-22T20:23:14.427231",
+  "package_url": "https://pypi.org/project/maxlib/"
+}

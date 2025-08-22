@@ -1,11 +1,11 @@
 {
   "name": "mindroot",
-  "version": "9.9.0",
+  "version": "9.10.0",
   "summary": "MindRoot AI Agent Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mindroot-9.9.0.tar.gz",
-  "download_time": "2025-08-20T15:59:16.406962",
+  "download_filename": "mindroot-9.10.0.tar.gz",
+  "download_time": "2025-08-22T20:23:23.253075",
   "package_url": "https://pypi.org/project/mindroot/"
 }

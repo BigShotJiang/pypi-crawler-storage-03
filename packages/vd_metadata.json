@@ -1,0 +1,11 @@
+{
+  "name": "vd",
+  "version": "0.0.11",
+  "summary": "Value Dispatch: Wire Python functions to stores for seamless input/output handling.",
+  "author": null,
+  "license": "mit",
+  "home_page": "https://github.com/i2mint/vd",
+  "download_filename": "vd-0.0.11.tar.gz",
+  "download_time": "2025-08-22T20:23:07.502046",
+  "package_url": "https://pypi.org/project/vd/"
+}

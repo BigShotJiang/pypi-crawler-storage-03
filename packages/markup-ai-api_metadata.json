@@ -1,11 +1,11 @@
 {
   "name": "markup-ai-api",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": null,
   "author": null,
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "markup_ai_api-0.0.5.tar.gz",
-  "download_time": "2025-08-22T15:26:30.714066",
+  "download_filename": "markup_ai_api-0.0.6.tar.gz",
+  "download_time": "2025-08-22T20:23:19.621783",
   "package_url": "https://pypi.org/project/markup-ai-api/"
 }

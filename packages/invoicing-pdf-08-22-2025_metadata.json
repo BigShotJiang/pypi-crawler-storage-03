@@ -1,0 +1,11 @@
+{
+  "name": "invoicing-pdf-08-22-2025",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Harsh Mishrikotkar",
+  "license": "MIT",
+  "home_page": "https://github.com/Harsh-Mishrikotkar/Python-Project",
+  "download_filename": "invoicing_pdf_08_22_2025-1.0.0.tar.gz",
+  "download_time": "2025-08-22T20:23:23.890838",
+  "package_url": "https://pypi.org/project/invoicing-pdf-08-22-2025/"
+}

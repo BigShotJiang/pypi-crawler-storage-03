@@ -1,0 +1,11 @@
+{
+  "name": "seamm-installer",
+  "version": "2025.8.22",
+  "summary": "The installer/updater for SEAMM (Simulation Environment for Atomistic and Molecular Simulations).",
+  "author": "Paul Saxe",
+  "license": "GNU Lesser General Public License v3+",
+  "home_page": "https://github.com/molssi-seamm/seamm_installer",
+  "download_filename": "seamm_installer-2025.8.22.tar.gz",
+  "download_time": "2025-08-22T20:23:41.351633",
+  "package_url": "https://pypi.org/project/seamm-installer/"
+}

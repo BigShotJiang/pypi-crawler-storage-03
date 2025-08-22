@@ -1,0 +1,11 @@
+{
+  "name": "pchealthstream2py",
+  "version": "0.1.2",
+  "summary": "stream2py interface to pc health",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/pchealthstream2py",
+  "download_filename": "pchealthstream2py-0.1.2.tar.gz",
+  "download_time": "2025-08-22T20:23:01.707054",
+  "package_url": "https://pypi.org/project/pchealthstream2py/"
+}
