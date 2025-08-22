@@ -1,0 +1,11 @@
+{
+  "name": "waf-http-api",
+  "version": "1.2.0",
+  "summary": "A CDK construct that fronts an HTTP API with a CloudFront distribution and protects it with AWS WAF.",
+  "author": "Jaap Haitsma<jaap@haitsma.org>",
+  "license": "MIT",
+  "home_page": "https://github.com/JaapHaitsma/waf-http-api.git",
+  "download_filename": "waf_http_api-1.2.0.tar.gz",
+  "download_time": "2025-08-22T23:39:55.342915",
+  "package_url": "https://pypi.org/project/waf-http-api/"
+}

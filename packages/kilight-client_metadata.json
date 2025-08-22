@@ -1,0 +1,11 @@
+{
+  "name": "kilight-client",
+  "version": "0.4.2",
+  "summary": "Client library for communicating with KiLight devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kilight_client-0.4.2.tar.gz",
+  "download_time": "2025-08-22T23:39:46.880756",
+  "package_url": "https://pypi.org/project/kilight-client/"
+}
