@@ -1,11 +1,11 @@
 {
   "name": "clarifai",
-  "version": "11.7.1",
+  "version": "11.7.3",
   "summary": null,
   "author": "Clarifai",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Clarifai/clarifai-python",
-  "download_filename": "clarifai-11.7.1.tar.gz",
-  "download_time": "2025-08-19T14:45:15.224646",
+  "download_filename": "clarifai-11.7.3.tar.gz",
+  "download_time": "2025-08-22T19:17:35.841247",
   "package_url": "https://pypi.org/project/clarifai/"
 }

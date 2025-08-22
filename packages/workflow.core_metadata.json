@@ -1,0 +1,11 @@
+{
+  "name": "workflow.core",
+  "version": "1.11.6",
+  "summary": "Workflow Core",
+  "author": "Shiny Brar",
+  "license": "MIT",
+  "home_page": "https://github.com/chimefrb/workflow",
+  "download_filename": "workflow_core-1.11.6.tar.gz",
+  "download_time": "2025-08-22T19:17:29.140119",
+  "package_url": "https://pypi.org/project/workflow.core/"
+}

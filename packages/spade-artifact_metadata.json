@@ -1,0 +1,11 @@
+{
+  "name": "spade-artifact",
+  "version": "0.3.1",
+  "summary": "Plugin for SPADE 3 to develop artifacts.",
+  "author": "Javi Palanca",
+  "license": "MIT license",
+  "home_page": "https://github.com/javipalanca/spade_artifact",
+  "download_filename": "spade_artifact-0.3.1.tar.gz",
+  "download_time": "2025-08-22T19:17:49.334226",
+  "package_url": "https://pypi.org/project/spade-artifact/"
+}

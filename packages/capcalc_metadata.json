@@ -1,0 +1,11 @@
+{
+  "name": "capcalc",
+  "version": "1.5.1.1",
+  "summary": "capcalc is a suite of python programs used to perform coactivation pattern analysis on time series data.",
+  "author": null,
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "capcalc-1.5.1.1.tar.gz",
+  "download_time": "2025-08-22T19:17:14.023408",
+  "package_url": "https://pypi.org/project/capcalc/"
+}
