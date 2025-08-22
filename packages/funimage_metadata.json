@@ -1,11 +1,11 @@
 {
   "name": "funimage",
-  "version": "1.0.13",
-  "summary": "funimage",
+  "version": "1.0.14",
+  "summary": "A powerful Python library for image format conversion and processing",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "funimage-1.0.13-py3-none-any.whl",
-  "download_time": "2025-08-22T14:20:44.913467",
+  "download_filename": "funimage-1.0.14-py3-none-any.whl",
+  "download_time": "2025-08-22T15:27:03.909927",
   "package_url": "https://pypi.org/project/funimage/"
 }

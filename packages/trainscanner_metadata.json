@@ -1,0 +1,11 @@
+{
+  "name": "trainscanner",
+  "version": "0.31.1",
+  "summary": null,
+  "author": "vitroid",
+  "license": "MIT",
+  "home_page": "https://github.com/vitroid/trainscanner",
+  "download_filename": "trainscanner-0.31.1-py3-none-any.whl",
+  "download_time": "2025-08-22T15:26:44.126048",
+  "package_url": "https://pypi.org/project/trainscanner/"
+}

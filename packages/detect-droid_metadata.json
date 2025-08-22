@@ -1,0 +1,11 @@
+{
+  "name": "detect-droid",
+  "version": "0.2.18",
+  "summary": "Detection Rules Optimisation Integration Deployment",
+  "author": "cert-eu/mlc",
+  "license": "\"EUPL-1.2\"",
+  "home_page": "https://github.com/certeu/droid",
+  "download_filename": "detect_droid-0.2.18.tar.gz",
+  "download_time": "2025-08-22T15:26:54.073154",
+  "package_url": "https://pypi.org/project/detect-droid/"
+}

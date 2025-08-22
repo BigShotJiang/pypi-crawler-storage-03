@@ -1,11 +1,11 @@
 {
   "name": "medimgkit",
-  "version": "0.3.1",
+  "version": "0.4.3",
   "summary": "A comprehensive toolkit for medical image processing, including DICOM, NIfTI, and multi-format I/O utilities",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "medimgkit-0.3.1.tar.gz",
-  "download_time": "2025-08-18T18:55:22.606535",
+  "download_filename": "medimgkit-0.4.3.tar.gz",
+  "download_time": "2025-08-22T15:27:10.846929",
   "package_url": "https://pypi.org/project/medimgkit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cloudsense",
-  "version": "0.2.7",
+  "version": "0.2.9",
   "summary": "A CLI and interactive GUI for AWS cost tracking.",
   "author": "Veloduff",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudsense-0.2.7.tar.gz",
-  "download_time": "2025-08-22T05:20:45.256547",
+  "download_filename": "cloudsense-0.2.9.tar.gz",
+  "download_time": "2025-08-22T15:27:02.158364",
   "package_url": "https://pypi.org/project/cloudsense/"
 }

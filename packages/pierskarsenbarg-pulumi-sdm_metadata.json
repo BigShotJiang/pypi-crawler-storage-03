@@ -1,0 +1,11 @@
+{
+  "name": "pierskarsenbarg-pulumi-sdm",
+  "version": "1.31.0",
+  "summary": "A Pulumi package for creating and managing StrongDM cloud resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/pierskarsenbarg/pulumi-sdm",
+  "download_filename": "pierskarsenbarg_pulumi_sdm-1.31.0.tar.gz",
+  "download_time": "2025-08-22T15:27:04.489448",
+  "package_url": "https://pypi.org/project/pierskarsenbarg-pulumi-sdm/"
+}

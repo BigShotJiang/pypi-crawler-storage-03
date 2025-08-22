@@ -1,0 +1,11 @@
+{
+  "name": "tap-github",
+  "version": "3.3.0",
+  "summary": "Singer.io tap for extracting data from the GitHub API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "http://singer.io",
+  "download_filename": "tap-github-3.3.0.tar.gz",
+  "download_time": "2025-08-22T15:26:45.880453",
+  "package_url": "https://pypi.org/project/tap-github/"
+}

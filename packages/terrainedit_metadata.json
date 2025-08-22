@@ -1,0 +1,11 @@
+{
+  "name": "terrainedit",
+  "version": "0.0.1b0",
+  "summary": "Placeholder package to reserve the name",
+  "author": "Peter Grønbæk Andersen",
+  "license": "GNU General Public License v3 or later (GPLv3+)",
+  "home_page": "https://github.com/pgroenbaek/terrainedit",
+  "download_filename": "terrainedit-0.0.1b0.tar.gz",
+  "download_time": "2025-08-22T15:26:33.012179",
+  "package_url": "https://pypi.org/project/terrainedit/"
+}

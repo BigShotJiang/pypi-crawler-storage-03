@@ -1,0 +1,11 @@
+{
+  "name": "ifkit",
+  "version": "0.1.58",
+  "summary": "日常工作使用的小工具/小功能",
+  "author": "infuq",
+  "license": "MIT",
+  "home_page": "https://www.infuq.com",
+  "download_filename": "ifkit-0.1.58.tar.gz",
+  "download_time": "2025-08-22T15:26:29.561951",
+  "package_url": "https://pypi.org/project/ifkit/"
+}
