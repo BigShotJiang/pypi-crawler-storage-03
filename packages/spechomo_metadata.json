@@ -1,0 +1,11 @@
+{
+  "name": "spechomo",
+  "version": "0.10.4",
+  "summary": "Spectral homogenization of multispectral satellite data.",
+  "author": "Daniel Scheffler",
+  "license": "Apache-2.0",
+  "home_page": "https://git.gfz-potsdam.de/geomultisens/spechomo",
+  "download_filename": "spechomo-0.10.4.tar.gz",
+  "download_time": "2025-08-22T14:20:58.325304",
+  "package_url": "https://pypi.org/project/spechomo/"
+}

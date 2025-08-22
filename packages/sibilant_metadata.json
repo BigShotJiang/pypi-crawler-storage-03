@@ -1,0 +1,11 @@
+{
+  "name": "sibilant",
+  "version": "0.4.0",
+  "summary": "sibilant makes python communicate over VoIP",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "sibilant-0.4.0.tar.gz",
+  "download_time": "2025-08-22T14:20:48.564174",
+  "package_url": "https://pypi.org/project/sibilant/"
+}

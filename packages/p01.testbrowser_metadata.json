@@ -1,11 +1,11 @@
 {
   "name": "p01.testbrowser",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "summary": "Zope test brwoser based on webtest and wsgi app",
   "author": "Roger Ineichen, Projekt01 GmbH",
   "license": "ZPL 2.1",
   "home_page": "http://pypi.python.org/pypi/p01.testbrowser",
-  "download_filename": "p01.testbrowser-3.0.1.tar.gz",
-  "download_time": "2025-08-21T14:20:34.506736",
+  "download_filename": "p01.testbrowser-3.0.2.tar.gz",
+  "download_time": "2025-08-22T14:20:41.809298",
   "package_url": "https://pypi.org/project/p01.testbrowser/"
 }

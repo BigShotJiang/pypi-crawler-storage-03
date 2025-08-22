@@ -1,11 +1,11 @@
 {
   "name": "syncraft",
-  "version": "0.1.18",
+  "version": "0.1.20",
   "summary": "Parser combinator library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "syncraft-0.1.18.tar.gz",
-  "download_time": "2025-08-20T11:39:37.592381",
+  "download_filename": "syncraft-0.1.20.tar.gz",
+  "download_time": "2025-08-22T14:20:57.812242",
   "package_url": "https://pypi.org/project/syncraft/"
 }

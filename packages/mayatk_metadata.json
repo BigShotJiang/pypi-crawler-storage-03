@@ -1,11 +1,11 @@
 {
   "name": "mayatk",
-  "version": "0.9.32",
+  "version": "0.9.33",
   "summary": "*mayatk is a collection of backend utilities for Autodesk Maya.*",
   "author": "Ryan Simpson",
   "license": null,
   "home_page": "https://github.com/m3trik/mayatk",
-  "download_filename": "mayatk-0.9.32.tar.gz",
-  "download_time": "2025-08-19T01:28:12.697813",
+  "download_filename": "mayatk-0.9.33.tar.gz",
+  "download_time": "2025-08-22T14:20:42.326093",
   "package_url": "https://pypi.org/project/mayatk/"
 }

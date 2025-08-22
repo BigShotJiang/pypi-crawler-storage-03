@@ -1,0 +1,11 @@
+{
+  "name": "metachrome",
+  "version": "1.0.0",
+  "summary": "Metaphase Chromosome Analysis with Napari",
+  "author": "Md Abdul Kader Sagar",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/metachrome",
+  "download_filename": "metachrome-1.0.0-py3-none-any.whl",
+  "download_time": "2025-08-22T14:20:27.360565",
+  "package_url": "https://pypi.org/project/metachrome/"
+}

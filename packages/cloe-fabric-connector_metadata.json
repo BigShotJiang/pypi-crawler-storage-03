@@ -1,11 +1,11 @@
 {
   "name": "cloe-fabric-connector",
-  "version": "0.1.0",
-  "summary": "A new cool package.",
+  "version": "0.1.1",
+  "summary": "Provides basic interface for connecting to and interacting with a Fabric instance.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloe_fabric_connector-0.1.0.tar.gz",
-  "download_time": "2025-08-22T13:56:50.001857",
+  "download_filename": "cloe_fabric_connector-0.1.1-py3-none-any.whl",
+  "download_time": "2025-08-22T14:20:40.270434",
   "package_url": "https://pypi.org/project/cloe-fabric-connector/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "airtable-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Simple class that helps dealing with airtable api",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airtable_helper-0.0.1.tar.gz",
-  "download_time": "2025-08-21T13:20:25.126762",
+  "download_filename": "airtable_helper-0.0.2.tar.gz",
+  "download_time": "2025-08-22T14:20:36.153933",
   "package_url": "https://pypi.org/project/airtable-helper/"
 }
