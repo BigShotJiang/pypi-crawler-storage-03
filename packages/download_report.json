@@ -1,13 +1,8 @@
 {
-  "download_time": "2025-08-22T08:28:43.922455",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 55.34,
+  "download_time": "2025-08-22T08:49:27.652951",
+  "total_packages_downloaded": 92,
+  "total_size_mb": 0.63,
   "packages": [
-    "rapidata",
-    "dg-mol-track",
-    "contextlite",
-    "docify-ai",
-    "duit",
     "rebase-dashboard",
     "cybotrade-datasource",
     "codemie-sdk-python",
@@ -93,6 +88,12 @@
     "datafiller",
     "SearchLibrium",
     "flexiplex-filter",
-    "atlas-ftag-tools"
+    "atlas-ftag-tools",
+    "griffonner",
+    "prompt_bottle",
+    "xsoar-cli",
+    "HomeAssistantKNXAutomaticImport",
+    "xsoar-client",
+    "esypro"
   ]
 }

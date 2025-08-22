@@ -1,11 +1,11 @@
 {
   "name": "esypro",
-  "version": "39.2025.8.20.20.39",
+  "version": "39.2025.8.22.15.53",
   "summary": "a python lib for project files",
   "author": "Quanfa",
   "license": "MIT",
   "home_page": "http://www.xxxxx.com/",
-  "download_filename": "esypro-39.2025.8.20.20.39.tar.gz",
-  "download_time": "2025-08-20T12:40:11.268816",
+  "download_filename": "esypro-39.2025.8.22.15.53.tar.gz",
+  "download_time": "2025-08-22T08:49:27.152098",
   "package_url": "https://pypi.org/project/esypro/"
 }
