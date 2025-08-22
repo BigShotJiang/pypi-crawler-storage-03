@@ -1,0 +1,11 @@
+{
+  "name": "cnsbm",
+  "version": "1.0.0",
+  "summary": "Categorical Block Modelling For Primary and Residual Copy Number Variation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnsbm-1.0.0.tar.gz",
+  "download_time": "2025-08-22T10:56:05.073195",
+  "package_url": "https://pypi.org/project/cnsbm/"
+}

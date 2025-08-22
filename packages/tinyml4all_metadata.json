@@ -1,0 +1,11 @@
+{
+  "name": "tinyml4all",
+  "version": "1.0.9",
+  "summary": "Train Machine Learning pipelines in Python, run on any embedded device",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyml4all-1.0.9-py2.py3-none-any.whl",
+  "download_time": "2025-08-22T10:55:34.561489",
+  "package_url": "https://pypi.org/project/tinyml4all/"
+}

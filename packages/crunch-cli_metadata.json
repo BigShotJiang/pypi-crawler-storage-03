@@ -1,0 +1,11 @@
+{
+  "name": "crunch-cli",
+  "version": "7.4.0",
+  "summary": "crunch-cli - CLI of the CrunchDAO Platform",
+  "author": "Enzo CACERES",
+  "license": null,
+  "home_page": "https://github.com/crunchdao/crunch-cli",
+  "download_filename": "crunch_cli-7.4.0.tar.gz",
+  "download_time": "2025-08-22T10:55:48.913920",
+  "package_url": "https://pypi.org/project/crunch-cli/"
+}

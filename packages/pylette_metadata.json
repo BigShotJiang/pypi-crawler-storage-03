@@ -1,11 +1,11 @@
 {
   "name": "pylette",
-  "version": "4.4.0",
+  "version": "5.0.0",
   "summary": "A Python library for extracting color palettes from images.",
   "author": "Ivar Stangeby",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pylette-4.4.0.tar.gz",
-  "download_time": "2025-08-20T10:22:03.083541",
+  "download_filename": "pylette-5.0.0.tar.gz",
+  "download_time": "2025-08-22T10:55:45.642851",
   "package_url": "https://pypi.org/project/pylette/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "ablelabs",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "ABLE Labs API",
   "author": "sypark",
   "license": null,
   "home_page": "https://github.com/ABLE-Labs/ABLE-API",
-  "download_filename": "ablelabs-0.4.4.tar.gz",
-  "download_time": "2025-08-21T08:26:51.021394",
+  "download_filename": "ablelabs-0.4.5.tar.gz",
+  "download_time": "2025-08-22T10:56:17.497815",
   "package_url": "https://pypi.org/project/ablelabs/"
 }

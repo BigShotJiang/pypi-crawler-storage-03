@@ -1,11 +1,11 @@
 {
   "name": "pyterrier-alpha",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "summary": "Alpha channel of features for PyTerrier",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyterrier_alpha-0.16.0.tar.gz",
-  "download_time": "2025-08-22T08:27:59.595140",
+  "download_filename": "pyterrier_alpha-0.16.1.tar.gz",
+  "download_time": "2025-08-22T10:55:49.475902",
   "package_url": "https://pypi.org/project/pyterrier-alpha/"
 }
