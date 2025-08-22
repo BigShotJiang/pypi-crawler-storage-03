@@ -1,11 +1,11 @@
 {
   "name": "inheritance-dict",
-  "version": "0.1.0.0",
+  "version": "0.2.0.0",
   "summary": "Looking for the value associated with the most specific super type in the dictionary",
   "author": "Willem Van Onsem",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/hapytex/inheritance_dict/",
-  "download_filename": "inheritance_dict-0.1.0.0.tar.gz",
-  "download_time": "2025-08-20T20:43:40.538291",
+  "download_filename": "inheritance_dict-0.2.0.0.tar.gz",
+  "download_time": "2025-08-22T19:53:28.580809",
   "package_url": "https://pypi.org/project/inheritance-dict/"
 }

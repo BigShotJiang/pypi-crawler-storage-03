@@ -1,0 +1,11 @@
+{
+  "name": "pandascamoufox",
+  "version": "0.1",
+  "summary": "Web Scraping with Camoufox and Cython+Pandas",
+  "author": "Johannes Fischer",
+  "license": "MIT",
+  "home_page": "https://github.com/hansalemaos/pandascamoufox",
+  "download_filename": "pandascamoufox-0.1.tar.gz",
+  "download_time": "2025-08-22T19:53:35.486699",
+  "package_url": "https://pypi.org/project/pandascamoufox/"
+}

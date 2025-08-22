@@ -1,0 +1,11 @@
+{
+  "name": "astral-mcp-server",
+  "version": "0.1.0",
+  "summary": "A MCP (Model Context Protocol) server that enables AI models to query location attestations using the Astral GraphQL endpoints and APIs",
+  "author": "AR",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astral_mcp_server-0.1.0.tar.gz",
+  "download_time": "2025-08-22T19:54:07.085610",
+  "package_url": "https://pypi.org/project/astral-mcp-server/"
+}

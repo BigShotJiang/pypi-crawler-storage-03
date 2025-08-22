@@ -1,11 +1,11 @@
 {
   "name": "claude-statusline",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "summary": "Real-time session tracking and analytics for Claude Code",
   "author": "Ersin Koç",
   "license": "MIT",
   "home_page": "https://github.com/ersinkoc/claude-statusline",
-  "download_filename": "claude_statusline-1.9.0.tar.gz",
-  "download_time": "2025-08-21T15:54:45.116501",
+  "download_filename": "claude_statusline-1.9.1.tar.gz",
+  "download_time": "2025-08-22T19:53:36.644550",
   "package_url": "https://pypi.org/project/claude-statusline/"
 }
