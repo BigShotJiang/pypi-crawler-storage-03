@@ -1,11 +1,11 @@
 {
   "name": "ocr-detection",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "A Python library to detect whether PDF pages contain extractable text or are scanned images requiring OCR",
   "author": "satish",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ocr_detection-0.4.0.tar.gz",
-  "download_time": "2025-08-22T05:20:53.005730",
+  "download_filename": "ocr_detection-0.4.1.tar.gz",
+  "download_time": "2025-08-22T07:41:02.872135",
   "package_url": "https://pypi.org/project/ocr-detection/"
 }

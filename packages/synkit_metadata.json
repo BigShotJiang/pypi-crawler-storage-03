@@ -1,0 +1,11 @@
+{
+  "name": "synkit",
+  "version": "1.0.1",
+  "summary": "Utility for reaction modeling using graph grammar",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "synkit-1.0.1.tar.gz",
+  "download_time": "2025-08-22T07:41:15.156689",
+  "package_url": "https://pypi.org/project/synkit/"
+}

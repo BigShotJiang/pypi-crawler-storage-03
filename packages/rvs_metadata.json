@@ -1,0 +1,11 @@
+{
+  "name": "rvs",
+  "version": "2.1.1",
+  "summary": "Robust Versioning System - Git-style version control built for universal compatibility",
+  "author": "rvs-rvs",
+  "license": null,
+  "home_page": "https://github.com/rvs-rvs/rvs",
+  "download_filename": "rvs-2.1.1.tar.gz",
+  "download_time": "2025-08-22T07:41:10.868921",
+  "package_url": "https://pypi.org/project/rvs/"
+}

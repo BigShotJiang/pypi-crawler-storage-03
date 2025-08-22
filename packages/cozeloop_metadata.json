@@ -1,11 +1,11 @@
 {
   "name": "cozeloop",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "coze loop sdk",
   "author": "JiangQi715",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cozeloop-0.1.9.tar.gz",
-  "download_time": "2025-08-19T13:47:25.481965",
+  "download_filename": "cozeloop-0.1.10.tar.gz",
+  "download_time": "2025-08-22T07:41:26.766964",
   "package_url": "https://pypi.org/project/cozeloop/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ffmpeg-normalize",
+  "version": "1.33.0",
+  "summary": "Normalize audio via ffmpeg",
+  "author": "Werner Robitza",
+  "license": "MIT",
+  "home_page": "https://github.com/slhck/ffmpeg-normalize",
+  "download_filename": "ffmpeg_normalize-1.33.0-py3-none-any.whl",
+  "download_time": "2025-08-22T07:41:20.866670",
+  "package_url": "https://pypi.org/project/ffmpeg-normalize/"
+}

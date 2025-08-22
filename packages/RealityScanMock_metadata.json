@@ -1,0 +1,11 @@
+{
+  "name": "RealityScanMock",
+  "version": "2025.8.22.1",
+  "summary": "Mock of REST-API of RealityScan Node (fka Reality Capture rc node)",
+  "author": "basejumpa",
+  "license": "MIT",
+  "home_page": "https://github.com/basejumpa/RealityScanNodeMock",
+  "download_filename": "realityscanmock-2025.8.22.1.tar.gz",
+  "download_time": "2025-08-22T07:41:13.429233",
+  "package_url": "https://pypi.org/project/RealityScanMock/"
+}
