@@ -1,11 +1,11 @@
 {
   "name": "cuvette",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cuvette-0.2.1.tar.gz",
-  "download_time": "2025-08-21T21:40:12.778667",
+  "download_filename": "cuvette-0.2.4.tar.gz",
+  "download_time": "2025-08-22T23:20:21.286396",
   "package_url": "https://pypi.org/project/cuvette/"
 }

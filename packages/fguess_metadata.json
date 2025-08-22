@@ -1,0 +1,11 @@
+{
+  "name": "fguess",
+  "version": "0.0.1",
+  "summary": "f-string format spec guesser",
+  "author": "Trey Hunner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fguess-0.0.1.tar.gz",
+  "download_time": "2025-08-22T23:19:55.105005",
+  "package_url": "https://pypi.org/project/fguess/"
+}

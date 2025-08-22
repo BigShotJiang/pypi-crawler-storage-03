@@ -1,11 +1,11 @@
 {
   "name": "semgrep-mcp",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "MCP Server for using Semgrep to scan code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "semgrep_mcp-0.5.0.tar.gz",
-  "download_time": "2025-08-18T23:19:18.578136",
+  "download_filename": "semgrep_mcp-0.6.0.tar.gz",
+  "download_time": "2025-08-22T23:20:14.381664",
   "package_url": "https://pypi.org/project/semgrep-mcp/"
 }

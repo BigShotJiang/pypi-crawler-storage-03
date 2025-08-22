@@ -1,0 +1,11 @@
+{
+  "name": "safari-bookmarks-cli",
+  "version": "0.6.1",
+  "summary": "A cli to manage bookmarks in the Safari web browser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safari_bookmarks_cli-0.6.1.tar.gz",
+  "download_time": "2025-08-22T23:19:51.623237",
+  "package_url": "https://pypi.org/project/safari-bookmarks-cli/"
+}

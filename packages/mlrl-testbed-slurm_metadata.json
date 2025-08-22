@@ -1,0 +1,11 @@
+{
+  "name": "mlrl-testbed-slurm",
+  "version": "0.14.0",
+  "summary": "Adds support for the Slurm Workload Manager to the package \"mlrl-testbed\"",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlrl_testbed_slurm-0.14.0-py3-none-any.whl",
+  "download_time": "2025-08-22T23:19:59.739121",
+  "package_url": "https://pypi.org/project/mlrl-testbed-slurm/"
+}

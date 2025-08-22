@@ -1,0 +1,11 @@
+{
+  "name": "spleaf",
+  "version": "2.1.17",
+  "summary": "Symmetric S+LEAF matrix",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spleaf-2.1.17.tar.gz",
+  "download_time": "2025-08-22T23:20:06.109528",
+  "package_url": "https://pypi.org/project/spleaf/"
+}
