@@ -1,0 +1,11 @@
+{
+  "name": "pyheadtracker",
+  "version": "0.0.4",
+  "summary": "Python package for easy interaction with head tracker hardware.",
+  "author": "Felix Holzmüller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyheadtracker-0.0.4.tar.gz",
+  "download_time": "2025-08-22T15:41:26.325990",
+  "package_url": "https://pypi.org/project/pyheadtracker/"
+}

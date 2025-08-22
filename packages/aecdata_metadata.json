@@ -1,11 +1,11 @@
 {
   "name": "aecdata",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "A Python library designed to simplify access to the 2050-materials API",
   "author": "2050 Materials",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/2050-Materials/aecdata",
-  "download_filename": "aecdata-0.0.13.tar.gz",
-  "download_time": "2025-08-19T14:45:52.457512",
+  "download_filename": "aecdata-0.0.14.tar.gz",
+  "download_time": "2025-08-22T15:41:38.502317",
   "package_url": "https://pypi.org/project/aecdata/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pybeamline",
+  "version": "1.1.1",
+  "summary": "Python version of Beamline (based on ReactiveX)",
+  "author": "Andrea Burattin",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pybeamline-1.1.1.tar.gz",
+  "download_time": "2025-08-22T15:41:40.619822",
+  "package_url": "https://pypi.org/project/pybeamline/"
+}

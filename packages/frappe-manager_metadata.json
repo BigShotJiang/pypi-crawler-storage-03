@@ -1,0 +1,11 @@
+{
+  "name": "frappe-manager",
+  "version": "0.18.0",
+  "summary": "A CLI tool based on Docker Compose to easily manage Frappe based projects. As of now, only suitable for development in local machines running on Mac and Linux based OS.",
+  "author": "rtCamp",
+  "license": "MIT",
+  "home_page": "https://github.com/rtcamp/frappe-manager",
+  "download_filename": "frappe_manager-0.18.0.tar.gz",
+  "download_time": "2025-08-22T15:41:42.177413",
+  "package_url": "https://pypi.org/project/frappe-manager/"
+}

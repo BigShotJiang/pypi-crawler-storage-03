@@ -1,0 +1,11 @@
+{
+  "name": "virtughan",
+  "version": "1.0.1",
+  "summary": "Virtual Computation Cube",
+  "author": "kshitijrajsharma",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "virtughan-1.0.1.tar.gz",
+  "download_time": "2025-08-22T15:41:25.813529",
+  "package_url": "https://pypi.org/project/virtughan/"
+}

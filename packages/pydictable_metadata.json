@@ -1,0 +1,11 @@
+{
+  "name": "pydictable",
+  "version": "2.3.0",
+  "summary": "Make your classes from/to dict",
+  "author": "Pramod Kumar",
+  "license": null,
+  "home_page": "https://github.com/pskd73/pydictable.git",
+  "download_filename": "pydictable-2.3.0.tar.gz",
+  "download_time": "2025-08-22T15:41:40.089682",
+  "package_url": "https://pypi.org/project/pydictable/"
+}

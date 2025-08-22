@@ -1,0 +1,11 @@
+{
+  "name": "inverse-projections",
+  "version": "0.1.0",
+  "summary": "Inverse projection techniques for dimensionality reduction",
+  "author": "Yu Wang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inverse_projections-0.1.0.tar.gz",
+  "download_time": "2025-08-22T15:41:43.736110",
+  "package_url": "https://pypi.org/project/inverse-projections/"
+}
