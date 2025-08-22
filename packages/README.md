@@ -1,51 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T11:40:00.266328
-- **Total Packages**: 94
-- **Total Size**: 60.71 MB
+- **Download Time**: 2025-08-22T11:53:21.644416
+- **Total Packages**: 87
+- **Total Size**: 0.06 MB
 
 ## Packages List
-- gcsa
-- aiidalab-qe-hp
-- oarepo-model
-- pygpt-net
-- runagent
-- lxd-io
-- easydiffraction
-- PYield
-- nixt
-- databathing
-- sahi
-- nyancad-server
-- naeural-core
-- uqc_client
-- topo_map_processor
-- lppinv
-- rasa-pro
-- tai-sql
-- talkpipe
-- edsger
-- midas-civil
-- electricitymaps
-- mesoscopy
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- lsp-tree-sitter
-- torchx-nightly
-- PySide6-Fluent-Widgets
-- PyQt6-Fluent-Widgets
-- PyQt-Fluent-Widgets
-- PySide2-Fluent-Widgets
-- savanty
-- arivo-settings-models
 - swat
 - mcp-jira-confluence
 - gridfm-graphkit
@@ -74,6 +34,7 @@
 - dspy
 - pyclsp
 - ssb-eimerdb
+- genai-client
 - coconut-api
 - pylette
 - beswarm
@@ -100,3 +61,35 @@
 - argumentize
 - pryttier
 - fast-boiler
+- scontoolkit
+- rumdl
+- genomehubs
+- odoo-addon-mrp-workorder-last-worker
+- microcalibrate
+- ollmcp
+- mcp-client-for-ollama
+- fastglmm
+- naeural-core
+- fc-model
+- matrice
+- Whispey
+- abstract-gui
+- llamabot
+- odoo-addon-stock-orderpoint-uom
+- CHE-QNM
+- friendli-app
+- bubblebarrier
+- lineagentic-catalog
+- nasdaq-protocols
+- odoo-addon-exportar-stock-editorial-xls
+- watercrawl-openai
+- scitools-iris
+- kodexa
+- tinyml4all
+- netx-vis
+- tfduck-bsd
+- check-depz
+- qibolab
+- cloudx-proxy
+- fast-dev-cli
+- fastdevcli-slim
