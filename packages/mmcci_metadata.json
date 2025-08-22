@@ -1,0 +1,11 @@
+{
+  "name": "mmcci",
+  "version": "1.0.7",
+  "summary": "A Python package for processing multi-platform, multi-sample CCI data",
+  "author": "Genomics and Machine Learning lab",
+  "license": null,
+  "home_page": "https://github.com/GenomicsMachineLearning/MMCCI",
+  "download_filename": "mmcci-1.0.7.tar.gz",
+  "download_time": "2025-08-22T03:41:48.607353",
+  "package_url": "https://pypi.org/project/mmcci/"
+}
