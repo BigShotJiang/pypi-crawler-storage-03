@@ -1,11 +1,11 @@
 {
   "name": "pelican-cite2",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Allows the use of BibTeX citations within a Pelican site",
   "author": "Johan Vergeer",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "pelican_cite2-1.1.2.tar.gz",
-  "download_time": "2025-08-22T17:18:50.431969",
+  "download_filename": "pelican_cite2-1.1.3.tar.gz",
+  "download_time": "2025-08-22T17:42:44.572108",
   "package_url": "https://pypi.org/project/pelican-cite2/"
 }

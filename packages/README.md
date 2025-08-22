@@ -1,17 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T17:19:33.136205
-- **Total Packages**: 82
-- **Total Size**: 40.33 MB
+- **Download Time**: 2025-08-22T17:43:12.890372
+- **Total Packages**: 85
+- **Total Size**: 23.32 MB
 
 ## Packages List
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- identityfunction
+- cheshire-cat-ai
+- maialib
+- RubigramClient
+- mhagenta
+- NCapybaraLib
+- debabelizer
+- nci-cidc-api-modules
+- agentfoundry
+- pyhelper-tools-jbhm
+- fyodorov-utils
+- fyodorov-llm-agents
+- py-p-audio
+- ml4gw
+- deepagents
+- vimgolf-gym
+- fluidize-sdk
+- caltechdata-api
+- bpsai-pair
+- docsteady
+- actualpy
+- umepr
+- alibabacloud-paistudio20220112
+- kuba
+- firehound-scanner
+- thermoml-fair
+- zaiq
+- truss
 - kognitos-bdk-runtime-client-cli
 - mlquantify
 - pelican-cite2
-- debabelizer
 - multi-storage-client
-- pyhelper-tools-jbhm
 - scportrait
 - omserv
 - ommlds
@@ -38,13 +66,10 @@
 - OctoBot-Trading
 - libyare
 - ducpy
-- fyodorov-utils
 - iwpc
-- fyodorov-llm-agents
 - HS-TasNet
 - kaqing
 - sai-akruti
-- truss
 - arelle-release
 - freem-bots
 - jprcfai
@@ -66,25 +91,3 @@
 - another-ayx-python-sdk
 - mongomasker_cli
 - scc-firewall-manager-sdk
-- addon-odoo-wheel
-- pulse-framework
-- fair-forge
-- ASDFGH
-- optillm
-- aient
-- inmanta-dev-dependencies
-- numba-cuda
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- cuti
-- onekit
-- nrel.routee.compass
-- sherpa-onnx
-- pyvoicelib
-- MozPhab
-- tket
-- align-browser
-- streamlit-lexical
-- sah
-- inverse-cai
-- glaip-sdk

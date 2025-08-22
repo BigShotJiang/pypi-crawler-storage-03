@@ -1,0 +1,11 @@
+{
+  "name": "ml4gw",
+  "version": "0.7.7",
+  "summary": "Tools for training torch models on gravitational wave data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ml4gw-0.7.7.tar.gz",
+  "download_time": "2025-08-22T17:42:34.358022",
+  "package_url": "https://pypi.org/project/ml4gw/"
+}
