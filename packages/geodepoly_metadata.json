@@ -1,11 +1,11 @@
 {
   "name": "geodepoly",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Series-reversion polynomial solver with bootstrap and deflation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "geodepoly-0.1.2.tar.gz",
-  "download_time": "2025-08-22T05:20:48.365486",
+  "download_filename": "geodepoly-0.1.3.tar.gz",
+  "download_time": "2025-08-22T05:43:46.745525",
   "package_url": "https://pypi.org/project/geodepoly/"
 }

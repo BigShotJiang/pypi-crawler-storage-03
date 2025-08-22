@@ -1,0 +1,11 @@
+{
+  "name": "horseracepredictor",
+  "version": "0.3.7",
+  "summary": "A package to predict horse race winners",
+  "author": "BLILLP",
+  "license": null,
+  "home_page": "https://github.com/BLILLP/horserace-nn.git",
+  "download_filename": "horseracepredictor-0.3.7.tar.gz",
+  "download_time": "2025-08-22T05:43:18.750657",
+  "package_url": "https://pypi.org/project/horseracepredictor/"
+}
