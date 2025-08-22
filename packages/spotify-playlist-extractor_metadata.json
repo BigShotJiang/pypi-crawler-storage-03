@@ -1,0 +1,11 @@
+{
+  "name": "spotify-playlist-extractor",
+  "version": "1.0.0",
+  "summary": "A simple CLI tool to extract Spotify playlists",
+  "author": "Junior Developer",
+  "license": null,
+  "home_page": "https://github.com/username/spotify-playlist-extractor",
+  "download_filename": "spotify-playlist-extractor-1.0.0.tar.gz",
+  "download_time": "2025-08-22T09:53:23.146248",
+  "package_url": "https://pypi.org/project/spotify-playlist-extractor/"
+}

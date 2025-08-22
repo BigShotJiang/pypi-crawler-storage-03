@@ -1,0 +1,11 @@
+{
+  "name": "kopen-web-shop-flask",
+  "version": "7.0.0",
+  "summary": "Tryton module to use as backend for custom Flask Webshop",
+  "author": "KOPEN SOFTWARE, SLU",
+  "license": "GPL-3",
+  "home_page": "https://www.kopen.es",
+  "download_filename": "kopen_web_shop_flask-7.0.0.tar.gz",
+  "download_time": "2025-08-22T09:53:01.930788",
+  "package_url": "https://pypi.org/project/kopen-web-shop-flask/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "exabel-data-sdk",
+  "version": "6.3.0",
+  "summary": "Python SDK for the Exabel Data API",
+  "author": "Exabel",
+  "license": "MIT",
+  "home_page": "https://github.com/Exabel/python-sdk",
+  "download_filename": "exabel_data_sdk-6.3.0.tar.gz",
+  "download_time": "2025-08-22T09:53:15.176360",
+  "package_url": "https://pypi.org/project/exabel-data-sdk/"
+}

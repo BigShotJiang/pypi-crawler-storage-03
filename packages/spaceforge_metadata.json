@@ -1,11 +1,11 @@
 {
   "name": "spaceforge",
-  "version": "0.0.19",
+  "version": "1.0.0",
   "summary": "A Python framework for building Spacelift plugins",
   "author": "Spacelift",
   "license": "MIT",
   "home_page": "https://github.com/spacelift-io/plugins",
-  "download_filename": "spaceforge-0.0.19.tar.gz",
-  "download_time": "2025-08-21T16:53:39.762369",
+  "download_filename": "spaceforge-1.0.0.tar.gz",
+  "download_time": "2025-08-22T09:53:14.097539",
   "package_url": "https://pypi.org/project/spaceforge/"
 }
