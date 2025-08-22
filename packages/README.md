@@ -1,22 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T17:43:12.890372
-- **Total Packages**: 85
-- **Total Size**: 23.32 MB
+- **Download Time**: 2025-08-22T17:53:08.904284
+- **Total Packages**: 83
+- **Total Size**: 0.28 MB
 
 ## Packages List
-- tobiko-cloud-helpers
-- tobiko-cloud-api-client
-- identityfunction
-- cheshire-cat-ai
-- maialib
-- RubigramClient
-- mhagenta
-- NCapybaraLib
-- debabelizer
-- nci-cidc-api-modules
-- agentfoundry
 - pyhelper-tools-jbhm
 - fyodorov-utils
 - fyodorov-llm-agents
@@ -30,6 +19,7 @@
 - docsteady
 - actualpy
 - umepr
+- cheshire-cat-ai
 - alibabacloud-paistudio20220112
 - kuba
 - firehound-scanner
@@ -39,6 +29,7 @@
 - kognitos-bdk-runtime-client-cli
 - mlquantify
 - pelican-cite2
+- debabelizer
 - multi-storage-client
 - scportrait
 - omserv
@@ -91,3 +82,10 @@
 - another-ayx-python-sdk
 - mongomasker_cli
 - scc-firewall-manager-sdk
+- addon-odoo-wheel
+- pulse-framework
+- fair-forge
+- ASDFGH
+- optillm
+- aient
+- inmanta-dev-dependencies

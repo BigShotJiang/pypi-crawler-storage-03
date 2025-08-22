@@ -1,11 +1,11 @@
 {
   "name": "firehound-scanner",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "summary": "Firebase security scanner for iOS apps",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firehound_scanner-1.0.1.tar.gz",
-  "download_time": "2025-08-22T17:42:41.178660",
+  "download_filename": "firehound_scanner-1.0.5.tar.gz",
+  "download_time": "2025-08-22T17:52:31.307756",
   "package_url": "https://pypi.org/project/firehound-scanner/"
 }
