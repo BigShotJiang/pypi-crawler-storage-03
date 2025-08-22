@@ -1,0 +1,11 @@
+{
+  "name": "datajunction-query",
+  "version": "0.0.1a113",
+  "summary": "OSS Implementation of a DataJunction Query Service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datajunction_query-0.0.1a113.tar.gz",
+  "download_time": "2025-08-22T21:18:25.153394",
+  "package_url": "https://pypi.org/project/datajunction-query/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "path_extract",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "path_extract-0.1.5.tar.gz",
-  "download_time": "2025-08-22T20:55:07.600472",
+  "download_filename": "path_extract-0.1.6.tar.gz",
+  "download_time": "2025-08-22T21:18:42.321484",
   "package_url": "https://pypi.org/project/path_extract/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fairchem-data-oc",
+  "version": "1.0.2",
+  "summary": "Code for generating adsorbate-catalyst input configurations",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "fairchem_data_oc-1.0.2.tar.gz",
+  "download_time": "2025-08-22T21:18:32.994362",
+  "package_url": "https://pypi.org/project/fairchem-data-oc/"
+}
