@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-dnspod",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "MCP Server for Tencent Cloud DNSPod",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_server_dnspod-0.1.7.tar.gz",
-  "download_time": "2025-08-22T04:00:08.069655",
+  "download_filename": "mcp_server_dnspod-0.1.8.tar.gz",
+  "download_time": "2025-08-22T06:30:44.089946",
   "package_url": "https://pypi.org/project/mcp-server-dnspod/"
 }

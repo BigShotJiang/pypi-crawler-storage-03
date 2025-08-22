@@ -1,0 +1,11 @@
+{
+  "name": "dot-kernel",
+  "version": "0.1.9",
+  "summary": "Writing dot language and render in jupyter.",
+  "author": "laixintao",
+  "license": null,
+  "home_page": "https://github.com/laixintao/jupyter-dot-kernel",
+  "download_filename": "dot_kernel-0.1.9.tar.gz",
+  "download_time": "2025-08-22T06:30:52.419859",
+  "package_url": "https://pypi.org/project/dot-kernel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "wx-chatbot-client",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "wx-ai-starter客户端",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wx_chatbot_client-0.1.7.tar.gz",
-  "download_time": "2025-08-20T10:56:08.381786",
+  "download_filename": "wx_chatbot_client-0.2.0.tar.gz",
+  "download_time": "2025-08-22T06:30:44.640165",
   "package_url": "https://pypi.org/project/wx-chatbot-client/"
 }

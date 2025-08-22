@@ -1,11 +1,11 @@
 {
   "name": "python-sri",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Generate SRI hashes on the fly for some HTML, files, URL or data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python_sri-0.1.0.tar.gz",
-  "download_time": "2025-08-20T13:20:56.880270",
+  "download_filename": "python_sri-0.2.0.tar.gz",
+  "download_time": "2025-08-22T06:30:47.241461",
   "package_url": "https://pypi.org/project/python-sri/"
 }

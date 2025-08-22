@@ -1,11 +1,11 @@
 {
   "name": "test-rest-api",
-  "version": "0.0.0.0.50",
+  "version": "0.0.0.0.51",
   "summary": "Asynchronous Test Framework #HighPerformance #EasyToLearn #FastToCode #AsyncTests",
   "author": "Troy M Jose",
   "license": null,
   "home_page": "https://github.com/troymjose/test_rest_api",
-  "download_filename": "test_rest_api-0.0.0.0.50.tar.gz",
-  "download_time": "2025-08-21T09:21:51.406018",
+  "download_filename": "test_rest_api-0.0.0.0.51.tar.gz",
+  "download_time": "2025-08-22T06:30:34.341938",
   "package_url": "https://pypi.org/project/test-rest-api/"
 }

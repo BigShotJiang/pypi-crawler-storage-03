@@ -1,11 +1,11 @@
 {
   "name": "check-config",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Check configuration files.",
   "author": null,
   "license": null,
   "home_page": "https://pypi.org/project/check-config/",
-  "download_filename": "check_config-0.8.0.tar.gz",
-  "download_time": "2025-08-18T23:51:00.994391",
+  "download_filename": "check_config-0.8.1.tar.gz",
+  "download_time": "2025-08-22T06:30:52.939902",
   "package_url": "https://pypi.org/project/check-config/"
 }
