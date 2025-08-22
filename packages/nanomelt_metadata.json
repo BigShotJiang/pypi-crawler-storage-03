@@ -1,0 +1,11 @@
+{
+  "name": "nanomelt",
+  "version": "1.1.0",
+  "summary": "A nanobody thermostability prediction tool",
+  "author": "Aubin Ramon",
+  "license": "CC BY-NC-SA 4.0",
+  "home_page": null,
+  "download_filename": "nanomelt-1.1.0.tar.gz",
+  "download_time": "2025-08-22T09:21:41.209492",
+  "package_url": "https://pypi.org/project/nanomelt/"
+}

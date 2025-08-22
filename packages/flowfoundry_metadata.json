@@ -1,0 +1,11 @@
+{
+  "name": "flowfoundry",
+  "version": "0.0.1",
+  "summary": "FlowFoundry: a cloud-agnostic agentic workflow core for LangGraph/LangChain.",
+  "author": "Mandar Parab",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flowfoundry-0.0.1.tar.gz",
+  "download_time": "2025-08-22T09:21:46.861700",
+  "package_url": "https://pypi.org/project/flowfoundry/"
+}

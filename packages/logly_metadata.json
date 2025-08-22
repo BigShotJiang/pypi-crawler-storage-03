@@ -1,0 +1,11 @@
+{
+  "name": "logly",
+  "version": "0.1.0",
+  "summary": "A stupidly simple, yet blazingly fast and powerful logging utility for Python — powered by Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "logly-0.1.0.tar.gz",
+  "download_time": "2025-08-22T09:22:00.217897",
+  "package_url": "https://pypi.org/project/logly/"
+}

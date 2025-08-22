@@ -1,11 +1,11 @@
 {
   "name": "fixedfig",
-  "version": "0.1.1",
-  "summary": "Global configuration of figure window size and position when using matplotlib.show()",
+  "version": "0.1.3",
+  "summary": "A wrapper for matplotlib's plt.show() that globally sets figure window size, position, and target screen.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fixedfig-0.1.1.tar.gz",
-  "download_time": "2025-08-22T07:41:09.190009",
+  "download_filename": "fixedfig-0.1.3.tar.gz",
+  "download_time": "2025-08-22T09:21:54.537161",
   "package_url": "https://pypi.org/project/fixedfig/"
 }

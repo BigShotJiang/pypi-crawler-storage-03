@@ -1,11 +1,11 @@
 {
   "name": "PyUTLoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "PyUTLoc is implemented as a modular Python package designed to address the challenges of heterogeneous spatial location transformation through a unified framework. The implementation follows a layered architecture that separates concerns into distinct functional modules while maintaining interoperability between components. The package consists of three primary modules: annotation, geocoding, and transformation, each serving a specific role in the coordinate processing pipeline.",
   "author": "Xiaoliang Dai",
   "license": null,
   "home_page": "https://github.com/dxl98/PyUTLoc",
-  "download_filename": "pyutloc-1.0.0.tar.gz",
-  "download_time": "2025-08-22T07:41:11.890692",
+  "download_filename": "pyutloc-1.0.1.tar.gz",
+  "download_time": "2025-08-22T09:22:11.194929",
   "package_url": "https://pypi.org/project/PyUTLoc/"
 }

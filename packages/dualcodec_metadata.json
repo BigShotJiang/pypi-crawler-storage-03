@@ -1,0 +1,11 @@
+{
+  "name": "dualcodec",
+  "version": "0.4.2",
+  "summary": "The DualCodec neural audio codec.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dualcodec-0.4.2.tar.gz",
+  "download_time": "2025-08-22T09:22:08.594711",
+  "package_url": "https://pypi.org/project/dualcodec/"
+}

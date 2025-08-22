@@ -1,0 +1,11 @@
+{
+  "name": "pgscatalog.calc",
+  "version": "0.3.1",
+  "summary": "Libraries and applications for working with calculated polygenic scores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgscatalog_calc-0.3.1.tar.gz",
+  "download_time": "2025-08-22T09:22:10.682659",
+  "package_url": "https://pypi.org/project/pgscatalog.calc/"
+}

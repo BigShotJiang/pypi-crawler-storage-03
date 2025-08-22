@@ -1,0 +1,11 @@
+{
+  "name": "browserness",
+  "version": "0.0.2",
+  "summary": "Python SDK for Browserness API",
+  "author": "Browserness",
+  "license": "MIT",
+  "home_page": "https://github.com/browserness/sdk-python",
+  "download_filename": "browserness-0.0.2.tar.gz",
+  "download_time": "2025-08-22T09:21:36.537710",
+  "package_url": "https://pypi.org/project/browserness/"
+}

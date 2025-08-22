@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-profit",
+  "version": "4.1.1",
+  "summary": "Profit wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_profit-4.1.1.tar.gz",
+  "download_time": "2025-08-22T09:21:52.487521",
+  "package_url": "https://pypi.org/project/brynq-sdk-profit/"
+}
