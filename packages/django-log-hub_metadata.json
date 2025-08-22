@@ -1,0 +1,11 @@
+{
+  "name": "django-log-hub",
+  "version": "1.0.6",
+  "summary": "Advanced logging and monitoring module for Django projects with centralized logging system",
+  "author": "Enes HAZIR",
+  "license": "MIT",
+  "home_page": "https://github.com/eneshazr/django-log-hub",
+  "download_filename": "django_log_hub-1.0.6.tar.gz",
+  "download_time": "2025-08-22T18:29:18.743509",
+  "package_url": "https://pypi.org/project/django-log-hub/"
+}

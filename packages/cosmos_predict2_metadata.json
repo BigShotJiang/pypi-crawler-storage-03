@@ -1,11 +1,11 @@
 {
   "name": "cosmos_predict2",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Cosmos World Foundation Model",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cosmos_predict2-1.0.4.tar.gz",
-  "download_time": "2025-08-22T17:43:10.301229",
+  "download_filename": "cosmos_predict2-1.0.5.tar.gz",
+  "download_time": "2025-08-22T18:28:48.336830",
   "package_url": "https://pypi.org/project/cosmos_predict2/"
 }

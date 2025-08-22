@@ -1,0 +1,11 @@
+{
+  "name": "kde-classifier",
+  "version": "0.1.0",
+  "summary": "Kernel Density Estimation classifier with scikit-learn style API, based on Yang Liu et al. (2020).",
+  "author": "Yang Liu, Hongxia He, Zhi-Xiong Xiao, Anquan Ji, Jian Ye, Qifan Sun, Yang Cao, Daniel Grønhaug",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kde_classifier-0.1.0.tar.gz",
+  "download_time": "2025-08-22T18:28:45.703445",
+  "package_url": "https://pypi.org/project/kde-classifier/"
+}
