@@ -1,0 +1,11 @@
+{
+  "name": "blogus",
+  "version": "0.1.0",
+  "summary": "A library for crafting, analyzing, and perfecting AI prompts",
+  "author": "Dipankar Sarkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blogus-0.1.0.tar.gz",
+  "download_time": "2025-08-22T11:39:42.495908",
+  "package_url": "https://pypi.org/project/blogus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gcsa",
+  "version": "2.6.0",
+  "summary": "Simple API for Google Calendar management",
+  "author": "Yevhen Kuzmovych",
+  "license": "MIT",
+  "home_page": "https://github.com/kuzmoyev/google-calendar-simple-api",
+  "download_filename": "gcsa-2.6.0.tar.gz",
+  "download_time": "2025-08-22T11:39:10.836251",
+  "package_url": "https://pypi.org/project/gcsa/"
+}

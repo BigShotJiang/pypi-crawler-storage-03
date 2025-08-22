@@ -1,11 +1,11 @@
 {
   "name": "AlignSubs",
-  "version": "0.2.4",
+  "version": "0.3.2",
   "summary": "AlignSubs: Alignment Substitution Analyzer (for nucleotide and aminoacid substitutions)",
   "author": "Taner Karagol",
   "license": "GPL-3.0",
   "home_page": "https://github.com/karagol-taner/Alignment-Substitution-Analyzer",
-  "download_filename": "alignsubs-0.2.4.tar.gz",
-  "download_time": "2025-08-21T10:57:26.209675",
+  "download_filename": "alignsubs-0.3.2.tar.gz",
+  "download_time": "2025-08-22T11:39:36.296539",
   "package_url": "https://pypi.org/project/AlignSubs/"
 }

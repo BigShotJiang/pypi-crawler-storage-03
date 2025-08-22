@@ -1,0 +1,11 @@
+{
+  "name": "electricitymaps",
+  "version": "0.0.1",
+  "summary": "Official Electricity Maps Python SDK",
+  "author": "Electricity Maps",
+  "license": "MIT",
+  "home_page": "https://github.com/electricitymaps/electricitymaps-contrib",
+  "download_filename": "electricitymaps-0.0.1.tar.gz",
+  "download_time": "2025-08-22T11:39:22.361440",
+  "package_url": "https://pypi.org/project/electricitymaps/"
+}

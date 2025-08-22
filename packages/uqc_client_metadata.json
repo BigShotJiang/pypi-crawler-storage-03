@@ -1,0 +1,11 @@
+{
+  "name": "uqc_client",
+  "version": "0.0.9",
+  "summary": "Client package for UQC platform apis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uqc_client-0.0.9.tar.gz",
+  "download_time": "2025-08-22T11:39:18.245695",
+  "package_url": "https://pypi.org/project/uqc_client/"
+}

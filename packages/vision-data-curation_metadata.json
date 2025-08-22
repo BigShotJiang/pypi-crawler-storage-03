@@ -1,11 +1,11 @@
 {
   "name": "vision-data-curation",
-  "version": "0.0.1.dev2",
+  "version": "0.0.1.dev4",
   "summary": "A pipeline for curating and sanitizing large-scale image datasets.",
   "author": "Ofer Hasson",
   "license": null,
   "home_page": null,
-  "download_filename": "vision_data_curation-0.0.1.dev2.tar.gz",
-  "download_time": "2025-08-18T18:30:29.135951",
+  "download_filename": "vision_data_curation-0.0.1.dev4.tar.gz",
+  "download_time": "2025-08-22T11:39:38.356637",
   "package_url": "https://pypi.org/project/vision-data-curation/"
 }
