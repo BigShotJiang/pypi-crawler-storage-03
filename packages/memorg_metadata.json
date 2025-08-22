@@ -1,0 +1,11 @@
+{
+  "name": "memorg",
+  "version": "0.1.2",
+  "summary": "A hierarchical context management system for Large Language Models that acts as an external memory layer, helping LLMs maintain context over extended interactions while managing token usage efficiently.",
+  "author": "Dipankar Sarkar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "memorg-0.1.2.tar.gz",
+  "download_time": "2025-08-22T12:39:51.940911",
+  "package_url": "https://pypi.org/project/memorg/"
+}

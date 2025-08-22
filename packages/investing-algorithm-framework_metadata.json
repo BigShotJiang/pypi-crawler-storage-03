@@ -1,11 +1,11 @@
 {
   "name": "investing-algorithm-framework",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "summary": "A framework for creating trading bots",
   "author": "MDUYN",
   "license": null,
   "home_page": null,
-  "download_filename": "investing_algorithm_framework-7.1.0.tar.gz",
-  "download_time": "2025-08-22T08:27:48.860331",
+  "download_filename": "investing_algorithm_framework-7.2.0.tar.gz",
+  "download_time": "2025-08-22T12:40:17.785952",
   "package_url": "https://pypi.org/project/investing-algorithm-framework/"
 }

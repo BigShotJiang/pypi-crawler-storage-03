@@ -1,11 +1,11 @@
 {
   "name": "carla-driving-simulator-client",
-  "version": "2.0.16",
+  "version": "2.0.22",
   "summary": "A comprehensive CARLA client for autonomous driving simulation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "carla_driving_simulator_client-2.0.16.tar.gz",
-  "download_time": "2025-08-22T11:17:29.294271",
+  "download_filename": "carla_driving_simulator_client-2.0.22.tar.gz",
+  "download_time": "2025-08-22T12:39:33.307660",
   "package_url": "https://pypi.org/project/carla-driving-simulator-client/"
 }

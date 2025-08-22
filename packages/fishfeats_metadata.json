@@ -1,11 +1,11 @@
 {
   "name": "fishfeats",
-  "version": "1.1.22",
+  "version": "1.1.23",
   "summary": "Napari plugin for RNA-Fish+cells analysis pipeline",
   "author": "Gaëlle Letort",
   "license": null,
   "home_page": null,
-  "download_filename": "fishfeats-1.1.22.tar.gz",
-  "download_time": "2025-08-20T15:21:40.593595",
+  "download_filename": "fishfeats-1.1.23.tar.gz",
+  "download_time": "2025-08-22T12:39:58.120997",
   "package_url": "https://pypi.org/project/fishfeats/"
 }

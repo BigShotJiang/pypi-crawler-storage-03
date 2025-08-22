@@ -1,11 +1,11 @@
 {
   "name": "rebase-dashboard",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rebase_dashboard-0.0.5.tar.gz",
-  "download_time": "2025-08-22T08:27:46.114906",
+  "download_filename": "rebase_dashboard-0.0.7.tar.gz",
+  "download_time": "2025-08-22T12:40:04.912338",
   "package_url": "https://pypi.org/project/rebase-dashboard/"
 }

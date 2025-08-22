@@ -1,11 +1,11 @@
 {
   "name": "vettavista-backend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Backend for VettaVista - Smart Job Search & Application Assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vettavista_backend-0.0.2.tar.gz",
-  "download_time": "2025-08-22T03:41:58.764675",
+  "download_filename": "vettavista_backend-0.0.3.tar.gz",
+  "download_time": "2025-08-22T12:40:09.025211",
   "package_url": "https://pypi.org/project/vettavista-backend/"
 }

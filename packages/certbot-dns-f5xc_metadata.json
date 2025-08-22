@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-f5xc",
+  "version": "1.0.0",
+  "summary": "F5 Distributed Cloud (F5XC) DNS Authenticator plugin for Certbot",
+  "author": "Fadly Tabrani",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/fadlytabrani/certbot-dns-f5xc",
+  "download_filename": "certbot_dns_f5xc-1.0.0.tar.gz",
+  "download_time": "2025-08-22T12:39:57.071751",
+  "package_url": "https://pypi.org/project/certbot-dns-f5xc/"
+}

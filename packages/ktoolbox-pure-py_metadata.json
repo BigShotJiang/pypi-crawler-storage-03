@@ -1,11 +1,11 @@
 {
   "name": "ktoolbox-pure-py",
-  "version": "0.21.1",
+  "version": "0.22.0",
   "summary": "A useful CLI tool for downloading posts in Kemono.cr / .su / .party",
   "author": "Ljzd-PRO",
   "license": "BSD-3-Clause",
   "home_page": "https://ktoolbox.readthedocs.io/",
-  "download_filename": "ktoolbox_pure_py-0.21.1.tar.gz",
-  "download_time": "2025-08-20T11:17:20.876392",
+  "download_filename": "ktoolbox_pure_py-0.22.0.tar.gz",
+  "download_time": "2025-08-22T12:40:06.452619",
   "package_url": "https://pypi.org/project/ktoolbox-pure-py/"
 }

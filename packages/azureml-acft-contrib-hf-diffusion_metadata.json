@@ -1,11 +1,11 @@
 {
   "name": "azureml-acft-contrib-hf-diffusion",
-  "version": "0.0.78",
+  "version": "0.0.79",
   "summary": "Contains the acft nlp-hf-contrib package used in script to build azureml components.",
   "author": "Microsoft Corp",
   "license": "inline_license",
   "home_page": null,
-  "download_filename": "azureml_acft_contrib_hf_diffusion-0.0.78-py3-none-any.whl",
-  "download_time": "2025-08-19T09:21:39.748970",
+  "download_filename": "azureml_acft_contrib_hf_diffusion-0.0.79-py3-none-any.whl",
+  "download_time": "2025-08-22T12:39:42.627322",
   "package_url": "https://pypi.org/project/azureml-acft-contrib-hf-diffusion/"
 }

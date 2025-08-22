@@ -1,11 +1,11 @@
 {
   "name": "trustgraph-cli",
-  "version": "1.2.16",
+  "version": "1.2.17",
   "summary": "TrustGraph provides a means to run a pipeline of flexible AI processing components in a flexible means to achieve a processing pipeline.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trustgraph_cli-1.2.16.tar.gz",
-  "download_time": "2025-08-22T11:39:25.980147",
+  "download_filename": "trustgraph_cli-1.2.17.tar.gz",
+  "download_time": "2025-08-22T12:39:37.938531",
   "package_url": "https://pypi.org/project/trustgraph-cli/"
 }
