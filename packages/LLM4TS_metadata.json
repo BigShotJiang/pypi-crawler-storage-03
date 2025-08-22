@@ -1,0 +1,11 @@
+{
+  "name": "LLM4TS",
+  "version": "0.0.1",
+  "summary": "LLM4TS",
+  "author": "REML lab developer",
+  "license": "MIT",
+  "home_page": "https://github.com/reml-lab/llm4ts/",
+  "download_filename": "llm4ts-0.0.1.tar.gz",
+  "download_time": "2025-08-22T16:25:07.572035",
+  "package_url": "https://pypi.org/project/LLM4TS/"
+}

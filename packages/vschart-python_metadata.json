@@ -1,11 +1,11 @@
 {
   "name": "vschart-python",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Python client for VSChart extension",
   "author": "yiwan2",
   "license": null,
   "home_page": "https://github.com/yourusername/vschart",
-  "download_filename": "vschart_python-1.0.6.tar.gz",
-  "download_time": "2025-08-22T15:26:51.700253",
+  "download_filename": "vschart_python-1.0.7.tar.gz",
+  "download_time": "2025-08-22T16:25:16.694361",
   "package_url": "https://pypi.org/project/vschart-python/"
 }

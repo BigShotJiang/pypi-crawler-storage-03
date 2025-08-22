@@ -1,11 +1,11 @@
 {
   "name": "trackio",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A lightweight, local-first, and free experiment tracking library built on top of Hugging Face Datasets and Spaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trackio-0.2.7.tar.gz",
-  "download_time": "2025-08-20T10:21:50.725923",
+  "download_filename": "trackio-0.2.8.tar.gz",
+  "download_time": "2025-08-22T16:25:25.607316",
   "package_url": "https://pypi.org/project/trackio/"
 }

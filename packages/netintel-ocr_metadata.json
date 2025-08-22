@@ -1,11 +1,11 @@
 {
   "name": "netintel-ocr",
-  "version": "0.1.13",
-  "summary": "Network Intelligence Document Processing System with REST API and Model Context Protocol support",
-  "author": null,
+  "version": "0.1.14",
+  "summary": "High-performance PDF OCR with network diagram detection and deduplication (50-100x speedup with C++ core)",
+  "author": "NetIntel Team",
   "license": null,
-  "home_page": null,
-  "download_filename": "netintel_ocr-0.1.13-py3-none-any.whl",
-  "download_time": "2025-08-22T03:42:14.847034",
+  "home_page": "https://github.com/netintel/netintel-ocr",
+  "download_filename": "netintel_ocr-0.1.14-cp312-cp312-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2025-08-22T16:25:27.337727",
   "package_url": "https://pypi.org/project/netintel-ocr/"
 }

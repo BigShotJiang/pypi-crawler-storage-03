@@ -1,0 +1,11 @@
+{
+  "name": "bcrpy",
+  "version": "3.3.0",
+  "summary": "An API client for the extraction, query, and analysis of the BCRPData database from the Central Reserve Bank of Peru (BCRP).",
+  "author": "andrewrgarcia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bcrpy-3.3.0.tar.gz",
+  "download_time": "2025-08-22T16:25:40.081315",
+  "package_url": "https://pypi.org/project/bcrpy/"
+}
