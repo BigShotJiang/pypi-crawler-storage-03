@@ -1,11 +1,11 @@
 {
   "name": "shelf-backup",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "summary": "A stupidly simple backup tool: single file with zero dependencies",
   "author": "Radhe",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shelf_backup-0.1.1.tar.gz",
-  "download_time": "2025-08-22T22:19:11.378156",
+  "download_filename": "shelf_backup-0.0.1.tar.gz",
+  "download_time": "2025-08-22T23:52:29.357684",
   "package_url": "https://pypi.org/project/shelf-backup/"
 }

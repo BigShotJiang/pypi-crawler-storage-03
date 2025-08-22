@@ -1,0 +1,11 @@
+{
+  "name": "np_queuey",
+  "version": "0.2.47",
+  "summary": "Tools for submitting and processing jobs through a message queue for Mindscope Neuropixels workflows.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "np_queuey-0.2.47.tar.gz",
+  "download_time": "2025-08-22T23:52:26.780389",
+  "package_url": "https://pypi.org/project/np_queuey/"
+}
