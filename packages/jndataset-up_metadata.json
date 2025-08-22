@@ -1,11 +1,11 @@
 {
   "name": "jndataset-up",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Dataset Uploader SDK",
   "author": null,
   "license": null,
   "home_page": "https://github.com/***/dataset-up",
-  "download_filename": "jndataset_up-0.4.0-py3-none-any.whl",
-  "download_time": "2025-08-19T10:46:09.278711",
+  "download_filename": "jndataset_up-0.5.0-py3-none-any.whl",
+  "download_time": "2025-08-22T04:34:00.357873",
   "package_url": "https://pypi.org/project/jndataset-up/"
 }

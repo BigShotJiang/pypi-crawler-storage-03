@@ -1,0 +1,11 @@
+{
+  "name": "jettask",
+  "version": "0.1.7",
+  "summary": "A high-performance distributed task queue system with web monitoring",
+  "author": "JetTask Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/jettask",
+  "download_filename": "jettask-0.1.7.tar.gz",
+  "download_time": "2025-08-22T04:33:43.651032",
+  "package_url": "https://pypi.org/project/jettask/"
+}

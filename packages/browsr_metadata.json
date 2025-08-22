@@ -1,11 +1,11 @@
 {
   "name": "browsr",
-  "version": "1.22.0",
+  "version": "1.22.1",
   "summary": "TUI File Browser App",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "browsr-1.22.0.tar.gz",
-  "download_time": "2025-08-20T03:41:25.699612",
+  "download_filename": "browsr-1.22.1.tar.gz",
+  "download_time": "2025-08-22T04:34:23.070225",
   "package_url": "https://pypi.org/project/browsr/"
 }

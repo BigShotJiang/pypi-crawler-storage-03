@@ -1,0 +1,11 @@
+{
+  "name": "higp",
+  "version": "2025.8.21",
+  "summary": "HiGP: High-performance Gaussian process library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "higp-2025.8.21-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-08-22T04:34:17.617317",
+  "package_url": "https://pypi.org/project/higp/"
+}

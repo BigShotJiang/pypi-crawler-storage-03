@@ -1,11 +1,11 @@
 {
   "name": "nim-mmcif",
-  "version": "0.0.1",
+  "version": "0.0.10",
   "summary": "mmCIF parser written in Nim with Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nim_mmcif-0.0.1.tar.gz",
-  "download_time": "2025-08-21T01:26:08.111185",
+  "download_filename": "nim_mmcif-0.0.10.tar.gz",
+  "download_time": "2025-08-22T04:33:56.674603",
   "package_url": "https://pypi.org/project/nim-mmcif/"
 }

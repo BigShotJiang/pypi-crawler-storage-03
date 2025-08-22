@@ -1,0 +1,11 @@
+{
+  "name": "wallycore",
+  "version": "1.5.1",
+  "summary": "libwally Bitcoin library",
+  "author": "Jon Griffiths",
+  "license": "MIT",
+  "home_page": "https://github.com/ElementsProject/libwally-core",
+  "download_filename": "wallycore-1.5.1.tar.gz",
+  "download_time": "2025-08-22T04:33:46.254880",
+  "package_url": "https://pypi.org/project/wallycore/"
+}

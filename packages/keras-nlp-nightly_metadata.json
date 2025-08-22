@@ -1,11 +1,11 @@
 {
   "name": "keras-nlp-nightly",
-  "version": "0.23.0.dev202508210410",
+  "version": "0.23.0.dev202508220411",
   "summary": "Pretrained models for Keras.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keras_nlp_nightly-0.23.0.dev202508210410.tar.gz",
-  "download_time": "2025-08-21T04:31:23.704534",
+  "download_filename": "keras_nlp_nightly-0.23.0.dev202508220411.tar.gz",
+  "download_time": "2025-08-22T04:33:58.261839",
   "package_url": "https://pypi.org/project/keras-nlp-nightly/"
 }

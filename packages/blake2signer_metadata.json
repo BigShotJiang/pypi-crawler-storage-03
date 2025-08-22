@@ -1,0 +1,11 @@
+{
+  "name": "blake2signer",
+  "version": "4.0.0",
+  "summary": "A library to use BLAKE in keyed hashing mode to sign and verify signed data",
+  "author": "HacKan",
+  "license": "MPL-2.0",
+  "home_page": "https://gitlab.com/hackancuba/blake2signer",
+  "download_filename": "blake2signer-4.0.0.tar.gz",
+  "download_time": "2025-08-22T04:33:51.496841",
+  "package_url": "https://pypi.org/project/blake2signer/"
+}

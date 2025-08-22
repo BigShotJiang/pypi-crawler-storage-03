@@ -1,0 +1,11 @@
+{
+  "name": "filterx",
+  "version": "0.4.1",
+  "summary": "A command line tool to filter data by using python-like syntax",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/dwpeng/filterx",
+  "download_filename": "filterx-0.4.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-22T04:34:11.346114",
+  "package_url": "https://pypi.org/project/filterx/"
+}
