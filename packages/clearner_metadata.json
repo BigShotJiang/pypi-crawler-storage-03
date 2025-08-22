@@ -1,0 +1,11 @@
+{
+  "name": "clearner",
+  "version": "0.9.99",
+  "summary": "Learner is a software platform for building production-ready machine learning models without writing any codes.",
+  "author": "Prizmi LLC",
+  "license": "Other",
+  "home_page": "https://prizmi.ai/learner/home",
+  "download_filename": "clearner-0.9.99.tar.gz",
+  "download_time": "2025-08-22T21:40:57.048369",
+  "package_url": "https://pypi.org/project/clearner/"
+}

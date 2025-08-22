@@ -1,0 +1,11 @@
+{
+  "name": "notion2pg-bulk",
+  "version": "0.1.0",
+  "summary": "A Python package that automatically finds and migrates to PostgreSQL all databases in a Notion workspace.",
+  "author": "benvigano",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "notion2pg_bulk-0.1.0.tar.gz",
+  "download_time": "2025-08-22T21:40:46.522267",
+  "package_url": "https://pypi.org/project/notion2pg-bulk/"
+}

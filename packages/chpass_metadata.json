@@ -1,11 +1,11 @@
 {
   "name": "chpass",
-  "version": "0.3.6",
+  "version": "0.4.0",
   "summary": "Gather information from chrome",
   "author": "Ben Gabay",
   "license": "License :: OSI Approved :: MIT License",
   "home_page": "https://github.com/bengabay11/chpass",
-  "download_filename": "chpass-0.3.6.tar.gz",
-  "download_time": "2025-08-22T20:55:03.260854",
+  "download_filename": "chpass-0.4.0.tar.gz",
+  "download_time": "2025-08-22T21:40:52.721921",
   "package_url": "https://pypi.org/project/chpass/"
 }
