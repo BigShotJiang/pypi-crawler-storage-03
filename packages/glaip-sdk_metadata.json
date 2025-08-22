@@ -1,11 +1,11 @@
 {
   "name": "glaip-sdk",
-  "version": "0.0.1b8",
+  "version": "0.0.1b10",
   "summary": "Python SDK for AI Agent Platform - Simplified CLI Design",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "glaip_sdk-0.0.1b8-py3-none-any.whl",
-  "download_time": "2025-08-22T12:40:00.770816",
+  "download_filename": "glaip_sdk-0.0.1b10-py3-none-any.whl",
+  "download_time": "2025-08-22T17:19:32.635208",
   "package_url": "https://pypi.org/project/glaip-sdk/"
 }

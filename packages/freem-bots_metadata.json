@@ -1,11 +1,11 @@
 {
   "name": "freem-bots",
-  "version": "0.24.3",
+  "version": "0.24.4",
   "summary": "Abstractions over Discord with simple TTS voice support",
   "author": "Freem",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "freem_bots-0.24.3.tar.gz",
-  "download_time": "2025-08-22T16:25:25.026952",
+  "download_filename": "freem_bots-0.24.4.tar.gz",
+  "download_time": "2025-08-22T17:19:10.626654",
   "package_url": "https://pypi.org/project/freem-bots/"
 }

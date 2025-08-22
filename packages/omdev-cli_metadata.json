@@ -1,11 +1,11 @@
 {
   "name": "omdev-cli",
-  "version": "0.0.0.dev408",
+  "version": "0.0.0.dev409",
   "summary": "omdev",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omdev_cli-0.0.0.dev408.tar.gz",
-  "download_time": "2025-08-21T22:44:38.207724",
+  "download_filename": "omdev_cli-0.0.0.dev409.tar.gz",
+  "download_time": "2025-08-22T17:18:55.792537",
   "package_url": "https://pypi.org/project/omdev-cli/"
 }
