@@ -1,11 +1,11 @@
 {
   "name": "file-state-manager",
-  "version": "2.0.0",
+  "version": "2.0.0.post2",
   "summary": "This package allows you to easily undo and redo saved data in your applications.",
   "author": "Masahide Mori",
   "license": null,
   "home_page": null,
-  "download_filename": "file_state_manager-2.0.0.tar.gz",
-  "download_time": "2025-08-17T09:39:37.084356",
+  "download_filename": "file_state_manager-2.0.0.post2.tar.gz",
+  "download_time": "2025-08-22T08:28:00.942686",
   "package_url": "https://pypi.org/project/file-state-manager/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mangadex-dl",
+  "version": "0.1.0",
+  "summary": "A CLI tool to download manga chapters (solo or bulk) from MangaDex.",
+  "author": "syvixor",
+  "license": "MIT",
+  "home_page": "https://github.com/syvixor/mangadex-dl",
+  "download_filename": "mangadex_dl-0.1.0.tar.gz",
+  "download_time": "2025-08-22T08:27:55.553704",
+  "package_url": "https://pypi.org/project/mangadex-dl/"
+}

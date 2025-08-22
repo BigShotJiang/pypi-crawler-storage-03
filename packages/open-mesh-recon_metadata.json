@@ -1,11 +1,11 @@
 {
   "name": "open-mesh-recon",
-  "version": "0.0.1",
+  "version": "0.0.1.0",
   "summary": "The OpenMesh package version 0.0.1 a first version of this package have the ability to work with 3D resconstruction models. Its not completed yet. wait for it.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "open_mesh_recon-0.0.1.tar.gz",
-  "download_time": "2025-08-22T06:30:20.281881",
+  "download_filename": "open_mesh_recon-0.0.1.0.tar.gz",
+  "download_time": "2025-08-22T08:28:41.113833",
   "package_url": "https://pypi.org/project/open-mesh-recon/"
 }

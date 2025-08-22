@@ -1,0 +1,11 @@
+{
+  "name": "b62",
+  "version": "1.1.2",
+  "summary": "A lightning-fast, zero-dependency Base62 encoder/decoder for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "b62-1.1.2-cp312-cp312-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-22T08:28:04.770864",
+  "package_url": "https://pypi.org/project/b62/"
+}

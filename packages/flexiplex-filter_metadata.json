@@ -1,11 +1,11 @@
 {
   "name": "flexiplex-filter",
-  "version": "1.1.1",
+  "version": "1.2",
   "summary": "Filter barcodes from flexiplex by whitelist and inflection point",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flexiplex_filter-1.1.1.tar.gz",
-  "download_time": "2025-08-22T07:40:44.798768",
+  "download_filename": "flexiplex_filter-1.2.tar.gz",
+  "download_time": "2025-08-22T08:28:42.846251",
   "package_url": "https://pypi.org/project/flexiplex-filter/"
 }

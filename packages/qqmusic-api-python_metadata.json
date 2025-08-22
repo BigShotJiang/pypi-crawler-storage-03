@@ -1,0 +1,11 @@
+{
+  "name": "qqmusic-api-python",
+  "version": "0.3.6",
+  "summary": "QQ音乐API封装库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qqmusic_api_python-0.3.6.tar.gz",
+  "download_time": "2025-08-22T08:28:13.194483",
+  "package_url": "https://pypi.org/project/qqmusic-api-python/"
+}

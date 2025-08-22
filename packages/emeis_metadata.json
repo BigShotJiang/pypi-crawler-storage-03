@@ -1,11 +1,11 @@
 {
   "name": "emeis",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "user management",
   "author": "projectcaluma",
   "license": "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
   "home_page": "https://github.com/projectcaluma/emeis",
-  "download_filename": "emeis-2.2.1.tar.gz",
-  "download_time": "2025-08-21T20:22:43.321686",
+  "download_filename": "emeis-2.2.3.tar.gz",
+  "download_time": "2025-08-22T08:28:19.145607",
   "package_url": "https://pypi.org/project/emeis/"
 }

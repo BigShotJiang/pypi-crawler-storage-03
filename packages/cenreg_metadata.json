@@ -1,0 +1,11 @@
+{
+  "name": "cenreg",
+  "version": "0.0.4",
+  "summary": "A Python library for censored regression.",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "cenreg-0.0.4.tar.gz",
+  "download_time": "2025-08-22T08:28:25.374339",
+  "package_url": "https://pypi.org/project/cenreg/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "steelsnakes",
-  "version": "0.0.1a1",
-  "summary": "Add your description here",
+  "version": "0.0.1a2",
+  "summary": "Structural steel for Python.",
   "author": "Wayne Maranga",
   "license": null,
   "home_page": null,
-  "download_filename": "steelsnakes-0.0.1a1.tar.gz",
-  "download_time": "2025-08-22T01:27:03.152216",
+  "download_filename": "steelsnakes-0.0.1a2.tar.gz",
+  "download_time": "2025-08-22T08:28:16.645598",
   "package_url": "https://pypi.org/project/steelsnakes/"
 }
