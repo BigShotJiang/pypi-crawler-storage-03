@@ -1,0 +1,11 @@
+{
+  "name": "p01.jsonrpc",
+  "version": "0.8.1",
+  "summary": "JSON RPC server and client implementation for Zope3",
+  "author": "Roger Ineichen and the Zope Community",
+  "license": "ZPL 2.1",
+  "home_page": "http://pypi.python.org/pypi/p01.jsonrpc",
+  "download_filename": "p01.jsonrpc-0.8.1.tar.gz",
+  "download_time": "2025-08-22T13:56:52.209795",
+  "package_url": "https://pypi.org/project/p01.jsonrpc/"
+}

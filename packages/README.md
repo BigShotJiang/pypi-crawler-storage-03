@@ -1,14 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T13:47:17.420434
-- **Total Packages**: 83
-- **Total Size**: 31.95 MB
+- **Download Time**: 2025-08-22T13:57:36.752453
+- **Total Packages**: 87
+- **Total Size**: 22.5 MB
 
 ## Packages List
-- grizzly-loadtester
-- genesis-mcp-core
 - graph-games-proto
+- cloe-fabric-connector
+- ai-documentation-writer
+- yandex-cloud-ml-sdk
+- pyfive
+- p01.jsonrpc
+- hydev
+- rovr
+- finbourne-identity-sdk
+- trellis-3d-python
+- blueapi
+- cloudx-proxy
+- zh2ru-idterms
+- QCut
+- tensordict-nightly
+- lmstudio
+- HS-TasNet
+- ml-model-manager
+- opentrons-shared-data
+- drf-recaptcha
+- hijiki
+- funfake
+- aas-http-client
+- worker-automate-hub
+- pretix-pix-openpix
+- ardupilot-methodic-configurator
+- microcalibrate
+- FMPy
+- rialto
+- psengine
+- configset
+- scc-firewall-manager-sdk
+- genesis-mcp-core
+- DockSuiteX
+- waterfall
+- teensytoany
+- xetrack
+- ferrobus
+- grizzly-loadtester
 - arkitekt-next
 - pyoverkiz
 - maia-test-framework
@@ -19,7 +55,6 @@
 - moneyball
 - limepkg-scrive
 - pydsm
-- ml-model-manager
 - mlforgex
 - pineappl
 - usearch
@@ -39,7 +74,6 @@
 - subwiz
 - dism-core
 - liath
-- scc-firewall-manager-sdk
 - sportsball
 - netx-vis
 - lastmile
@@ -59,33 +93,3 @@
 - qoro-divi
 - firecrawl
 - firecrawl-py
-- luxorasap
-- sqlalchemy-declarative-extensions
-- ezga-lib
-- fbgemm-gpu-nightly-cpu
-- db-attribute
-- whisper-ai-zxs
-- botbolt
-- ddapm-test-agent
-- DockSuiteX
-- dantro
-- cyberwave-cli
-- pm4pyminimal
-- pm4py
-- nrv-py
-- cyclonedx-editor-validator
-- rath
-- waterfall
-- ansys-mapdl-core
-- csonpath
-- torch-lambda-happy
-- pypiquant
-- fishfeats
-- rule34html
-- diresa-torch
-- pygridgain
-- rekuest-next
-- trellis-3d-python
-- talentro-commons
-- soren-n-qt-web-bridge
-- pm-sdk

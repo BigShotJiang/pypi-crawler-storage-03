@@ -1,11 +1,11 @@
 {
   "name": "pretix-pix-openpix",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Plugin for Brazilian Pix payment method with integration with OpenPix platform.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pretix_pix_openpix-0.0.1.tar.gz",
-  "download_time": "2025-08-19T23:18:23.210886",
+  "download_filename": "pretix_pix_openpix-0.1.0.tar.gz",
+  "download_time": "2025-08-22T13:57:02.775591",
   "package_url": "https://pypi.org/project/pretix-pix-openpix/"
 }

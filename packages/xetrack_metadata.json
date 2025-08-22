@@ -1,11 +1,11 @@
 {
   "name": "xetrack",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "A simple tool for benchamrking and tracking machine learning models and experiments.",
   "author": "xdssio",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "xetrack-0.4.2.tar.gz",
-  "download_time": "2025-08-19T10:21:24.679439",
+  "download_filename": "xetrack-0.4.3.tar.gz",
+  "download_time": "2025-08-22T13:57:09.740591",
   "package_url": "https://pypi.org/project/xetrack/"
 }

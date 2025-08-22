@@ -1,0 +1,11 @@
+{
+  "name": "lmstudio",
+  "version": "1.5.0",
+  "summary": "LM Studio Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmstudio-1.5.0.tar.gz",
+  "download_time": "2025-08-22T13:56:57.896179",
+  "package_url": "https://pypi.org/project/lmstudio/"
+}
