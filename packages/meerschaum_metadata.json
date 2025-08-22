@@ -1,11 +1,11 @@
 {
   "name": "meerschaum",
-  "version": "3.0.3",
+  "version": "3.0.5",
   "summary": "Sync Time-Series Pipes with Meerschaum",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meerschaum-3.0.3.tar.gz",
-  "download_time": "2025-08-20T02:55:00.909105",
+  "download_filename": "meerschaum-3.0.5.tar.gz",
+  "download_time": "2025-08-22T05:53:33.089529",
   "package_url": "https://pypi.org/project/meerschaum/"
 }

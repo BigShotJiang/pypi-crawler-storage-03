@@ -1,11 +1,11 @@
 {
   "name": "rhaid",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Rhaid Autofix — repo hygiene with smart AI guardrails",
   "author": "Camwood Inc.",
   "license": null,
   "home_page": null,
-  "download_filename": "rhaid-0.7.0.tar.gz",
-  "download_time": "2025-08-21T07:03:43.756247",
+  "download_filename": "rhaid-0.7.1.tar.gz",
+  "download_time": "2025-08-22T05:53:25.742179",
   "package_url": "https://pypi.org/project/rhaid/"
 }

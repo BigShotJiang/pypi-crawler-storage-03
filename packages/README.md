@@ -1,11 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T05:43:58.288839
+- **Download Time**: 2025-08-22T05:54:09.124377
 - **Total Packages**: 88
-- **Total Size**: 12.86 MB
+- **Total Size**: 5.83 MB
 
 ## Packages List
+- pulumi-f5bigip
+- casdoor
+- ali-ops
+- pulumi-datadog
+- fluidize
+- rhaid
+- easy-sdk
+- pulumi-databricks
+- claude-mpm
+- tradata-perf
+- claude-helpers
+- cncf-serverless-workflow
+- zsl-ma
+- pulumi-dnsimple
+- bpsai-pair
+- split-screen-macOS-test-copy
+- whisper-ai-zxs
+- pulumi-dbtcloud
+- intentkit
+- meerschaum
+- intake-nexgddp
 - halib
 - CodeVideoRenderer
 - torchruntime
@@ -34,7 +55,6 @@
 - pulumi-cloudamqp
 - django-cfg
 - sfq
-- zsl-ma
 - rediacc
 - fluidize-sdk
 - autonomize-autorag
@@ -47,7 +67,6 @@
 - tencentcloud-sdk-python-tione
 - tencentcloud-sdk-python-tdmq
 - tencentcloud-sdk-python-smh
-- claude-mpm
 - tencentcloud-sdk-python-rce
 - tencentcloud-sdk-python-partners
 - tencentcloud-sdk-python-organization
@@ -75,22 +94,3 @@
 - ai-cli-chat
 - synapse-sdk
 - geodepoly
-- tencentcloud-sdk-python-cynosdb
-- tencentcloud-sdk-python-cwp
-- tencentcloud-sdk-python-ctem
-- tencentcloud-sdk-python-csip
-- agentex-sdk
-- tencentcloud-sdk-python-common
-- askyai
-- tencentcloud-sdk-python-cls
-- tencentcloud-sdk-python-clb
-- tencentcloud-sdk-python-cfs
-- tencentcloud-sdk-python-cdwdoris
-- ezioaltair
-- tencentcloud-sdk-python-cdb
-- tencentcloud-sdk-python-bi
-- mas-agentflow
-- fablelab
-- vschart-python
-- tencentcloud-sdk-python-intl-en
-- cuti
