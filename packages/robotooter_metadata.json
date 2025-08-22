@@ -1,11 +1,11 @@
 {
   "name": "robotooter",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A Python framework for easily creating Mastodon bots with pluggable content generation and filtering capabilities",
   "author": "Bryan L. Fordham",
   "license": "AGPL-3.0",
   "home_page": "https://codeberg.org/bfordham/robotooter",
-  "download_filename": "robotooter-0.3.0.tar.gz",
-  "download_time": "2025-08-17T17:40:54.913700",
+  "download_filename": "robotooter-0.4.0.tar.gz",
+  "download_time": "2025-08-22T01:26:40.500657",
   "package_url": "https://pypi.org/project/robotooter/"
 }
