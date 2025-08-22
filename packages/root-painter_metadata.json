@@ -1,11 +1,11 @@
 {
   "name": "root-painter",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "RootPainter GUI and trainer packaged as a single CLI",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "root_painter-0.1.3.tar.gz",
-  "download_time": "2025-08-20T10:55:52.229958",
+  "download_filename": "root_painter-0.1.4.tar.gz",
+  "download_time": "2025-08-22T07:52:30.604125",
   "package_url": "https://pypi.org/project/root-painter/"
 }

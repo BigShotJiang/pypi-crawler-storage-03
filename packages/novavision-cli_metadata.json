@@ -1,11 +1,11 @@
 {
   "name": "novavision-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "NovaVision CLI for handling servers.",
   "author": "İlhan Kaan Yazıcıoğlu",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "novavision_cli-0.0.2.tar.gz",
-  "download_time": "2025-08-20T07:41:32.020110",
+  "download_filename": "novavision_cli-0.0.3.tar.gz",
+  "download_time": "2025-08-22T07:52:41.123950",
   "package_url": "https://pypi.org/project/novavision-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aomaker",
+  "version": "3.0.2",
+  "summary": "An api testing framework",
+  "author": "ancientone",
+  "license": "MIT License",
+  "home_page": "https://github.com/ae86sen/aomaker",
+  "download_filename": "aomaker-3.0.2-py3-none-any.whl",
+  "download_time": "2025-08-22T07:52:40.071364",
+  "package_url": "https://pypi.org/project/aomaker/"
+}

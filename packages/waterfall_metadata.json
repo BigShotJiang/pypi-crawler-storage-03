@@ -1,11 +1,11 @@
 {
   "name": "waterfall",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Scalable Framework for Robust Text Watermarking and Provenance for LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waterfall-0.2.3.tar.gz",
-  "download_time": "2025-08-21T04:48:54.602297",
+  "download_filename": "waterfall-0.2.4.tar.gz",
+  "download_time": "2025-08-22T07:52:42.177260",
   "package_url": "https://pypi.org/project/waterfall/"
 }

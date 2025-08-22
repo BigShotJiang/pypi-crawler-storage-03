@@ -1,0 +1,11 @@
+{
+  "name": "pwact",
+  "version": "0.4.1",
+  "summary": "PWACT is an open-source automated active learning platform based on MatPL for efficient data sampling.",
+  "author": "LonxunQuantum",
+  "license": null,
+  "home_page": "https://github.com/LonxunQuantum/PWact",
+  "download_filename": "pwact-0.4.1.tar.gz",
+  "download_time": "2025-08-22T07:52:29.542500",
+  "package_url": "https://pypi.org/project/pwact/"
+}

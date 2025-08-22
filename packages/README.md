@@ -1,11 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T07:41:27.846495
-- **Total Packages**: 82
-- **Total Size**: 20.01 MB
+- **Download Time**: 2025-08-22T07:53:16.909072
+- **Total Packages**: 85
+- **Total Size**: 12.61 MB
 
 ## Packages List
+- grand-challenge-dicom-de-id-procedure
+- pwact
+- python-bdtool
+- root-painter
+- cognite-toolkit
+- demozodiurjnb
+- hxq
+- opik
+- matrice
+- django-orghierarchy
+- time-split-app
+- scikit-robot
+- xsoar-client
+- VectorCode
+- cryptozaurus
+- giget
+- agentex-sdk
+- neutronapi
+- odbc2deltalake
+- kochen
+- Backtester-Tushar
+- aomaker
+- novavision-cli
+- h5io-browser
+- waterfall
+- pointr-cloud-common
+- py-p-audio
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- lineagentic-catalog
+- django-sodar-core
+- agentcrew-ai
+- shancx
+- evidence-seeker
+- netkiller-chart
+- qmb
+- openlib
 - firedust
 - z-zytome
 - acex
@@ -13,7 +50,6 @@
 - scim2-tester
 - flexiplex-filter
 - mohua
-- Backtester-Tushar
 - gtm-rosamii1
 - pyfileindex
 - whisper-ai-zxs
@@ -21,7 +57,6 @@
 - maia-test-framework
 - mdbq
 - rendu
-- matrice
 - pkg-96638
 - pkg-95120
 - maas-backoff-scheduler
@@ -29,7 +64,6 @@
 - accelbyte-py-sdk
 - jusfltuls
 - justoneapi
-- cryptozaurus
 - finter
 - swarms-tools
 - pypipr
@@ -47,9 +81,7 @@
 - django-bulk-hooks
 - zeroeval
 - pulumi-cloudflare
-- shancx
 - sherpa-onnx-bin
-- lineagentic-catalog
 - my-complex-app
 - ecole-fork
 - pwdata
@@ -59,32 +91,3 @@
 - pyvespa
 - rvs
 - lib-utilys
-- PyUTLoc
-- pytkutils
-- verisocks
-- RealityScanMock
-- HoloAI
-- synkit
-- pyagenity
-- ut-aod
-- nts-everdrone
-- ppgnss
-- FERS
-- ai-infra-bench
-- phase-cli
-- reywechat
-- schic
-- bojango
-- ffmpeg-normalize
-- halib
-- beswarm
-- mem0ai-azure-mysql
-- Silicrop
-- aient
-- nbmf-mm
-- trophy
-- mrx-runway
-- polyagent
-- reyweb
-- cozeloop
-- pythermonomics
