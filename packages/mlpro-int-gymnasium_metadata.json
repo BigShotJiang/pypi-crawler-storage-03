@@ -1,0 +1,11 @@
+{
+  "name": "mlpro-int-gymnasium",
+  "version": "1.0.4",
+  "summary": "MLPro: Integration Gymnasium",
+  "author": "MLPro Team",
+  "license": null,
+  "home_page": "https://mlpro-int-gymnasium.readthedocs.io",
+  "download_filename": "mlpro_int_gymnasium-1.0.4.tar.gz",
+  "download_time": "2025-08-22T03:59:44.977323",
+  "package_url": "https://pypi.org/project/mlpro-int-gymnasium/"
+}

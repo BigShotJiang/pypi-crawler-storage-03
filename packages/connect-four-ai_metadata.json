@@ -1,0 +1,11 @@
+{
+  "name": "connect-four-ai",
+  "version": "1.0.0",
+  "summary": "A high performance implementation of a perfect Connect Four solver, written in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/benjaminrall/connect-four-ai",
+  "download_filename": "connect_four_ai-1.0.0-cp313-cp313-win_amd64.whl",
+  "download_time": "2025-08-22T03:59:43.376053",
+  "package_url": "https://pypi.org/project/connect-four-ai/"
+}
