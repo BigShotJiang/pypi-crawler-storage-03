@@ -1,0 +1,11 @@
+{
+  "name": "pyfortracc",
+  "version": "1.2.0rc0",
+  "summary": "A Python package for track and forecasting configurable clusters.",
+  "author": "Helvecio B. L. Neto, Alan J. P. Calheiros",
+  "license": "LICENSE",
+  "home_page": "https://github.com/fortracc/pyfortracc",
+  "download_filename": "pyfortracc-1.2.0rc0.tar.gz",
+  "download_time": "2025-08-22T19:30:19.442780",
+  "package_url": "https://pypi.org/project/pyfortracc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dirtyflags",
+  "version": "1.5.0",
+  "summary": "dirtyflags is a simple Python decorator that tracks when and which instance attributes have changed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dirtyflags-1.5.0.tar.gz",
+  "download_time": "2025-08-22T19:30:14.760835",
+  "package_url": "https://pypi.org/project/dirtyflags/"
+}

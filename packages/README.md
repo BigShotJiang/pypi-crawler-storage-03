@@ -1,17 +1,39 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T19:17:59.531253
-- **Total Packages**: 79
-- **Total Size**: 30.47 MB
+- **Download Time**: 2025-08-22T19:30:55.189176
+- **Total Packages**: 80
+- **Total Size**: 5.97 MB
 
 ## Packages List
-- hpfracc
-- scc-firewall-manager-sdk
+- abcdfu1234
+- digitalguide
+- cohere-compass-sdk
+- boto3
+- awscli
+- dirtyflags
+- devsecops-engine-tools
 - capcalc
+- ishikawa
+- orionis
+- tsapython
+- fluidize-sdk
+- pyfibot
+- pyfortracc
+- lbt-dragonfly
+- scc-firewall-manager-sdk
+- agentstate
+- awslabs.ccapi-mcp-server
+- awslabs.amazon-rekognition-mcp-server
+- awslabs.billing-cost-management-mcp-server
+- luxorasap
+- dragonfly-energy
+- dragonfly-radiance
+- panther-core
+- pyzurecli
+- hpfracc
 - recreate-sdk
 - kaqing
-- ishikawa
 - JokesDB
 - medimgkit
 - SuperClaude
@@ -24,7 +46,6 @@
 - arthur-client
 - openreview-py
 - moose-lib
-- fluidize-sdk
 - actionstreamer
 - pjdev-postgres
 - pjdev-decorators
@@ -64,24 +85,4 @@
 - jupyter-ai
 - telegram-bot-discussion
 - ddpw
-- digitalguide
 - odoo-addon-website-sale-secondary-unit
-- test-measure-process-lib
-- aryn-mcp-server
-- spade-artifact
-- talk-box
-- moteus-pi3hat
-- job-shop-lib
-- abstra
-- pdg
-- cheshire-cat-ai
-- infopy-estimators
-- vcp-cli
-- chpass
-- orionis
-- onprem
-- annotex
-- dayhoff-tools
-- pyqtgraph-scope-plots
-- pyllmlib
-- bpsai-pair

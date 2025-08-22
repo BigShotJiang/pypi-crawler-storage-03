@@ -1,0 +1,11 @@
+{
+  "name": "tsapython",
+  "version": "2.0.0",
+  "summary": "An UNOFFICIAL Python API for the tinySA series of devices",
+  "author": "LC-Linkous",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsapython-2.0.0.tar.gz",
+  "download_time": "2025-08-22T19:30:17.896083",
+  "package_url": "https://pypi.org/project/tsapython/"
+}

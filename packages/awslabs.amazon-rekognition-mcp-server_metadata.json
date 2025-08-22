@@ -1,11 +1,11 @@
 {
   "name": "awslabs.amazon-rekognition-mcp-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "An AWS Labs Model Context Protocol (MCP) server for Amazon Rekognition",
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "awslabs_amazon_rekognition_mcp_server-0.0.6.tar.gz",
-  "download_time": "2025-08-21T18:29:05.389736",
+  "download_filename": "awslabs_amazon_rekognition_mcp_server-0.0.7.tar.gz",
+  "download_time": "2025-08-22T19:30:22.064644",
   "package_url": "https://pypi.org/project/awslabs.amazon-rekognition-mcp-server/"
 }
