@@ -1,0 +1,11 @@
+{
+  "name": "flyteidl",
+  "version": "1.16.0",
+  "summary": "IDL for Flyte Platform",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flyteidl-1.16.0.tar.gz",
+  "download_time": "2025-08-22T06:58:13.277681",
+  "package_url": "https://pypi.org/project/flyteidl/"
+}

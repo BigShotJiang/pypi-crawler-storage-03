@@ -1,0 +1,11 @@
+{
+  "name": "bigquery-magics",
+  "version": "0.10.3",
+  "summary": "Google BigQuery magics for Jupyter and IPython",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/python-bigquery-magics",
+  "download_filename": "bigquery_magics-0.10.3.tar.gz",
+  "download_time": "2025-08-22T06:57:49.311491",
+  "package_url": "https://pypi.org/project/bigquery-magics/"
+}

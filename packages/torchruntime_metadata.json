@@ -1,11 +1,11 @@
 {
   "name": "torchruntime",
-  "version": "1.22.0",
+  "version": "1.23.0",
   "summary": "Meant for app developers. A convenient way to install and configure the appropriate version of PyTorch on the user's computer, based on the OS and GPU manufacturer and model number.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchruntime-1.22.0.tar.gz",
-  "download_time": "2025-08-22T05:43:11.946859",
+  "download_filename": "torchruntime-1.23.0.tar.gz",
+  "download_time": "2025-08-22T06:58:00.905766",
   "package_url": "https://pypi.org/project/torchruntime/"
 }

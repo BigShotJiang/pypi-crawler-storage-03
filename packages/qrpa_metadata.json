@@ -1,11 +1,11 @@
 {
   "name": "qrpa",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "summary": "qsir's rpa library",
   "author": "QSir",
   "license": null,
   "home_page": null,
-  "download_filename": "qrpa-1.0.55.tar.gz",
-  "download_time": "2025-08-22T05:20:35.350859",
+  "download_filename": "qrpa-1.0.56.tar.gz",
+  "download_time": "2025-08-22T06:58:28.714570",
   "package_url": "https://pypi.org/project/qrpa/"
 }

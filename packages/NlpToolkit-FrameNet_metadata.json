@@ -1,0 +1,11 @@
+{
+  "name": "NlpToolkit-FrameNet",
+  "version": "1.0.10",
+  "summary": "FrameNet library",
+  "author": "olcaytaner",
+  "license": null,
+  "home_page": "https://github.com/StarlangSoftware/TurkishFrameNet-Py",
+  "download_filename": "NlpToolkit-FrameNet-1.0.10.tar.gz",
+  "download_time": "2025-08-22T06:58:28.202774",
+  "package_url": "https://pypi.org/project/NlpToolkit-FrameNet/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "dana",
-  "version": "0.25.9.1.2",
+  "version": "0.25.9.3",
   "summary": "Dana programming language for Domain-Aware Neurosymbolic Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dana-0.25.9.1.2.tar.gz",
-  "download_time": "2025-08-18T23:39:36.827725",
+  "download_filename": "dana-0.25.9.3.tar.gz",
+  "download_time": "2025-08-22T06:58:03.005399",
   "package_url": "https://pypi.org/project/dana/"
 }

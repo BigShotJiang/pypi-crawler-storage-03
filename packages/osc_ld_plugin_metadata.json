@@ -1,0 +1,11 @@
+{
+  "name": "osc_ld_plugin",
+  "version": "1.0.0",
+  "summary": "An osc plugin to analyze failed build logs using logdetective",
+  "author": "Aazam Thakur",
+  "license": "MIT",
+  "home_page": "https://github.com/openSUSE/logdetective-obs",
+  "download_filename": "osc_ld_plugin-1.0.0.tar.gz",
+  "download_time": "2025-08-22T06:58:11.218066",
+  "package_url": "https://pypi.org/project/osc_ld_plugin/"
+}

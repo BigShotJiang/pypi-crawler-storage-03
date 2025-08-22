@@ -1,11 +1,11 @@
 {
   "name": "gllm-agents-binary",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "A library for managing agents in Gen AI applications.",
   "author": "Raymond Christopher",
   "license": null,
   "home_page": null,
-  "download_filename": "gllm_agents_binary-0.3.5-cp311-cp311-manylinux_2_31_x86_64.whl",
-  "download_time": "2025-08-21T11:39:52.394827",
+  "download_filename": "gllm_agents_binary-0.3.7-cp311-cp311-manylinux_2_31_x86_64.whl",
+  "download_time": "2025-08-22T06:57:46.135036",
   "package_url": "https://pypi.org/project/gllm-agents-binary/"
 }

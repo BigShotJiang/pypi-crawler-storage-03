@@ -1,11 +1,11 @@
 {
   "name": "maas-backoff-scheduler",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "一个基于Redis的任务退避重试框架，支持多种退避策略和自定义配置",
   "author": "xinzhifu",
   "license": "MIT",
   "home_page": "http://192.168.3.118:8082/maas/maas-backoff_scheduler/",
-  "download_filename": "maas_backoff_scheduler-1.0.4.tar.gz",
-  "download_time": "2025-08-22T06:30:55.019317",
+  "download_filename": "maas_backoff_scheduler-1.0.6.tar.gz",
+  "download_time": "2025-08-22T06:58:05.574666",
   "package_url": "https://pypi.org/project/maas-backoff-scheduler/"
 }

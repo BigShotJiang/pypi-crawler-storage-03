@@ -1,11 +1,11 @@
 {
   "name": "qwen-image-mps",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Generate images with Qwen-Image on Apple Silicon (MPS) and other devices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qwen_image_mps-0.2.0.tar.gz",
-  "download_time": "2025-08-21T18:50:34.827028",
+  "download_filename": "qwen_image_mps-0.4.0.tar.gz",
+  "download_time": "2025-08-22T06:58:17.897171",
   "package_url": "https://pypi.org/project/qwen-image-mps/"
 }
