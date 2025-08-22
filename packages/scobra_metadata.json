@@ -1,0 +1,11 @@
+{
+  "name": "scobra",
+  "version": "1.1.4",
+  "summary": "Supplementary package for COBRApy",
+  "author": "Maurice Cheung",
+  "license": "MIT",
+  "home_page": "https://github.com/mauriceccy/scobra",
+  "download_filename": "scobra-1.1.4.tar.gz",
+  "download_time": "2025-08-22T10:21:32.631050",
+  "package_url": "https://pypi.org/project/scobra/"
+}

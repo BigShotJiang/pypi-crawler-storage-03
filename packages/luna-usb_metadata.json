@@ -1,0 +1,11 @@
+{
+  "name": "luna-usb",
+  "version": "0.2.3",
+  "summary": "Amaranth HDL framework for FPGA-based USB solutions",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "luna_usb-0.2.3.tar.gz",
+  "download_time": "2025-08-22T10:21:45.249313",
+  "package_url": "https://pypi.org/project/luna-usb/"
+}

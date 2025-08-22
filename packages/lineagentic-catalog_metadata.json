@@ -1,11 +1,11 @@
 {
   "name": "lineagentic-catalog",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A dynamic registry system for Neo4j metadata management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lineagentic_catalog-0.4.0.tar.gz",
-  "download_time": "2025-08-22T07:52:45.280856",
+  "download_filename": "lineagentic_catalog-0.5.0.tar.gz",
+  "download_time": "2025-08-22T10:21:57.834571",
   "package_url": "https://pypi.org/project/lineagentic-catalog/"
 }

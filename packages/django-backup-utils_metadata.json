@@ -1,0 +1,11 @@
+{
+  "name": "django-backup-utils",
+  "version": "0.3.1",
+  "summary": "A Django app to create and load backups.",
+  "author": "Benjamin Scherbaum",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/bscherbaum/django-backup-utils",
+  "download_filename": "django_backup_utils-0.3.1.tar.gz",
+  "download_time": "2025-08-22T10:22:09.975905",
+  "package_url": "https://pypi.org/project/django-backup-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "magtense",
+  "version": "2.2.4",
+  "summary": "MagTense - a micromagnetism and magnetostatic framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "magtense-2.2.4-1-py312-none-manylinux1_x86_64.whl",
+  "download_time": "2025-08-22T10:21:58.878933",
+  "package_url": "https://pypi.org/project/magtense/"
+}

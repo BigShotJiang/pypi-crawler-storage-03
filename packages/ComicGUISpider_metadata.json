@@ -1,11 +1,11 @@
 {
   "name": "ComicGUISpider",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "GUI Comic Downloader",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comicguispider-2.4.1.tar.gz",
-  "download_time": "2025-08-17T10:19:29.090080",
+  "download_filename": "comicguispider-2.4.2.tar.gz",
+  "download_time": "2025-08-22T10:22:04.741188",
   "package_url": "https://pypi.org/project/ComicGUISpider/"
 }
