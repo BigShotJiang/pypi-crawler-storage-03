@@ -1,11 +1,11 @@
 {
   "name": "yta-video-opengl",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Youtube Autonomous Video OpenGL Module",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_video_opengl-0.0.10.tar.gz",
-  "download_time": "2025-08-20T11:39:31.435458",
+  "download_filename": "yta_video_opengl-0.0.11.tar.gz",
+  "download_time": "2025-08-22T13:22:32.685948",
   "package_url": "https://pypi.org/project/yta-video-opengl/"
 }

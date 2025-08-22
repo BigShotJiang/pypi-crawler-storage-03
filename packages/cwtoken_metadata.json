@@ -1,0 +1,11 @@
+{
+  "name": "cwtoken",
+  "version": "0.4.0",
+  "summary": "Package handling tokens and URLs",
+  "author": "Connor Crawford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cwtoken-0.4.0.tar.gz",
+  "download_time": "2025-08-22T13:22:22.669294",
+  "package_url": "https://pypi.org/project/cwtoken/"
+}

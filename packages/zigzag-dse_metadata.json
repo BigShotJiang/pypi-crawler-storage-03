@@ -1,0 +1,11 @@
+{
+  "name": "zigzag-dse",
+  "version": "3.8.5",
+  "summary": "ZigZag - Deep Learning Hardware Design Space Exploration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zigzag_dse-3.8.5.tar.gz",
+  "download_time": "2025-08-22T13:22:30.740599",
+  "package_url": "https://pypi.org/project/zigzag-dse/"
+}

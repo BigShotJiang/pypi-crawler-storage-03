@@ -1,0 +1,11 @@
+{
+  "name": "pyvisgen",
+  "version": "0.6.0",
+  "summary": "Simulate radio interferometer observations and visibility generation with the RIME formalism.",
+  "author": "Felix Geyer, Stefan Fröse",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvisgen-0.6.0-py3-none-any.whl",
+  "download_time": "2025-08-22T13:22:32.047823",
+  "package_url": "https://pypi.org/project/pyvisgen/"
+}
