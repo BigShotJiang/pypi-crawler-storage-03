@@ -1,11 +1,11 @@
 {
   "name": "fashionstar-uart-sdk",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "summary": "fashionstar uart sdk for python",
   "author": "Welt",
   "license": null,
   "home_page": null,
-  "download_filename": "fashionstar_uart_sdk-1.2.6.tar.gz",
-  "download_time": "2025-08-22T02:55:20.785557",
+  "download_filename": "fashionstar_uart_sdk-1.2.7.tar.gz",
+  "download_time": "2025-08-22T07:19:25.136578",
   "package_url": "https://pypi.org/project/fashionstar-uart-sdk/"
 }

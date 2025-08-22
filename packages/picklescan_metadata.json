@@ -1,0 +1,11 @@
+{
+  "name": "picklescan",
+  "version": "0.0.28",
+  "summary": "Security scanner detecting Python Pickle files performing suspicious actions",
+  "author": "Matthieu Maitre",
+  "license": null,
+  "home_page": "https://github.com/mmaitre314/picklescan",
+  "download_filename": "picklescan-0.0.28.tar.gz",
+  "download_time": "2025-08-22T07:19:33.807950",
+  "package_url": "https://pypi.org/project/picklescan/"
+}

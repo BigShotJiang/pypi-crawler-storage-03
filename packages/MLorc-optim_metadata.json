@@ -1,11 +1,11 @@
 {
   "name": "MLorc-optim",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "summary": "Unofficial implementation of Momentum Low-Rank Compression (MLorc) for memory-efficient LLM fine-tuning",
   "author": "Koratahiu",
   "license": "Apache 2.0",
   "home_page": "https://github.com/Koratahiu/MLorc",
-  "download_filename": "MLorc_optim-0.1.0.tar.gz",
-  "download_time": "2025-08-22T06:58:01.418032",
+  "download_filename": "MLorc_optim-0.1.3.tar.gz",
+  "download_time": "2025-08-22T07:19:29.449578",
   "package_url": "https://pypi.org/project/MLorc-optim/"
 }

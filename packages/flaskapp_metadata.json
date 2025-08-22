@@ -1,0 +1,11 @@
+{
+  "name": "flaskapp",
+  "version": "1.0.6",
+  "summary": "Create flask project simply",
+  "author": "KSG",
+  "license": null,
+  "home_page": "https://github.com/ksg97031/flaskapp",
+  "download_filename": "flaskapp-1.0.6.tar.gz",
+  "download_time": "2025-08-22T07:19:36.138594",
+  "package_url": "https://pypi.org/project/flaskapp/"
+}
