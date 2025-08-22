@@ -1,11 +1,11 @@
 {
   "name": "djangoldp-becknld",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "summary": "djangoldp package for Beckn-LD Draft",
   "author": "Startinblox",
   "license": "MIT",
   "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp-becknld",
-  "download_filename": "djangoldp_becknld-1.1.11.tar.gz",
-  "download_time": "2025-08-20T10:55:40.102336",
+  "download_filename": "djangoldp_becknld-1.1.12.tar.gz",
+  "download_time": "2025-08-22T19:42:11.431168",
   "package_url": "https://pypi.org/project/djangoldp-becknld/"
 }

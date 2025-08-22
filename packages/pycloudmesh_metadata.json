@@ -1,11 +1,11 @@
 {
   "name": "pycloudmesh",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Unified FinOps and cost analytics toolkit for AWS, Azure, and GCP. Provides programmatic access to cloud cost, budgeting, optimization, and governance APIs.",
   "author": "Nithesh",
   "license": null,
   "home_page": "https://github.com/NitheshKG/pycloudmesh",
-  "download_filename": "pycloudmesh-1.0.3.tar.gz",
-  "download_time": "2025-08-21T06:39:37.581117",
+  "download_filename": "pycloudmesh-1.0.4.tar.gz",
+  "download_time": "2025-08-22T19:42:15.718865",
   "package_url": "https://pypi.org/project/pycloudmesh/"
 }

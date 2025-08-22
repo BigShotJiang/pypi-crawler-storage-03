@@ -1,0 +1,11 @@
+{
+  "name": "learning-assistant",
+  "version": "4.11.1",
+  "summary": "Plugin for a learning assistant backend, intended for use within edx-platform",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/learning-assistant",
+  "download_filename": "learning_assistant-4.11.1.tar.gz",
+  "download_time": "2025-08-22T19:42:18.976731",
+  "package_url": "https://pypi.org/project/learning-assistant/"
+}

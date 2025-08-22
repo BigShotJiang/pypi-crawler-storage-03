@@ -1,0 +1,11 @@
+{
+  "name": "quienesquien",
+  "version": "1.0.2",
+  "summary": "Cliente para listas quienesquien",
+  "author": "Cuenca",
+  "license": null,
+  "home_page": "https://github.com/cuenca-mx/quienesquien-python",
+  "download_filename": "quienesquien-1.0.2.tar.gz",
+  "download_time": "2025-08-22T19:42:21.153322",
+  "package_url": "https://pypi.org/project/quienesquien/"
+}

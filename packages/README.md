@@ -1,11 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T19:30:55.189176
-- **Total Packages**: 80
-- **Total Size**: 5.97 MB
+- **Download Time**: 2025-08-22T19:42:46.577689
+- **Total Packages**: 82
+- **Total Size**: 5.81 MB
 
 ## Packages List
+- datascience
+- darkcore
+- moose-lib
+- plain.worker
+- plain.support
+- plain.redirection
+- plain.pageviews
+- plain.pages
+- plain.observer
+- plain.oauth
+- plain.dev
+- plain.cache
+- plain.admin
+- plain
+- kaqing
+- luxorasap
+- open-aea-ledger-fetchai
+- open-aea-ledger-solana
+- open-aea-ledger-ethereum-flashbots
+- open-aea-ledger-ethereum-hwi
+- djangoldp-becknld
+- open-aea-ledger-ethereum
+- open-aea-ledger-cosmos
+- open-aea-cli-ipfs
+- pypomes-db
+- open-aea-cli-benchmark
+- open-aea
+- pycloudmesh
+- footsies-gym
+- elemental-cms
+- cosmos-predict2
+- sportsball
+- ishikawa
+- learning-assistant
+- mirumoji
+- pyfibot
+- beswarm
+- quienesquien
+- aient
+- lineage-rpg
 - abcdfu1234
 - digitalguide
 - cohere-compass-sdk
@@ -14,11 +54,9 @@
 - dirtyflags
 - devsecops-engine-tools
 - capcalc
-- ishikawa
 - orionis
 - tsapython
 - fluidize-sdk
-- pyfibot
 - pyfortracc
 - lbt-dragonfly
 - scc-firewall-manager-sdk
@@ -26,14 +64,12 @@
 - awslabs.ccapi-mcp-server
 - awslabs.amazon-rekognition-mcp-server
 - awslabs.billing-cost-management-mcp-server
-- luxorasap
 - dragonfly-energy
 - dragonfly-radiance
 - panther-core
 - pyzurecli
 - hpfracc
 - recreate-sdk
-- kaqing
 - JokesDB
 - medimgkit
 - SuperClaude
@@ -45,7 +81,6 @@
 - RobotRaconteur
 - arthur-client
 - openreview-py
-- moose-lib
 - actionstreamer
 - pjdev-postgres
 - pjdev-decorators
@@ -53,36 +88,3 @@
 - pjdev-pydantic
 - pjdev-excel
 - pjdev-message-broker
-- pjdev-op
-- PyOptik
-- workflow.core
-- slypi
-- magicli
-- difflib-rs
-- mousebender
-- gawsoft-api-client
-- dragonfly-core
-- nzrapi
-- gracklepy
-- kale-tfa
-- libdyson-mqtt
-- clarifai
-- odoo-addon-l10n-br-account
-- mcp-contextforge-gateway
-- airtable-helper
-- zcmds-win32
-- darkcore
-- py-p-audio
-- RubigramClient
-- qudata
-- gitlabds
-- TTS-ka
-- analytics-mcp
-- cosmos_predict2
-- sportsball
-- neutronapi
-- jupyter-ai-magics
-- jupyter-ai
-- telegram-bot-discussion
-- ddpw
-- odoo-addon-website-sale-secondary-unit
