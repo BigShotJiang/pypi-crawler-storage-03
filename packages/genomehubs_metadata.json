@@ -1,11 +1,11 @@
 {
   "name": "genomehubs",
-  "version": "2.11.3",
+  "version": "2.11.4",
   "summary": "GenomeHubs",
   "author": "genomehubs",
   "license": null,
   "home_page": "https://github.com/genomehubs/genomehubs",
-  "download_filename": "genomehubs-2.11.3.tar.gz",
-  "download_time": "2025-08-21T15:54:49.740044",
+  "download_filename": "genomehubs-2.11.4.tar.gz",
+  "download_time": "2025-08-22T11:17:39.795523",
   "package_url": "https://pypi.org/project/genomehubs/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mrp-workorder-last-worker",
+  "version": "16.0.1.1.0",
+  "summary": "See the last user who worked on a workorder",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture",
+  "download_filename": "odoo_addon_mrp_workorder_last_worker-16.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-22T11:17:40.315852",
+  "package_url": "https://pypi.org/project/odoo-addon-mrp-workorder-last-worker/"
+}

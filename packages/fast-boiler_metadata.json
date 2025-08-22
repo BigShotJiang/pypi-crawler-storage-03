@@ -1,11 +1,11 @@
 {
   "name": "fast-boiler",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A CLI tool to generate a FastAPI project with a Repo-Service-Controller architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_boiler-0.1.1.tar.gz",
-  "download_time": "2025-08-21T12:40:18.799112",
+  "download_filename": "fast_boiler-0.1.2.tar.gz",
+  "download_time": "2025-08-22T11:17:38.227304",
   "package_url": "https://pypi.org/project/fast-boiler/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mxslc",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "ShadingLanguageX open-source compiler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mxslc-0.6.2.tar.gz",
-  "download_time": "2025-08-22T10:55:37.779338",
+  "download_filename": "mxslc-0.6.3.tar.gz",
+  "download_time": "2025-08-22T11:17:47.654541",
   "package_url": "https://pypi.org/project/mxslc/"
 }

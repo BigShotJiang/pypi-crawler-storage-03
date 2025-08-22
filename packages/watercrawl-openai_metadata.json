@@ -1,0 +1,11 @@
+{
+  "name": "watercrawl-openai",
+  "version": "0.1.1",
+  "summary": "WaterCrawl OpenAI Plugin",
+  "author": "AmirMohsen Asaran",
+  "license": null,
+  "home_page": "https://github.com/watercrawl/watercrawl-openai",
+  "download_filename": "watercrawl_openai-0.1.1.tar.gz",
+  "download_time": "2025-08-22T11:17:50.781762",
+  "package_url": "https://pypi.org/project/watercrawl-openai/"
+}

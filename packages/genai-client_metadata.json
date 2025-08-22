@@ -1,11 +1,11 @@
 {
   "name": "genai-client",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified minimal client for OpenAI and Google Gemini responses",
   "author": "indumathi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "genai_client-0.1.0.tar.gz",
-  "download_time": "2025-08-22T10:55:47.244080",
+  "download_filename": "genai_client-0.1.1.tar.gz",
+  "download_time": "2025-08-22T11:17:24.369872",
   "package_url": "https://pypi.org/project/genai-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "coconut-api",
+  "version": "0.0.1",
+  "summary": "A middleware rich python framework for building backend web applications.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coconut_api-0.0.1.tar.gz",
+  "download_time": "2025-08-22T11:17:24.887682",
+  "package_url": "https://pypi.org/project/coconut-api/"
+}
