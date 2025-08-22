@@ -1,0 +1,11 @@
+{
+  "name": "pygrowthstandards",
+  "version": "0.1.2",
+  "summary": "A Python library for calculating child growth z-scores and percentiles using WHO and INTERGROWTH-21st standards",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygrowthstandards-0.1.2.tar.gz",
+  "download_time": "2025-08-22T22:42:43.462353",
+  "package_url": "https://pypi.org/project/pygrowthstandards/"
+}

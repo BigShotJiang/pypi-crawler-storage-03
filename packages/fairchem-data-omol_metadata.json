@@ -1,0 +1,11 @@
+{
+  "name": "fairchem-data-omol",
+  "version": "0.1.0",
+  "summary": "Code for generating OMOL input configurations",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "fairchem_data_omol-0.1.0.tar.gz",
+  "download_time": "2025-08-22T22:42:38.311684",
+  "package_url": "https://pypi.org/project/fairchem-data-omol/"
+}

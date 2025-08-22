@@ -1,0 +1,11 @@
+{
+  "name": "sugar-toolkit-gtk4",
+  "version": "1.1.0",
+  "summary": "A GTK4 port of the Sugar Toolkit for Python activities",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "sugar_toolkit_gtk4-1.1.0.tar.gz",
+  "download_time": "2025-08-22T22:42:31.457011",
+  "package_url": "https://pypi.org/project/sugar-toolkit-gtk4/"
+}

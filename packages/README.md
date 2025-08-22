@@ -1,12 +1,52 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T22:19:57.417284
-- **Total Packages**: 89
-- **Total Size**: 47.02 MB
+- **Download Time**: 2025-08-22T22:43:11.119876
+- **Total Packages**: 83
+- **Total Size**: 27.65 MB
 
 ## Packages List
+- azure-ai-agents
+- footsies-gym
+- akamaiossg
+- bja-utils
+- victron-mqtt
+- hatch-project-name
+- umepr
+- prompttest
+- PyReliMRI
+- sugar-toolkit-gtk4
+- kaqing
+- sqlmesh
+- kale-tfa
+- noteparser
+- pulumi-gcp
+- py-chains-of-recurrences
+- fastmicroservices
+- wot-pdf
 - django-tailwind-v4
+- binsync
+- claude-mpm
+- fairchem-data-omol
+- deco3
+- netbook
+- tensorlake
+- sportsball
+- cmeel-boost
+- moose-lib
+- dve-lumipy-testing
+- worldalphabets
+- pygrowthstandards
+- keenmail-mcp-server
+- wyrestorm-networkhd
+- sh2mp4
+- SHARPlib
+- sphinx-code-examples
+- luminesce-sdk
+- TypedUnit
+- fraiseql
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
 - oldaplib
 - ranchero
 - shelf-backup
@@ -16,7 +56,6 @@
 - checkcrontab
 - muko
 - basepak
-- TypedUnit
 - cybrid-api-bank-python
 - dxtrx
 - scikit-build-core
@@ -24,12 +63,10 @@
 - blackduck-game
 - cybrid-api-id-python
 - hunter
-- noteparser
 - kamiwaza
 - regula-documentreader-webclient
 - ormax
 - radboy
-- sportsball
 - nanonis-xarray
 - webquiz
 - orca-studio
@@ -45,7 +82,6 @@
 - SAMBA-ilum
 - statsig-python-core
 - masscube
-- keenmail-mcp-server
 - ethereal-sdk
 - dmasyncwrapper
 - parallax-app
@@ -53,45 +89,3 @@
 - orcamentobr
 - color-fprint
 - pycarlo
-- mcp-django-debug
-- mcp-django-crud
-- tobiko-cloud-pydantic
-- tobiko-cloud-helpers
-- aluminium-library
-- tobiko-cloud-api-client
-- dash-dashkit
-- exopie
-- v4-proto
-- pulumi-eks
-- commit-companion
-- genai-colosseum
-- worker-automate-hub
-- hatch-project-name
-- vital
-- vivarium
-- aws-solutions-constructs.resources
-- aws-solutions-constructs.core
-- aws-solutions-constructs.aws-wafwebacl-cloudfront
-- aws-solutions-constructs.aws-wafwebacl-appsync
-- aws-solutions-constructs.aws-wafwebacl-apigateway
-- aws-solutions-constructs.aws-wafwebacl-alb
-- aws-solutions-constructs.aws-sqs-pipes-stepfunctions
-- aws-solutions-constructs.aws-sqs-lambda
-- aws-solutions-constructs.aws-sns-sqs
-- aws-solutions-constructs.aws-sns-lambda
-- aws-solutions-constructs.aws-s3-stepfunctions
-- aws-solutions-constructs.aws-s3-sqs
-- aws-solutions-constructs.aws-s3-sns
-- rumdl
-- aws-solutions-constructs.aws-s3-lambda
-- aws-solutions-constructs.aws-route53-apigateway
-- aws-solutions-constructs.aws-route53-alb
-- aws-solutions-constructs.aws-openapigateway-lambda
-- aws-solutions-constructs.aws-lambda-stepfunctions
-- aws-solutions-constructs.aws-lambda-ssmstringparameter
-- aws-solutions-constructs.aws-lambda-sqs-lambda
-- aws-solutions-constructs.aws-lambda-sqs
-- aws-solutions-constructs.aws-lambda-sns
-- aws-solutions-constructs.aws-lambda-secretsmanager
-- aws-solutions-constructs.aws-lambda-sagemakerendpoint
-- aws-solutions-constructs.aws-lambda-s3
