@@ -1,0 +1,11 @@
+{
+  "name": "ranchero",
+  "version": "0.1.0rc24",
+  "summary": "Ranchero: metadata wrangling for bioinformatics",
+  "author": "Ash O'Farrell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ranchero-0.1.0rc24.tar.gz",
+  "download_time": "2025-08-22T22:19:10.851323",
+  "package_url": "https://pypi.org/project/ranchero/"
+}

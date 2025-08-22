@@ -1,0 +1,11 @@
+{
+  "name": "kamiwaza",
+  "version": "0.5.0",
+  "summary": "Python client library for the Kamiwaza AI Platform",
+  "author": "Kamiwaza Team",
+  "license": null,
+  "home_page": "https://github.com/kamiwaza/kamiwaza-client",
+  "download_filename": "kamiwaza-0.5.0.tar.gz",
+  "download_time": "2025-08-22T22:19:20.706802",
+  "package_url": "https://pypi.org/project/kamiwaza/"
+}

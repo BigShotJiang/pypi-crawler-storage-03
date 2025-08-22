@@ -1,11 +1,11 @@
 {
   "name": "code-pruner",
-  "version": "0.5.4",
+  "version": "0.5.7",
   "summary": "A tool to prune Python code based on specified patterns.",
   "author": "liubomyr.ivanitskyi",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "code_pruner-0.5.4.tar.gz",
-  "download_time": "2025-08-22T13:22:22.025630",
+  "download_filename": "code_pruner-0.5.7.tar.gz",
+  "download_time": "2025-08-22T22:19:26.500187",
   "package_url": "https://pypi.org/project/code-pruner/"
 }

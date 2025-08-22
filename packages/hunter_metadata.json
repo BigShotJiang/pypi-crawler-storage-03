@@ -1,0 +1,11 @@
+{
+  "name": "hunter",
+  "version": "3.9.0",
+  "summary": "Hunter is a flexible code tracing toolkit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hunter-3.9.0.tar.gz",
+  "download_time": "2025-08-22T22:19:19.152893",
+  "package_url": "https://pypi.org/project/hunter/"
+}

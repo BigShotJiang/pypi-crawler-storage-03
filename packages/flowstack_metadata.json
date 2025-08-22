@@ -1,0 +1,11 @@
+{
+  "name": "flowstack",
+  "version": "1.0.0",
+  "summary": "AI Agent Platform SDK with built-in billing management",
+  "author": "FlowStack",
+  "license": null,
+  "home_page": "https://github.com/flowstack-fun/flowstack",
+  "download_filename": "flowstack-1.0.0.tar.gz",
+  "download_time": "2025-08-22T22:19:25.981405",
+  "package_url": "https://pypi.org/project/flowstack/"
+}

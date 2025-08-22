@@ -1,0 +1,11 @@
+{
+  "name": "aluminium-library",
+  "version": "0.1",
+  "summary": "Aluminium Library is a cross-platform computer vision library",
+  "author": "Mansour Moufid",
+  "license": "GPL",
+  "home_page": "https://github.com/mansourmoufid/aluminium-library",
+  "download_filename": "aluminium-library-0.1.tar.gz",
+  "download_time": "2025-08-22T22:19:37.513964",
+  "package_url": "https://pypi.org/project/aluminium-library/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "keenmail-mcp-server",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MCP server for KeenMail API integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "keenmail_mcp_server-0.1.4.tar.gz",
-  "download_time": "2025-08-22T21:40:44.796464",
+  "download_filename": "keenmail_mcp_server-0.1.5.tar.gz",
+  "download_time": "2025-08-22T22:19:31.243297",
   "package_url": "https://pypi.org/project/keenmail-mcp-server/"
 }

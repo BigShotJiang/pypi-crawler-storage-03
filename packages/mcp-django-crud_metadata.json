@@ -1,0 +1,11 @@
+{
+  "name": "mcp-django-crud",
+  "version": "0.1.0a1",
+  "summary": "MCP server for Django projects",
+  "author": "Josh Thomas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_django_crud-0.1.0a1.tar.gz",
+  "download_time": "2025-08-22T22:19:35.932268",
+  "package_url": "https://pypi.org/project/mcp-django-crud/"
+}

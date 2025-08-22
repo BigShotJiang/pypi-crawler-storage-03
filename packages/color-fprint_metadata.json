@@ -1,0 +1,11 @@
+{
+  "name": "color-fprint",
+  "version": "1.0.0",
+  "summary": "Impresión de texto coloreado y variables en consola",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "color_fprint-1.0.0.tar.gz",
+  "download_time": "2025-08-22T22:19:34.370382",
+  "package_url": "https://pypi.org/project/color-fprint/"
+}
