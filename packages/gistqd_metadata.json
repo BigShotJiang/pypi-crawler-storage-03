@@ -1,11 +1,11 @@
 {
   "name": "gistqd",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A simple CLICK application to style images using palettes or just raw transformations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gistqd-0.1.1.tar.gz",
-  "download_time": "2025-08-21T19:16:32.181428",
+  "download_filename": "gistqd-0.1.2.tar.gz",
+  "download_time": "2025-08-22T18:51:27.871668",
   "package_url": "https://pypi.org/project/gistqd/"
 }

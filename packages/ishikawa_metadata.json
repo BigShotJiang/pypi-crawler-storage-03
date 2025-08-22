@@ -1,11 +1,11 @@
 {
   "name": "ishikawa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Ishikawa is a library used to draw a fish (also known as ishikawa) diagram",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ishikawa-0.0.1.tar.gz",
-  "download_time": "2025-08-22T18:28:37.171879",
+  "download_filename": "ishikawa-0.0.2.tar.gz",
+  "download_time": "2025-08-22T18:51:36.472827",
   "package_url": "https://pypi.org/project/ishikawa/"
 }

@@ -1,14 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-22T18:29:25.036481
-- **Total Packages**: 92
-- **Total Size**: 27.95 MB
+- **Download Time**: 2025-08-22T18:52:03.428507
+- **Total Packages**: 84
+- **Total Size**: 31.53 MB
 
 ## Packages List
+- talk-box
+- moteus-pi3hat
+- job-shop-lib
+- scc-firewall-manager-sdk
+- abstra
+- pdg
+- libdyson-mqtt
+- cheshire-cat-ai
+- infopy-estimators
+- vcp-cli
+- odoo-addon-l10n-es-facturae
+- chpass
+- odoo-addon-l10n-es-aeat-mod303
+- orionis
+- onprem
+- annotex
+- dayhoff-tools
+- pyqtgraph-scope-plots
+- pyllmlib
 - bpsai-pair
-- firehound-scanner
+- JokesDB
+- odoo-addon-l10n-br-cte
+- odoo-addon-l10n-br-fiscal
+- ruranges
+- dxf2geo
+- gistqd
+- thoth-qdrant
+- pgamit
+- gfa_ml
+- pypeline-runner
+- batch-img
+- moose-lib
+- fyodorov-utils
+- recreate-sdk
+- odoo-runbot
+- fyodorov-llm-agents
+- codearkt
+- sage-agent-internal
+- x4c
+- cleanlab-codex
 - ishikawa
+- marshmallow-recipe
+- CreativePython
+- firecrawl
+- firecrawl-py
+- freem-bots
+- truss
+- rfserver
+- petrus
+- narada-pyodide
+- narada
+- projectdavid
+- pulumi
+- firehound-scanner
 - bash2gitlab
 - neutronapi
 - hmcis-packs
@@ -34,67 +85,8 @@
 - odoo-addon-stock-split-picking-kit
 - mirumoji
 - footsies-gym
-- orionis
 - vivarium-cluster-tools
-- fyodorov-utils
-- fyodorov-llm-agents
 - thermoml-fair
 - amazon-braket-algorithm-library
 - cell-load
 - hnt-nf-jira-servicos-library
-- bulkinvoicer
-- appium-python-client-shadowstep
-- dagster-cloud-examples
-- darknet2any
-- dagster-cloud
-- selenium-wire-roadtx
-- dagster-deltalake-pandas
-- aws-secrets-loader
-- dagster-duckdb-pyspark
-- dayhoff-tools
-- dagster-deltalake-polars
-- h2m2t
-- dagster-airlift
-- scalar-fastapi
-- dagster-ssh
-- dagster-duckdb-polars
-- odoo-runbot
-- dagster-snowflake-pandas
-- dagster-azure
-- dagster-pandas
-- dagster-papertrail
-- dagster-powerbi
-- dagster-docker
-- dagster-dg-core
-- dagster-cloud-cli
-- dagster-spark
-- dagster-fivetran
-- dagster-mlflow
-- tobiko-cloud-pydantic
-- sdd2rdf
-- dagster-msteams
-- arthur-client
-- tobiko-cloud-api-client
-- nominal-api-protos
-- tobiko-cloud-helpers
-- nominal-api
-- dagster-datahub
-- dagster-tableau
-- dagster-shared
-- dagster-gcp-pyspark
-- naeural-core
-- dagster-pagerduty
-- digitalguide
-- pelican-cite2
-- django-log-hub
-- femtorun
-- aws-cdk-cli
-- celium-collateral
-- amazon-braket-sdk
-- kgrag-store
-- binsync
-- uxarray
-- emmett-core
-- truss
-- refidxdb
-- fastapi-decorators

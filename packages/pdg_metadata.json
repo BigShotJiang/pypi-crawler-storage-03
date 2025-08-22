@@ -1,0 +1,11 @@
+{
+  "name": "pdg",
+  "version": "0.2.1",
+  "summary": "Python API for accessing PDG data",
+  "author": "Particle Data Group",
+  "license": "Modified BSD",
+  "home_page": "https://pdg.lbl.gov",
+  "download_filename": "pdg-0.2.1.tar.gz",
+  "download_time": "2025-08-22T18:51:13.627885",
+  "package_url": "https://pypi.org/project/pdg/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyllmlib",
+  "version": "0.1.1",
+  "summary": "A Simple Unified LLM API interface for OpenAI, Gemini, Mistral, Groq and more.",
+  "author": "Shay Yazirofi",
+  "license": "MIT",
+  "home_page": "https://github.com/yazirofi/pyllmlib",
+  "download_filename": "pyllmlib-0.1.1.tar.gz",
+  "download_time": "2025-08-22T18:51:23.223066",
+  "package_url": "https://pypi.org/project/pyllmlib/"
+}
