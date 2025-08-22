@@ -1,0 +1,11 @@
+{
+  "name": "eschallot",
+  "version": "0.4.6",
+  "summary": "Optimization tool for light-scattering multi-shell spherical particles.",
+  "author": "Seokhwan Min",
+  "license": null,
+  "home_page": "https://github.com/apmd-lab/Eschallot",
+  "download_filename": "eschallot-0.4.6.tar.gz",
+  "download_time": "2025-08-22T05:20:33.816407",
+  "package_url": "https://pypi.org/project/eschallot/"
+}

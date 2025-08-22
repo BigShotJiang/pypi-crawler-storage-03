@@ -1,11 +1,11 @@
 {
   "name": "qgear",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Q-Gear",
   "author": "gzquse",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/gzquse/qgear",
-  "download_filename": "qgear-1.0.2.tar.gz",
-  "download_time": "2025-08-17T16:22:29.218282",
+  "download_filename": "qgear-1.0.4.tar.gz",
+  "download_time": "2025-08-22T05:20:32.281204",
   "package_url": "https://pypi.org/project/qgear/"
 }

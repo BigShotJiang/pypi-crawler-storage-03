@@ -1,11 +1,11 @@
 {
   "name": "starbase-code",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "manage code from random folders into one central place",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "starbase_code-0.1.15.tar.gz",
-  "download_time": "2025-08-22T04:47:55.103466",
+  "download_filename": "starbase_code-0.1.16.tar.gz",
+  "download_time": "2025-08-22T05:20:52.485860",
   "package_url": "https://pypi.org/project/starbase-code/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "github-mcp-server-unofficial",
+  "version": "0.12.1",
+  "summary": "GitHub's official MCP Server packaged unofficially for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "github_mcp_server_unofficial-0.12.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2025-08-22T05:20:40.077493",
+  "package_url": "https://pypi.org/project/github-mcp-server-unofficial/"
+}
