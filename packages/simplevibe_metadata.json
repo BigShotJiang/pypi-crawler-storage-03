@@ -1,0 +1,11 @@
+{
+  "name": "simplevibe",
+  "version": "0.1.0",
+  "summary": "A Python library that interfaces with Llama LLM for various operations",
+  "author": "bomxacalaka",
+  "license": null,
+  "home_page": "https://github.com/bomxacalaka/simplevibe",
+  "download_filename": "simplevibe-0.1.0.tar.gz",
+  "download_time": "2025-08-22T14:45:07.288202",
+  "package_url": "https://pypi.org/project/simplevibe/"
+}

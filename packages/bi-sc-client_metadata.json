@@ -1,0 +1,11 @@
+{
+  "name": "bi-sc-client",
+  "version": "0.0.5",
+  "summary": "Python wrapper for BI SomConnexió API",
+  "author": "Coopdevs, Som Connexio",
+  "license": null,
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/bi/bi-sc-client",
+  "download_filename": "bi_sc_client-0.0.5.tar.gz",
+  "download_time": "2025-08-22T14:45:03.462296",
+  "package_url": "https://pypi.org/project/bi-sc-client/"
+}

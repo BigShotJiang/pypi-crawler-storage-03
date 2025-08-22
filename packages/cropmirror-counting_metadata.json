@@ -1,0 +1,11 @@
+{
+  "name": "cropmirror-counting",
+  "version": "0.0.3",
+  "summary": "云稷识别算法库",
+  "author": "Long.liu",
+  "license": "MIT",
+  "home_page": "https://github.com/cropmirror/counting",
+  "download_filename": "cropmirror_counting-0.0.3.tar.gz",
+  "download_time": "2025-08-22T14:44:57.942216",
+  "package_url": "https://pypi.org/project/cropmirror-counting/"
+}

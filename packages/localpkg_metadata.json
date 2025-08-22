@@ -1,11 +1,11 @@
 {
   "name": "localpkg",
-  "version": "0.1.dev0",
+  "version": "0.2",
   "summary": "local package creator",
   "author": "Watanabe Takashi",
   "license": "MIT",
   "home_page": "https://github.com/wtnb75/localpkg",
-  "download_filename": "localpkg-0.1.dev0-py3-none-any.whl",
-  "download_time": "2025-08-20T10:55:54.823690",
+  "download_filename": "localpkg-0.2-py3-none-any.whl",
+  "download_time": "2025-08-22T14:45:06.711860",
   "package_url": "https://pypi.org/project/localpkg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "paypal-agent-toolkit",
+  "version": "1.4.1",
+  "summary": "A toolkit for agent interactions with PayPal API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "paypal_agent_toolkit-1.4.1.tar.gz",
+  "download_time": "2025-08-22T14:45:20.336489",
+  "package_url": "https://pypi.org/project/paypal-agent-toolkit/"
+}
