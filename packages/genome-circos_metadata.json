@@ -1,0 +1,11 @@
+{
+  "name": "genome-circos",
+  "version": "0.0.2",
+  "summary": "Genome circos python package.",
+  "author": "Wenlin Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/wenlinXu-njfu/GenomeCircos",
+  "download_filename": "genome_circos-0.0.2.tar.gz",
+  "download_time": "2025-08-22T02:54:47.916546",
+  "package_url": "https://pypi.org/project/genome-circos/"
+}

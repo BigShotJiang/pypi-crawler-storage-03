@@ -1,11 +1,11 @@
 {
   "name": "primfunctions",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "Prim AI Functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "primfunctions-0.1.25.tar.gz",
-  "download_time": "2025-08-20T03:59:44.076816",
+  "download_filename": "primfunctions-0.1.26.tar.gz",
+  "download_time": "2025-08-22T02:55:23.354193",
   "package_url": "https://pypi.org/project/primfunctions/"
 }

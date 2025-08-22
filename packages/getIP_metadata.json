@@ -1,0 +1,11 @@
+{
+  "name": "getIP",
+  "version": "1.0.15",
+  "summary": "A small Package to allow you to get your Local IP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "getip-1.0.15.tar.gz",
+  "download_time": "2025-08-22T02:55:10.720656",
+  "package_url": "https://pypi.org/project/getIP/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nxlc",
-  "version": "0.1.1",
-  "summary": "Universal Language Counter - Fast line counting for 119+ programming languages",
+  "version": "0.1.2",
+  "summary": "NeoAxios Language Counter - Fast line counting for 119+ programming languages",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nxlc-0.1.1.tar.gz",
-  "download_time": "2025-08-20T15:07:09.516923",
+  "download_filename": "nxlc-0.1.2.tar.gz",
+  "download_time": "2025-08-22T02:55:06.602259",
   "package_url": "https://pypi.org/project/nxlc/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "crossplane-function-pythonic",
-  "version": "0.0.7",
+  "version": "0.0.7.post3",
   "summary": "A Python centric Crossplane Function",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crossplane_function_pythonic-0.0.7.tar.gz",
-  "download_time": "2025-08-21T22:54:17.028457",
+  "download_filename": "crossplane_function_pythonic-0.0.7.post3.tar.gz",
+  "download_time": "2025-08-22T02:55:16.995422",
   "package_url": "https://pypi.org/project/crossplane-function-pythonic/"
 }

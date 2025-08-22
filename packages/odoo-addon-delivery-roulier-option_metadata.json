@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-roulier-option",
+  "version": "17.0.1.0.0.6",
+  "summary": "Add options to roulier modules",
+  "author": "Akretion,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/delivery-carrier",
+  "download_filename": "odoo_addon_delivery_roulier_option-17.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2025-08-22T02:54:48.945784",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-roulier-option/"
+}

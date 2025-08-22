@@ -1,11 +1,11 @@
 {
   "name": "seven-cloudapp-frame",
-  "version": "1.2.62",
+  "version": "1.2.64",
   "summary": "seven cloudapp frame",
   "author": "seven",
   "license": "MIT",
   "home_page": "http://gitlab.tdtech.gao7.com/TaoBaoCloud/seven_cloudapp_frame.git",
-  "download_filename": "seven_cloudapp_frame-1.2.62.tar.gz",
-  "download_time": "2025-08-18T11:51:09.890635",
+  "download_filename": "seven_cloudapp_frame-1.2.64.tar.gz",
+  "download_time": "2025-08-22T02:55:11.764650",
   "package_url": "https://pypi.org/project/seven-cloudapp-frame/"
 }
