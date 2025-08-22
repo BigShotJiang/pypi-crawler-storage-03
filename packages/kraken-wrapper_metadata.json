@@ -1,0 +1,11 @@
+{
+  "name": "kraken-wrapper",
+  "version": "0.48.3",
+  "summary": "krakenw ensures a consistent and reproducible environment for your project's build orchestrated by Kraken.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kraken_wrapper-0.48.3.tar.gz",
+  "download_time": "2025-08-22T13:46:53.979506",
+  "package_url": "https://pypi.org/project/kraken-wrapper/"
+}

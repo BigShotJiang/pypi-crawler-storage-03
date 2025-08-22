@@ -1,0 +1,11 @@
+{
+  "name": "pm4pyminimal",
+  "version": "2.7.17",
+  "summary": "Process mining for Python",
+  "author": "Process Intelligence Solutions (PIS)",
+  "license": "AGPL 3.0",
+  "home_page": "https://processintelligence.solutions/",
+  "download_filename": "pm4pyminimal-2.7.17.tar.gz",
+  "download_time": "2025-08-22T13:47:07.016312",
+  "package_url": "https://pypi.org/project/pm4pyminimal/"
+}

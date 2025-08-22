@@ -1,11 +1,11 @@
 {
   "name": "signature-extraction",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Extract signatures from IoT event network traffic",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "signature_extraction-1.0.4.tar.gz",
-  "download_time": "2025-08-22T13:22:25.242749",
+  "download_filename": "signature_extraction-1.0.5.tar.gz",
+  "download_time": "2025-08-22T13:46:57.261426",
   "package_url": "https://pypi.org/project/signature-extraction/"
 }

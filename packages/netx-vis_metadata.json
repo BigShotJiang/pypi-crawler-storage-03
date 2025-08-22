@@ -1,11 +1,11 @@
 {
   "name": "netx-vis",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Convert NetworkX graphs to interactive HTML visualizations",
   "author": "Olsi",
   "license": null,
   "home_page": "https://github.com/olsihoxha/netx-vis",
-  "download_filename": "netx_vis-0.2.4.tar.gz",
-  "download_time": "2025-08-22T12:40:01.284379",
+  "download_filename": "netx_vis-0.2.6.tar.gz",
+  "download_time": "2025-08-22T13:46:49.379868",
   "package_url": "https://pypi.org/project/netx-vis/"
 }

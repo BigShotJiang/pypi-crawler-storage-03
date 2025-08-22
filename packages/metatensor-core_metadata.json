@@ -1,0 +1,11 @@
+{
+  "name": "metatensor-core",
+  "version": "0.1.16",
+  "summary": "Python bindings for metatensor",
+  "author": "Guillaume Fraux, Philip Loche, Filippo Bigi, Joseph W. Abbott, Davide Tisi, Alexander Goscinski, Michele Ceriotti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metatensor_core-0.1.16.tar.gz",
+  "download_time": "2025-08-22T13:46:51.715534",
+  "package_url": "https://pypi.org/project/metatensor-core/"
+}

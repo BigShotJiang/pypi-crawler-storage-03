@@ -1,11 +1,11 @@
 {
   "name": "pm-sdk",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "SDK for interacting with Photometrica",
   "author": "Westboro Photonics",
   "license": null,
   "home_page": null,
-  "download_filename": "pm_sdk-0.1.10.tar.gz",
-  "download_time": "2025-08-20T14:21:26.111995",
+  "download_filename": "pm_sdk-0.1.11.tar.gz",
+  "download_time": "2025-08-22T13:47:16.855361",
   "package_url": "https://pypi.org/project/pm-sdk/"
 }

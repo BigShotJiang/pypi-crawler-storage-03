@@ -1,11 +1,11 @@
 {
   "name": "lambda-happy",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Python package exposing the LambdaHappy class",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lambda_happy-0.1.9.tar.gz",
-  "download_time": "2025-08-21T07:03:31.249468",
+  "download_filename": "lambda_happy-0.1.12.tar.gz",
+  "download_time": "2025-08-22T13:46:41.678286",
   "package_url": "https://pypi.org/project/lambda-happy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "lightman_ai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "LLM-powered cybersecurity news aggregator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightman_ai-1.0.0.tar.gz",
-  "download_time": "2025-08-22T13:22:45.370581",
+  "download_filename": "lightman_ai-1.0.1.tar.gz",
+  "download_time": "2025-08-22T13:46:43.312688",
   "package_url": "https://pypi.org/project/lightman_ai/"
 }

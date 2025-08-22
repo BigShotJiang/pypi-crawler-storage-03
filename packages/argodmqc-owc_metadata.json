@@ -1,0 +1,11 @@
+{
+  "name": "argodmqc-owc",
+  "version": "0.1.11",
+  "summary": "OWC salinity calibration in Python",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "argodmqc_owc-0.1.11.tar.gz",
+  "download_time": "2025-08-22T13:46:33.395910",
+  "package_url": "https://pypi.org/project/argodmqc-owc/"
+}

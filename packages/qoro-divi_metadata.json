@@ -1,11 +1,11 @@
 {
   "name": "qoro-divi",
-  "version": "0.3.0b1",
-  "summary": null,
+  "version": "0.3.1b0",
+  "summary": "A Python library to automate generating, parallelizing, and executing quantum programs.",
   "author": "Ahmed Darwish",
   "license": null,
   "home_page": null,
-  "download_filename": "qoro_divi-0.3.0b1.tar.gz",
-  "download_time": "2025-08-22T13:22:19.450950",
+  "download_filename": "qoro_divi-0.3.1b0.tar.gz",
+  "download_time": "2025-08-22T13:46:57.821422",
   "package_url": "https://pypi.org/project/qoro-divi/"
 }

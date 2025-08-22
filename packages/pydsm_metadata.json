@@ -1,0 +1,11 @@
+{
+  "name": "pydsm",
+  "version": "0.15.1",
+  "summary": "Python Based Delta-Sigma modulator design tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydsm-0.15.1.tar.gz",
+  "download_time": "2025-08-22T13:46:36.038179",
+  "package_url": "https://pypi.org/project/pydsm/"
+}
