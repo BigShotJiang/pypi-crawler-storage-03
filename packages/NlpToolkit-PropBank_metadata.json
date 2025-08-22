@@ -1,0 +1,11 @@
+{
+  "name": "NlpToolkit-PropBank",
+  "version": "1.0.23",
+  "summary": "Turkish PropBank",
+  "author": "olcaytaner",
+  "license": null,
+  "home_page": "https://github.com/StarlangSoftware/TurkishPropbank-Py",
+  "download_filename": "NlpToolkit-PropBank-1.0.23.tar.gz",
+  "download_time": "2025-08-22T15:53:53.454446",
+  "package_url": "https://pypi.org/project/NlpToolkit-PropBank/"
+}

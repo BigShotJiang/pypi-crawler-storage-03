@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-binsearch",
+  "version": "2.1.1",
+  "summary": "一个Nonebot2插件用于查询信用卡的卡组织，卡等级，卡类型，发卡国等",
+  "author": "Maizi",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_binsearch-2.1.1.tar.gz",
+  "download_time": "2025-08-22T15:53:16.882388",
+  "package_url": "https://pypi.org/project/nonebot-plugin-binsearch/"
+}

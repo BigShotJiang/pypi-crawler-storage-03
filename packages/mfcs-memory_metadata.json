@@ -1,11 +1,11 @@
 {
   "name": "mfcs-memory",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A smart conversation memory management system",
   "author": "shideqin",
   "license": null,
   "home_page": "https://github.com/mfcsorg/mfcs-memory",
-  "download_filename": "mfcs_memory-0.2.2.tar.gz",
-  "download_time": "2025-08-22T09:21:50.446314",
+  "download_filename": "mfcs_memory-0.2.3.tar.gz",
+  "download_time": "2025-08-22T15:53:52.232217",
   "package_url": "https://pypi.org/project/mfcs-memory/"
 }

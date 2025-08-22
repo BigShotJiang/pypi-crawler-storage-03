@@ -1,11 +1,11 @@
 {
   "name": "cvxreg",
-  "version": "0.1.14",
+  "version": "0.2.1",
   "summary": "A Python Package for Convex Regression",
   "author": "Zhiqiang Liao",
   "license": "MIT",
   "home_page": "https://github.com/ConvexRegression/cvxreg",
-  "download_filename": "cvxreg-0.1.14.tar.gz",
-  "download_time": "2025-08-19T15:53:27.458066",
+  "download_filename": "cvxreg-0.2.1.tar.gz",
+  "download_time": "2025-08-22T15:53:21.045062",
   "package_url": "https://pypi.org/project/cvxreg/"
 }

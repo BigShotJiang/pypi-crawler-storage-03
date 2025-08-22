@@ -1,0 +1,11 @@
+{
+  "name": "aiopybit",
+  "version": "0.1.1",
+  "summary": "Asynchronous Python client for the ByBit API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiopybit-0.1.1.tar.gz",
+  "download_time": "2025-08-22T15:53:48.152571",
+  "package_url": "https://pypi.org/project/aiopybit/"
+}

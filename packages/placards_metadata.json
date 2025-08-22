@@ -1,0 +1,11 @@
+{
+  "name": "placards",
+  "version": "0.0.10",
+  "summary": "A placards digital signage client for Linux in Python",
+  "author": "Ben Timby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "placards-0.0.10-py3-none-any.whl",
+  "download_time": "2025-08-22T15:53:24.619066",
+  "package_url": "https://pypi.org/project/placards/"
+}

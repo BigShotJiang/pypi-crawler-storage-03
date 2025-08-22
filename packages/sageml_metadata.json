@@ -1,0 +1,11 @@
+{
+  "name": "sageml",
+  "version": "0.2.0",
+  "summary": "SageML is library for automatic one-shot algorithm selection for tabular data using tda for extracting information about dataset.",
+  "author": null,
+  "license": "LICENSE",
+  "home_page": null,
+  "download_filename": "sageml-0.2.0.tar.gz",
+  "download_time": "2025-08-22T15:53:41.571290",
+  "package_url": "https://pypi.org/project/sageml/"
+}
