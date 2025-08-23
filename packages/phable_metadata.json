@@ -1,11 +1,11 @@
 {
   "name": "phable",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phable-0.1.19.tar.gz",
-  "download_time": "2025-08-19T17:17:42.142298",
+  "download_filename": "phable-0.1.20.tar.gz",
+  "download_time": "2025-08-23T13:35:49.065378",
   "package_url": "https://pypi.org/project/phable/"
 }
