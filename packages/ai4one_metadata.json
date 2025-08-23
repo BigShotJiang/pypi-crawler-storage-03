@@ -1,11 +1,11 @@
 {
   "name": "ai4one",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "summary": "A small machine learning package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai4one-0.2.1.tar.gz",
-  "download_time": "2025-08-19T18:26:29.148009",
+  "download_filename": "ai4one-0.3.1.tar.gz",
+  "download_time": "2025-08-23T17:16:45.358593",
   "package_url": "https://pypi.org/project/ai4one/"
 }

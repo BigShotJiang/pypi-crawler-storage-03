@@ -1,33 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T16:57:00.615011
-- **Total Packages**: 73
-- **Total Size**: 6.96 MB
+- **Download Time**: 2025-08-23T17:17:14.991483
+- **Total Packages**: 68
+- **Total Size**: 3.64 MB
 
 ## Packages List
-- prism-flow
+- parxel
+- advanced_research
+- repositoryIntelligence
+- pyonir
+- ussh
+- fx-bin
+- FlaskDiscordAuth
+- mcp-server-screeny
+- django-simple-ordering
+- pylua-bioxen-vm-lib
+- marker-pdf
+- LLMEvaluationFramework
+- sirabus
+- pywiggle
+- ai4one
+- alibabacloud-cloudauth-intl20220809
+- sakuragasaki46-suou
 - swarms-tools
+- highlighted-pdf-to-anki-flashcards
+- dicom-sequence-classifier
+- privatebin
+- api-marketplace-client
+- ccflow
+- ml-model-handler
+- sincpro-siat-soap
+- aiwaf
+- filum-utils
+- prism-flow
 - cmods
 - maleo-cds
 - tinyrag
-- pylua-bioxen-vm-lib
 - nim-mmcif
 - nonebot-plugin-repeat-checker
 - promptboot
 - spaceshooter
-- dicom-sequence-classifier
 - coq-tools
 - maleo-metadata
 - mathrtc
 - luminescent
-- LLMEvaluationFramework
 - global-equity-momentum
 - cosmoGW
 - create-ragbits-app
 - calute
 - tide-sdk
-- repositoryIntelligence
 - maleo-soma
 - nonebot_plugin_lazytea
 - SuperGemini
@@ -52,30 +74,3 @@
 - mkdocs-swagger-ui-tag
 - wheel-axle-runtime
 - gemini-parallel
-- nuxt-payload
-- cagecleaner
-- speed-analyzer
-- publicity-idl
-- maven-decoder-mcp
-- kernelforge
-- ussh
-- entari-plugin-browser
-- batch-img
-- mchat-core
-- mcp-server-screeny
-- sirabus
-- wujing
-- plotmath
-- wickdata
-- git-changes
-- centra-sdk
-- redexpect
-- Musicreater
-- plexflow
-- snapkit
-- airbyte-source-faker
-- llama-github
-- airbyte-source-convex
-- airbyte-source-firebolt
-- airbyte-source-facebook-marketing
-- python-vectorspace

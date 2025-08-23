@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-screeny",
-  "version": "0.2.5",
+  "version": "0.2.8",
   "summary": "macOS MCP server for window enumeration and screenshot capture",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_screeny-0.2.5.tar.gz",
-  "download_time": "2025-08-23T16:22:22.621366",
+  "download_filename": "mcp_server_screeny-0.2.8.tar.gz",
+  "download_time": "2025-08-23T17:16:41.218061",
   "package_url": "https://pypi.org/project/mcp-server-screeny/"
 }

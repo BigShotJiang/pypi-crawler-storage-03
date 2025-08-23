@@ -1,0 +1,11 @@
+{
+  "name": "highlighted-pdf-to-anki-flashcards",
+  "version": "0.1.1",
+  "summary": "Extract highlighted words from PDFs and turn them into Anki flashcards",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "highlighted_pdf_to_anki_flashcards-0.1.1.tar.gz",
+  "download_time": "2025-08-23T17:16:47.454752",
+  "package_url": "https://pypi.org/project/highlighted-pdf-to-anki-flashcards/"
+}
