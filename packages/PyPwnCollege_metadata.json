@@ -1,0 +1,11 @@
+{
+  "name": "PyPwnCollege",
+  "version": "0.1.7",
+  "summary": "A wrapper for the pwn.college API. This allows automating interactions with pwn.college and also includes a command-line-interface(CLI) to list dojos/modules, submit flags, start challenges, run commands in challenge containers and more.",
+  "author": "Zeeshan Ayub",
+  "license": null,
+  "home_page": "https://pypwncollege.readthedocs.io/",
+  "download_filename": "pypwncollege-0.1.7.tar.gz",
+  "download_time": "2025-08-23T08:47:23.417272",
+  "package_url": "https://pypi.org/project/PyPwnCollege/"
+}
