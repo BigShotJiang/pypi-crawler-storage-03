@@ -1,11 +1,11 @@
 {
   "name": "heimdall-py",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Python bindings for Heimdall - Advanced EVM bytecode analysis toolkit",
   "author": null,
   "license": "MIT",
   "home_page": "https://heimdall.rs",
-  "download_filename": "heimdall_py-0.9.1-cp310-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2025-08-23T23:19:06.930934",
+  "download_filename": "heimdall_py-0.9.2.tar.gz",
+  "download_time": "2025-08-23T23:53:39.156190",
   "package_url": "https://pypi.org/project/heimdall-py/"
 }
