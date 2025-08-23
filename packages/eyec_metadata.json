@@ -1,0 +1,11 @@
+{
+  "name": "eyec",
+  "version": "0.1.0",
+  "summary": "A simple clipboard history + search tool for Linux",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eyec-0.1.0.tar.gz",
+  "download_time": "2025-08-23T11:16:18.620715",
+  "package_url": "https://pypi.org/project/eyec/"
+}

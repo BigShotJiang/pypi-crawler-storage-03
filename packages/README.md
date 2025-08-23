@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T10:53:39.910911
-- **Total Packages**: 77
-- **Total Size**: 13.14 MB
+- **Download Time**: 2025-08-23T11:16:57.293026
+- **Total Packages**: 78
+- **Total Size**: 17.68 MB
 
 ## Packages List
+- abs-auth-rbac-core
+- tb-nightly
+- geoinsights-3d
+- eyec
+- abs-utils
+- shancx
+- adjango
+- abstract-gui
+- bucketbase
+- object-store-abstraction
+- onco-cola-utils
+- MLstatkit
+- durusai-cli
+- djresttoolkit
+- scoped-context
+- generate-brand-ad-cover
+- asusrouter
+- centra-sdk
+- ckanext-selfinfo
+- cpybuild
+- recx
+- baseapp-for-restapi-backend-with-swagger
+- minillmlib
+- evmotosentiment
+- python3-cyberfusion-systemd-support
 - SuperClaude
 - bbm-q
 - mesalab
@@ -18,7 +43,6 @@
 - abs-exception-core
 - muko
 - asyncyt
-- durusai-cli
 - pdesy
 - weavingspace
 - rcabench
@@ -32,11 +56,9 @@
 - superu
 - rfs-v4
 - pytest-greener
-- generate-brand-ad-cover
 - letta-nightly
 - vibe-pretty-print
 - bintang
-- ckanext-selfinfo
 - mtv-mcp
 - rfs-framework
 - srinathpdf
@@ -62,24 +84,3 @@
 - kara_kanji_sync
 - entari-plugin-server
 - scrapy-cffi
-- pyfqmr
-- akari-bot-webui
-- zrb
-- skypilot-nightly
-- entari-plugin-database
-- tbp-nightly
-- xprof-nightly
-- indie
-- adx-mcp-server
-- mlvlab
-- nonebot-plugin-weiweibot
-- ultrasphere
-- pyCirclize
-- parsehub
-- aiohomematic
-- pdfdol
-- weboasis
-- nvidia-nat-opentelemetry
-- leaklock
-- nvidia-nat-phoenix
-- nonebot-plugins-jm-html

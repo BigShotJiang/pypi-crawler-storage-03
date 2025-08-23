@@ -1,0 +1,11 @@
+{
+  "name": "cpybuild",
+  "version": "0.1.0",
+  "summary": "A Python build tool to transpile Python code to C using Cython.",
+  "author": "jayendra1107",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpybuild-0.1.0.tar.gz",
+  "download_time": "2025-08-23T11:16:26.938301",
+  "package_url": "https://pypi.org/project/cpybuild/"
+}
