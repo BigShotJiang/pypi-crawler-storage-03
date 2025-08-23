@@ -1,11 +1,11 @@
 {
   "name": "magic_hour",
-  "version": "0.36.0",
+  "version": "0.36.1",
   "summary": "Python SDK for Magic Hour API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magic_hour-0.36.0.tar.gz",
-  "download_time": "2025-08-23T02:50:03.909085",
+  "download_filename": "magic_hour-0.36.1.tar.gz",
+  "download_time": "2025-08-23T04:55:14.854859",
   "package_url": "https://pypi.org/project/magic_hour/"
 }

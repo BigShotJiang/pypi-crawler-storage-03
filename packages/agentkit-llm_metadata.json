@@ -1,0 +1,11 @@
+{
+  "name": "agentkit-llm",
+  "version": "0.1.9",
+  "summary": "A LLM prompting framework for LLM agents",
+  "author": "AgentKit Team",
+  "license": "CC-BY-4.0-Attribution",
+  "home_page": "https://github.com/rhyswynn/AgentKit",
+  "download_filename": "agentkit_llm-0.1.9.tar.gz",
+  "download_time": "2025-08-23T04:55:17.457065",
+  "package_url": "https://pypi.org/project/agentkit-llm/"
+}
