@@ -1,11 +1,20 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T08:48:08.774236
-- **Total Packages**: 83
-- **Total Size**: 11.08 MB
+- **Download Time**: 2025-08-23T08:57:47.215924
+- **Total Packages**: 85
+- **Total Size**: 1.2 MB
 
 ## Packages List
+- nitrokeyapp
+- tree-sitter-arduino
+- mcp-ambari-api
+- alert-after-pro
+- fx-bin
+- Jaxley
+- sandpaper-py
+- binance-asyncio
+- djresttoolkit
 - ut-eviq
 - tfp-nightly
 - botrun-flow-lang
@@ -35,7 +44,6 @@
 - umep
 - nullbr
 - electrum-bch
-- sandpaper-py
 - kara-kanji-sync
 - mcp-airflow-api
 - neuro-config-client
@@ -83,9 +91,3 @@
 - pygpsclient
 - llm-sandbox
 - gdsfactoryhub
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- bitcoin-safe-lib
-- djresttoolkit
-- argopy
-- mscore3

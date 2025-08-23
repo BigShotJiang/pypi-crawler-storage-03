@@ -1,0 +1,11 @@
+{
+  "name": "binance-asyncio",
+  "version": "0.2.1",
+  "summary": "Library for interacting with the Binance API",
+  "author": "Daniel Kirkegaard Mouritsen",
+  "license": null,
+  "home_page": "https://github.com/justdanyul/binance-asyncio",
+  "download_filename": "binance_asyncio-0.2.1.tar.gz",
+  "download_time": "2025-08-23T08:56:58.826340",
+  "package_url": "https://pypi.org/project/binance-asyncio/"
+}

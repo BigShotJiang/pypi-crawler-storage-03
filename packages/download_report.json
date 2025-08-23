@@ -1,8 +1,17 @@
 {
-  "download_time": "2025-08-23T08:48:08.774236",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 11.08,
+  "download_time": "2025-08-23T08:57:47.215924",
+  "total_packages_downloaded": 85,
+  "total_size_mb": 1.2,
   "packages": [
+    "nitrokeyapp",
+    "tree-sitter-arduino",
+    "mcp-ambari-api",
+    "alert-after-pro",
+    "fx-bin",
+    "Jaxley",
+    "sandpaper-py",
+    "binance-asyncio",
+    "djresttoolkit",
     "ut-eviq",
     "tfp-nightly",
     "botrun-flow-lang",
@@ -32,7 +41,6 @@
     "umep",
     "nullbr",
     "electrum-bch",
-    "sandpaper-py",
     "kara-kanji-sync",
     "mcp-airflow-api",
     "neuro-config-client",
@@ -79,12 +87,6 @@
     "gostmodels",
     "pygpsclient",
     "llm-sandbox",
-    "gdsfactoryhub",
-    "ai-edge-litert-sdk-mediatek-nightly",
-    "ai-edge-litert-sdk-qualcomm-nightly",
-    "bitcoin-safe-lib",
-    "djresttoolkit",
-    "argopy",
-    "mscore3"
+    "gdsfactoryhub"
   ]
 }
