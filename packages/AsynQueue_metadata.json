@@ -1,0 +1,11 @@
+{
+  "name": "AsynQueue",
+  "version": "0.9.9",
+  "summary": "Asynchronous task queueing with Twisted: threaded, multicore, and remote.",
+  "author": "Edwin A. Suominen",
+  "license": "Apache License (2.0)",
+  "home_page": "http://edsuom.com/AsynQueue.html",
+  "download_filename": "asynqueue-0.9.9.tar.gz",
+  "download_time": "2025-08-23T21:40:26.859097",
+  "package_url": "https://pypi.org/project/AsynQueue/"
+}

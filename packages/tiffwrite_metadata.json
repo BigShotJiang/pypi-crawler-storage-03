@@ -1,11 +1,11 @@
 {
   "name": "tiffwrite",
-  "version": "2025.8.0",
+  "version": "2025.8.1",
   "summary": "Write BioFormats/ImageJ compatible tiffs with zstd compression in parallel.",
   "author": null,
   "license": null,
   "home_page": "https://github.com/wimpomp/tiffwrite",
-  "download_filename": "tiffwrite-2025.8.0.tar.gz",
-  "download_time": "2025-08-21T20:22:18.174573",
+  "download_filename": "tiffwrite-2025.8.1.tar.gz",
+  "download_time": "2025-08-23T21:40:35.446355",
   "package_url": "https://pypi.org/project/tiffwrite/"
 }

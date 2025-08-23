@@ -1,0 +1,11 @@
+{
+  "name": "fantasio",
+  "version": "0.1.2",
+  "summary": "Fantasio, normalization tool for SPIRou .fits file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fantasio-0.1.2.tar.gz",
+  "download_time": "2025-08-23T21:40:21.078500",
+  "package_url": "https://pypi.org/project/fantasio/"
+}

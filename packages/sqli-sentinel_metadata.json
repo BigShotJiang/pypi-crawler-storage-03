@@ -1,0 +1,11 @@
+{
+  "name": "sqli-sentinel",
+  "version": "0.1.0",
+  "summary": "A hybrid SQL Injection detection tool using Machine Learning and Regex.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqli_sentinel-0.1.0.tar.gz",
+  "download_time": "2025-08-23T21:40:34.296649",
+  "package_url": "https://pypi.org/project/sqli-sentinel/"
+}
