@@ -1,0 +1,11 @@
+{
+  "name": "rkcu",
+  "version": "1.0.1",
+  "summary": "Royal Kludge Config Utility - Manage profiles and per-key RGB lighting",
+  "author": "Hardik Srivastava",
+  "license": "MIT",
+  "home_page": "https://github.com/gagan16k/rkcu",
+  "download_filename": "rkcu-1.0.1.tar.gz",
+  "download_time": "2025-08-23T22:42:32.481158",
+  "package_url": "https://pypi.org/project/rkcu/"
+}

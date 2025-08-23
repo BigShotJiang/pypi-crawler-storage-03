@@ -1,0 +1,11 @@
+{
+  "name": "sc-kale",
+  "version": "1.0.0",
+  "summary": "KALE: Cell Activity Inference Landscape",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sc_kale-1.0.0.tar.gz",
+  "download_time": "2025-08-23T22:42:31.910413",
+  "package_url": "https://pypi.org/project/sc-kale/"
+}

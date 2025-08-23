@@ -1,0 +1,11 @@
+{
+  "name": "briefcasebrain-sdk",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for BriefcaseBrain Legal AI Platform",
+  "author": "BriefcaseBrain Support",
+  "license": "MIT",
+  "home_page": "https://github.com/briefcasebrain/sdk",
+  "download_filename": "briefcasebrain_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-23T22:42:38.004002",
+  "package_url": "https://pypi.org/project/briefcasebrain-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logillm",
+  "version": "0.1.0",
+  "summary": "A generic, high-performance, low-dependency LLM programming framework inspired by dspy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logillm-0.1.0.tar.gz",
+  "download_time": "2025-08-23T22:42:58.078001",
+  "package_url": "https://pypi.org/project/logillm/"
+}

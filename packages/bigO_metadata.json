@@ -1,0 +1,11 @@
+{
+  "name": "bigO",
+  "version": "0.0.7",
+  "summary": "Track asymptotic complexity in time and space.",
+  "author": "Emery Berger",
+  "license": null,
+  "home_page": "https://github.com/plasma-umass/bigO",
+  "download_filename": "bigo-0.0.7-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-23T22:42:53.312133",
+  "package_url": "https://pypi.org/project/bigO/"
+}

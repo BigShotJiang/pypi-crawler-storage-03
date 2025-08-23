@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-tmdb-cover",
+  "version": "0.2.0",
+  "summary": "Add TMDB cover images to Obsidian notes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "obsidian_tmdb_cover-0.2.0.tar.gz",
+  "download_time": "2025-08-23T22:42:31.332595",
+  "package_url": "https://pypi.org/project/obsidian-tmdb-cover/"
+}
