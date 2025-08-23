@@ -1,11 +1,27 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T09:53:41.086505
+- **Download Time**: 2025-08-23T10:21:00.281780
 - **Total Packages**: 91
-- **Total Size**: 10.68 MB
+- **Total Size**: 10.05 MB
 
 ## Packages List
+- akari-bot-webui
+- zrb
+- skypilot-nightly
+- entari-plugin-database
+- tbp-nightly
+- xprof-nightly
+- indie
+- adx-mcp-server
+- durusai-cli
+- mlvlab
+- nonebot-plugin-weiweibot
+- ultrasphere
+- kara_kanji_sync
+- inverse-projections
+- pyCirclize
+- parsehub
 - aiohomematic
 - pdfdol
 - weboasis
@@ -15,7 +31,6 @@
 - nonebot-plugins-jm-html
 - nvidia-nat-mem0ai
 - nvidia-nat-mysql
-- durusai-cli
 - nvidia-nat-crewai
 - tk-base-utils
 - nvidia-nat-agno
@@ -82,18 +97,3 @@
 - py-calling-agent
 - urllib3-future
 - petracore-django-backend-starter
-- chaukas-spec-client
-- wppm
-- exprmat
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- coyaml
-- autogluon.common
-- opendapi
-- toolsed
-- sandpaper-py
-- matrixhdl

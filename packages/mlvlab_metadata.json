@@ -1,11 +1,11 @@
 {
   "name": "mlvlab",
-  "version": "0.2.19",
+  "version": "0.2.20",
   "summary": "Visual AI Learning Ecosystem - MLVisual®",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlvlab-0.2.19.tar.gz",
-  "download_time": "2025-08-22T12:39:47.260179",
+  "download_filename": "mlvlab-0.2.20.tar.gz",
+  "download_time": "2025-08-23T10:20:13.938153",
   "package_url": "https://pypi.org/project/mlvlab/"
 }
