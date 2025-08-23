@@ -1,11 +1,11 @@
 {
   "name": "Terminal-Speil-B1",
-  "version": "1.0.11",
+  "version": "1.1.1",
   "summary": "You can play the game by running the following commands(in you terminal): pip install pipx  | pipx install Terminal-Speil-B1 | terminal-speil-b1 | The full description of the game is given below.",
-  "author": null,
+  "author": "Basanta Bhandari",
   "license": null,
-  "home_page": null,
-  "download_filename": "terminal_speil_b1-1.0.11.tar.gz",
-  "download_time": "2025-08-19T13:19:08.065169",
+  "home_page": "https://github.com/basanta-bhandari/Summer_of_Making",
+  "download_filename": "Terminal-Speil-B1-1.1.1.tar.gz",
+  "download_time": "2025-08-23T06:27:57.755525",
   "package_url": "https://pypi.org/project/Terminal-Speil-B1/"
 }

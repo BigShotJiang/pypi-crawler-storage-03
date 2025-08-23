@@ -1,11 +1,11 @@
 {
   "name": "snow-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A comprehensive MCP server for interacting with ServiceNow modules.",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "snow_mcp-0.1.0.tar.gz",
-  "download_time": "2025-08-22T10:55:59.722439",
+  "download_filename": "snow_mcp-0.1.1.tar.gz",
+  "download_time": "2025-08-23T06:27:59.468955",
   "package_url": "https://pypi.org/project/snow-mcp/"
 }

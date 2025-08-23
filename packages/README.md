@@ -1,19 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T05:53:18.507457
-- **Total Packages**: 86
-- **Total Size**: 7.01 MB
+- **Download Time**: 2025-08-23T06:28:40.966157
+- **Total Packages**: 83
+- **Total Size**: 9.11 MB
 
 ## Packages List
+- BBAWSLightsailMiniV1a
+- debabelizer
+- bank-scrapers
+- bitbucket-mcp-server
+- database-common-tools
+- jpreprocess-mod
+- network-functions
+- Terminal-Speil-B1
+- aiopybit
+- repository-manager
+- snow-mcp
+- nagoya-bus-mcp
+- xloft
+- norfab
+- pyg-nightly
+- cyberdrop-dl-fix
+- lzytools
+- sourcepp
+- pulumi-gitlab
+- funtable
+- genomics-dataloader
+- rediacc
+- arclet-entari
+- youtubevideosorter
+- dbrx-de-ops
+- mover
+- magic_hour
 - netintel-ocr
 - mcp-postgresql-ops
 - real-imdb
 - jacobi-poly
 - mkdocs-nbsync
 - ivybloom
-- repository-manager
-- youtubevideosorter
 - superset-showtime
 - service-ping-sping
 - tystyle
@@ -64,31 +89,3 @@
 - videosdk-plugins-sip
 - videosdk-plugins-simli
 - videosdk-plugins-silero
-- videosdk-plugins-sarvamai
-- videosdk-plugins-rnnoise
-- videosdk-plugins-rime
-- videosdk-plugins-resemble
-- videosdk-plugins-papla
-- videosdk-plugins-openai
-- videosdk-plugins-neuphonic
-- videosdk-plugins-navana
-- videosdk-plugins-lmnt
-- videosdk-plugins-inworldai
-- videosdk-plugins-humeai
-- videosdk-plugins-groq
-- videosdk-plugins-google
-- videosdk-plugins-elevenlabs
-- videosdk-plugins-deepgram
-- videosdk-plugins-cerebras
-- videosdk-plugins-cartesia
-- videosdk-plugins-aws
-- videosdk-plugins-assemblyai
-- videosdk-plugins-anthropic
-- videosdk-agents
-- magcal
-- syda
-- wagtail-trash
-- magic_hour
-- jianpu-ly
-- simple-aws-lambda
-- agentkit-llm
