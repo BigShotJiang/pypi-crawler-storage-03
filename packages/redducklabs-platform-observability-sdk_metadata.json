@@ -1,0 +1,11 @@
+{
+  "name": "redducklabs-platform-observability-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for Platform Observability log ingestion and analytics",
+  "author": "Red Duck Labs",
+  "license": null,
+  "home_page": "https://github.com/redducklabs/platform-observability",
+  "download_filename": "redducklabs_platform_observability_sdk-1.0.0.tar.gz",
+  "download_time": "2025-08-23T23:41:14.799712",
+  "package_url": "https://pypi.org/project/redducklabs-platform-observability-sdk/"
+}

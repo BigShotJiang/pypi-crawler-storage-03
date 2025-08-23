@@ -1,11 +1,11 @@
 {
   "name": "qs-codec",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A query string encoding and decoding library for Python. Ported from qs for JavaScript.",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "qs_codec-1.2.0.tar.gz",
-  "download_time": "2025-08-19T06:54:00.580884",
+  "download_filename": "qs_codec-1.2.1.tar.gz",
+  "download_time": "2025-08-23T23:41:12.239158",
   "package_url": "https://pypi.org/project/qs-codec/"
 }
