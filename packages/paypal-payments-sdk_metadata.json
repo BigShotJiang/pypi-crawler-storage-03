@@ -1,0 +1,11 @@
+{
+  "name": "paypal-payments-sdk",
+  "version": "1.1.0",
+  "summary": "A comprehensive Python SDK for PayPal Payments REST API v2 and Transaction Search API",
+  "author": "ljohri",
+  "license": null,
+  "home_page": "https://github.com/ljohri/paypal_sdk",
+  "download_filename": "paypal_payments_sdk-1.1.0.tar.gz",
+  "download_time": "2025-08-23T02:50:00.370483",
+  "package_url": "https://pypi.org/project/paypal-payments-sdk/"
+}

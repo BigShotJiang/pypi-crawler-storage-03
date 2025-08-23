@@ -1,11 +1,11 @@
 {
   "name": "pqquotation",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "A utility for Fetch China Stock Info",
   "author": "bushuhui",
   "license": "BSD",
   "home_page": "https://github.com/bushuhui/pqquotation",
-  "download_filename": "pqquotation-0.8.0.tar.gz",
-  "download_time": "2025-08-22T13:22:53.044284",
+  "download_filename": "pqquotation-0.8.1.tar.gz",
+  "download_time": "2025-08-23T02:50:09.997667",
   "package_url": "https://pypi.org/project/pqquotation/"
 }
