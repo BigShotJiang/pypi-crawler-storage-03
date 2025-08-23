@@ -1,11 +1,11 @@
 {
   "name": "electrum-bch",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "summary": "Bitcoin Cash Electrum core packaged as elib.bitcoincashElectrum",
-  "author": null,
+  "author": "Main Dirc",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "electrum_bch-0.3.5.tar.gz",
-  "download_time": "2025-08-23T07:18:37.033757",
+  "download_filename": "electrum_bch-0.3.6.tar.gz",
+  "download_time": "2025-08-23T07:52:48.450737",
   "package_url": "https://pypi.org/project/electrum-bch/"
 }

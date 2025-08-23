@@ -1,0 +1,11 @@
+{
+  "name": "cxgparser",
+  "version": "1.3.4",
+  "summary": "A CxG Induction Parser.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cxgparser-1.3.4.tar.gz",
+  "download_time": "2025-08-23T07:52:50.214094",
+  "package_url": "https://pypi.org/project/cxgparser/"
+}

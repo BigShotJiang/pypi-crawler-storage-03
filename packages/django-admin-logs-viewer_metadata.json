@@ -1,11 +1,11 @@
 {
   "name": "django-admin-logs-viewer",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A Django admin extension for displaying log files directly from the admin panel.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_admin_logs_viewer-1.0.1.tar.gz",
-  "download_time": "2025-08-23T06:50:03.919909",
+  "download_filename": "django_admin_logs_viewer-1.1.0.tar.gz",
+  "download_time": "2025-08-23T07:52:46.159809",
   "package_url": "https://pypi.org/project/django-admin-logs-viewer/"
 }
