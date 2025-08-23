@@ -1,16 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T17:32:32.788146
+- **Download Time**: 2025-08-23T17:43:42.223953
 - **Total Packages**: 74
-- **Total Size**: 23.99 MB
+- **Total Size**: 6.9 MB
 
 ## Packages List
+- keyboardsounds
+- mcmod-cli
+- libcachesim
+- deezspot-spotizerr
+- abstract-gui
+- wagtail-font-awesome-svg
+- practicum-billing-shared
+- resolvematrix
+- configset
+- ut-eviq
+- nim-mmcif
+- repository-manager
+- aider-code
+- reviews-lm-scorer
 - aiogram-navigation
 - fx-bin
-- py-sys-utils
 - swarms-tools
-- abstract-gui
 - sphinx-notionbuilder
 - mcp-server-screeny
 - armstrong-checker
@@ -18,7 +30,6 @@
 - whatsextract
 - metis-agent
 - pylua-bioxen-vm-lib
-- aider-code
 - maleo-identity
 - SuperGemini
 - figpack
@@ -35,7 +46,6 @@
 - xum
 - s3ranger
 - LLMEvaluationFramework
-- mcmod-cli
 - asusrouter
 - vortex-data
 - plexflow
@@ -47,7 +57,6 @@
 - pyonir
 - ussh
 - FlaskDiscordAuth
-- django-simple-ordering
 - marker-pdf
 - sirabus
 - pywiggle
@@ -67,16 +76,7 @@
 - cmods
 - maleo-cds
 - tinyrag
-- nim-mmcif
 - nonebot-plugin-repeat-checker
 - promptboot
 - spaceshooter
 - coq-tools
-- maleo-metadata
-- mathrtc
-- luminescent
-- global-equity-momentum
-- cosmoGW
-- create-ragbits-app
-- calute
-- tide-sdk

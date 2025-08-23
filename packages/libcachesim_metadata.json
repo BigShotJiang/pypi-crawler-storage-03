@@ -1,0 +1,11 @@
+{
+  "name": "libcachesim",
+  "version": "0.3.3.post3",
+  "summary": "Python bindings for libCacheSim",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libcachesim-0.3.3.post3-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2025-08-23T17:43:03.012115",
+  "package_url": "https://pypi.org/project/libcachesim/"
+}
