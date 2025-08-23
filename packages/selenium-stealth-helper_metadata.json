@@ -1,0 +1,11 @@
+{
+  "name": "selenium-stealth-helper",
+  "version": "1.0.0",
+  "summary": "Enhanced Selenium stealth automation tools with Cloudflare bypass capabilities",
+  "author": "Web Automation Team",
+  "license": "MIT",
+  "home_page": "https://github.com/web-automation/selenium-stealth-helper",
+  "download_filename": "selenium_stealth_helper-1.0.0.tar.gz",
+  "download_time": "2025-08-23T16:44:08.507623",
+  "package_url": "https://pypi.org/project/selenium-stealth-helper/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agex",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Library-friendly agents that work directly with your existing Python codebase.",
   "author": "ashenfad",
   "license": null,
   "home_page": null,
-  "download_filename": "agex-0.1.0.tar.gz",
-  "download_time": "2025-08-22T20:22:48.991809",
+  "download_filename": "agex-0.1.2.tar.gz",
+  "download_time": "2025-08-23T16:43:59.796907",
   "package_url": "https://pypi.org/project/agex/"
 }

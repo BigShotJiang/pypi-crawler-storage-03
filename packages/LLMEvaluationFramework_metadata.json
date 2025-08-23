@@ -1,11 +1,11 @@
 {
   "name": "LLMEvaluationFramework",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "End-to-End LLM Evaluation and Auto-Suggestion Framework",
   "author": "Sathishkumar Nagarajan",
   "license": null,
   "home_page": "https://github.com/isathish/LLMEvaluationFramework",
-  "download_filename": "llmevaluationframework-0.0.2.tar.gz",
-  "download_time": "2025-08-23T16:22:24.163568",
+  "download_filename": "llmevaluationframework-0.0.4.tar.gz",
+  "download_time": "2025-08-23T16:44:01.841113",
   "package_url": "https://pypi.org/project/LLMEvaluationFramework/"
 }

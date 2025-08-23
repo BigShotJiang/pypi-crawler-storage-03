@@ -1,17 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T16:22:59.095239
-- **Total Packages**: 80
-- **Total Size**: 14.62 MB
+- **Download Time**: 2025-08-23T16:44:36.405628
+- **Total Packages**: 76
+- **Total Size**: 15.39 MB
 
 ## Packages List
+- maleo-soma
+- nonebot_plugin_lazytea
+- SuperGemini
+- abstract-paths
+- cendat
+- pyRFC3339
+- agex
+- pyritofile
+- sphinx-notionbuilder
+- global-equity-momentum
+- LLMEvaluationFramework
+- trading-bot-x
+- monalisten
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
+- cosmoGW
+- aider-code
+- repositoryIntelligence
 - fx-lib
+- openrouter-provider
+- beaglemind-cli
+- clselove
+- selenium-stealth-helper
+- reline
+- nonebot-plugin-repeat-checker
+- ccdexplorer-fundamentals
+- mkdocs-swagger-ui-tag
+- wheel-axle-runtime
+- gemini-parallel
+- nuxt-payload
 - cagecleaner
 - speed-analyzer
 - publicity-idl
 - maven-decoder-mcp
-- abstract-paths
 - kernelforge
 - ussh
 - entari-plugin-browser
@@ -20,18 +48,15 @@
 - mcp-server-screeny
 - sirabus
 - wujing
-- LLMEvaluationFramework
 - plotmath
 - wickdata
 - git-changes
 - centra-sdk
-- cosmoGW
 - redexpect
 - Musicreater
 - plexflow
 - snapkit
 - airbyte-source-faker
-- openrouter-provider
 - llama-github
 - airbyte-source-convex
 - airbyte-source-firebolt
@@ -57,32 +82,3 @@
 - libcoapy
 - liveConsole
 - sinol-make
-- alpaka-re
-- mkv-episode-matcher
-- dao-treasury
-- MainShortcuts2
-- universal-uicreator
-- anonupload
-- vcosmos-mcp-server
-- global-equity-momentum
-- Flask-LiveReload
-- mangadex-dl
-- agilab
-- agi-core
-- mon-tokenizer
-- staphscope
-- classiloom
-- blendsql
-- create-ragbits-app
-- defspec
-- nuxt-payload
-- flamo
-- sherpa-onnx-core
-- DepthTensor
-- radboy
-- jiechau-mcp-vincent-says
-- hpcflow-new2
-- bedrock-server-manager
-- picows
-- unique_toolkit
-- talkpipe
