@@ -1,0 +1,11 @@
+{
+  "name": "donatello-py",
+  "version": "1.0.3",
+  "summary": "A asynchronous/synchronous python wrapper for the Donatello API.",
+  "author": "hampta",
+  "license": "MIT",
+  "home_page": "https://github.com/hampta/donatello-py",
+  "download_filename": "donatello_py-1.0.3.tar.gz",
+  "download_time": "2025-08-23T18:26:16.432358",
+  "package_url": "https://pypi.org/project/donatello-py/"
+}

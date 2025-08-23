@@ -1,0 +1,11 @@
+{
+  "name": "robotraconteur",
+  "version": "1.2.6",
+  "summary": "Robot Raconteur Python Library",
+  "author": "John Wason",
+  "license": "Apache-2.0",
+  "home_page": "http://robotraconteur.com/",
+  "download_filename": "robotraconteur-1.2.6-cp310-cp310-win32.whl",
+  "download_time": "2025-08-23T18:26:12.918533",
+  "package_url": "https://pypi.org/project/robotraconteur/"
+}

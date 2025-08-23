@@ -1,11 +1,11 @@
 {
   "name": "wagtail-font-awesome-svg",
-  "version": "1.2",
-  "summary": "Font Awesome 6 icons as SVG for Wagtail",
+  "version": "2.0",
+  "summary": "Font Awesome 7 icons as SVG for Wagtail",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wagtail_font_awesome_svg-1.2.tar.gz",
-  "download_time": "2025-08-23T17:43:04.570003",
+  "download_filename": "wagtail_font_awesome_svg-2.0.tar.gz",
+  "download_time": "2025-08-23T18:26:22.299919",
   "package_url": "https://pypi.org/project/wagtail-font-awesome-svg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "homeseer-client",
+  "version": "0.1.1",
+  "summary": "A thin wrapper around the Homeseer HTTP JSON API",
+  "author": "John Ritsema",
+  "license": null,
+  "home_page": "https://github.com/jritsema/homeseer-python-client",
+  "download_filename": "homeseer_client-0.1.1.tar.gz",
+  "download_time": "2025-08-23T18:26:09.428111",
+  "package_url": "https://pypi.org/project/homeseer-client/"
+}

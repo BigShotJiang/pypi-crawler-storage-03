@@ -1,11 +1,11 @@
 {
   "name": "tide-sdk",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A Zenoh-based robotics framework with opinionated namespacing",
   "author": "Tide Team",
   "license": null,
   "home_page": null,
-  "download_filename": "tide_sdk-0.1.7.tar.gz",
-  "download_time": "2025-08-23T16:56:32.503024",
+  "download_filename": "tide_sdk-0.1.8.tar.gz",
+  "download_time": "2025-08-23T18:26:18.795259",
   "package_url": "https://pypi.org/project/tide-sdk/"
 }

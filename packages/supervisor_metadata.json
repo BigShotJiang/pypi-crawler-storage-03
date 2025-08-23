@@ -1,0 +1,11 @@
+{
+  "name": "supervisor",
+  "version": "4.3.0",
+  "summary": "A system for controlling process state under UNIX",
+  "author": "Chris McDonough",
+  "license": "BSD-derived (http://www.repoze.org/LICENSE.txt)",
+  "home_page": "http://supervisord.org/",
+  "download_filename": "supervisor-4.3.0.tar.gz",
+  "download_time": "2025-08-23T18:26:07.695820",
+  "package_url": "https://pypi.org/project/supervisor/"
+}
