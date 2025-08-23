@@ -1,11 +1,11 @@
 {
   "name": "llm_batch_helper",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "A Python package that enables batch submission of prompts to LLM APIs, with built-in async capabilities and response caching.",
   "author": "Tianyi Peng",
   "license": "MIT",
   "home_page": "https://github.com/TianyiPeng/LLM_batch_helper",
-  "download_filename": "llm_batch_helper-0.1.6.tar.gz",
-  "download_time": "2025-08-18T22:16:51.400201",
+  "download_filename": "llm_batch_helper-0.2.0.tar.gz",
+  "download_time": "2025-08-23T15:39:59.598023",
   "package_url": "https://pypi.org/project/llm_batch_helper/"
 }

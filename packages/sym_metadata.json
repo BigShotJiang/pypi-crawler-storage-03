@@ -1,11 +1,11 @@
 {
   "name": "sym",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Unified wrapper for symbolic manipulation libraries in Python.",
   "author": "Bjoern I. Dahlgren ",
   "license": "BSD",
   "home_page": "https://github.com/bjodah/sym",
-  "download_filename": "sym-0.3.6.tar.gz",
-  "download_time": "2025-08-23T15:20:00.363373",
+  "download_filename": "sym-0.3.7.tar.gz",
+  "download_time": "2025-08-23T15:40:18.491891",
   "package_url": "https://pypi.org/project/sym/"
 }

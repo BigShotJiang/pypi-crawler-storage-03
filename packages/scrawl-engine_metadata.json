@@ -1,0 +1,11 @@
+{
+  "name": "scrawl-engine",
+  "version": "0.12.1",
+  "summary": "Write game like Scratch",
+  "author": "Streetartist",
+  "license": null,
+  "home_page": "http://github.com/streetartist/scrawl",
+  "download_filename": "scrawl_engine-0.12.1.tar.gz",
+  "download_time": "2025-08-23T15:40:06.473384",
+  "package_url": "https://pypi.org/project/scrawl-engine/"
+}

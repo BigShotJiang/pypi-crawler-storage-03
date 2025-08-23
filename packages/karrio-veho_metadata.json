@@ -1,11 +1,11 @@
 {
   "name": "karrio-veho",
-  "version": "2025.5rc16",
+  "version": "2025.5rc17",
   "summary": "Karrio - Veho Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_veho-2025.5rc16-py3-none-any.whl",
-  "download_time": "2025-08-20T07:41:49.176431",
+  "download_filename": "karrio_veho-2025.5rc17-py3-none-any.whl",
+  "download_time": "2025-08-23T15:40:05.714343",
   "package_url": "https://pypi.org/project/karrio-veho/"
 }

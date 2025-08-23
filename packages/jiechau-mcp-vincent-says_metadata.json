@@ -1,11 +1,11 @@
 {
   "name": "jiechau-mcp-vincent-says",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "You always have something to ask Vincent—anything, everything—you just want to know how Vincent would say it. So, let’s ask Vincent",
   "author": "jiechau",
   "license": null,
   "home_page": null,
-  "download_filename": "jiechau_mcp_vincent_says-0.1.0.tar.gz",
-  "download_time": "2025-08-23T14:41:28.841883",
+  "download_filename": "jiechau_mcp_vincent_says-0.1.1.tar.gz",
+  "download_time": "2025-08-23T15:39:53.455636",
   "package_url": "https://pypi.org/project/jiechau-mcp-vincent-says/"
 }

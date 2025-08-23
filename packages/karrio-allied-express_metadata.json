@@ -1,11 +1,11 @@
 {
   "name": "karrio-allied-express",
-  "version": "2025.5rc14",
+  "version": "2025.5rc17",
   "summary": "Karrio - Allied Express Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_allied_express-2025.5rc14-py3-none-any.whl",
-  "download_time": "2025-08-19T17:52:21.191731",
+  "download_filename": "karrio_allied_express-2025.5rc17-py3-none-any.whl",
+  "download_time": "2025-08-23T15:40:12.563650",
   "package_url": "https://pypi.org/project/karrio-allied-express/"
 }

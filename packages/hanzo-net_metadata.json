@@ -1,0 +1,11 @@
+{
+  "name": "hanzo-net",
+  "version": "0.1.20",
+  "summary": "Hanzo Network - Distributed AI compute network for running models locally and remotely",
+  "author": "Hanzo AI",
+  "license": null,
+  "home_page": "https://github.com/hanzoai/net",
+  "download_filename": "hanzo_net-0.1.20.tar.gz",
+  "download_time": "2025-08-23T15:40:17.960978",
+  "package_url": "https://pypi.org/project/hanzo-net/"
+}
