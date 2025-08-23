@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T16:44:36.405628
-- **Total Packages**: 76
-- **Total Size**: 15.39 MB
+- **Download Time**: 2025-08-23T16:57:00.615011
+- **Total Packages**: 73
+- **Total Size**: 6.96 MB
 
 ## Packages List
+- prism-flow
+- swarms-tools
+- cmods
+- maleo-cds
+- tinyrag
+- pylua-bioxen-vm-lib
+- nim-mmcif
+- nonebot-plugin-repeat-checker
+- promptboot
+- spaceshooter
+- dicom-sequence-classifier
+- coq-tools
+- maleo-metadata
+- mathrtc
+- luminescent
+- LLMEvaluationFramework
+- global-equity-momentum
+- cosmoGW
+- create-ragbits-app
+- calute
+- tide-sdk
+- repositoryIntelligence
 - maleo-soma
 - nonebot_plugin_lazytea
 - SuperGemini
@@ -15,22 +37,17 @@
 - agex
 - pyritofile
 - sphinx-notionbuilder
-- global-equity-momentum
-- LLMEvaluationFramework
 - trading-bot-x
 - monalisten
 - rxfoundry.clients.swifty-api
 - rxfoundry.clients.swifty-oauth-api
-- cosmoGW
 - aider-code
-- repositoryIntelligence
 - fx-lib
 - openrouter-provider
 - beaglemind-cli
 - clselove
 - selenium-stealth-helper
 - reline
-- nonebot-plugin-repeat-checker
 - ccdexplorer-fundamentals
 - mkdocs-swagger-ui-tag
 - wheel-axle-runtime
@@ -62,23 +79,3 @@
 - airbyte-source-firebolt
 - airbyte-source-facebook-marketing
 - python-vectorspace
-- localstack-core
-- mirrorbox
-- starlake-snowflake
-- debabelizer
-- smirk
-- topasio
-- jarvis-ai-assistant
-- pytest-html-plus
-- orionis
-- seisvis
-- sshup
-- sccb
-- lemonade-sdk
-- djresttoolkit
-- muspi-merol
-- recx
-- dt-net
-- libcoapy
-- liveConsole
-- sinol-make

@@ -1,0 +1,11 @@
+{
+  "name": "spaceshooter",
+  "version": "0.0.11",
+  "summary": "Simple spaceshooter game that uses PySide library",
+  "author": "Marcin Bielewicz",
+  "license": "GPL",
+  "home_page": "https://iostream.pl/spaceshooter-en",
+  "download_filename": "spaceshooter-0.0.11.tar.gz",
+  "download_time": "2025-08-23T16:56:26.052720",
+  "package_url": "https://pypi.org/project/spaceshooter/"
+}
