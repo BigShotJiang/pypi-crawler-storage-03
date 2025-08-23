@@ -1,11 +1,11 @@
 {
   "name": "sharkiq",
-  "version": "1.3.2",
+  "version": "1.3.4",
   "summary": "Python API for Shark IQ robots",
   "author": "Jeff Rescignano",
   "license": "MIT",
   "home_page": "https://github.com/JeffResc/sharkiq-ng",
-  "download_filename": "sharkiq-1.3.2.tar.gz",
-  "download_time": "2025-08-23T20:53:00.639772",
+  "download_filename": "sharkiq-1.3.4.tar.gz",
+  "download_time": "2025-08-23T21:18:18.196619",
   "package_url": "https://pypi.org/project/sharkiq/"
 }

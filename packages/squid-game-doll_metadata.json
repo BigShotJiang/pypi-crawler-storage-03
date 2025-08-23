@@ -1,0 +1,11 @@
+{
+  "name": "squid-game-doll",
+  "version": "0.2.0",
+  "summary": "A game using AI for player tracking inspired by Squid Game TV series, featuring an animated doll with laser.",
+  "author": "Pascal Brunot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "squid_game_doll-0.2.0.tar.gz",
+  "download_time": "2025-08-23T21:18:13.856759",
+  "package_url": "https://pypi.org/project/squid-game-doll/"
+}

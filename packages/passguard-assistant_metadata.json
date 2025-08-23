@@ -1,11 +1,11 @@
 {
   "name": "passguard-assistant",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Password health + hashing + security assistant: strength checks, smart suggestions, tokens, alerts.",
-  "author": "Your Name",
+  "author": "Sathish J",
   "license": null,
   "home_page": null,
-  "download_filename": "passguard_assistant-0.3.1.tar.gz",
-  "download_time": "2025-08-23T20:52:54.890055",
+  "download_filename": "passguard_assistant-0.3.2.tar.gz",
+  "download_time": "2025-08-23T21:18:22.403634",
   "package_url": "https://pypi.org/project/passguard-assistant/"
 }
