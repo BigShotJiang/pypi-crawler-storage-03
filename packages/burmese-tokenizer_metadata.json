@@ -1,0 +1,11 @@
+{
+  "name": "burmese-tokenizer",
+  "version": "0.1.1",
+  "summary": "A simple tokenizer for Burmese text",
+  "author": "janakhpon",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "burmese_tokenizer-0.1.1.tar.gz",
+  "download_time": "2025-08-23T03:56:59.898785",
+  "package_url": "https://pypi.org/project/burmese-tokenizer/"
+}

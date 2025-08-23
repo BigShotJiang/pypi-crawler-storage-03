@@ -1,0 +1,11 @@
+{
+  "name": "gem-llm",
+  "version": "0.0.4",
+  "summary": "A Gym for Generalist LLMs.",
+  "author": "Zichen Liu, Anya Sims, Keyu Duan, Changyu Chen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/axon-rl/gem",
+  "download_filename": "gem_llm-0.0.4-py3-none-any.whl",
+  "download_time": "2025-08-23T03:57:31.706809",
+  "package_url": "https://pypi.org/project/gem-llm/"
+}

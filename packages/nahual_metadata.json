@@ -1,0 +1,11 @@
+{
+  "name": "nahual",
+  "version": "0.0.5",
+  "summary": "Deploy and access image and data processing models across processes.",
+  "author": "Alan Munoz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nahual-0.0.5.tar.gz",
+  "download_time": "2025-08-23T03:57:03.147866",
+  "package_url": "https://pypi.org/project/nahual/"
+}
