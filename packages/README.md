@@ -1,48 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T11:16:57.293026
-- **Total Packages**: 78
-- **Total Size**: 17.68 MB
+- **Download Time**: 2025-08-23T11:29:55.393991
+- **Total Packages**: 80
+- **Total Size**: 0 MB
 
 ## Packages List
-- abs-auth-rbac-core
-- tb-nightly
-- geoinsights-3d
-- eyec
-- abs-utils
-- shancx
-- adjango
-- abstract-gui
-- bucketbase
-- object-store-abstraction
-- onco-cola-utils
-- MLstatkit
-- durusai-cli
-- djresttoolkit
-- scoped-context
-- generate-brand-ad-cover
-- asusrouter
-- centra-sdk
-- ckanext-selfinfo
-- cpybuild
-- recx
-- baseapp-for-restapi-backend-with-swagger
-- minillmlib
-- evmotosentiment
-- python3-cyberfusion-systemd-support
-- SuperClaude
-- bbm-q
-- mesalab
-- alert-after-pro
-- cms_enhance
-- nonebot-plugin-dst-qq
-- processpi
 - freemework_abstractions
 - xync-bot
 - abs-exception-core
 - muko
 - asyncyt
+- durusai-cli
 - pdesy
 - weavingspace
 - rcabench
@@ -56,9 +25,12 @@
 - superu
 - rfs-v4
 - pytest-greener
+- generate-brand-ad-cover
 - letta-nightly
 - vibe-pretty-print
+- processpi
 - bintang
+- ckanext-selfinfo
 - mtv-mcp
 - rfs-framework
 - srinathpdf
@@ -69,11 +41,13 @@
 - bubbleconf
 - franklin-cli
 - RubigramClient
+- cms_enhance
 - sentient-ai
 - knowme
 - whisper-ai-zxs
 - torch-floating-point
 - pyapi-service-kit
+- SuperClaude
 - bulkinvoicer
 - janito
 - flm-core
@@ -84,3 +58,31 @@
 - kara_kanji_sync
 - entari-plugin-server
 - scrapy-cffi
+- pyfqmr
+- akari-bot-webui
+- zrb
+- skypilot-nightly
+- entari-plugin-database
+- tbp-nightly
+- xprof-nightly
+- indie
+- adx-mcp-server
+- mlvlab
+- nonebot-plugin-weiweibot
+- ultrasphere
+- pyCirclize
+- parsehub
+- aiohomematic
+- pdfdol
+- weboasis
+- nvidia-nat-opentelemetry
+- leaklock
+- nvidia-nat-phoenix
+- nonebot-plugins-jm-html
+- nvidia-nat-mem0ai
+- nvidia-nat-mysql
+- nvidia-nat-crewai
+- tk-base-utils
+- nvidia-nat-agno
+- nvidia-nat-llama-index
+- nvidia-nat-all
