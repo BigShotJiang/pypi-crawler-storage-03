@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T15:40:19.536608
-- **Total Packages**: 46
-- **Total Size**: 35.33 MB
+- **Download Time**: 2025-08-23T15:54:04.017070
+- **Total Packages**: 54
+- **Total Size**: 12.29 MB
 
 ## Packages List
+- mkv-episode-matcher
+- dao-treasury
+- MainShortcuts2
+- plotmath
+- universal-uicreator
+- anonupload
+- vcosmos-mcp-server
+- global-equity-momentum
+- Flask-LiveReload
+- mangadex-dl
+- agilab
+- agi-core
+- orionis
+- mon-tokenizer
+- staphscope
+- classiloom
+- blendsql
+- create-ragbits-app
+- defspec
+- nuxt-payload
+- flamo
+- sherpa-onnx-core
+- DepthTensor
 - radboy
 - jiechau-mcp-vincent-says
 - hpcflow-new2
@@ -21,7 +44,6 @@
 - tunacode-cli
 - arkitekt-next
 - py-chains-of-recurrences
-- mon-tokenizer
 - indie
 - esentity
 - seisvis
@@ -38,17 +60,3 @@
 - karrio-easyship
 - karrio-dhl-parcel-de
 - karrio-cli
-- karrio-allied-express-local
-- karrio-allied-express
-- markitdown-pro
-- djresttoolkit
-- Navygram
-- netintel-ocr
-- yak-server
-- torchrl-nightly
-- oasm.rtmq2
-- reservoirpy
-- Annotations2Sub
-- hanzo-net
-- sym
-- universal-uicreator

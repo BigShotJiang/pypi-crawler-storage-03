@@ -1,11 +1,11 @@
 {
   "name": "staphscope",
-  "version": "0.2.0",
-  "summary": "A typing tool for Staphylococcus aureus (spa, MLST, SCCmec typing)",
-  "author": "Beckley Brown",
+  "version": "0.2.1",
+  "summary": "Unified MLST + spa + SCCmec typing tool for Staphylococcus aureus",
+  "author": "Brown Beckley",
   "license": null,
-  "home_page": null,
-  "download_filename": "staphscope-0.2.0.tar.gz",
-  "download_time": "2025-08-23T15:19:55.729702",
+  "home_page": "https://github.com/bbeckley-hub/staphscope-typing-tool",
+  "download_filename": "staphscope-0.2.1.tar.gz",
+  "download_time": "2025-08-23T15:53:39.614391",
   "package_url": "https://pypi.org/project/staphscope/"
 }
