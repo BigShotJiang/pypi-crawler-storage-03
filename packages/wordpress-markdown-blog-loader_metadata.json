@@ -1,0 +1,11 @@
+{
+  "name": "wordpress-markdown-blog-loader",
+  "version": "1.6.3",
+  "summary": "load markdown blogs into wordpress",
+  "author": null,
+  "license": "APL2",
+  "home_page": null,
+  "download_filename": "wordpress_markdown_blog_loader-1.6.3.tar.gz",
+  "download_time": "2025-08-23T20:53:01.160471",
+  "package_url": "https://pypi.org/project/wordpress-markdown-blog-loader/"
+}

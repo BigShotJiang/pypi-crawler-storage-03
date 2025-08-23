@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T20:42:07.215872
-- **Total Packages**: 77
-- **Total Size**: 5.04 MB
+- **Download Time**: 2025-08-23T20:53:32.442233
+- **Total Packages**: 74
+- **Total Size**: 3.52 MB
 
 ## Packages List
+- sportsball
+- lisptorch
+- adjustor
+- passguard-assistant
+- junk-remover-cli
+- env-check-utils
+- SAMBA-ilum
+- ob-project-utils
+- ansible-vault-keys
+- pyodesys
+- krionis-orchestrator
+- ml-agents-reasoning
+- batch-img
+- liveConsole
+- sharkiq
+- wordpress-markdown-blog-loader
+- wsjt-all
+- forteenall-kit
+- rediacc
 - keprompt
 - flashinfer-python
 - neurograd
@@ -20,7 +39,6 @@
 - Fantasio
 - prometheux-chain
 - rag-orchestrator
-- krionis-orchestrator
 - cognicli
 - gamezone
 - py-daga
@@ -34,17 +52,14 @@
 - VocabMaster
 - eyepop
 - PyNetSplit
-- ob-project-utils
 - entsoe-py
 - cloxz
 - ut-eviq
 - python3-core-api-client
-- lisptorch
 - airbyte-source-google-drive
 - rlottie-python
 - airbyte-source-kyve
 - LLMEvaluationFramework
-- sportsball
 - c3p
 - airbyte-source-azure-table
 - qilowatt
@@ -64,22 +79,4 @@
 - styro
 - automagik-tools
 - cspdk
-- sharkiq
 - kafka-topics
-- warn-scraper
-- rp
-- PyQrackIsing
-- diffqcp
-- doc2dict
-- hyperchoron
-- gdsfactory
-- SAMBA-ilum
-- abstract-ide
-- abstract-paths
-- exifdata
-- chunklet
-- mirix
-- inferaapi
-- reywechat
-- luxorasap
-- birth-teller
