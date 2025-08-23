@@ -1,11 +1,11 @@
 {
   "name": "netintel-ocr",
-  "version": "0.1.14.1",
-  "summary": "High-performance PDF OCR with network diagram detection and deduplication (50-100x speedup with C++ core)",
-  "author": "NetIntel Team",
+  "version": "0.1.15",
+  "summary": "Next-Generation Vector Intelligence Platform with Milvus - 20-60x faster search, 70% less memory",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/netintel/netintel-ocr",
-  "download_filename": "netintel_ocr-0.1.14.1-cp312-cp312-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
-  "download_time": "2025-08-22T23:19:58.004455",
+  "home_page": null,
+  "download_filename": "netintel_ocr-0.1.15-py3-none-any.whl",
+  "download_time": "2025-08-23T05:52:34.227454",
   "package_url": "https://pypi.org/project/netintel-ocr/"
 }

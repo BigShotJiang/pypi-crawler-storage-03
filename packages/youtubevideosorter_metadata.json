@@ -1,0 +1,11 @@
+{
+  "name": "youtubevideosorter",
+  "version": "1.0",
+  "summary": "Simple tool to sort videos with directories by channel",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "youtubevideosorter-1.0.tar.gz",
+  "download_time": "2025-08-23T05:52:37.871012",
+  "package_url": "https://pypi.org/project/youtubevideosorter/"
+}
