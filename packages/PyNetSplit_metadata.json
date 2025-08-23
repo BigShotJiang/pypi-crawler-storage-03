@@ -1,11 +1,11 @@
 {
   "name": "PyNetSplit",
-  "version": "3.5",
-  "summary": "NetSplit release 3F",
-  "author": "Unknown",
-  "license": "MIT",
+  "version": "3.10.0",
+  "summary": "NetSplit",
+  "author": "Omena0",
+  "license": "PolyForm Noncommercial 1.0.0",
   "home_page": "https://github.com/Omena0/NetSplit",
-  "download_filename": "pynetsplit-3.5.tar.gz",
-  "download_time": "2025-08-23T21:18:26.571818",
+  "download_filename": "pynetsplit-3.10.0.tar.gz",
+  "download_time": "2025-08-23T23:19:14.805996",
   "package_url": "https://pypi.org/project/PyNetSplit/"
 }
