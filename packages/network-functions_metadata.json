@@ -1,11 +1,11 @@
 {
   "name": "network-functions",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Highly optimized and aggregated network functions",
   "author": "Luca Butera",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "network_functions-0.1.3.tar.gz",
-  "download_time": "2025-08-23T06:49:45.911878",
+  "download_filename": "network_functions-0.1.5.tar.gz",
+  "download_time": "2025-08-23T07:18:42.219269",
   "package_url": "https://pypi.org/project/network-functions/"
 }

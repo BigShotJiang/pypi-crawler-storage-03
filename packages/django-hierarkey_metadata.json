@@ -1,0 +1,11 @@
+{
+  "name": "django-hierarkey",
+  "version": "2.0.1",
+  "summary": "Hierarchical key-value store for django",
+  "author": "Raphael Michel",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/raphaelm/django-hierarkey",
+  "download_filename": "django_hierarkey-2.0.1.tar.gz",
+  "download_time": "2025-08-23T07:18:35.086024",
+  "package_url": "https://pypi.org/project/django-hierarkey/"
+}

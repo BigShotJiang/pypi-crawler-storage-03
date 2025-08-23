@@ -1,0 +1,11 @@
+{
+  "name": "qxmt",
+  "version": "0.5.8",
+  "summary": "QXMT is a experiment management tool for quantum computing and quantum machine learning.",
+  "author": "kenya-sk",
+  "license": "MIT",
+  "home_page": "https://github.com/kenya-sk/qxmt",
+  "download_filename": "qxmt-0.5.8.tar.gz",
+  "download_time": "2025-08-23T07:18:40.538270",
+  "package_url": "https://pypi.org/project/qxmt/"
+}

@@ -1,8 +1,20 @@
 {
-  "download_time": "2025-08-23T06:50:27.815297",
-  "total_packages_downloaded": 76,
-  "total_size_mb": 2.28,
+  "download_time": "2025-08-23T07:19:17.303275",
+  "total_packages_downloaded": 78,
+  "total_size_mb": 7.95,
   "packages": [
+    "preling",
+    "amharicNLP",
+    "django-hierarkey",
+    "flagdataset",
+    "pulumi-aws-native",
+    "electrum-bch",
+    "pickme",
+    "mcp-postgresql-ops",
+    "alpfore",
+    "zimagi",
+    "cuti",
+    "qxmt",
     "lzytools",
     "pyrngx",
     "network-functions",
@@ -40,7 +52,6 @@
     "logwatchdog",
     "franklin-cli",
     "maimai-py",
-    "mcp-postgresql-ops",
     "schemas-dataclass",
     "BBAWSLightsailMiniV1a",
     "debabelizer",
@@ -69,15 +80,6 @@
     "jacobi-poly",
     "mkdocs-nbsync",
     "ivybloom",
-    "superset-showtime",
-    "service-ping-sping",
-    "tystyle",
-    "mediapyr",
-    "gplotter",
-    "flareverb",
-    "meishiki",
-    "mediaflow-proxy",
-    "geodepoly",
-    "flamo"
+    "superset-showtime"
   ]
 }
