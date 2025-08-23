@@ -1,22 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T19:28:36.457547
-- **Total Packages**: 79
-- **Total Size**: 20.95 MB
+- **Download Time**: 2025-08-23T19:40:35.821147
+- **Total Packages**: 77
+- **Total Size**: 9.77 MB
 
 ## Packages List
+- gcsopt
+- neurograd
+- pyControl4
+- abstract-gui
+- moviecolor
+- marsilea
+- proqtor
+- abstract-paths
+- yokedcache
+- aind-metadata-service-client
+- aind-metadata-service-async-client
+- odoo-addon-l10n-br-contract
+- mvulib
+- dttlib
+- augint-billing-lib
+- kafka-topics
+- reywechat
+- lhammai-cli
+- mcp-postgresql-ops
+- witticism
+- sup-lang
+- radboy
+- groggy
+- pyrolinks
 - djhtmx
 - code-puppy
-- gcsopt
 - mtv-mcp
 - orionis
-- radboy
 - aiogram-navigation
 - dar-backup
-- mvulib
 - mcp-server-screeny
-- groggy
 - chython
 - GameSentenceMiner
 - ansible-vault-keys
@@ -49,8 +69,6 @@
 - appium-python-client-shadowstep
 - PyNetSplit
 - clear-skies-akeyless-custom-producer
-- aind-metadata-service-async-client
-- aind-metadata-service-client
 - invokeai-py-client
 - gemini-parallel
 - sklearn-freezer
@@ -65,23 +83,3 @@
 - parquetconv
 - thumbor-aws
 - czitools
-- heatmap_cli
-- xsget
-- fx-bin
-- txt2ebook
-- bluer-ugv
-- homeseer-client
-- shoebill-ai
-- tipping
-- otree
-- data-exploratory-project
-- semantic-versioning-utility
-- aiwaf
-- exonamd
-- supervisor
-- orion-finance-sdk
-- dtlpymcp
-- cgeniepy
-- PyQrackIsing
-- abstract-ide
-- repository-manager

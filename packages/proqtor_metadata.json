@@ -1,0 +1,11 @@
+{
+  "name": "proqtor",
+  "version": "2.2.0",
+  "summary": "A command-line based tool for authoring programming questions at scale.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proqtor-2.2.0.tar.gz",
+  "download_time": "2025-08-23T19:39:54.565285",
+  "package_url": "https://pypi.org/project/proqtor/"
+}

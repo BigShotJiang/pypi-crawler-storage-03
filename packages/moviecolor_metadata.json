@@ -1,0 +1,11 @@
+{
+  "name": "moviecolor",
+  "version": "2.0.0",
+  "summary": "Generate a 'Moviebarcode' of a video using ffmpeg with real-time progress interface.",
+  "author": "Mehran Asaad",
+  "license": null,
+  "home_page": "https://github.com/AsaadMe/MovieColor",
+  "download_filename": "moviecolor-2.0.0.tar.gz",
+  "download_time": "2025-08-23T19:39:53.404318",
+  "package_url": "https://pypi.org/project/moviecolor/"
+}
