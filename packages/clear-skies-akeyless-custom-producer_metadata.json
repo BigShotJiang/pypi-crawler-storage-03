@@ -1,0 +1,11 @@
+{
+  "name": "clear-skies-akeyless-custom-producer",
+  "version": "2.0.0",
+  "summary": "Endpoints for managing Akeyless Custom Producers",
+  "author": "Conor Mancone",
+  "license": "MIT",
+  "home_page": "https://github.com/clearskies-py/akeyless-custom-producer",
+  "download_filename": "clear_skies_akeyless_custom_producer-2.0.0.tar.gz",
+  "download_time": "2025-08-23T19:16:25.196636",
+  "package_url": "https://pypi.org/project/clear-skies-akeyless-custom-producer/"
+}

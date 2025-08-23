@@ -1,0 +1,11 @@
+{
+  "name": "rest-tester",
+  "version": "1.0.0",
+  "summary": "Test Application für REST APIs (Server and Client)",
+  "author": "David Kracht",
+  "license": "MIT",
+  "home_page": "https://github.com/david-kracht/rest-tester",
+  "download_filename": "rest_tester-1.0.0.tar.gz",
+  "download_time": "2025-08-23T19:16:14.107130",
+  "package_url": "https://pypi.org/project/rest-tester/"
+}

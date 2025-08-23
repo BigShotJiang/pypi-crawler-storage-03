@@ -1,11 +1,11 @@
 {
   "name": "cli-FSD",
-  "version": "2.1.9891",
+  "version": "2.2.0",
   "summary": "LLM-enabled companion utility for your terminal.",
   "author": "JG",
   "license": null,
   "home_page": "https://github.com/wazacraft/cli-FSD",
-  "download_filename": "cli_fsd-2.1.9891.tar.gz",
-  "download_time": "2025-08-23T05:41:56.154576",
+  "download_filename": "cli_fsd-2.2.0.tar.gz",
+  "download_time": "2025-08-23T19:16:23.085930",
   "package_url": "https://pypi.org/project/cli-FSD/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "atrain",
+  "version": "0.0.3",
+  "summary": null,
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/autotrain",
+  "download_filename": "atrain-0.0.3.tar.gz",
+  "download_time": "2025-08-23T19:16:13.068366",
+  "package_url": "https://pypi.org/project/atrain/"
+}
