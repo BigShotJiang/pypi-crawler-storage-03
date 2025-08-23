@@ -1,11 +1,11 @@
 {
   "name": "bitfinex-maker-kit",
-  "version": "4.4.0",
+  "version": "4.5.0",
   "summary": "Professional market making toolkit for Bitfinex cryptocurrency exchange",
   "author": "Bitfinex Maker-Kit Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitfinex_maker_kit-4.4.0.tar.gz",
-  "download_time": "2025-08-23T22:42:33.637840",
+  "download_filename": "bitfinex_maker_kit-4.5.0.tar.gz",
+  "download_time": "2025-08-23T22:52:52.147526",
   "package_url": "https://pypi.org/project/bitfinex-maker-kit/"
 }

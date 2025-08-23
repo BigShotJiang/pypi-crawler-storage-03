@@ -1,11 +1,11 @@
 {
   "name": "waifu2x-python",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "High-performance Python wrapper for waifu2x-ncnn-vulkan with GPU/CPU support",
   "author": "AI Assistant",
   "license": "MIT",
   "home_page": "https://github.com/gleidsonnunes/waifu2x-python",
-  "download_filename": "waifu2x_python-2.0.2.tar.gz",
-  "download_time": "2025-08-23T22:19:08.153909",
+  "download_filename": "waifu2x_python-2.0.3.tar.gz",
+  "download_time": "2025-08-23T22:52:43.164360",
   "package_url": "https://pypi.org/project/waifu2x-python/"
 }

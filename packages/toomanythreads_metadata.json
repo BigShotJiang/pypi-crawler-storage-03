@@ -1,11 +1,11 @@
 {
   "name": "toomanythreads",
-  "version": "0.2.75",
+  "version": "0.2.76",
   "summary": "A singleton-based thread management system",
   "author": "Miles Copeland Luce",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toomanythreads-0.2.75.tar.gz",
-  "download_time": "2025-08-23T21:40:18.160302",
+  "download_filename": "toomanythreads-0.2.76.tar.gz",
+  "download_time": "2025-08-23T22:52:54.779780",
   "package_url": "https://pypi.org/project/toomanythreads/"
 }

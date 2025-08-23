@@ -1,11 +1,11 @@
 {
   "name": "zibanu-django",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Zibanu library for django projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zibanu_django-2.0.5.tar.gz",
-  "download_time": "2025-08-19T22:21:04.551783",
+  "download_filename": "zibanu_django-2.0.6.tar.gz",
+  "download_time": "2025-08-23T22:52:44.729902",
   "package_url": "https://pypi.org/project/zibanu-django/"
 }

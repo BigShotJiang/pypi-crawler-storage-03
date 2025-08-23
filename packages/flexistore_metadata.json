@@ -1,0 +1,11 @@
+{
+  "name": "flexistore",
+  "version": "0.2.0",
+  "summary": "Cloud-agnostic storage interface with enhanced features and async support",
+  "author": "Prakhar Agarwal",
+  "license": "MIT",
+  "home_page": "https://github.com/prakhara56/FlexiStore",
+  "download_filename": "flexistore-0.2.0.tar.gz",
+  "download_time": "2025-08-23T22:52:48.976594",
+  "package_url": "https://pypi.org/project/flexistore/"
+}

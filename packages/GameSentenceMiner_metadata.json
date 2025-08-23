@@ -1,11 +1,11 @@
 {
   "name": "GameSentenceMiner",
-  "version": "2.15.0",
+  "version": "2.15.1",
   "summary": "A tool for mining sentences from games. Update: Overlay?",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "gamesentenceminer-2.15.0.tar.gz",
-  "download_time": "2025-08-23T19:28:02.424146",
+  "download_filename": "gamesentenceminer-2.15.1.tar.gz",
+  "download_time": "2025-08-23T22:52:54.260622",
   "package_url": "https://pypi.org/project/GameSentenceMiner/"
 }
