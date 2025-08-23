@@ -1,11 +1,11 @@
 {
   "name": "fx-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A common bin collection for my own usage",
   "author": "Frank Xu",
   "license": null,
   "home_page": null,
-  "download_filename": "fx_bin-1.0.0.tar.gz",
-  "download_time": "2025-08-23T18:26:15.288662",
+  "download_filename": "fx_bin-1.0.1.tar.gz",
+  "download_time": "2025-08-23T18:47:24.488682",
   "package_url": "https://pypi.org/project/fx-bin/"
 }
