@@ -1,11 +1,11 @@
 {
   "name": "env-check-utils",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A CLI tool to check, validate, and manage .env files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "env_check_utils-0.1.3.tar.gz",
-  "download_time": "2025-08-23T21:40:32.064902",
+  "download_filename": "env_check_utils-0.1.4.tar.gz",
+  "download_time": "2025-08-23T21:53:20.341891",
   "package_url": "https://pypi.org/project/env-check-utils/"
 }

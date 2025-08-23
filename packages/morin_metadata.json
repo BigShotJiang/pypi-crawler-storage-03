@@ -1,11 +1,11 @@
 {
   "name": "morin",
-  "version": "0.4.34",
+  "version": "0.4.35",
   "summary": "Помощь в подключениях и загрузке в БД",
   "author": "Александр Морин",
   "license": null,
   "home_page": "https://github.com/morinad/morin",
-  "download_filename": "morin-0.4.34.tar.gz",
-  "download_time": "2025-08-21T20:43:23.938680",
+  "download_filename": "morin-0.4.35.tar.gz",
+  "download_time": "2025-08-23T21:53:02.144700",
   "package_url": "https://pypi.org/project/morin/"
 }

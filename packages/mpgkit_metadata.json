@@ -1,11 +1,11 @@
 {
   "name": "mpgkit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "mPGkit - Matel's PGP toolkit",
   "author": "Matel",
   "license": null,
   "home_page": null,
-  "download_filename": "mpgkit-1.0.1.tar.gz",
-  "download_time": "2025-08-23T21:18:11.533276",
+  "download_filename": "mpgkit-1.0.2.tar.gz",
+  "download_time": "2025-08-23T21:53:27.541906",
   "package_url": "https://pypi.org/project/mpgkit/"
 }

@@ -1,8 +1,14 @@
 {
-  "download_time": "2025-08-23T21:40:56.542344",
-  "total_packages_downloaded": 77,
-  "total_size_mb": 12.86,
+  "download_time": "2025-08-23T21:53:42.096347",
+  "total_packages_downloaded": 76,
+  "total_size_mb": 1.22,
   "packages": [
+    "fuse-cli",
+    "liveConsole",
+    "circuit-synth",
+    "pcsuite",
+    "lbt-dragonfly",
+    "morin",
     "lbt-honeybee",
     "neurograd",
     "dragonfly-energy",
@@ -37,7 +43,6 @@
     "env-check-utils",
     "django-denorm-iplweb",
     "pptxlib",
-    "liveConsole",
     "sqli-sentinel",
     "reviews-lm-scorer",
     "tiffwrite",
@@ -73,12 +78,6 @@
     "krionis-pipeline",
     "clear-skies-akeyless-custom-producer",
     "krionis-orchestrator",
-    "PyNetSplit",
-    "ob-project-utils",
-    "umepr",
-    "sentiebl",
-    "sup-lang",
-    "socket-sdk-python",
-    "thoth_dbmanager"
+    "PyNetSplit"
   ]
 }

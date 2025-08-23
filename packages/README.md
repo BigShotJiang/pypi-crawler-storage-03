@@ -1,11 +1,17 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T21:40:56.542344
-- **Total Packages**: 77
-- **Total Size**: 12.86 MB
+- **Download Time**: 2025-08-23T21:53:42.096347
+- **Total Packages**: 76
+- **Total Size**: 1.22 MB
 
 ## Packages List
+- fuse-cli
+- liveConsole
+- circuit-synth
+- pcsuite
+- lbt-dragonfly
+- morin
 - lbt-honeybee
 - neurograd
 - dragonfly-energy
@@ -40,7 +46,6 @@
 - env-check-utils
 - django-denorm-iplweb
 - pptxlib
-- liveConsole
 - sqli-sentinel
 - reviews-lm-scorer
 - tiffwrite
@@ -77,9 +82,3 @@
 - clear-skies-akeyless-custom-producer
 - krionis-orchestrator
 - PyNetSplit
-- ob-project-utils
-- umepr
-- sentiebl
-- sup-lang
-- socket-sdk-python
-- thoth_dbmanager
