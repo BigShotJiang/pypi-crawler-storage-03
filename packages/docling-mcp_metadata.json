@@ -1,0 +1,11 @@
+{
+  "name": "docling-mcp",
+  "version": "1.1.0",
+  "summary": "Running Docling as an agent using tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docling_mcp-1.1.0.tar.gz",
+  "download_time": "2025-08-23T09:53:22.765240",
+  "package_url": "https://pypi.org/project/docling-mcp/"
+}

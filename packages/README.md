@@ -1,11 +1,72 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T09:41:13.250019
-- **Total Packages**: 83
-- **Total Size**: 0.05 MB
+- **Download Time**: 2025-08-23T09:53:41.086505
+- **Total Packages**: 91
+- **Total Size**: 10.68 MB
 
 ## Packages List
+- aiohomematic
+- pdfdol
+- weboasis
+- nvidia-nat-opentelemetry
+- leaklock
+- nvidia-nat-phoenix
+- nonebot-plugins-jm-html
+- nvidia-nat-mem0ai
+- nvidia-nat-mysql
+- durusai-cli
+- nvidia-nat-crewai
+- tk-base-utils
+- nvidia-nat-agno
+- nvidia-nat-llama-index
+- nvidia-nat-all
+- nvidia-nat-redis
+- nvidia-nat-profiling
+- nvidia-nat-ingestion
+- unifyai
+- nvidia-nat-langchain
+- nvidia-nat-zep-cloud
+- nvidia-nat-s3
+- nvidia-nat
+- nvidia-nat-ragaai
+- nvidia-nat-weave
+- nvidia-nat-semantic-kernel
+- nvidia-nat-test
+- odoo-addon-product-variant-default-code
+- aiqtoolkit-langchain
+- onco-cola-utils
+- aiqtoolkit-zep-cloud
+- Dynamic-DateTime
+- aiqtoolkit
+- odoo14-addon-ssi-consulting
+- aiqtoolkit-agno
+- xet-shard-parser
+- aiqtoolkit-mem0ai
+- aiqtoolkit-semantic-kernel
+- aiqtoolkit-llama-index
+- aiqtoolkit-test
+- aiqtoolkit-weave
+- aiqtoolkit-crewai
+- fatum
+- love-tell-ai-mcp
+- langchain-g4f-chat
+- pastes
+- akamaiossg
+- sabot
+- djresttoolkit
+- array-api-negative-index
+- odoo-addon-purchase-variant-configurator
+- agentup
+- alert-after-pro
+- gostmodels
+- pykinsol
+- pulseflow
+- scikit-robot
+- docling-mcp
+- django-optimize-image
+- polars-hist-db
+- aa-ledger
 - langbot
 - pip-brief
 - pgnanki
@@ -19,13 +80,11 @@
 - procrastinate
 - mcp-ambari-api
 - py-calling-agent
-- djresttoolkit
 - urllib3-future
 - petracore-django-backend-starter
 - chaukas-spec-client
 - wppm
 - exprmat
-- odoo-addon-product-variant-default-code
 - autogluon
 - autogluon.timeseries
 - autogluon.multimodal
@@ -38,54 +97,3 @@
 - toolsed
 - sandpaper-py
 - matrixhdl
-- electrum-bch
-- higgs-kernels
-- protograf
-- vedro-unittest
-- django-global-search
-- nitrokeyapp
-- tree-sitter-arduino
-- alert-after-pro
-- fx-bin
-- Jaxley
-- binance-asyncio
-- ut-eviq
-- tfp-nightly
-- botrun-flow-lang
-- odoo-addon-website-cookiefirst
-- PyPwnCollege
-- publicity-idl
-- odoo-addon-openupgrade-framework
-- umepr
-- phasi-kit
-- amrita
-- smart-home-testbed
-- kola
-- Songpress
-- pastes
-- Authlib
-- srinathpdf
-- FermaCongress
-- kuzu
-- RubigramClient
-- joira
-- neuronum
-- gauntlet-benchmark
-- wela-agents
-- umep
-- nullbr
-- kara-kanji-sync
-- mcp-airflow-api
-- neuro-config-client
-- HLL
-- sbctl
-- verifiers
-- replicate-batch-process
-- rxiv-maker
-- SearchLibrium
-- rl-worlds
-- youtube-thumbnail-generator
-- playback-tui
-- nvfuser-cu126
-- pluk
-- nvfuser-cu128

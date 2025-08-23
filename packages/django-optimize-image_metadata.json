@@ -1,11 +1,11 @@
 {
   "name": "django-optimize-image",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A Django middleware to optimize image uploads by converting them to WebP.",
   "author": "Nahom D",
   "license": null,
   "home_page": "https://github.com/nahom-d54/django-optimize-image",
-  "download_filename": "django-optimize-image-0.2.1.tar.gz",
-  "download_time": "2025-08-23T07:52:52.531428",
+  "download_filename": "django_optimize_image-0.3.0.tar.gz",
+  "download_time": "2025-08-23T09:53:23.304690",
   "package_url": "https://pypi.org/project/django-optimize-image/"
 }

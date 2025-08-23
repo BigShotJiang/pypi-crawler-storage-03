@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-variant-configurator",
+  "version": "17.0.1.0.1",
+  "summary": "Product variants in purchase management",
+  "author": "AvanzOSC, Tecnativa, ACSONE SA/NV, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-variant",
+  "download_filename": "odoo_addon_purchase_variant_configurator-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-23T09:53:18.942535",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-variant-configurator/"
+}

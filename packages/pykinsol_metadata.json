@@ -1,0 +1,11 @@
+{
+  "name": "pykinsol",
+  "version": "0.1.9",
+  "summary": "pykinsol provides a Python interface to KINSOL from the SUNDIALS package suite.",
+  "author": "Bjoern I. Dahlgren",
+  "license": "BSD",
+  "home_page": "https://github.com/bjodah/pykinsol",
+  "download_filename": "pykinsol-0.1.9.tar.gz",
+  "download_time": "2025-08-23T09:53:21.035200",
+  "package_url": "https://pypi.org/project/pykinsol/"
+}
