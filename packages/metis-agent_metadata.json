@@ -1,11 +1,11 @@
 {
   "name": "metis-agent",
-  "version": "0.18.1",
-  "summary": "Advanced AI agent framework with custom instructions, slash commands, Claude Code-style CLI, multi-agent orchestration, 36+ tools, and enterprise security",
+  "version": "0.19.0",
+  "summary": "Advanced AI agent framework with composable assets (personas, instructions, workflows, skills), Claude Code-style CLI, multi-agent orchestration, 36+ tools, and enterprise security",
   "author": "Metis OS Team",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/metisos/metisos_agentV1",
-  "download_filename": "metis_agent-0.18.1.tar.gz",
-  "download_time": "2025-08-20T20:43:41.779955",
+  "download_filename": "metis_agent-0.19.0.tar.gz",
+  "download_time": "2025-08-23T17:31:57.996847",
   "package_url": "https://pypi.org/project/metis-agent/"
 }

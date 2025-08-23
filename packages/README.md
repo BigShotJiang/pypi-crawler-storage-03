@@ -1,29 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T17:17:14.991483
-- **Total Packages**: 68
-- **Total Size**: 3.64 MB
+- **Download Time**: 2025-08-23T17:32:32.788146
+- **Total Packages**: 74
+- **Total Size**: 23.99 MB
 
 ## Packages List
+- aiogram-navigation
+- fx-bin
+- py-sys-utils
+- swarms-tools
+- abstract-gui
+- sphinx-notionbuilder
+- mcp-server-screeny
+- armstrong-checker
+- appium-python-client-shadowstep
+- whatsextract
+- metis-agent
+- pylua-bioxen-vm-lib
+- aider-code
+- maleo-identity
+- SuperGemini
+- figpack
+- py-adtools
+- abstract-paths
+- PyGAU
+- pysme-astro
+- Gym-Env-SPaRC
+- sportsball
+- ml-agents-reasoning
+- pydatau
+- sentiebl
+- upsies
+- xum
+- s3ranger
+- LLMEvaluationFramework
+- mcmod-cli
+- asusrouter
+- vortex-data
+- plexflow
+- polars-splitters
+- cuti
 - parxel
 - advanced_research
 - repositoryIntelligence
 - pyonir
 - ussh
-- fx-bin
 - FlaskDiscordAuth
-- mcp-server-screeny
 - django-simple-ordering
-- pylua-bioxen-vm-lib
 - marker-pdf
-- LLMEvaluationFramework
 - sirabus
 - pywiggle
 - ai4one
 - alibabacloud-cloudauth-intl20220809
 - sakuragasaki46-suou
-- swarms-tools
 - highlighted-pdf-to-anki-flashcards
 - dicom-sequence-classifier
 - privatebin
@@ -50,27 +80,3 @@
 - create-ragbits-app
 - calute
 - tide-sdk
-- maleo-soma
-- nonebot_plugin_lazytea
-- SuperGemini
-- abstract-paths
-- cendat
-- pyRFC3339
-- agex
-- pyritofile
-- sphinx-notionbuilder
-- trading-bot-x
-- monalisten
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- aider-code
-- fx-lib
-- openrouter-provider
-- beaglemind-cli
-- clselove
-- selenium-stealth-helper
-- reline
-- ccdexplorer-fundamentals
-- mkdocs-swagger-ui-tag
-- wheel-axle-runtime
-- gemini-parallel

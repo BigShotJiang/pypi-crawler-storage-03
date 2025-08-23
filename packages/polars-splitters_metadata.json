@@ -1,0 +1,11 @@
+{
+  "name": "polars-splitters",
+  "version": "0.4.5",
+  "summary": "Polars-based splitter functionalities for polars LazyFrames and DataFrames, similar to `sklearn.model_selection.train_test_split` and `sklearn.model_selection.StratifiedKFold`.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_splitters-0.4.5.tar.gz",
+  "download_time": "2025-08-23T17:32:10.456017",
+  "package_url": "https://pypi.org/project/polars-splitters/"
+}
