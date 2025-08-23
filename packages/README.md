@@ -1,15 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T11:41:35.627060
-- **Total Packages**: 80
-- **Total Size**: 32.2 MB
+- **Download Time**: 2025-08-23T11:52:56.655592
+- **Total Packages**: 79
+- **Total Size**: 9.75 MB
 
 ## Packages List
+- ml-agents-reasoning
+- bandersnatch-vrfs
+- pytannic
+- sqlite3-prompt
+- psa-car-controller
+- usdm
+- dfrobot-environmental-sensor
+- jesse
+- xn-model
+- sportsball
+- pytest-greener
+- shancx
+- entari-plugin-arkgacha
+- aider-code
+- pyspart
+- wyoming-microsoft-tts
 - dify-oapi2
 - preling
 - pycorelibs
-- pytannic
 - pylppinv
 - wsjt-all
 - abs-nosql-repository-core
@@ -24,7 +39,6 @@
 - pyedifice
 - basis-splines
 - abstract-paths
-- aider-code
 - ParticleAnalyzer
 - torchx-nightly
 - mtcli
@@ -35,7 +49,6 @@
 - pyclsp
 - pastes
 - b3alien
-- shancx
 - mcp-sqlserver-filesystem
 - wyoming-microsoft-stt
 - pydvlp-debug
@@ -72,17 +85,3 @@
 - alert-after-pro
 - cms_enhance
 - processpi
-- freemework_abstractions
-- xync-bot
-- abs-exception-core
-- muko
-- asyncyt
-- pdesy
-- weavingspace
-- rcabench
-- PYield
-- konduktor-nightly
-- inverse-projections
-- uncomment
-- SwiftGUI
-- trainy-policy-nightly
