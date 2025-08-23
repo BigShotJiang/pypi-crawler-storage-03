@@ -1,11 +1,11 @@
 {
   "name": "alert-after-pro",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Get notified when your commands complete - supports Telegram, SMS, DingDing, Ntfy, and more",
   "author": "Alert After Pro Team",
   "license": null,
-  "home_page": "https://github.com/alert-after-pro/alert-after-pro",
-  "download_filename": "alert_after_pro-0.1.0.tar.gz",
-  "download_time": "2025-08-23T08:56:56.449151",
+  "home_page": "https://github.com/MatrixA/alert-after-pro",
+  "download_filename": "alert_after_pro-0.2.1.tar.gz",
+  "download_time": "2025-08-23T09:40:46.049120",
   "package_url": "https://pypi.org/project/alert-after-pro/"
 }

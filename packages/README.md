@@ -1,12 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T09:20:42.110972
-- **Total Packages**: 84
-- **Total Size**: 9.01 MB
+- **Download Time**: 2025-08-23T09:41:13.250019
+- **Total Packages**: 83
+- **Total Size**: 0.05 MB
 
 ## Packages List
-- aa-ledger
 - langbot
 - pip-brief
 - pgnanki
