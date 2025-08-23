@@ -1,0 +1,11 @@
+{
+  "name": "polymerist",
+  "version": "1.0.0",
+  "summary": "A unified set of tools for setting up general organic polymer systems for MD within the OpenFF framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polymerist-1.0.0.tar.gz",
+  "download_time": "2025-08-23T05:19:15.544656",
+  "package_url": "https://pypi.org/project/polymerist/"
+}

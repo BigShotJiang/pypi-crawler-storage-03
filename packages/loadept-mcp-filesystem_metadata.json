@@ -1,11 +1,11 @@
 {
   "name": "loadept-mcp-filesystem",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "MCP Server for Filesystem Operations",
   "author": "loadept",
   "license": null,
   "home_page": null,
-  "download_filename": "loadept_mcp_filesystem-0.3.1.tar.gz",
-  "download_time": "2025-08-17T18:26:40.001258",
+  "download_filename": "loadept_mcp_filesystem-0.3.3.tar.gz",
+  "download_time": "2025-08-23T05:19:14.498471",
   "package_url": "https://pypi.org/project/loadept-mcp-filesystem/"
 }

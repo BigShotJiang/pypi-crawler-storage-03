@@ -1,11 +1,11 @@
 {
   "name": "videosdk-plugins-speechify",
-  "version": "0.0.25",
+  "version": "0.0.27",
   "summary": "VideoSDK Agent Framework plugin for Speechify AI TTS",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk_plugins_speechify-0.0.25.tar.gz",
-  "download_time": "2025-08-20T13:21:05.791577",
+  "download_filename": "videosdk_plugins_speechify-0.0.27.tar.gz",
+  "download_time": "2025-08-23T05:19:19.218083",
   "package_url": "https://pypi.org/project/videosdk-plugins-speechify/"
 }

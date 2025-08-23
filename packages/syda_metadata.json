@@ -1,0 +1,11 @@
+{
+  "name": "syda",
+  "version": "0.0.2",
+  "summary": "A Python library for AI-powered synthetic data generation with referential integrity",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "syda-0.0.2.tar.gz",
+  "download_time": "2025-08-23T05:19:33.851441",
+  "package_url": "https://pypi.org/project/syda/"
+}

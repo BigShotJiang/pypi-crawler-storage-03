@@ -1,0 +1,11 @@
+{
+  "name": "botnet-core",
+  "version": "0.1.0a0",
+  "summary": "This project aims to act as a framework for any scale of botnet. Priority focuses are on security and simple management of clients.",
+  "author": "NotNullified",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botnet_core-0.1.0a0.tar.gz",
+  "download_time": "2025-08-23T05:19:09.724965",
+  "package_url": "https://pypi.org/project/botnet-core/"
+}
