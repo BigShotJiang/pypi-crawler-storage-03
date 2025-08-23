@@ -1,11 +1,11 @@
 {
   "name": "pya2ldb",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "summary": "A2L for Python",
   "author": "Christoph Schueler",
   "license": "GPLv2",
   "home_page": null,
-  "download_filename": "pya2ldb-0.17.1.tar.gz",
-  "download_time": "2025-08-23T02:50:20.051035",
+  "download_filename": "pya2ldb-0.17.2.tar.gz",
+  "download_time": "2025-08-23T11:41:00.881031",
   "package_url": "https://pypi.org/project/pya2ldb/"
 }
