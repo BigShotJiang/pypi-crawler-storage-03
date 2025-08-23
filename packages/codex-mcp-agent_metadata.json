@@ -1,0 +1,11 @@
+{
+  "name": "codex-mcp-agent",
+  "version": "0.1.0",
+  "summary": "MCP server that provides agent capability backing by codex CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_mcp_agent-0.1.0.tar.gz",
+  "download_time": "2025-08-23T13:11:02.814834",
+  "package_url": "https://pypi.org/project/codex-mcp-agent/"
+}

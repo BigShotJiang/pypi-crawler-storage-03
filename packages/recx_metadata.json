@@ -1,11 +1,11 @@
 {
   "name": "recx",
-  "version": "0.0.0rc1",
-  "summary": "Lightweight reconciliation tests for dataframes",
+  "version": "0.0.1",
+  "summary": "Lightweight reconciliation tests for DataFrames",
   "author": "Adrian Letchford",
   "license": null,
   "home_page": null,
-  "download_filename": "recx-0.0.0rc1.tar.gz",
-  "download_time": "2025-08-23T11:16:27.455039",
+  "download_filename": "recx-0.0.1.tar.gz",
+  "download_time": "2025-08-23T13:10:40.133379",
   "package_url": "https://pypi.org/project/recx/"
 }

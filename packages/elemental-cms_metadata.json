@@ -1,11 +1,11 @@
 {
   "name": "elemental-cms",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Flask + MongoDB Web CMS for Developers.",
   "author": "Paranoid Software",
   "license": "MPL-2.0",
   "home_page": "https://github.com/paranoid-software/elemental-cms",
-  "download_filename": "elemental_cms-2.0.4.tar.gz",
-  "download_time": "2025-08-22T20:23:09.936721",
+  "download_filename": "elemental_cms-2.0.5.tar.gz",
+  "download_time": "2025-08-23T13:11:05.534268",
   "package_url": "https://pypi.org/project/elemental-cms/"
 }

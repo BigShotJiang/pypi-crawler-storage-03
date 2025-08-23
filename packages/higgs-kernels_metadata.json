@@ -1,11 +1,11 @@
 {
   "name": "higgs-kernels",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Kernels for higgs quantization",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "higgs_kernels-0.2.1.tar.gz",
-  "download_time": "2025-08-23T09:20:14.294944",
+  "download_filename": "higgs_kernels-0.3.0.tar.gz",
+  "download_time": "2025-08-23T13:10:44.431199",
   "package_url": "https://pypi.org/project/higgs-kernels/"
 }

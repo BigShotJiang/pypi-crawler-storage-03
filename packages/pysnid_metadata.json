@@ -1,0 +1,11 @@
+{
+  "name": "pysnid",
+  "version": "0.6.0",
+  "summary": "Tools to run and read SNID",
+  "author": "Mickael Rigault",
+  "license": null,
+  "home_page": "https://github.com/MickaelRigault/pysnid",
+  "download_filename": "pysnid-0.6.0.tar.gz",
+  "download_time": "2025-08-23T13:11:01.760538",
+  "package_url": "https://pypi.org/project/pysnid/"
+}
