@@ -1,12 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T20:21:51.291964
-- **Total Packages**: 74
-- **Total Size**: 38.72 MB
+- **Download Time**: 2025-08-23T20:42:07.215872
+- **Total Packages**: 77
+- **Total Size**: 5.04 MB
 
 ## Packages List
+- keprompt
+- flashinfer-python
+- neurograd
+- cml-mcp
+- lighting_paperwork
+- xtsv
+- abstract-react
+- autopyexec
+- npycli
+- coaiapy
+- semantiva-studio-viewer
+- Fantasio
+- prometheux-chain
+- rag-orchestrator
+- krionis-orchestrator
 - cognicli
+- gamezone
+- py-daga
+- LMtoolbox
+- nillanet
+- thoth_dbmanager
+- litellm-proxy-extras
+- whatsextract
+- krionis-pipeline
+- openseries
+- VocabMaster
+- eyepop
+- PyNetSplit
+- ob-project-utils
 - entsoe-py
 - cloxz
 - ut-eviq
@@ -21,8 +49,6 @@
 - airbyte-source-azure-table
 - qilowatt
 - airbyte-source-kyriba
-- abstract-react
-- py-daga
 - airbyte-source-github
 - airbyte-source-linnworks
 - airbyte-source-iterable
@@ -30,10 +56,8 @@
 - radboy
 - ml-jupyter-mcp
 - llamabot
-- ob-project-utils
 - mcp-server-screeny
 - waifu2x-python
-- PyNetSplit
 - energy-assistant-frontend
 - viva-safeland
 - sherlock-ai
@@ -52,7 +76,6 @@
 - SAMBA-ilum
 - abstract-ide
 - abstract-paths
-- neurograd
 - exifdata
 - chunklet
 - mirix
@@ -60,23 +83,3 @@
 - reywechat
 - luxorasap
 - birth-teller
-- kompress
-- gdsfactoryplus
-- calute
-- cdhdashboard
-- FlopPITy
-- pydantic-marshals
-- psd-optimizer
-- gcsopt
-- pyControl4
-- abstract-gui
-- moviecolor
-- marsilea
-- proqtor
-- yokedcache
-- aind-metadata-service-client
-- aind-metadata-service-async-client
-- odoo-addon-l10n-br-contract
-- mvulib
-- dttlib
-- augint-billing-lib

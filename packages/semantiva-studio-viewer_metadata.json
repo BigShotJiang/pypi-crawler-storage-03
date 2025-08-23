@@ -1,0 +1,11 @@
+{
+  "name": "semantiva-studio-viewer",
+  "version": "0.1.0",
+  "summary": "A standalone package for interactive visualization of Semantiva pipelines and component hierarchies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantiva_studio_viewer-0.1.0.tar.gz",
+  "download_time": "2025-08-23T20:41:31.196595",
+  "package_url": "https://pypi.org/project/semantiva-studio-viewer/"
+}
