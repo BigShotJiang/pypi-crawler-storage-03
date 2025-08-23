@@ -1,11 +1,11 @@
 {
   "name": "cms_enhance",
-  "version": "2025082110",
+  "version": "2025082301",
   "summary": "CMS Enhanced Module (Compiled Binary Only - No Source Code)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cms_enhance-2025082110-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
-  "download_time": "2025-08-22T06:58:10.192279",
+  "download_filename": "cms_enhance-2025082301-cp312-cp312-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2025-08-23T10:42:45.216454",
   "package_url": "https://pypi.org/project/cms_enhance/"
 }

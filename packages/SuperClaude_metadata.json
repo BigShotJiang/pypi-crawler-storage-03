@@ -1,11 +1,11 @@
 {
   "name": "SuperClaude",
-  "version": "4.0.4",
+  "version": "4.0.6",
   "summary": "SuperClaude Framework Management Hub - AI-enhanced development framework for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superclaude-4.0.4.tar.gz",
-  "download_time": "2025-08-22T19:17:17.840516",
+  "download_filename": "superclaude-4.0.6.tar.gz",
+  "download_time": "2025-08-23T10:42:48.338193",
   "package_url": "https://pypi.org/project/SuperClaude/"
 }

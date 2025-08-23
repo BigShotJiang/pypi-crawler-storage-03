@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-selfinfo",
+  "version": "1.2.3",
+  "summary": "Web based Sys Admin server statistics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ckanext_selfinfo-1.2.3.tar.gz",
+  "download_time": "2025-08-23T10:42:39.477758",
+  "package_url": "https://pypi.org/project/ckanext-selfinfo/"
+}

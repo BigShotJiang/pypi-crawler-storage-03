@@ -1,0 +1,11 @@
+{
+  "name": "vibe-pretty-print",
+  "version": "0.1.1",
+  "summary": "A smart formatting library for JSON, XML, YAML, and text with OpenAI integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_pretty_print-0.1.1.tar.gz",
+  "download_time": "2025-08-23T10:42:37.402334",
+  "package_url": "https://pypi.org/project/vibe-pretty-print/"
+}

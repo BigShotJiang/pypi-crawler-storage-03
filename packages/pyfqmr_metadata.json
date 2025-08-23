@@ -1,0 +1,11 @@
+{
+  "name": "pyfqmr",
+  "version": "0.5.0",
+  "summary": "cython wrapper around C++ library for fast triangular mesh reduction",
+  "author": "kramer84",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyfqmr-0.5.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-23T10:42:54.572998",
+  "package_url": "https://pypi.org/project/pyfqmr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "srinathpdf",
-  "version": "2.1",
+  "version": "2.3",
   "summary": "It will convert pdf to image and text",
   "author": "Srinath Reddy",
   "license": null,
   "home_page": null,
-  "download_filename": "srinathpdf-2.1.tar.gz",
-  "download_time": "2025-08-23T08:47:31.595547",
+  "download_filename": "srinathpdf-2.3.tar.gz",
+  "download_time": "2025-08-23T10:42:41.040852",
   "package_url": "https://pypi.org/project/srinathpdf/"
 }

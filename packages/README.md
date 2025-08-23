@@ -1,11 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T10:21:00.281780
-- **Total Packages**: 91
-- **Total Size**: 10.05 MB
+- **Download Time**: 2025-08-23T10:43:18.081452
+- **Total Packages**: 84
+- **Total Size**: 7.21 MB
 
 ## Packages List
+- superu
+- rfs-v4
+- pytest-greener
+- generate-brand-ad-cover
+- letta-nightly
+- vibe-pretty-print
+- inverse-projections
+- processpi
+- bintang
+- ckanext-selfinfo
+- mtv-mcp
+- rfs-framework
+- srinathpdf
+- pybacting
+- amharicNLP
+- nekro-agent
+- io-scene-3ds
+- bubbleconf
+- franklin-cli
+- RubigramClient
+- cms_enhance
+- sentient-ai
+- knowme
+- whisper-ai-zxs
+- torch-floating-point
+- pyapi-service-kit
+- SuperClaude
+- bulkinvoicer
+- janito
+- flm-core
+- liblaf-mkdocs-preset
+- mtcli
+- http-response-codes
+- ai-edge-torch-nightly
+- kara_kanji_sync
+- entari-plugin-server
+- scrapy-cffi
+- durusai-cli
+- pyfqmr
 - akari-bot-webui
 - zrb
 - skypilot-nightly
@@ -14,12 +53,9 @@
 - xprof-nightly
 - indie
 - adx-mcp-server
-- durusai-cli
 - mlvlab
 - nonebot-plugin-weiweibot
 - ultrasphere
-- kara_kanji_sync
-- inverse-projections
 - pyCirclize
 - parsehub
 - aiohomematic
@@ -54,46 +90,3 @@
 - aiqtoolkit-zep-cloud
 - Dynamic-DateTime
 - aiqtoolkit
-- odoo14-addon-ssi-consulting
-- aiqtoolkit-agno
-- xet-shard-parser
-- aiqtoolkit-mem0ai
-- aiqtoolkit-semantic-kernel
-- aiqtoolkit-llama-index
-- aiqtoolkit-test
-- aiqtoolkit-weave
-- aiqtoolkit-crewai
-- fatum
-- love-tell-ai-mcp
-- langchain-g4f-chat
-- pastes
-- akamaiossg
-- sabot
-- djresttoolkit
-- array-api-negative-index
-- odoo-addon-purchase-variant-configurator
-- agentup
-- alert-after-pro
-- gostmodels
-- pykinsol
-- pulseflow
-- scikit-robot
-- docling-mcp
-- django-optimize-image
-- polars-hist-db
-- aa-ledger
-- langbot
-- pip-brief
-- pgnanki
-- ml-agents-reasoning
-- chpass
-- vineelapdf
-- pyhausbus
-- schema-dataclass
-- meishiki
-- vcosmos-mcp-server
-- procrastinate
-- mcp-ambari-api
-- py-calling-agent
-- urllib3-future
-- petracore-django-backend-starter

@@ -1,0 +1,11 @@
+{
+  "name": "sentient-ai",
+  "version": "1.0.3",
+  "summary": "AI-powered cybersecurity and automation toolkit",
+  "author": "x0as",
+  "license": null,
+  "home_page": "https://github.com/x0as/Sentient",
+  "download_filename": "sentient_ai-1.0.3.tar.gz",
+  "download_time": "2025-08-23T10:42:45.738484",
+  "package_url": "https://pypi.org/project/sentient-ai/"
+}
