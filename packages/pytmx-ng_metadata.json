@@ -1,11 +1,11 @@
 {
   "name": "pytmx-ng",
-  "version": "3.33.1",
+  "version": "3.34.1",
   "summary": "Loads tiled tmx maps",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pytmx_ng-3.33.1.tar.gz",
-  "download_time": "2025-08-18T15:45:16.535864",
+  "download_filename": "pytmx_ng-3.34.1.tar.gz",
+  "download_time": "2025-08-23T13:52:48.775848",
   "package_url": "https://pypi.org/project/pytmx-ng/"
 }

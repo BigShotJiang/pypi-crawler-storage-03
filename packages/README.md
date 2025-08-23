@@ -1,11 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T13:36:24.057356
-- **Total Packages**: 82
-- **Total Size**: 20.17 MB
+- **Download Time**: 2025-08-23T13:53:24.622634
+- **Total Packages**: 79
+- **Total Size**: 14.09 MB
 
 ## Packages List
+- tensordict-nightly
+- PySwitchbot
+- pocong
+- wsjt-all
+- practicum-billing-shared
+- nuxt-payload
+- japanese-address-parser-py
+- taichi-big-float
+- mcd-stitcher
+- shuku
+- sampley
+- pytmx-ng
+- sherpa-onnx
+- dar-backup
+- mergething
+- canns-ripser
+- purplekoala
+- durusai-cli
+- cloxz
 - fluent_validation
 - fal
 - bleak-retry-connector
@@ -13,7 +32,6 @@
 - cloudlanguagetools
 - sherpa-onnx-core
 - umep
-- practicum-billing-shared
 - libro-book
 - generic-exporters
 - fbgemm-gpu-nightly-cpu
@@ -23,7 +41,6 @@
 - artemis-model
 - RubigramClient
 - phable
-- wsjt-all
 - tflite-micro
 - synapsefrc
 - linkcovery
@@ -45,7 +62,6 @@
 - nbdev-numpy
 - nbdev-stdlib
 - pyapi-service-kit
-- durusai-cli
 - pycompilation
 - thoth_dbmanager
 - neurograd
@@ -59,7 +75,6 @@
 - aider-code
 - ausikor-common
 - mlscaffold
-- canns-ripser
 - sportsball
 - SuperClaude
 - neetcode-rpg-by-neon
@@ -70,21 +85,3 @@
 - abstract-paths
 - mcp-server-public-transport
 - task-agents-mcp
-- gh_release_tools
-- pychemprojections
-- update-linux
-- model-compose
-- toolmockers
-- mat-io
-- configset
-- tensorcircuit-nightly
-- ai-rulez
-- clanguru
-- essos
-- defeatbeta-api
-- pysnid
-- nutrient-dws
-- codex-mcp-agent
-- xlwings-utils
-- pyhanko-certvalidator
-- peek-python

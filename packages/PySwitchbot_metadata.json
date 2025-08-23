@@ -1,11 +1,11 @@
 {
   "name": "PySwitchbot",
-  "version": "0.68.4",
+  "version": "0.69.0",
   "summary": "A library to communicate with Switchbot",
   "author": "Daniel Hjelseth Hoyer",
   "license": "MIT",
   "home_page": "https://github.com/sblibs/pySwitchbot/",
-  "download_filename": "pyswitchbot-0.68.4.tar.gz",
-  "download_time": "2025-08-18T15:22:52.903895",
+  "download_filename": "pyswitchbot-0.69.0.tar.gz",
+  "download_time": "2025-08-23T13:52:43.015560",
   "package_url": "https://pypi.org/project/PySwitchbot/"
 }
