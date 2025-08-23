@@ -1,14 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T19:16:51.439099
+- **Download Time**: 2025-08-23T19:28:36.457547
 - **Total Packages**: 79
-- **Total Size**: 21.25 MB
+- **Total Size**: 20.95 MB
 
 ## Packages List
+- djhtmx
+- code-puppy
+- gcsopt
+- mtv-mcp
+- orionis
+- radboy
+- aiogram-navigation
+- dar-backup
+- mvulib
+- mcp-server-screeny
+- groggy
+- chython
+- GameSentenceMiner
+- ansible-vault-keys
+- qilowatt
+- alpaka-re
+- khoj
 - desktop_access_mcp_server
 - spex-tools
-- khoj
 - rumdl
 - llm-canvas
 - atrain
@@ -18,9 +34,7 @@
 - smart-git-agent
 - snappylapy
 - docasur
-- ansible-vault-keys
 - bricks-py
-- aiogram-navigation
 - matty
 - lrdbench
 - markdown-code-runner
@@ -37,11 +51,9 @@
 - clear-skies-akeyless-custom-producer
 - aind-metadata-service-async-client
 - aind-metadata-service-client
-- orionis
 - invokeai-py-client
 - gemini-parallel
 - sklearn-freezer
-- mcp-server-screeny
 - sfq
 - prompttest
 - simple-cdd-yaml
@@ -73,15 +85,3 @@
 - PyQrackIsing
 - abstract-ide
 - repository-manager
-- robotraconteur
-- sherpa-onnx
-- passguard-assistant
-- TikExt
-- donatello-py
-- practicum-billing-shared
-- abstract-react
-- configset
-- tide-sdk
-- h2
-- culicidaelab
-- clselove
