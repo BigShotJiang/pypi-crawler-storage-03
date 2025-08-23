@@ -1,0 +1,11 @@
+{
+  "name": "xraylabtool",
+  "version": "0.1.6",
+  "summary": "High-Performance X-ray Optical Properties Calculator with CLI - Python package and command-line tool for calculating X-ray optical properties of materials based on chemical formulas and densities",
+  "author": "Wei Chen",
+  "license": "MIT",
+  "home_page": "https://github.com/imewei/pyXRayLabTool",
+  "download_filename": "xraylabtool-0.1.6.tar.gz",
+  "download_time": "2025-08-23T06:49:49.251423",
+  "package_url": "https://pypi.org/project/xraylabtool/"
+}

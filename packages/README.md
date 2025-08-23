@@ -1,31 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T06:28:40.966157
-- **Total Packages**: 83
-- **Total Size**: 9.11 MB
+- **Download Time**: 2025-08-23T06:50:27.815297
+- **Total Packages**: 76
+- **Total Size**: 2.28 MB
 
 ## Packages List
+- lzytools
+- pyrngx
+- network-functions
+- Terminal-Speil-B1
+- digitalguide
+- langchain-tool-server
+- pyclsp
+- langchain-tool-client
+- xraylabtool
+- bdfan
+- ut-eviq
+- repository-manager
+- latent-watermark
+- openapi2jsonschema2
+- gauntlet-benchmark
+- pulumi-random
+- contact
+- mc-protocol
+- dicekit
+- linkmerce
+- akari-bot-webui
+- multiprogress
+- sarmat
+- sshup
+- bumpwright
+- playback-tui
+- simple-carla
+- funtable
+- mojo-lldb-libs
+- mojo-compiler
+- max-core
+- pyobas
+- django-admin-logs-viewer
+- nndesigner
+- logwatchdog
+- franklin-cli
+- maimai-py
+- mcp-postgresql-ops
+- schemas-dataclass
 - BBAWSLightsailMiniV1a
 - debabelizer
 - bank-scrapers
 - bitbucket-mcp-server
 - database-common-tools
 - jpreprocess-mod
-- network-functions
-- Terminal-Speil-B1
 - aiopybit
-- repository-manager
 - snow-mcp
 - nagoya-bus-mcp
 - xloft
 - norfab
 - pyg-nightly
 - cyberdrop-dl-fix
-- lzytools
 - sourcepp
 - pulumi-gitlab
-- funtable
 - genomics-dataloader
 - rediacc
 - arclet-entari
@@ -34,7 +68,6 @@
 - mover
 - magic_hour
 - netintel-ocr
-- mcp-postgresql-ops
 - real-imdb
 - jacobi-poly
 - mkdocs-nbsync
@@ -49,43 +82,3 @@
 - mediaflow-proxy
 - geodepoly
 - flamo
-- zrb
-- logwatchdog
-- vineelapdf
-- cli-FSD
-- prefig
-- frame-transforms
-- waifu2x-python
-- PyQrackIsing
-- odoo-backup-manager
-- Pairip
-- django-tex
-- playback-tui
-- pulumi-auth0
-- dbflux
-- mineralML
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- pulumi-oci
-- Backtester-Tushar
-- cmlibs.widgets
-- botnet-core
-- pypomes-s3
-- scaffoldmaker
-- rzw-mcp
-- VNSFintech
-- scaffoldfitter
-- wela-agents
-- claude-mpm
-- sqlite3-prompt
-- loadept-mcp-filesystem
-- polymerist
-- panchito-lib
-- temporal-replayer-adapter-python
-- crossplane-function-pythonic
-- videosdk-plugins-turn-detector
-- videosdk-plugins-speechify
-- videosdk-plugins-smallestai
-- videosdk-plugins-sip
-- videosdk-plugins-simli
-- videosdk-plugins-silero

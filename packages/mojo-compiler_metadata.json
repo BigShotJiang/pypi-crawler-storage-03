@@ -1,0 +1,11 @@
+{
+  "name": "mojo-compiler",
+  "version": "0.0.0",
+  "summary": "The Mojo programming language (https://www.modular.com/mojo)",
+  "author": "Modular Inc",
+  "license": "LicenseRef-MAX-Platform-Software-License",
+  "home_page": "https://modular.com",
+  "download_filename": "mojo_compiler-0.0.0-py3-none-any.whl",
+  "download_time": "2025-08-23T06:50:02.182582",
+  "package_url": "https://pypi.org/project/mojo-compiler/"
+}
