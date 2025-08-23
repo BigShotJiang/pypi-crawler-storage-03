@@ -1,11 +1,11 @@
 {
   "name": "phicode",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "(φ) PHICODE Engine — run φ code directly in Python/PyPy with optional Rust acceleration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phicode-2.2.0.tar.gz",
-  "download_time": "2025-08-21T03:42:22.077218",
+  "download_filename": "phicode-2.3.0.tar.gz",
+  "download_time": "2025-08-23T03:36:48.569554",
   "package_url": "https://pypi.org/project/phicode/"
 }

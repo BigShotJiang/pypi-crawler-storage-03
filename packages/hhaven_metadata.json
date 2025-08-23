@@ -1,0 +1,11 @@
+{
+  "name": "hhaven",
+  "version": "0.2.0",
+  "summary": "A well-documented and typed API wrapper for Hentai Haven.",
+  "author": "JokelBaf",
+  "license": "MIT",
+  "home_page": "https://github.com/jokelbaf/hhaven",
+  "download_filename": "hhaven-0.2.0.tar.gz",
+  "download_time": "2025-08-23T03:37:08.433513",
+  "package_url": "https://pypi.org/project/hhaven/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wxee",
+  "version": "0.5.0",
+  "summary": "Earth Engine to xarray interface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxee-0.5.0.tar.gz",
+  "download_time": "2025-08-23T03:36:59.591210",
+  "package_url": "https://pypi.org/project/wxee/"
+}

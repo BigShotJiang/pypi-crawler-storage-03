@@ -1,0 +1,11 @@
+{
+  "name": "django-react-kit",
+  "version": "1.0.2",
+  "summary": "Server-Side Rendering for React components in Django",
+  "author": "Django React Kit Team",
+  "license": "MIT",
+  "home_page": "https://github.com/django-react-kit/django-react-kit",
+  "download_filename": "django_react_kit-1.0.2.tar.gz",
+  "download_time": "2025-08-23T03:36:57.979404",
+  "package_url": "https://pypi.org/project/django-react-kit/"
+}
