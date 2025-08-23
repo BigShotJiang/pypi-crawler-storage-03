@@ -1,0 +1,11 @@
+{
+  "name": "asyncyt",
+  "version": "1.4.6",
+  "summary": "A fully asynchronous media downloader for 1000+ websites, powered by yt-dlp and FFmpeg",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asyncyt-1.4.6.tar.gz",
+  "download_time": "2025-08-23T10:53:06.055186",
+  "package_url": "https://pypi.org/project/asyncyt/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "processpi",
-  "version": "0.0.0",
-  "summary": null,
-  "author": null,
+  "version": "0.1.1",
+  "summary": "Python toolkit for chemical engineering simulations, equipment design, and unit conversions",
+  "author": "Raviteja Varma Nadimpalli",
   "license": null,
-  "home_page": null,
-  "download_filename": "processpi-0.0.0.tar.gz",
-  "download_time": "2025-08-23T10:42:38.439374",
+  "home_page": "https://github.com/varma666/ProcessPi",
+  "download_filename": "processpi-0.1.1.tar.gz",
+  "download_time": "2025-08-23T10:53:03.406377",
   "package_url": "https://pypi.org/project/processpi/"
 }
