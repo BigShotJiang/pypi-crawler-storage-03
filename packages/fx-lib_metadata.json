@@ -1,0 +1,11 @@
+{
+  "name": "fx-lib",
+  "version": "0.5.2",
+  "summary": "FX's personal common lib",
+  "author": "Frank Xu",
+  "license": null,
+  "home_page": "https://github.com/frankyxhl/py_fx_lib",
+  "download_filename": "fx_lib-0.5.2.tar.gz",
+  "download_time": "2025-08-23T16:22:16.942917",
+  "package_url": "https://pypi.org/project/fx-lib/"
+}

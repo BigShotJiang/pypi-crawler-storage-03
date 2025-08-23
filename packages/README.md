@@ -1,15 +1,66 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T15:54:04.017070
-- **Total Packages**: 54
-- **Total Size**: 12.29 MB
+- **Download Time**: 2025-08-23T16:22:59.095239
+- **Total Packages**: 80
+- **Total Size**: 14.62 MB
 
 ## Packages List
+- fx-lib
+- cagecleaner
+- speed-analyzer
+- publicity-idl
+- maven-decoder-mcp
+- abstract-paths
+- kernelforge
+- ussh
+- entari-plugin-browser
+- batch-img
+- mchat-core
+- mcp-server-screeny
+- sirabus
+- wujing
+- LLMEvaluationFramework
+- plotmath
+- wickdata
+- git-changes
+- centra-sdk
+- cosmoGW
+- redexpect
+- Musicreater
+- plexflow
+- snapkit
+- airbyte-source-faker
+- openrouter-provider
+- llama-github
+- airbyte-source-convex
+- airbyte-source-firebolt
+- airbyte-source-facebook-marketing
+- python-vectorspace
+- localstack-core
+- mirrorbox
+- starlake-snowflake
+- debabelizer
+- smirk
+- topasio
+- jarvis-ai-assistant
+- pytest-html-plus
+- orionis
+- seisvis
+- sshup
+- sccb
+- lemonade-sdk
+- djresttoolkit
+- muspi-merol
+- recx
+- dt-net
+- libcoapy
+- liveConsole
+- sinol-make
+- alpaka-re
 - mkv-episode-matcher
 - dao-treasury
 - MainShortcuts2
-- plotmath
 - universal-uicreator
 - anonupload
 - vcosmos-mcp-server
@@ -18,7 +69,6 @@
 - mangadex-dl
 - agilab
 - agi-core
-- orionis
 - mon-tokenizer
 - staphscope
 - classiloom
@@ -36,27 +86,3 @@
 - picows
 - unique_toolkit
 - talkpipe
-- HS-TasNet
-- cgeniepy
-- ussh
-- cumulusci-plus
-- llm_batch_helper
-- tunacode-cli
-- arkitekt-next
-- py-chains-of-recurrences
-- indie
-- esentity
-- seisvis
-- datatrack-core
-- vondb
-- karrio-veho
-- scrawl-engine
-- karrio-tge
-- karrio-shipengine
-- karrio-seko
-- karrio-sapient
-- karrio-mydhl
-- karrio-hay-post
-- karrio-easyship
-- karrio-dhl-parcel-de
-- karrio-cli

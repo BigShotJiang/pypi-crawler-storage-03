@@ -1,0 +1,11 @@
+{
+  "name": "llama-github",
+  "version": "0.3.3",
+  "summary": "Llama-github is an open-source Python library that empowers LLM Chatbots, AI Agents, and Auto-dev Agents to conduct Retrieval from actively selected GitHub public projects. It Augments through LLMs and Generates context for any coding question, in order to streamline the development of sophisticated AI-driven applications.",
+  "author": "Jet Xu",
+  "license": null,
+  "home_page": "https://github.com/JetXu-LLM/llama-github",
+  "download_filename": "llama_github-0.3.3.tar.gz",
+  "download_time": "2025-08-23T16:22:30.365779",
+  "package_url": "https://pypi.org/project/llama-github/"
+}

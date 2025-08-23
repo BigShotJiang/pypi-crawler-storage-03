@@ -1,0 +1,11 @@
+{
+  "name": "wickdata",
+  "version": "0.1.0",
+  "summary": "High-performance library for fetching, storing, and streaming historical cryptocurrency market data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wickdata-0.1.0.tar.gz",
+  "download_time": "2025-08-23T16:22:25.189690",
+  "package_url": "https://pypi.org/project/wickdata/"
+}

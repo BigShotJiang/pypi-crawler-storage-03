@@ -1,0 +1,11 @@
+{
+  "name": "snapkit",
+  "version": "0.0.2",
+  "summary": "SnapKit: Handy image utilities for AI/CV workflows",
+  "author": "Tamal Mallick",
+  "license": "MIT",
+  "home_page": "https://github.com/mallickboy/snapkit",
+  "download_filename": "snapkit-0.0.2.tar.gz",
+  "download_time": "2025-08-23T16:22:28.828212",
+  "package_url": "https://pypi.org/project/snapkit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "redexpect",
+  "version": "2.0.4",
+  "summary": "An SSH automation library using expect.",
+  "author": "Red_M",
+  "license": "GPLv2",
+  "home_page": "https://bitbucket.org/Red_M/RedExpect",
+  "download_filename": "redexpect-2.0.4.tar.gz",
+  "download_time": "2025-08-23T16:22:27.282877",
+  "package_url": "https://pypi.org/project/redexpect/"
+}
