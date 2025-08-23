@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-marshals",
+  "version": "0.3.17",
+  "summary": "Library for creating partial pydantic models (automatic converters) from different mappings",
+  "author": "niqzart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_marshals-0.3.17.tar.gz",
+  "download_time": "2025-08-23T20:21:42.913567",
+  "package_url": "https://pypi.org/project/pydantic-marshals/"
+}

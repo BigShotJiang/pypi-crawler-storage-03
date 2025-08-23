@@ -1,11 +1,11 @@
 {
   "name": "cspdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "CornerStone PDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cspdk-1.0.8.tar.gz",
-  "download_time": "2025-08-23T15:19:40.629740",
+  "download_filename": "cspdk-1.0.9.tar.gz",
+  "download_time": "2025-08-23T20:21:27.510291",
   "package_url": "https://pypi.org/project/cspdk/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "entsoe-py",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "summary": "A python API wrapper for ENTSO-E",
   "author": "EnergieID.be, Frank Boerman",
   "license": "MIT",
   "home_page": "https://github.com/EnergieID/entsoe-py",
-  "download_filename": "entsoe_py-0.7.3.tar.gz",
-  "download_time": "2025-08-18T11:18:15.315738",
+  "download_filename": "entsoe_py-0.7.4.tar.gz",
+  "download_time": "2025-08-23T20:21:07.891477",
   "package_url": "https://pypi.org/project/entsoe-py/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "PyNetSplit",
-  "version": "1",
-  "summary": "Split a single tcp/ip connection between multiple servers.",
+  "version": "3.0",
+  "summary": "NetSplit release 3A",
   "author": "Unknown",
   "license": "MIT",
-  "home_page": "https://github.com/yourname/NetSplit",
-  "download_filename": "pynetsplit-1.tar.gz",
-  "download_time": "2025-08-23T19:16:24.677847",
+  "home_page": "https://github.com/Omena0/NetSplit",
+  "download_filename": "pynetsplit-3.0.tar.gz",
+  "download_time": "2025-08-23T20:21:23.458289",
   "package_url": "https://pypi.org/project/PyNetSplit/"
 }

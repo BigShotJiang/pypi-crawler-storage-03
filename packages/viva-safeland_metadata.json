@@ -1,11 +1,11 @@
 {
   "name": "viva-safeland",
-  "version": "0.1.82",
+  "version": "0.1.83",
   "summary": "A new freeware for safe validation of vision-based navigation in aerial vehicles",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "viva_safeland-0.1.82.tar.gz",
-  "download_time": "2025-08-20T18:52:57.294762",
+  "download_filename": "viva_safeland-0.1.83.tar.gz",
+  "download_time": "2025-08-23T20:21:24.635838",
   "package_url": "https://pypi.org/project/viva-safeland/"
 }

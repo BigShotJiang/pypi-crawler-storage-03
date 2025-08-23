@@ -1,0 +1,11 @@
+{
+  "name": "c3p",
+  "version": "0.5.0",
+  "summary": "CHEBI Classification Programs",
+  "author": "Chris Mungall",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c3p-0.5.0.tar.gz",
+  "download_time": "2025-08-23T20:21:13.865344",
+  "package_url": "https://pypi.org/project/c3p/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "calute",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": "Agents for intelligence and coordination",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "calute-0.0.22.tar.gz",
-  "download_time": "2025-08-23T16:56:31.975965",
+  "download_filename": "calute-0.0.23.tar.gz",
+  "download_time": "2025-08-23T20:21:41.150960",
   "package_url": "https://pypi.org/project/calute/"
 }
