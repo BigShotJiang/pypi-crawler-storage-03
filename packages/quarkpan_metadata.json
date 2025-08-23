@@ -1,11 +1,11 @@
 {
   "name": "quarkpan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "夸克网盘 Python 客户端和命令行工具",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quarkpan-1.0.1.tar.gz",
-  "download_time": "2025-08-22T15:53:29.569335",
+  "download_filename": "quarkpan-1.0.2.tar.gz",
+  "download_time": "2025-08-23T15:20:03.447921",
   "package_url": "https://pypi.org/project/quarkpan/"
 }

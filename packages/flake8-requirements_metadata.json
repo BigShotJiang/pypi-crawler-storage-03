@@ -1,0 +1,11 @@
+{
+  "name": "flake8-requirements",
+  "version": "2.3.0",
+  "summary": "Package requirements checker, plugin for flake8",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flake8_requirements-2.3.0.tar.gz",
+  "download_time": "2025-08-23T15:19:52.652204",
+  "package_url": "https://pypi.org/project/flake8-requirements/"
+}

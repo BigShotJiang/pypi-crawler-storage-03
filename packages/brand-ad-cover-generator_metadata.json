@@ -1,0 +1,11 @@
+{
+  "name": "brand-ad-cover-generator",
+  "version": "0.1.6",
+  "summary": "生成品牌广告封面 - MCP服务器，支持多种风格的品牌广告封面生成",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "brand_ad_cover_generator-0.1.6.tar.gz",
+  "download_time": "2025-08-23T15:19:52.141634",
+  "package_url": "https://pypi.org/project/brand-ad-cover-generator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "Navygram",
-  "version": "2.0.165",
+  "version": "2.0.166",
   "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
   "author": "Dan",
   "license": "LGPLv3",
   "home_page": "https://github.com/navycodes/pyrogram",
-  "download_filename": "navygram-2.0.165.tar.gz",
-  "download_time": "2025-08-23T14:41:29.362188",
+  "download_filename": "navygram-2.0.166.tar.gz",
+  "download_time": "2025-08-23T15:19:45.373487",
   "package_url": "https://pypi.org/project/Navygram/"
 }
