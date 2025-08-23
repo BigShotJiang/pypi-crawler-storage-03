@@ -1,0 +1,11 @@
+{
+  "name": "zundler",
+  "version": "0.3.0",
+  "summary": "Bundle assets of distributed HTML docs into one self-contained HTML file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zundler-0.3.0.tar.gz",
+  "download_time": "2025-08-23T14:41:21.904266",
+  "package_url": "https://pypi.org/project/zundler/"
+}

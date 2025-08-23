@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-bfvgrouptools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Battlefield V group management plugin for NoneBot2",
   "author": "llbuxudong",
   "license": "MIT",
   "home_page": "https://github.com/llbuxudong/nonebot-plugin-bfvgrouptools",
-  "download_filename": "nonebot_plugin_bfvgrouptools-0.1.0.tar.gz",
-  "download_time": "2025-08-23T14:17:29.977822",
+  "download_filename": "nonebot_plugin_bfvgrouptools-0.2.0.tar.gz",
+  "download_time": "2025-08-23T14:41:27.102911",
   "package_url": "https://pypi.org/project/nonebot-plugin-bfvgrouptools/"
 }

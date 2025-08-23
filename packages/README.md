@@ -1,29 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T14:18:04.837318
-- **Total Packages**: 84
-- **Total Size**: 26.59 MB
+- **Download Time**: 2025-08-23T14:41:59.805640
+- **Total Packages**: 82
+- **Total Size**: 22.43 MB
 
 ## Packages List
-- hexora
+- py-adtools
+- schedulo-api
+- coverage
+- wb-writeupbuilder
+- indie
+- esentity
+- logsentinelai
+- publicity-idl
+- umep
+- django-subforms
+- picows
+- akamaiossg
+- zundler
+- artemis-model
+- dt-net
+- mtcli
+- pemexe
+- simple-salesforce
+- agentsdk-ayush
+- osism
+- safe-builtins
+- witticism
+- nonebot-plugin-bfvgrouptools
+- sherpa-onnx-core
+- jiechau-mcp-vincent-says
+- Navygram
+- janito
+- shoggoth
+- topasio
+- socketsecurity
+- bassa-reg
+- pynamicalsys
+- vcosmos-mcp-server
+- linkcovery
+- limepy
+- hmsysteme
+- pyproteum
+- ec-tools
+- odoo-addon-l10n-br-cnab-structure
+- biomcp-python
+- pyramid-mcp
+- franklin-cli
+- classiloom
+- shancx
+- x2s3
+- imodels
+- aider-code
+- smbcrawler
 - wsjt-all
+- hexora
 - pathsim
 - micron-builder
 - PyQrackIsing
 - yeref
-- publicity-idl
 - seedrcc
 - sai-akruti
 - airbyte-source-marketo
 - xev-data
 - airbyte-source-outbrain-amplify
 - docling
-- classiloom
 - airbyte-source-netsuite
 - skk
 - django-listing
-- nonebot-plugin-bfvgrouptools
 - mcp-sqlserver-filesystem
 - nvidia-rag
 - auto-chart-patterns
@@ -31,7 +76,6 @@
 - neurograd
 - durusai-cli
 - netintel-ocr
-- Navygram
 - kara_kanji_sync
 - branch_storm
 - loudstream
@@ -42,51 +86,5 @@
 - fx-bin
 - sportsball
 - shomei
-- artemis-model
 - rocket-welder-sdk
 - itables
-- franklin-cli
-- abacatepay
-- cloxz
-- resolvematrix
-- sightengine-async
-- neuroquery
-- xraylabtool
-- docutranslate
-- deezspot-spotizerr
-- upstash-pulumi
-- qglmm
-- netbox-manager
-- abstract-paths
-- pmtiles_mosaic
-- tensordict-nightly
-- PySwitchbot
-- pocong
-- practicum-billing-shared
-- nuxt-payload
-- japanese-address-parser-py
-- taichi-big-float
-- mcd-stitcher
-- shuku
-- pytmx-ng
-- sherpa-onnx
-- dar-backup
-- mergething
-- canns-ripser
-- purplekoala
-- fluent_validation
-- fal
-- bleak-retry-connector
-- ddd-cli
-- cloudlanguagetools
-- sherpa-onnx-core
-- umep
-- libro-book
-- generic-exporters
-- fbgemm-gpu-nightly-cpu
-- freemework_abstractions
-- gauntlet-benchmark
-- RubigramClient
-- phable
-- tflite-micro
-- synapsefrc

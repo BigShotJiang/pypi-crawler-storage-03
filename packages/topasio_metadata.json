@@ -1,0 +1,11 @@
+{
+  "name": "topasio",
+  "version": "1.0.2",
+  "summary": "Automation of (Open)TOPAS scripts, allowing for type inference and better access to parameters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "topasio-1.0.2.tar.gz",
+  "download_time": "2025-08-23T14:41:30.928006",
+  "package_url": "https://pypi.org/project/topasio/"
+}
