@@ -1,11 +1,11 @@
 {
   "name": "geoinsights-3d",
-  "version": "1.101",
+  "version": "1.1012",
   "summary": "Rapid drilling data visualisation and analysis for geologists with AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geoinsights_3d-1.101.tar.gz",
-  "download_time": "2025-08-23T11:16:18.102835",
+  "download_filename": "geoinsights_3d-1.1012.tar.gz",
+  "download_time": "2025-08-23T12:37:19.492691",
   "package_url": "https://pypi.org/project/geoinsights-3d/"
 }

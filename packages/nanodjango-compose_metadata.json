@@ -1,0 +1,11 @@
+{
+  "name": "nanodjango-compose",
+  "version": "0.0.0.dev0",
+  "summary": "A library of plugins for configuring a production-ready Django site when you convert your nanodjango single page app.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "nanodjango_compose-0.0.0.dev0.tar.gz",
+  "download_time": "2025-08-23T12:37:08.638484",
+  "package_url": "https://pypi.org/project/nanodjango-compose/"
+}

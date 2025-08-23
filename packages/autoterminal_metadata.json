@@ -1,0 +1,11 @@
+{
+  "name": "autoterminal",
+  "version": "0.1.1",
+  "summary": "智能终端工具，基于LLM将自然语言转换为终端命令(create by claude 4 sonnet)",
+  "author": "wds",
+  "license": "MIT",
+  "home_page": "http://cloud-home.dxh-wds.top:20100/w/AutoTerminal",
+  "download_filename": "autoterminal-0.1.1.tar.gz",
+  "download_time": "2025-08-23T12:37:04.022605",
+  "package_url": "https://pypi.org/project/autoterminal/"
+}

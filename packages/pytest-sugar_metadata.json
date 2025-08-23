@@ -1,0 +1,11 @@
+{
+  "name": "pytest-sugar",
+  "version": "1.1.1",
+  "summary": "pytest-sugar is a plugin for pytest that changes the default look and feel of pytest (e.g. progressbar, show tests that fail instantly).",
+  "author": "Teemu, Janne Vanhala and others",
+  "license": "BSD",
+  "home_page": "https://github.com/Teemu/pytest-sugar",
+  "download_filename": "pytest-sugar-1.1.1.tar.gz",
+  "download_time": "2025-08-23T12:37:14.327803",
+  "package_url": "https://pypi.org/project/pytest-sugar/"
+}

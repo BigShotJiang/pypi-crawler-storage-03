@@ -1,11 +1,11 @@
 {
   "name": "zipagent",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "轻量级的 AI Agent 框架",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zipagent-0.1.4.tar.gz",
-  "download_time": "2025-08-17T06:23:54.036891",
+  "download_filename": "zipagent-0.1.5.tar.gz",
+  "download_time": "2025-08-23T12:37:24.278342",
   "package_url": "https://pypi.org/project/zipagent/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aegisred",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "An Open-Source LLM Red Teaming & Evaluation Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aegisred-1.0.1.tar.gz",
-  "download_time": "2025-08-23T07:52:59.404418",
+  "download_filename": "aegisred-1.0.3.tar.gz",
+  "download_time": "2025-08-23T12:37:09.668281",
   "package_url": "https://pypi.org/project/aegisred/"
 }

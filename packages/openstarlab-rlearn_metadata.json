@@ -1,11 +1,11 @@
 {
   "name": "openstarlab-rlearn",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "summary": "openstarlab rlearn modeliing package",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "openstarlab_rlearn-0.1.25.tar.gz",
-  "download_time": "2025-08-21T09:43:21.236383",
+  "download_filename": "openstarlab_rlearn-0.1.26.tar.gz",
+  "download_time": "2025-08-23T12:37:01.459370",
   "package_url": "https://pypi.org/project/openstarlab-rlearn/"
 }

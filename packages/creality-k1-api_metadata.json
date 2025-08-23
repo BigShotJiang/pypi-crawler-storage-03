@@ -1,0 +1,11 @@
+{
+  "name": "creality-k1-api",
+  "version": "0.0.1",
+  "summary": "A Python API for the Creality K1 3D printer",
+  "author": "hurricaneb",
+  "license": null,
+  "home_page": "https://github.com/hurricaneb/creality_k1_api",
+  "download_filename": "creality_k1_api-0.0.1.tar.gz",
+  "download_time": "2025-08-23T12:37:11.200397",
+  "package_url": "https://pypi.org/project/creality-k1-api/"
+}
