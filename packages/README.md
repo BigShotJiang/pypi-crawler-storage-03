@@ -1,13 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T14:41:59.805640
-- **Total Packages**: 82
-- **Total Size**: 22.43 MB
+- **Download Time**: 2025-08-23T14:53:11.396234
+- **Total Packages**: 77
+- **Total Size**: 6.54 MB
 
 ## Packages List
-- py-adtools
+- vcosmos-mcp-server
+- mcp-sqlserver-filesystem
+- ec-tools-cli
+- artemis-model
+- dotgov
+- fastpluggy-websocket-tool
 - schedulo-api
+- wsjt-all
+- opportify-sdk
+- itaxotools-mafftpy
+- plainlog
+- elrahapi
+- odoo-addon-payroll-account
+- controlmyspa
+- py-adtools
+- akamaiossg
+- warn-transformer
+- venvalid
+- voxcity
+- umepr
 - coverage
 - wb-writeupbuilder
 - indie
@@ -17,9 +35,7 @@
 - umep
 - django-subforms
 - picows
-- akamaiossg
 - zundler
-- artemis-model
 - dt-net
 - mtcli
 - pemexe
@@ -38,7 +54,6 @@
 - socketsecurity
 - bassa-reg
 - pynamicalsys
-- vcosmos-mcp-server
 - linkcovery
 - limepy
 - hmsysteme
@@ -54,7 +69,6 @@
 - imodels
 - aider-code
 - smbcrawler
-- wsjt-all
 - hexora
 - pathsim
 - micron-builder
@@ -69,22 +83,3 @@
 - airbyte-source-netsuite
 - skk
 - django-listing
-- mcp-sqlserver-filesystem
-- nvidia-rag
-- auto-chart-patterns
-- sglang
-- neurograd
-- durusai-cli
-- netintel-ocr
-- kara_kanji_sync
-- branch_storm
-- loudstream
-- love-tell-ai-mcp
-- polars-hist-db
-- torchqubo
-- sampley
-- fx-bin
-- sportsball
-- shomei
-- rocket-welder-sdk
-- itables

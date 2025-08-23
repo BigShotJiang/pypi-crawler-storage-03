@@ -1,0 +1,11 @@
+{
+  "name": "itaxotools-mafftpy",
+  "version": "0.3.0",
+  "summary": "A Python wrapper for MAFFT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itaxotools_mafftpy-0.3.0.tar.gz",
+  "download_time": "2025-08-23T14:52:35.290536",
+  "package_url": "https://pypi.org/project/itaxotools-mafftpy/"
+}

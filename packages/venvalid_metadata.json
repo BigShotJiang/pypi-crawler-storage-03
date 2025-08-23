@@ -1,0 +1,11 @@
+{
+  "name": "venvalid",
+  "version": "0.3.0",
+  "summary": "A minimal and developer-friendly environment variable validator for Python, inspired by envalid.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "venvalid-0.3.0.tar.gz",
+  "download_time": "2025-08-23T14:52:39.388158",
+  "package_url": "https://pypi.org/project/venvalid/"
+}

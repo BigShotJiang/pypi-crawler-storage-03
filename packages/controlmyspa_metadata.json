@@ -1,0 +1,11 @@
+{
+  "name": "controlmyspa",
+  "version": "4.0.0",
+  "summary": "Balboa ControlMySpa™ cloud API for hot tub spa systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "controlmyspa-4.0.0.tar.gz",
+  "download_time": "2025-08-23T14:52:37.341633",
+  "package_url": "https://pypi.org/project/controlmyspa/"
+}

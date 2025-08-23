@@ -1,0 +1,11 @@
+{
+  "name": "dotgov",
+  "version": "0.1.0",
+  "summary": "A library for accessing government Open Data",
+  "author": "Germán Muñoz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotgov-0.1.0.tar.gz",
+  "download_time": "2025-08-23T14:52:32.691338",
+  "package_url": "https://pypi.org/project/dotgov/"
+}
