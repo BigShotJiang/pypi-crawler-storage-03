@@ -1,11 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T05:19:52.757924
+- **Download Time**: 2025-08-23T05:42:36.159006
 - **Total Packages**: 83
-- **Total Size**: 7.87 MB
+- **Total Size**: 12.57 MB
 
 ## Packages List
+- meishiki
+- mediaflow-proxy
+- repository-manager
+- geodepoly
+- ivybloom
+- flamo
+- zrb
+- logwatchdog
+- vineelapdf
+- cli-FSD
+- prefig
+- frame-transforms
+- waifu2x-python
+- PyQrackIsing
+- odoo-backup-manager
+- Pairip
+- django-tex
+- playback-tui
+- pulumi-auth0
+- dbflux
+- mineralML
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
+- pulumi-oci
+- Backtester-Tushar
 - cmlibs.widgets
 - botnet-core
 - pypomes-s3
@@ -17,12 +42,9 @@
 - claude-mpm
 - sqlite3-prompt
 - loadept-mcp-filesystem
-- repository-manager
 - polymerist
-- odoo-backup-manager
 - panchito-lib
 - temporal-replayer-adapter-python
-- geodepoly
 - crossplane-function-pythonic
 - videosdk-plugins-turn-detector
 - videosdk-plugins-speechify
@@ -33,7 +55,6 @@
 - videosdk-plugins-sarvamai
 - videosdk-plugins-rnnoise
 - videosdk-plugins-rime
-- playback-tui
 - videosdk-plugins-resemble
 - videosdk-plugins-papla
 - videosdk-plugins-openai
@@ -57,7 +78,6 @@
 - wagtail-trash
 - magic_hour
 - jianpu-ly
-- pulumi-oci
 - simple-aws-lambda
 - agentkit-llm
 - aws-lambda-artifact-builder
@@ -69,23 +89,3 @@
 - fileprinter
 - emcd-projects
 - edinet-tools
-- ork.build
-- qrpa
-- jsonquotefixer
-- lhs-mcp-demo-l
-- fx-bin
-- burmese-tokenizer
-- pypomes-sob
-- canns-ripser
-- publicity-idl
-- alwayson-py
-- sshup
-- secretpackage
-- static-folders
-- apiexception
-- krex
-- lhs-mcp-demov
-- waifu2x-python
-- mediapyr
-- cli-FSD
-- regula-facesdk-webclient
