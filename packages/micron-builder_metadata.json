@@ -1,11 +1,11 @@
 {
   "name": "micron-builder",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Fluent string builder for micron markup",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "micron_builder-0.1.2.tar.gz",
-  "download_time": "2025-08-19T22:20:34.688436",
+  "download_filename": "micron_builder-0.1.3.tar.gz",
+  "download_time": "2025-08-23T14:17:22.741664",
   "package_url": "https://pypi.org/project/micron-builder/"
 }

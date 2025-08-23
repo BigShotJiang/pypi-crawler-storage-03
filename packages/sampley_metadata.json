@@ -1,11 +1,11 @@
 {
   "name": "sampley",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "sample survey data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sampley-0.0.13.tar.gz",
-  "download_time": "2025-08-23T13:52:48.017363",
+  "download_filename": "sampley-0.0.14.tar.gz",
+  "download_time": "2025-08-23T14:17:37.724454",
   "package_url": "https://pypi.org/project/sampley/"
 }

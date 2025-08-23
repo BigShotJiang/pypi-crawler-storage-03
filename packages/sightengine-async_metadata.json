@@ -1,0 +1,11 @@
+{
+  "name": "sightengine-async",
+  "version": "0.2.0",
+  "summary": "Asynchronous Python client for the SightEngine API",
+  "author": "Nate Shoffner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sightengine_async-0.2.0.tar.gz",
+  "download_time": "2025-08-23T14:17:43.375371",
+  "package_url": "https://pypi.org/project/sightengine-async/"
+}
