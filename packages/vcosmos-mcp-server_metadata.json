@@ -1,11 +1,11 @@
 {
   "name": "vcosmos-mcp-server",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Model Context Protocol (MCP) server for querying vCosmos Test Logic API - Units Under Test (UUTs) and tasks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vcosmos_mcp_server-0.1.2.tar.gz",
-  "download_time": "2025-08-23T08:47:31.055447",
+  "download_filename": "vcosmos_mcp_server-0.1.4.tar.gz",
+  "download_time": "2025-08-23T09:20:01.675867",
   "package_url": "https://pypi.org/project/vcosmos-mcp-server/"
 }

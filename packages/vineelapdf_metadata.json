@@ -1,11 +1,11 @@
 {
   "name": "vineelapdf",
-  "version": "1.0",
-  "summary": null,
+  "version": "2.0.1",
+  "summary": "This will convert pdf to image and text",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vineelapdf-1.0.tar.gz",
-  "download_time": "2025-08-23T05:41:55.612269",
+  "download_filename": "vineelapdf-2.0.1.tar.gz",
+  "download_time": "2025-08-23T09:19:59.592728",
   "package_url": "https://pypi.org/project/vineelapdf/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sandpaper-py",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "summary": "SandPaper is a package for scraping web pages with Playwright and exporting structured data to CSV.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sandpaper_py-0.0.5.tar.gz",
-  "download_time": "2025-08-23T08:56:58.251244",
+  "download_filename": "sandpaper_py-0.1.0.tar.gz",
+  "download_time": "2025-08-23T09:20:12.740412",
   "package_url": "https://pypi.org/project/sandpaper-py/"
 }

@@ -1,20 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T08:57:47.215924
-- **Total Packages**: 85
-- **Total Size**: 1.2 MB
+- **Download Time**: 2025-08-23T09:20:42.110972
+- **Total Packages**: 84
+- **Total Size**: 9.01 MB
 
 ## Packages List
+- aa-ledger
+- langbot
+- pip-brief
+- pgnanki
+- ml-agents-reasoning
+- chpass
+- vineelapdf
+- pyhausbus
+- schema-dataclass
+- meishiki
+- vcosmos-mcp-server
+- procrastinate
+- mcp-ambari-api
+- py-calling-agent
+- djresttoolkit
+- urllib3-future
+- petracore-django-backend-starter
+- chaukas-spec-client
+- wppm
+- exprmat
+- odoo-addon-product-variant-default-code
+- autogluon
+- autogluon.timeseries
+- autogluon.multimodal
+- autogluon.tabular
+- autogluon.features
+- autogluon.core
+- coyaml
+- autogluon.common
+- opendapi
+- toolsed
+- sandpaper-py
+- matrixhdl
+- electrum-bch
+- higgs-kernels
+- protograf
+- vedro-unittest
+- django-global-search
 - nitrokeyapp
 - tree-sitter-arduino
-- mcp-ambari-api
 - alert-after-pro
 - fx-bin
 - Jaxley
-- sandpaper-py
 - binance-asyncio
-- djresttoolkit
 - ut-eviq
 - tfp-nightly
 - botrun-flow-lang
@@ -22,17 +57,14 @@
 - PyPwnCollege
 - publicity-idl
 - odoo-addon-openupgrade-framework
-- petracore-django-backend-starter
 - umepr
 - phasi-kit
 - amrita
 - smart-home-testbed
-- py-calling-agent
 - kola
 - Songpress
 - pastes
 - Authlib
-- vcosmos-mcp-server
 - srinathpdf
 - FermaCongress
 - kuzu
@@ -43,7 +75,6 @@
 - wela-agents
 - umep
 - nullbr
-- electrum-bch
 - kara-kanji-sync
 - mcp-airflow-api
 - neuro-config-client
@@ -59,35 +90,3 @@
 - nvfuser-cu126
 - pluk
 - nvfuser-cu128
-- elevenlabs-srt-generator
-- nvfuser-cu129
-- gink
-- sphericalpolygon
-- hpcp
-- chpass
-- ttsfm
-- eridanus-dep
-- pyglove
-- unzipping
-- seanox-ai-nlp
-- wmill-pg
-- wmill
-- windmill-api
-- keysvalues
-- virtual-stories
-- nonebot-plugins-jm-html
-- mkdocs-no-sitemap-plugin
-- gufunky
-- rp
-- repository-manager
-- nytid
-- empyrebase
-- evolib
-- pgnanki
-- griffonner
-- euroncal-euroncal
-- greenideas
-- gostmodels
-- pygpsclient
-- llm-sandbox
-- gdsfactoryhub

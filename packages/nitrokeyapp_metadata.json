@@ -1,11 +1,11 @@
 {
   "name": "nitrokeyapp",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "summary": "Graphical application to manage Nitrokey devices",
   "author": "Nitrokey",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nitrokeyapp-2.4.0.tar.gz",
-  "download_time": "2025-08-22T15:53:32.384409",
+  "download_filename": "nitrokeyapp-2.4.1.tar.gz",
+  "download_time": "2025-08-23T09:20:16.396271",
   "package_url": "https://pypi.org/project/nitrokeyapp/"
 }

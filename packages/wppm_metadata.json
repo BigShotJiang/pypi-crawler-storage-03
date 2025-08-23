@@ -1,0 +1,11 @@
+{
+  "name": "wppm",
+  "version": "17.2.20250823",
+  "summary": "WinPython Package Management",
+  "author": "Pierre Raybaut, stonebig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wppm-17.2.20250823-py3-none-any.whl",
+  "download_time": "2025-08-23T09:20:05.851284",
+  "package_url": "https://pypi.org/project/wppm/"
+}
