@@ -1,0 +1,11 @@
+{
+  "name": "shared-utils-ems",
+  "version": "4.2.0",
+  "summary": "A shared utility library for event management system based on microservices architecture.",
+  "author": "iman sadati",
+  "license": null,
+  "home_page": "https://github.com/imansadati/event_management_system",
+  "download_filename": "shared_utils_ems-4.2.0.tar.gz",
+  "download_time": "2025-08-23T17:53:21.104344",
+  "package_url": "https://pypi.org/project/shared-utils-ems/"
+}
