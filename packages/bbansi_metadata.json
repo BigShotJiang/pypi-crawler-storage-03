@@ -1,11 +1,11 @@
 {
   "name": "bbansi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Module with print and input that convert pseudo-BBCode into ANSI. It also includes a flip option that improves the .capitalize(), .lower(), .title(), and .upper() methods, and adds an invert option.",
   "author": "Pablo Alejandro Carravetti",
   "license": "GNU General Public License v3.0",
   "home_page": null,
-  "download_filename": "bbansi-0.0.1.tar.gz",
-  "download_time": "2025-08-22T05:20:34.326903",
+  "download_filename": "bbansi-0.0.2.tar.gz",
+  "download_time": "2025-08-23T01:25:29.029310",
   "package_url": "https://pypi.org/project/bbansi/"
 }

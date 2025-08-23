@@ -1,0 +1,11 @@
+{
+  "name": "bezierv",
+  "version": "0.1.1",
+  "summary": "This package serves as a computational framework for Bézier distributions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bezierv-0.1.1.tar.gz",
+  "download_time": "2025-08-23T01:24:51.050251",
+  "package_url": "https://pypi.org/project/bezierv/"
+}

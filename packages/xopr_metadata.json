@@ -1,0 +1,11 @@
+{
+  "name": "xopr",
+  "version": "0.1.3",
+  "summary": "Access Open Polar Radar data in the Python data ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xopr-0.1.3.tar.gz",
+  "download_time": "2025-08-23T01:24:54.771179",
+  "package_url": "https://pypi.org/project/xopr/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pythontwitchbotframework",
-  "version": "2.12.1",
+  "version": "2.12.2",
   "summary": "asynchronous twitch-bot framework made in pure python",
   "author": "sharkbound",
   "license": "MIT",
   "home_page": "https://github.com/sharkbound/PythonTwitchBotFramework",
-  "download_filename": "pythontwitchbotframework-2.12.1.tar.gz",
-  "download_time": "2025-08-21T18:50:42.060879",
+  "download_filename": "pythontwitchbotframework-2.12.2.tar.gz",
+  "download_time": "2025-08-23T01:25:18.947148",
   "package_url": "https://pypi.org/project/pythontwitchbotframework/"
 }

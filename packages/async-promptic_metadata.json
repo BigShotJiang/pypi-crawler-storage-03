@@ -1,11 +1,11 @@
 {
   "name": "async-promptic",
-  "version": "5.5.6",
+  "version": "5.5.12",
   "summary": "90% of what you need for LLM app development. Nothing you don't.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_promptic-5.5.6.tar.gz",
-  "download_time": "2025-08-22T23:52:28.845760",
+  "download_filename": "async_promptic-5.5.12.tar.gz",
+  "download_time": "2025-08-23T01:24:58.259026",
   "package_url": "https://pypi.org/project/async-promptic/"
 }

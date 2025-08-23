@@ -1,0 +1,11 @@
+{
+  "name": "weboasis",
+  "version": "0.1.1",
+  "summary": "A web agent framework for researchers to build and study web agents for real-world applications",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "weboasis-0.1.1.tar.gz",
+  "download_time": "2025-08-23T01:25:00.378188",
+  "package_url": "https://pypi.org/project/weboasis/"
+}

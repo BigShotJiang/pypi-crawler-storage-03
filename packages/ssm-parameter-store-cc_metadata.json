@@ -1,0 +1,11 @@
+{
+  "name": "ssm-parameter-store-cc",
+  "version": "0.1.2",
+  "summary": "Simple Python wrapper for getting values from AWS Systems Manager Parameter Store-fork",
+  "author": "Iqbal Singh",
+  "license": "MIT",
+  "home_page": "https://github.com/binaryCrossEntropy/ssm-parameter-store-cc",
+  "download_filename": "ssm_parameter_store_cc-0.1.2.tar.gz",
+  "download_time": "2025-08-23T01:24:52.145902",
+  "package_url": "https://pypi.org/project/ssm-parameter-store-cc/"
+}
