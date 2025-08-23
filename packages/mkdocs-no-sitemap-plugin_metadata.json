@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-no-sitemap-plugin",
+  "version": "0.0.2",
+  "summary": "Mkdocs plugin disable the generation.",
+  "author": "leonardehrenfried",
+  "license": "MIT",
+  "home_page": "https://github.com/leonardehrenfried/mkdocs-no-sitemap-plugin",
+  "download_filename": "mkdocs_no_sitemap_plugin-0.0.2.tar.gz",
+  "download_time": "2025-08-23T08:24:12.410977",
+  "package_url": "https://pypi.org/project/mkdocs-no-sitemap-plugin/"
+}

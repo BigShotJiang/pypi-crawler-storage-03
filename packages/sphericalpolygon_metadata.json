@@ -1,0 +1,11 @@
+{
+  "name": "sphericalpolygon",
+  "version": "1.2.3",
+  "summary": "A package to handle the spherical polygon",
+  "author": "Chunxiao Li",
+  "license": "MIT",
+  "home_page": "https://github.com/lcx366/SphericalPolygon",
+  "download_filename": "sphericalpolygon-1.2.3-py3-none-any.whl",
+  "download_time": "2025-08-23T08:24:04.046578",
+  "package_url": "https://pypi.org/project/sphericalpolygon/"
+}

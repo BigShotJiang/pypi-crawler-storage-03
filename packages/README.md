@@ -1,11 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-23T07:53:23.024109
-- **Total Packages**: 74
-- **Total Size**: 29.32 MB
+- **Download Time**: 2025-08-23T08:24:36.053490
+- **Total Packages**: 77
+- **Total Size**: 9.21 MB
 
 ## Packages List
+- kara-kanji-sync
+- mcp-airflow-api
+- neuro-config-client
+- HLL
+- sbctl
+- verifiers
+- replicate-batch-process
+- rxiv-maker
+- SearchLibrium
+- rl-worlds
+- youtube-thumbnail-generator
+- playback-tui
+- nvfuser-cu126
+- pluk
+- nvfuser-cu128
+- elevenlabs-srt-generator
+- nvfuser-cu129
+- gink
+- sphericalpolygon
+- hpcp
+- vcosmos-mcp-server
+- chpass
+- ttsfm
+- eridanus-dep
+- pyglove
+- unzipping
+- seanox-ai-nlp
+- wmill-pg
+- wmill
+- windmill-api
+- keysvalues
+- virtual-stories
+- nonebot-plugins-jm-html
+- mkdocs-no-sitemap-plugin
+- gufunky
+- rp
+- repository-manager
+- nytid
+- empyrebase
+- evolib
+- pgnanki
+- electrum-bch
+- griffonner
+- euroncal-euroncal
+- greenideas
+- gostmodels
+- pygpsclient
+- llm-sandbox
+- gdsfactoryhub
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
 - bitcoin-safe-lib
@@ -13,17 +62,12 @@
 - argopy
 - mscore3
 - smart-tsp-solver
-- repository-manager
 - django-admin-logs-viewer
 - phasi-kit
 - pt-kmeans
-- electrum-bch
 - gguf-connector
-- playback-tui
 - cxgparser
 - scapi
-- pgnanki
-- pluk
 - django-optimize-image
 - srinathpdf
 - omnara
@@ -37,46 +81,5 @@
 - FermaCongress
 - robosystems-client
 - aegisred
-- nonebot-plugins-jm-html
 - nonebot-plugin-alisten
 - onnxscript
-- amharicNLP
-- pickme
-- brew-cleaner
-- zsl-ma
-- simc-support
-- streamlit-nightly
-- llm-profile
-- preling
-- pypi-verify-now
-- protoprimer
-- wela-agents
-- diffgetr
-- vietnamadminunits
-- tf-models-nightly
-- django-hierarkey
-- flagdataset
-- pulumi-aws-native
-- alpfore
-- zimagi
-- cuti
-- qxmt
-- lzytools
-- pyrngx
-- network-functions
-- Terminal-Speil-B1
-- digitalguide
-- langchain-tool-server
-- pyclsp
-- langchain-tool-client
-- xraylabtool
-- ut-eviq
-- latent-watermark
-- openapi2jsonschema2
-- gauntlet-benchmark
-- pulumi-random
-- contact
-- mc-protocol
-- dicekit
-- linkmerce
-- akari-bot-webui

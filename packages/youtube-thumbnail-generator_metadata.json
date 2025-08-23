@@ -1,0 +1,11 @@
+{
+  "name": "youtube-thumbnail-generator",
+  "version": "2.6.4",
+  "summary": "A powerful YouTube thumbnail generator with AI text optimization and multi-language support",
+  "author": "preangelleo",
+  "license": "MIT",
+  "home_page": "https://github.com/preangelleo/youtube-thumbnail-generator",
+  "download_filename": "youtube_thumbnail_generator-2.6.4.tar.gz",
+  "download_time": "2025-08-23T08:23:59.368742",
+  "package_url": "https://pypi.org/project/youtube-thumbnail-generator/"
+}

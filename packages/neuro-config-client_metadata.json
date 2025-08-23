@@ -1,11 +1,11 @@
 {
   "name": "neuro-config-client",
-  "version": "25.8.6",
+  "version": "25.8.7",
   "summary": "Internal client for Neu.ro config service",
   "author": null,
   "license": "Apache 2",
   "home_page": "https://github.com/neuro-inc/neuro-config-client",
-  "download_filename": "neuro_config_client-25.8.6.tar.gz",
-  "download_time": "2025-08-21T11:40:13.946837",
+  "download_filename": "neuro_config_client-25.8.7.tar.gz",
+  "download_time": "2025-08-23T08:23:54.670725",
   "package_url": "https://pypi.org/project/neuro-config-client/"
 }
