@@ -1,0 +1,11 @@
+{
+  "name": "playback-tui",
+  "version": "1.1.0",
+  "summary": "A terminal-based music player with playlist management and downloading capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "playback_tui-1.1.0.tar.gz",
+  "download_time": "2025-08-23T04:24:34.387918",
+  "package_url": "https://pypi.org/project/playback-tui/"
+}

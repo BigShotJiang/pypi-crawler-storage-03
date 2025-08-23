@@ -1,11 +1,11 @@
 {
   "name": "sshup",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A simple SSH Manager",
   "author": "Wael Ramadan",
   "license": "License :: OSI Approved :: MIT License",
   "home_page": "https://github.com/wmramadan/sshup-tui",
-  "download_filename": "sshup-0.0.4.tar.gz",
-  "download_time": "2025-08-23T03:57:20.591515",
+  "download_filename": "sshup-0.0.5.tar.gz",
+  "download_time": "2025-08-23T04:24:18.208338",
   "package_url": "https://pypi.org/project/sshup/"
 }

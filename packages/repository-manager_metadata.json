@@ -1,11 +1,11 @@
 {
   "name": "repository-manager",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Manage your git projects",
   "author": "Audel Rouhi",
   "license": "MIT",
   "home_page": "https://github.com/Knuckles-Team/repository-manager",
-  "download_filename": "repository_manager-1.0.2-py2.py3-none-any.whl",
-  "download_time": "2025-08-23T03:36:31.601945",
+  "download_filename": "repository_manager-1.0.6-py2.py3-none-any.whl",
+  "download_time": "2025-08-23T04:24:11.235931",
   "package_url": "https://pypi.org/project/repository-manager/"
 }
