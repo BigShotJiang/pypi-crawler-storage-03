@@ -1,0 +1,11 @@
+{
+  "name": "gamma-scanner",
+  "version": "1.0.3",
+  "summary": "Advanced string manipulation and pattern matching engine with unique DSL syntax",
+  "author": "Harish Santhanalakshmi Ganesan",
+  "license": null,
+  "home_page": "https://github.com/gammascanner/gamma-scanner",
+  "download_filename": "gamma_scanner-1.0.3.tar.gz",
+  "download_time": "2025-08-24T05:20:44.397645",
+  "package_url": "https://pypi.org/project/gamma-scanner/"
+}

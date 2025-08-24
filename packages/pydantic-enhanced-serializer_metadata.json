@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-enhanced-serializer",
+  "version": "2.2.2",
+  "summary": "Pydantic extension that allows user selection of object fields or expansions inline when serializing models",
+  "author": "Adam Sussman",
+  "license": "MIT",
+  "home_page": "https://github.com/adamsussman/pydantic-enhanced-serializer",
+  "download_filename": "pydantic_enhanced_serializer-2.2.2.tar.gz",
+  "download_time": "2025-08-24T05:20:40.212835",
+  "package_url": "https://pypi.org/project/pydantic-enhanced-serializer/"
+}

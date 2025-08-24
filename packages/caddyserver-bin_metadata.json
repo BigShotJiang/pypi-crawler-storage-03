@@ -1,0 +1,11 @@
+{
+  "name": "caddyserver-bin",
+  "version": "2.10.2",
+  "summary": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS ",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "caddyserver_bin-2.10.2.tar.gz",
+  "download_time": "2025-08-24T05:20:49.605164",
+  "package_url": "https://pypi.org/project/caddyserver-bin/"
+}

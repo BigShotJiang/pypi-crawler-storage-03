@@ -1,0 +1,11 @@
+{
+  "name": "ibeis",
+  "version": "2.4.0",
+  "summary": "IBEIS - Image Based Ecological Information System",
+  "author": "Jon Crall, Jason Parham",
+  "license": "Apache 2",
+  "home_page": "https://github.com/Erotemic/ibeis",
+  "download_filename": "ibeis-2.4.0-py3-none-any.whl",
+  "download_time": "2025-08-24T05:20:39.006496",
+  "package_url": "https://pypi.org/project/ibeis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reverievis",
+  "version": "1.0.0",
+  "summary": "A professional package for creating beautiful visualizations with clean, object-oriented design",
+  "author": "ragilhadi",
+  "license": null,
+  "home_page": "https://github.com/ragilhadi/reverie-vis",
+  "download_filename": "reverievis-1.0.0.tar.gz",
+  "download_time": "2025-08-24T05:20:47.518032",
+  "package_url": "https://pypi.org/project/reverievis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-parallel-web",
+  "version": "0.0.1a0",
+  "summary": "ParallelWeb integration for LangChain",
+  "author": "Sanjeev Halyal",
+  "license": "MIT",
+  "home_page": "https://github.com/sanjeevhalyal/langchain-parallel-web",
+  "download_filename": "langchain_parallel_web-0.0.1a0.tar.gz",
+  "download_time": "2025-08-24T05:20:35.284835",
+  "package_url": "https://pypi.org/project/langchain-parallel-web/"
+}

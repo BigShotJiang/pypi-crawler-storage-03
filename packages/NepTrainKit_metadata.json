@@ -1,0 +1,11 @@
+{
+  "name": "NepTrainKit",
+  "version": "2.5.4",
+  "summary": "NepTrainKit is a Python package for visualizing and manipulating training datasets for NEP.",
+  "author": "Chen Cheng bing",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "neptrainkit-2.5.4.tar.gz",
+  "download_time": "2025-08-24T05:20:52.304833",
+  "package_url": "https://pypi.org/project/NepTrainKit/"
+}
