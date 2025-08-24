@@ -1,11 +1,11 @@
 {
   "name": "gcsopt",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Library for solving optimization problems over Graphs of Convex Sets (GCS).",
   "author": "Tobia Marcucci",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gcsopt-0.1.1.tar.gz",
-  "download_time": "2025-08-23T19:39:50.981389",
+  "download_filename": "gcsopt-0.1.2.tar.gz",
+  "download_time": "2025-08-24T01:45:03.866398",
   "package_url": "https://pypi.org/project/gcsopt/"
 }

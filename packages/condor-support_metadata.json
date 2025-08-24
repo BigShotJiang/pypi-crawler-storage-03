@@ -1,0 +1,11 @@
+{
+  "name": "condor-support",
+  "version": "0.0.2",
+  "summary": "Utilities to analyze and fill gaps in omicron triggers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "condor_support-0.0.2.tar.gz",
+  "download_time": "2025-08-24T01:45:01.456319",
+  "package_url": "https://pypi.org/project/condor-support/"
+}

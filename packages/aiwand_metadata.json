@@ -1,0 +1,11 @@
+{
+  "name": "aiwand",
+  "version": "0.4.32",
+  "summary": "A simple AI toolkit for text processing using OpenAI and Gemini APIs",
+  "author": "Aman Kumar",
+  "license": null,
+  "home_page": "https://github.com/onlyoneaman/aiwand",
+  "download_filename": "aiwand-0.4.32.tar.gz",
+  "download_time": "2025-08-24T01:44:52.351810",
+  "package_url": "https://pypi.org/project/aiwand/"
+}

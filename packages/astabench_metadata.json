@@ -1,11 +1,11 @@
 {
   "name": "astabench",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astabench-0.1.1.tar.gz",
-  "download_time": "2025-08-21T22:30:57.260862",
+  "download_filename": "astabench-0.1.2.tar.gz",
+  "download_time": "2025-08-24T01:44:42.931118",
   "package_url": "https://pypi.org/project/astabench/"
 }

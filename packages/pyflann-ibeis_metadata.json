@@ -1,0 +1,11 @@
+{
+  "name": "pyflann-ibeis",
+  "version": "2.4.1",
+  "summary": "FLANN (for IBEIS) - Fast Library for Approximate Nearest Neighbors",
+  "author": "Jon Crall, Marius Muja",
+  "license": "BSD",
+  "home_page": "https://github.com/Erotemic/pyflann_ibeis",
+  "download_filename": "pyflann_ibeis-2.4.1.tar.gz",
+  "download_time": "2025-08-24T01:44:41.785352",
+  "package_url": "https://pypi.org/project/pyflann-ibeis/"
+}
