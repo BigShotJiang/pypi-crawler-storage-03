@@ -1,11 +1,11 @@
 {
   "name": "tunnelify",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A simple package for easily creating Cloudflare or Localtunnel tunnels.",
   "author": "Yusuf YILDIRIM",
   "license": null,
   "home_page": "https://github.com/MYusufY/tunnelify",
-  "download_filename": "tunnelify-0.2.0.tar.gz",
-  "download_time": "2025-08-21T10:57:31.663148",
+  "download_filename": "tunnelify-0.3.0.tar.gz",
+  "download_time": "2025-08-24T22:20:27.187585",
   "package_url": "https://pypi.org/project/tunnelify/"
 }

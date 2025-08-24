@@ -1,0 +1,11 @@
+{
+  "name": "sedd",
+  "version": "2.3.0",
+  "summary": "Unofficial, community-made tool for downloading the Stack Exchange data dumps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sedd-2.3.0.tar.gz",
+  "download_time": "2025-08-24T22:20:39.973000",
+  "package_url": "https://pypi.org/project/sedd/"
+}

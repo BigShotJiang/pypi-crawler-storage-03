@@ -1,11 +1,11 @@
 {
   "name": "kodexa-cli",
-  "version": "7.4.417159901856",
+  "version": "7.4.417194264363",
   "summary": "Command Line Tools for Kodexa",
   "author": "Austin Redenbaugh",
   "license": null,
   "home_page": null,
-  "download_filename": "kodexa_cli-7.4.417159901856.tar.gz",
-  "download_time": "2025-08-22T16:25:42.460800",
+  "download_filename": "kodexa_cli-7.4.417194264363.tar.gz",
+  "download_time": "2025-08-24T22:20:38.811363",
   "package_url": "https://pypi.org/project/kodexa-cli/"
 }

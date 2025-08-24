@@ -1,0 +1,11 @@
+{
+  "name": "nt-summary-stats",
+  "version": "0.1.3",
+  "summary": "Fast computation of traditional summary statistics for neutrino telescopes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nt_summary_stats-0.1.3.tar.gz",
+  "download_time": "2025-08-24T22:20:36.487700",
+  "package_url": "https://pypi.org/project/nt-summary-stats/"
+}

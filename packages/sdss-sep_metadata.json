@@ -1,0 +1,11 @@
+{
+  "name": "sdss-sep",
+  "version": "1.2.7",
+  "summary": "Astronomical source extraction and photometry library",
+  "author": "Kyle Barbary",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/kbarbary/sep",
+  "download_filename": "sdss_sep-1.2.7.tar.gz",
+  "download_time": "2025-08-24T22:20:30.655084",
+  "package_url": "https://pypi.org/project/sdss-sep/"
+}

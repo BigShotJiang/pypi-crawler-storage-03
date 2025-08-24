@@ -1,11 +1,11 @@
 {
   "name": "multiplayer-session-recorder",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "Multiplayer Session Recorder",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "multiplayer_session_recorder-1.0.4.tar.gz",
-  "download_time": "2025-08-24T21:53:17.745799",
+  "download_filename": "multiplayer_session_recorder-1.0.5.tar.gz",
+  "download_time": "2025-08-24T22:20:41.708304",
   "package_url": "https://pypi.org/project/multiplayer-session-recorder/"
 }
