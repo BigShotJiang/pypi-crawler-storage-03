@@ -1,0 +1,11 @@
+{
+  "name": "QTradeX",
+  "version": "1.1.0",
+  "summary": "AI-powered SDK featuring algorithmic trading, backtesting, deployment on 100+ exchanges, and multiple optimization engines.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK",
+  "download_filename": "qtradex-1.1.0.tar.gz",
+  "download_time": "2025-08-24T15:19:34.578176",
+  "package_url": "https://pypi.org/project/QTradeX/"
+}

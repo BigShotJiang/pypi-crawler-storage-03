@@ -1,0 +1,11 @@
+{
+  "name": "bf16-huffman-infer",
+  "version": "0.0.2",
+  "summary": "Fused BF16 Huffman GEMV Inference kernel",
+  "author": "lszxb",
+  "license": null,
+  "home_page": "https://github.com/lszxb/bf16_huffman_infer",
+  "download_filename": "bf16_huffman_infer-0.0.2.tar.gz",
+  "download_time": "2025-08-24T15:19:49.475768",
+  "package_url": "https://pypi.org/project/bf16-huffman-infer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "amsky01",
+  "version": "1.0.0",
+  "summary": "AMSKY01 Sensor Data Viewer - Real-time visualization of sensor data",
+  "author": "AstroMeters",
+  "license": "MIT",
+  "home_page": "https://github.com/AstroMeters/AMSKY01",
+  "download_filename": "amsky01-1.0.0.tar.gz",
+  "download_time": "2025-08-24T15:19:47.943836",
+  "package_url": "https://pypi.org/project/amsky01/"
+}

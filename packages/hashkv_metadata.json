@@ -1,0 +1,11 @@
+{
+  "name": "hashkv",
+  "version": "2025.8.241553",
+  "summary": "Async get/set helpers for string values under hashed Redis keys (with TTL).",
+  "author": "Eugene Evstafev",
+  "license": "MIT",
+  "home_page": "https://github.com/chigwell/hashkv",
+  "download_filename": "hashkv-2025.8.241553.tar.gz",
+  "download_time": "2025-08-24T15:19:49.991788",
+  "package_url": "https://pypi.org/project/hashkv/"
+}
