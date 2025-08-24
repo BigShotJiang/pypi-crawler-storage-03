@@ -1,11 +1,11 @@
 {
   "name": "torchrl-nightly",
-  "version": "2025.8.23",
+  "version": "2025.8.24",
   "summary": "A modular, primitive-first, python-first PyTorch library for Reinforcement Learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "torchrl_nightly-2025.8.23-cp310-cp310-macosx_10_9_universal2.whl",
-  "download_time": "2025-08-23T15:40:15.844301",
+  "download_filename": "torchrl_nightly-2025.8.24-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-08-24T15:41:17.073139",
   "package_url": "https://pypi.org/project/torchrl-nightly/"
 }

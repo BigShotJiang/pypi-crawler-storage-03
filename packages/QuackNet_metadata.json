@@ -1,0 +1,11 @@
+{
+  "name": "QuackNet",
+  "version": "1.5",
+  "summary": "A lightweight educational neural network library",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/SirQuackPng/QuackNet",
+  "download_filename": "quacknet-1.5.tar.gz",
+  "download_time": "2025-08-24T15:41:18.670464",
+  "package_url": "https://pypi.org/project/QuackNet/"
+}

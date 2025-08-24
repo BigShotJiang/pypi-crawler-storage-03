@@ -1,17 +1,53 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T15:20:04.680707
-- **Total Packages**: 74
-- **Total Size**: 17.67 MB
+- **Download Time**: 2025-08-24T15:41:40.736182
+- **Total Packages**: 73
+- **Total Size**: 25.61 MB
 
 ## Packages List
+- wagtail-feathers
+- quran-transcript
+- legit-api-client
+- bhumi
+- microservices-1-infra-clients
+- durusai-cli
+- ledlang
+- workspace-mcp
+- yeref
+- mjcf-urdf-simple-converter
+- aa-ledger
+- zlang
+- simpletransformers
+- agone
+- codearkt
+- kara_kanji_sync
+- m3s
+- pyezvizapi
 - whatsapp-api-connect
+- pydapter
+- opendht
+- keycard
+- queens
+- reywechat
+- sh-mod-loader
+- pylua-bioxen-vm-lib
+- blaxel
+- heron-ssl
+- wexample-helpers
+- gpfy
+- torchrl-nightly
+- Ara-imgui
+- fyodorov-utils
+- QuackNet
+- fyodorov-llm-agents
+- curl-cffi
+- ultralytics
+- testnewsdkwebdock
 - init-film
 - gufo-ping
 - justsdk
 - cnsbm
-- testnewsdkwebdock
 - appium-python-client-shadowstep
 - flexget
 - openfl-nightly
@@ -24,13 +60,10 @@
 - pastes
 - trade-strategy
 - QTradeX
-- zlang
-- reywechat
 - wsjt-all
 - wokki-chat-bot-client
 - phyelds
 - private-assistant-comms-satellite
-- infra-clients
 - hw-mcp-demo
 - pomni
 - certapi
@@ -38,7 +71,6 @@
 - grobid-client-python
 - deepteam
 - mlsauce
-- durusai-cli
 - trano
 - monggregate
 - docu-devs-api-client
@@ -47,36 +79,3 @@
 - pysme-astro
 - ray-embedding
 - batch-img
-- amsky01
-- DepthTensor
-- pyerrorhelper
-- bf16-huffman-infer
-- hashkv
-- speedtools
-- django-mail-model-template
-- new-python-sdk
-- ecomet-i2c-sensors
-- linkmerce
-- skais-mapper
-- pemexe
-- loading2
-- dash-mantine-components
-- niebla
-- mamushi
-- autisticstuff
-- voxcity
-- scietex.logging
-- geo-activity-playground
-- laser-mind-client
-- hashcounter
-- novatrace
-- delta-trace-db
-- xlstm
-- awsideman
-- Ara-core
-- ambade-test
-- bdd-tags-processor
-- inspect-ai
-- urban-mapper
-- pyrox-client
-- ngraph
