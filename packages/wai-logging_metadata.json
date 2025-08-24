@@ -1,11 +1,11 @@
 {
   "name": "wai-logging",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python library with helper methods for logging.",
   "author": "Peter Reutemann",
   "license": "MIT",
   "home_page": "https://github.com/waikato-datamining/wai-logging",
-  "download_filename": "wai_logging-0.0.4.tar.gz",
-  "download_time": "2025-08-24T22:20:19.878898",
+  "download_filename": "wai_logging-0.0.5.tar.gz",
+  "download_time": "2025-08-24T23:42:21.932234",
   "package_url": "https://pypi.org/project/wai-logging/"
 }

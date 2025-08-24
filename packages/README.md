@@ -1,20 +1,42 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T23:20:17.542400
-- **Total Packages**: 76
-- **Total Size**: 16.45 MB
+- **Download Time**: 2025-08-24T23:42:57.331856
+- **Total Packages**: 72
+- **Total Size**: 10.81 MB
 
 ## Packages List
+- zeroeval
+- service-ping-sping
+- devento
+- pydantic-encryption
+- lm-deluge
+- plsno429
+- wai-logging
+- argos3
+- PyQrackIsing
+- nv-ingest-client
+- Rubka
+- gptmodel
+- PyNinja
+- fast-alpr
+- pmarlo
+- braintrust
+- fastapi-custom-responses
+- allure-pytest-ext
+- ryutils
+- grpfpy
+- reasoning-deployment-service
+- ubo-app-raw-bindings
+- ubo-app-assistant
+- ubo-app
 - latexdl
 - typed-redis
 - tenxagent
 - grammdb
-- ryutils
 - iamdata
 - empowernow-common
 - agentex-sdk
-- reasoning-deployment-service
 - splurge-sql-generator
 - inferra
 - flwr-nightly
@@ -24,7 +46,6 @@
 - nominal-api-protos
 - nominal-api
 - cartography-client
-- fastapi-custom-responses
 - pymead
 - iLaplace
 - extradict
@@ -43,14 +64,12 @@
 - course-constraint-scheduler
 - mrapids
 - qbit-manage
-- allure-pytest-ext
 - agentsystems-sdk
 - ry-redis-bus
 - sensory-data-client
 - greenlamp
 - sqlmap-ai
 - fbusl
-- service-ping-sping
 - otary
 - SAMBA-ilum
 - tdrpa.tdworker
@@ -59,26 +78,3 @@
 - epijats
 - astabench
 - libreriajuan
-- cfbd
-- HoloLink
-- lm-deluge
-- supermemory
-- chaukas-spec-server
-- chaukas-spec-client
-- z8ter
-- yttran
-- wai-logging
-- pyrend
-- delta-trace-db
-- novatrace
-- workbench
-- listpick
-- aiwand
-- owlib
-- imdbinfo
-- tunnelify
-- vllm-cli
-- triggon
-- moto
-- coded-flows
-- abstractrepo-sqlalchemy

@@ -1,0 +1,11 @@
+{
+  "name": "plsno429",
+  "version": "0.2.2",
+  "summary": "A tiny Python library that politely says pls no 429 by auto-handling OpenAI rate limits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plsno429-0.2.2.tar.gz",
+  "download_time": "2025-08-24T23:42:21.347496",
+  "package_url": "https://pypi.org/project/plsno429/"
+}
