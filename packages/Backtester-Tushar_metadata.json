@@ -1,11 +1,11 @@
 {
   "name": "Backtester-Tushar",
-  "version": "0.4.1",
+  "version": "0.4.5",
   "summary": "Backtesting Package",
   "author": "Tushar Sarkar",
   "license": null,
   "home_page": "https://github.com/tusharsarkar3/Backtester_Tushar",
-  "download_filename": "backtester_tushar-0.4.1.tar.gz",
-  "download_time": "2025-08-24T12:39:02.029450",
+  "download_filename": "backtester_tushar-0.4.5.tar.gz",
+  "download_time": "2025-08-24T13:15:32.676383",
   "package_url": "https://pypi.org/project/Backtester-Tushar/"
 }

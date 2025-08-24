@@ -1,11 +1,11 @@
 {
   "name": "neuronum",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "summary": "Official client library to interact with the Neuronum Network",
   "author": "Neuronum Cybernetics",
   "license": null,
   "home_page": "https://neuronum.net",
-  "download_filename": "neuronum-6.0.0.tar.gz",
-  "download_time": "2025-08-23T08:47:34.363009",
+  "download_filename": "neuronum-6.0.1.tar.gz",
+  "download_time": "2025-08-24T13:15:41.365431",
   "package_url": "https://pypi.org/project/neuronum/"
 }

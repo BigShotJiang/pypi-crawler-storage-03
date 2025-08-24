@@ -1,0 +1,11 @@
+{
+  "name": "UFOpticSim",
+  "version": "0.1",
+  "summary": "Ultra Fast Optics Simulations with Python3",
+  "author": "Anirudh Yamunan Govindarajan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "UFOpticSim-0.1.tar.gz",
+  "download_time": "2025-08-24T13:15:39.701676",
+  "package_url": "https://pypi.org/project/UFOpticSim/"
+}

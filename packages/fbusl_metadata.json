@@ -1,11 +1,11 @@
 {
   "name": "fbusl",
-  "version": "0.5.28",
+  "version": "0.5.29",
   "summary": null,
   "author": "Oliver Morrison",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fbusl-0.5.28.tar.gz",
-  "download_time": "2025-08-24T11:16:58.395910",
+  "download_filename": "fbusl-0.5.29.tar.gz",
+  "download_time": "2025-08-24T13:15:52.041336",
   "package_url": "https://pypi.org/project/fbusl/"
 }

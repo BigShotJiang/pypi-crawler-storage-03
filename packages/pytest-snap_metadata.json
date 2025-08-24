@@ -1,11 +1,11 @@
 {
   "name": "pytest-snap",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "A text-based snapshot testing library implemented as a pytest plugin",
   "author": "Mario Theers",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_snap-0.1.0.tar.gz",
-  "download_time": "2025-08-20T20:22:26.791004",
+  "download_filename": "pytest_snap-0.2.1.tar.gz",
+  "download_time": "2025-08-24T13:15:40.340700",
   "package_url": "https://pypi.org/project/pytest-snap/"
 }
