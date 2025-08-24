@@ -1,11 +1,11 @@
 {
   "name": "trade-strategy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python package for analyzing investment portfolios, including using quantitative methods like the efficient frontier for calculations an optimal asset allocation strategy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trade_strategy-0.1.1.tar.gz",
-  "download_time": "2025-08-24T16:23:55.321841",
+  "download_filename": "trade_strategy-0.1.2.tar.gz",
+  "download_time": "2025-08-24T16:56:53.385061",
   "package_url": "https://pypi.org/project/trade-strategy/"
 }

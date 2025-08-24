@@ -1,0 +1,11 @@
+{
+  "name": "StempelWerk",
+  "version": "1.1.0",
+  "summary": "Automatic code generation from Jinja2 templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stempelwerk-1.1.0.tar.gz",
+  "download_time": "2025-08-24T16:56:44.341151",
+  "package_url": "https://pypi.org/project/StempelWerk/"
+}

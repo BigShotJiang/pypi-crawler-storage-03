@@ -1,11 +1,11 @@
 {
   "name": "qkdpy",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A Python Package for Quantum Key Distribution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qkdpy-0.2.6.tar.gz",
-  "download_time": "2025-08-24T16:46:10.733851",
+  "download_filename": "qkdpy-0.2.7.tar.gz",
+  "download_time": "2025-08-24T16:56:52.232073",
   "package_url": "https://pypi.org/project/qkdpy/"
 }
