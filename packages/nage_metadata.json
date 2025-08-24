@@ -1,11 +1,11 @@
 {
   "name": "nage",
-  "version": "1.1.0",
-  "summary": "A free AI tool",
+  "version": "1.1.1",
+  "summary": "A free AI assistant by 0x3st.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nage-1.1.0.tar.gz",
-  "download_time": "2025-08-23T15:19:54.189665",
+  "download_filename": "nage-1.1.1.tar.gz",
+  "download_time": "2025-08-24T09:53:10.505461",
   "package_url": "https://pypi.org/project/nage/"
 }

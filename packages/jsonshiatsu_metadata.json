@@ -1,11 +1,11 @@
 {
   "name": "jsonshiatsu",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "A therapeutic JSON parser that gently massages malformed JSON into shape",
   "author": "Jost Brandstetter",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jsonshiatsu-0.1.0.tar.gz",
-  "download_time": "2025-08-18T09:26:20.500921",
+  "download_filename": "jsonshiatsu-0.2.1.tar.gz",
+  "download_time": "2025-08-24T09:53:35.103786",
   "package_url": "https://pypi.org/project/jsonshiatsu/"
 }

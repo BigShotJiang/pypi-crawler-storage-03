@@ -1,11 +1,11 @@
 {
   "name": "httpcore_request",
-  "version": "0.0.4.1",
+  "version": "0.0.5",
   "summary": "httpcore request extension.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/httpcore_request",
-  "download_filename": "httpcore_request-0.0.4.1.tar.gz",
-  "download_time": "2025-08-19T22:20:55.093575",
+  "download_filename": "httpcore_request-0.0.5.tar.gz",
+  "download_time": "2025-08-24T09:53:36.743262",
   "package_url": "https://pypi.org/project/httpcore_request/"
 }

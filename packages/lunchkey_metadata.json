@@ -1,0 +1,11 @@
+{
+  "name": "lunchkey",
+  "version": "0.1.0",
+  "summary": "Control Novation Launchkey MIDI keyboard with LED animations and MIDI functionality",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lunchkey-0.1.0.tar.gz",
+  "download_time": "2025-08-24T09:53:08.824691",
+  "package_url": "https://pypi.org/project/lunchkey/"
+}
