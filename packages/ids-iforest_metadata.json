@@ -1,0 +1,11 @@
+{
+  "name": "ids-iforest",
+  "version": "0.1.0",
+  "summary": "Network intrusion detection system based on Isolation Forest and PyShark",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ids_iforest-0.1.0.tar.gz",
+  "download_time": "2025-08-24T13:53:39.426078",
+  "package_url": "https://pypi.org/project/ids-iforest/"
+}

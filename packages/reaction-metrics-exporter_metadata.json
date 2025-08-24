@@ -1,11 +1,11 @@
 {
   "name": "reaction-metrics-exporter",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A daemon that scans reaction outputs, and serves an HTTP OpenMetrics endpoint",
   "author": "Lilou",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "reaction_metrics_exporter-0.2.7.tar.gz",
-  "download_time": "2025-08-17T14:41:37.586256",
+  "download_filename": "reaction_metrics_exporter-0.2.8.tar.gz",
+  "download_time": "2025-08-24T13:53:42.260459",
   "package_url": "https://pypi.org/project/reaction-metrics-exporter/"
 }
