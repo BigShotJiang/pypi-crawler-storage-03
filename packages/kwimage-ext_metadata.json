@@ -1,0 +1,11 @@
+{
+  "name": "kwimage-ext",
+  "version": "0.2.2",
+  "summary": "The kwimage_ext module",
+  "author": "['Kitware Inc.', 'Jon Crall']",
+  "license": "Apache 2",
+  "home_page": "https://gitlab.kitware.com/computer-vision/kwimage_ext",
+  "download_filename": "kwimage_ext-0.2.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-08-24T04:28:41.020754",
+  "package_url": "https://pypi.org/project/kwimage-ext/"
+}

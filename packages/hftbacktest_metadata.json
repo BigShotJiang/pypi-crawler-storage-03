@@ -1,0 +1,11 @@
+{
+  "name": "hftbacktest",
+  "version": "2.4.2",
+  "summary": "A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hftbacktest-2.4.2.tar.gz",
+  "download_time": "2025-08-24T04:28:36.562666",
+  "package_url": "https://pypi.org/project/hftbacktest/"
+}
