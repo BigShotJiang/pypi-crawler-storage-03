@@ -1,11 +1,11 @@
 {
   "name": "pastes",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "summary": "Minimalistic Python client for pastes.dev",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pastes-1.4.2.tar.gz",
-  "download_time": "2025-08-23T11:41:08.638188",
+  "download_filename": "pastes-1.5.0.tar.gz",
+  "download_time": "2025-08-24T11:29:49.873798",
   "package_url": "https://pypi.org/project/pastes/"
 }

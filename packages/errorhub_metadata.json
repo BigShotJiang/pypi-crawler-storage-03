@@ -1,11 +1,11 @@
 {
   "name": "errorhub",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Error and Exception Handling lib",
   "author": "Yash Pakhale",
   "license": null,
   "home_page": "https://github.com/unfettered-one/Error-Hub.git",
-  "download_filename": "errorhub-0.1.8.tar.gz",
-  "download_time": "2025-08-20T20:22:12.586463",
+  "download_filename": "errorhub-0.1.9.tar.gz",
+  "download_time": "2025-08-24T11:29:57.684801",
   "package_url": "https://pypi.org/project/errorhub/"
 }

@@ -1,16 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T11:17:28.394732
-- **Total Packages**: 65
-- **Total Size**: 15.54 MB
+- **Download Time**: 2025-08-24T11:30:24.467714
+- **Total Packages**: 68
+- **Total Size**: 12.76 MB
 
 ## Packages List
+- mcp-sqlserver-filesystem
+- agenticaiframework
+- torchx-nightly
+- airflow-chat
+- pranky-mailer
+- pastes
+- caterpillar-py
+- canvas
+- basepak
+- yt-ts-extract
+- fraudcrawler
+- fetchtastic
+- durusai-cli
+- bassa-reg
+- ml-agents-reasoning
+- mwxlib
+- claude-cto
+- abstract-ide
+- errorhub
+- kreuzberg
 - azpytools
 - fast-gitingest
 - biliup-mysql-1
 - tb-nightly
-- agenticaiframework
 - whl-conf
 - agentic-blocks
 - hikari-lightbulb
@@ -18,28 +37,21 @@
 - mcdreforged
 - autohack-next
 - legit-api-client
-- durusai-cli
 - bedrock-server-manager
-- basepak
 - emta
 - logngraph
-- claude-cto
 - griffe2md
 - akshare
-- pastes
 - biliup-mysql
 - chutes
 - async-queue-manager
-- mcp-sqlserver-filesystem
 - librestats
-- fraudcrawler
 - linkd
 - shraga-common
 - mon-tokenizer
 - pymud
 - kgrv
 - knoxcraft
-- ml-agents-reasoning
 - mcp-cd-youth
 - higgs-kernels
 - amusic
@@ -62,12 +74,3 @@
 - avl-axi-stream
 - abstractrepo
 - morten
-- pranky-mailer
-- pyrite-mx
-- boabem
-- orion-finance-sdk
-- abstractrepo-sqlalchemy
-- rediacc
-- karrio-veho
-- karrio-tge
-- karrio-shipengine
