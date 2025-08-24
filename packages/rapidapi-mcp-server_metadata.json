@@ -1,11 +1,11 @@
 {
   "name": "rapidapi-mcp-server",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "RapidAPI marketplace discovery and assessment MCP server using undetected-chromedriver for anti-bot detection bypass",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rapidapi_mcp_server-1.0.0.tar.gz",
-  "download_time": "2025-08-23T22:42:34.799552",
+  "download_filename": "rapidapi_mcp_server-1.2.0.tar.gz",
+  "download_time": "2025-08-24T22:54:17.558177",
   "package_url": "https://pypi.org/project/rapidapi-mcp-server/"
 }

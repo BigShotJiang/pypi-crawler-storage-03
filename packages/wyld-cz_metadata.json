@@ -1,0 +1,11 @@
+{
+  "name": "wyld-cz",
+  "version": "0.1.0",
+  "summary": "A custom rules sets for commitizen",
+  "author": "zombig",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wyld_cz-0.1.0.tar.gz",
+  "download_time": "2025-08-24T22:54:15.740906",
+  "package_url": "https://pypi.org/project/wyld-cz/"
+}
