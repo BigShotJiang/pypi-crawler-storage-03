@@ -1,11 +1,11 @@
 {
   "name": "passagemath-homfly",
-  "version": "10.6.7",
+  "version": "10.6.8",
   "summary": "passagemath: Homfly polynomials of knots/links with libhomfly",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_homfly-10.6.7-cp310-cp310-win_amd64.whl",
-  "download_time": "2025-08-21T07:51:57.118014",
+  "download_filename": "passagemath_homfly-10.6.8-cp310-cp310-win_amd64.whl",
+  "download_time": "2025-08-24T06:51:35.808588",
   "package_url": "https://pypi.org/project/passagemath-homfly/"
 }

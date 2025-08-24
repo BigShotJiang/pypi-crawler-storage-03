@@ -1,11 +1,11 @@
 {
   "name": "evalsync",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "evalsync is a library used to synchronize applications under benchmark with an external manager",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "evalsync-0.5.0.tar.gz",
-  "download_time": "2025-08-23T21:18:11.011794",
+  "download_filename": "evalsync-0.6.0.tar.gz",
+  "download_time": "2025-08-24T06:51:24.381384",
   "package_url": "https://pypi.org/project/evalsync/"
 }

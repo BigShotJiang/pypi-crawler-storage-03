@@ -1,11 +1,11 @@
 {
   "name": "undetected-chrome-mcp-server",
-  "version": "1.0.0",
-  "summary": "Undetected ChromeDriver MCP server for enhanced browser automation with anti-detection capabilities",
+  "version": "1.1.0",
+  "summary": "Undetected ChromeDriver MCP server with network traffic monitoring for enhanced browser automation with anti-detection capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "undetected_chrome_mcp_server-1.0.0.tar.gz",
-  "download_time": "2025-08-22T20:54:51.275306",
+  "download_filename": "undetected_chrome_mcp_server-1.1.0.tar.gz",
+  "download_time": "2025-08-24T06:51:30.089811",
   "package_url": "https://pypi.org/project/undetected-chrome-mcp-server/"
 }
