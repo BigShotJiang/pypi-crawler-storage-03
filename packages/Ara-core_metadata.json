@@ -1,11 +1,11 @@
 {
   "name": "Ara-core",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Lightweight minimalistic Ara framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ara_core-1.1.0.tar.gz",
-  "download_time": "2025-08-24T14:18:46.028762",
+  "download_filename": "ara_core-1.1.1.tar.gz",
+  "download_time": "2025-08-24T14:42:02.689387",
   "package_url": "https://pypi.org/project/Ara-core/"
 }

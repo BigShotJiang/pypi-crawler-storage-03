@@ -1,11 +1,11 @@
 {
   "name": "bdd-tags-processor",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Filter Cucumber BDD Feature files based on Scenario Tag expressions",
   "author": "QA Rampage",
   "license": "GPL-3.0-or-later",
   "home_page": "https://github.com/qarampage/bdd-tags-processor",
-  "download_filename": "bdd_tags_processor-0.2.1.tar.gz",
-  "download_time": "2025-08-24T08:55:41.420254",
+  "download_filename": "bdd_tags_processor-0.2.2.tar.gz",
+  "download_time": "2025-08-24T14:42:03.712046",
   "package_url": "https://pypi.org/project/bdd-tags-processor/"
 }

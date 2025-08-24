@@ -1,0 +1,11 @@
+{
+  "name": "crosslab-soa-service-webcam",
+  "version": "0.4.0",
+  "summary": "The CrossLab SOA Webcam Service.",
+  "author": "Johannes Nau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crosslab_soa_service_webcam-0.4.0.tar.gz",
+  "download_time": "2025-08-24T14:42:08.346736",
+  "package_url": "https://pypi.org/project/crosslab-soa-service-webcam/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ambade-test",
+  "version": "0.1.0",
+  "summary": "Client for Ambade embedding API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ambade_test-0.1.0.tar.gz",
+  "download_time": "2025-08-24T14:42:03.201069",
+  "package_url": "https://pypi.org/project/ambade-test/"
+}

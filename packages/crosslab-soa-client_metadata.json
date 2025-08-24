@@ -1,0 +1,11 @@
+{
+  "name": "crosslab-soa-client",
+  "version": "0.4.0",
+  "summary": "The CrossLab SOA Client",
+  "author": "Johannes Nau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crosslab_soa_client-0.4.0.tar.gz",
+  "download_time": "2025-08-24T14:42:11.427824",
+  "package_url": "https://pypi.org/project/crosslab-soa-client/"
+}

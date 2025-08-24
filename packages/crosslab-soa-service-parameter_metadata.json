@@ -1,0 +1,11 @@
+{
+  "name": "crosslab-soa-service-parameter",
+  "version": "0.4.0",
+  "summary": "The CrossLab SOA parameter Service.",
+  "author": "Johannes Nau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "crosslab_soa_service_parameter-0.4.0.tar.gz",
+  "download_time": "2025-08-24T14:42:09.368930",
+  "package_url": "https://pypi.org/project/crosslab-soa-service-parameter/"
+}
