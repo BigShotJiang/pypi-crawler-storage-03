@@ -1,0 +1,11 @@
+{
+  "name": "airflow-provider-ibm-db2",
+  "version": "0.1.0",
+  "summary": "Apache Airflow provider for IBM Db2 (Hook + Operators, ibm_db_dbi with pyodbc fallback)",
+  "author": "Armando Rodriguez",
+  "license": "MIT License\n        \n        Copyright (c) 2025\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        ... (truncated for brevity in this context) ...",
+  "home_page": null,
+  "download_filename": "airflow_provider_ibm_db2-0.1.0.tar.gz",
+  "download_time": "2025-08-24T03:58:18.398773",
+  "package_url": "https://pypi.org/project/airflow-provider-ibm-db2/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-software-company",
+  "version": "0.1.1",
+  "summary": "A model context protocol server to create software projects by following the workflow of a software company",
+  "author": "OptimusAI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_software_company-0.1.1.tar.gz",
+  "download_time": "2025-08-24T03:58:25.365723",
+  "package_url": "https://pypi.org/project/mcp-software-company/"
+}
