@@ -1,11 +1,11 @@
 {
   "name": "new-python-sdk",
-  "version": "1.0.0",
+  "version": "5.0.3",
   "summary": "Webdock Python SDK",
   "author": "ahmad",
   "license": null,
   "home_page": null,
-  "download_filename": "new_python_sdk-1.0.0-py3-none-any.whl",
-  "download_time": "2025-08-24T13:53:36.141923",
+  "download_filename": "new_python_sdk-5.0.3.tar.gz",
+  "download_time": "2025-08-24T14:18:39.030183",
   "package_url": "https://pypi.org/project/new-python-sdk/"
 }

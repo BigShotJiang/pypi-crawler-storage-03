@@ -1,0 +1,11 @@
+{
+  "name": "toynet-ml",
+  "version": "1.0.0",
+  "summary": "An educational but robust deep learning framework implemented from scratch using NumPy.",
+  "author": "Maciej Kmieć",
+  "license": null,
+  "home_page": null,
+  "download_filename": "toynet_ml-1.0.0.tar.gz",
+  "download_time": "2025-08-24T14:18:56.918719",
+  "package_url": "https://pypi.org/project/toynet-ml/"
+}
