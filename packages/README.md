@@ -1,11 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T11:42:21.329661
-- **Total Packages**: 84
-- **Total Size**: 57.69 MB
+- **Download Time**: 2025-08-24T11:53:35.165905
+- **Total Packages**: 89
+- **Total Size**: 13.26 MB
 
 ## Packages List
+- mcp-server-bb
+- fraudcrawler
+- mcp-postgresql-ops
+- gnssir-rt
+- maleo-metadata
+- zlang
+- vimgolf-gym
+- logngraph
+- retrotx
+- mcp-airflow-api
+- taranis-models
+- frpclnt
+- job-worth-calculator-mcp
+- passagemath-topcom
+- passagemath-tdlib
+- frogml
+- passagemath-tachyon
+- passagemath-sympow
+- passagemath-symbolics
+- passagemath-sirocco
+- passagemath-singular
+- passagemath-schemes
+- mq-python
+- passagemath-rubiks
+- passagemath-qepcad
+- passagemath-polyhedra
+- passagemath-plantri
+- graph-games-proto
+- liquidnn
+- passagemath-pari
+- passagemath-palp
+- passagemath-ntl
+- passagemath-nauty
+- passagemath-msolve
+- passagemath-meataxe
+- passagemath-mcqd
 - passagemath-maxima
 - passagemath-macaulay2
 - passagemath-lrslib
@@ -30,17 +66,26 @@
 - passagemath-frobby
 - passagemath-pari-seadata-small
 - passagemath-fricas
+- passagemath-pari-seadata-big
 - passagemath-flint
+- passagemath-pari-seadata
 - passagemath-pari-nftables
 - passagemath-eclib
 - passagemath-pari-nflistdata
 - passagemath-ecl
+- passagemath-pari-galpol
 - passagemath-docbuild
 - Backtester-Tushar
 - passagemath-pari-galdata
 - passagemath-doc-pdf
+- passagemath-pari-elldata
 - passagemath-doc-html
+- passagemath-gap-pkg-transgrp-data
 - passagemath-database-polytopes-4d
+- passagemath-gap-pkg-tomlib-data
+- passagemath-gap-pkg-smallgrp-data
+- passagemath-gap-pkg-primgrp-data
+- passagemath-gap-pkg-irredsol-data
 - passagemath-database-cremona-ellcurve
 - passagemath-gap-pkg-factint-data
 - passagemath-coxeter3
@@ -48,45 +93,5 @@
 - passagemath-conf
 - passagemath-environment
 - passagemath-database-symbolic-data
+- passagemath-database-odlyzko-zeta
 - passagemath-database-mutation-class
-- passagemath-database-jones-numfield
-- passagemath-buckygen
-- passagemath-database-cunningham
-- passagemath-brial
-- passagemath-bliss
-- passagemath-benzene
-- OncoDCA
-- torchzero
-- pretix-wallet
-- delta-trace-db
-- inferra
-- wsjt-all
-- pretix-uic-barcode
-- ros2em
-- naplexer
-- mcp-sqlserver-filesystem
-- legit-api-client
-- koder
-- logngraph
-- common-sense
-- agenticaiframework
-- torchx-nightly
-- airflow-chat
-- pranky-mailer
-- pastes
-- caterpillar-py
-- canvas
-- basepak
-- yt-ts-extract
-- fraudcrawler
-- fetchtastic
-- durusai-cli
-- bassa-reg
-- ml-agents-reasoning
-- mwxlib
-- claude-cto
-- abstract-ide
-- errorhub
-- kreuzberg
-- azpytools
-- fast-gitingest

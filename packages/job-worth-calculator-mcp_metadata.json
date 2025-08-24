@@ -1,0 +1,11 @@
+{
+  "name": "job-worth-calculator-mcp",
+  "version": "1.0.0",
+  "summary": "基于worth-calculator的全面工作性价比计算MCP工具",
+  "author": "AI助手",
+  "license": null,
+  "home_page": "https://github.com/ai/job-worth-calculator-mcp",
+  "download_filename": "job_worth_calculator_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-24T11:52:54.297048",
+  "package_url": "https://pypi.org/project/job-worth-calculator-mcp/"
+}
