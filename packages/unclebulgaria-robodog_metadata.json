@@ -1,11 +1,11 @@
 {
   "name": "unclebulgaria-robodog",
-  "version": "2.6.2",
+  "version": "2.6.3",
   "summary": "Robodog",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unclebulgaria_robodog-2.6.2.tar.gz",
-  "download_time": "2025-08-24T03:58:13.101487",
+  "download_filename": "unclebulgaria_robodog-2.6.3.tar.gz",
+  "download_time": "2025-08-24T05:53:34.175435",
   "package_url": "https://pypi.org/project/unclebulgaria-robodog/"
 }

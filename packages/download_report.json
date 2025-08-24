@@ -1,8 +1,18 @@
 {
-  "download_time": "2025-08-24T05:43:51.221795",
-  "total_packages_downloaded": 80,
-  "total_size_mb": 13.38,
+  "download_time": "2025-08-24T05:54:13.107277",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 4.21,
   "packages": [
+    "runbooks",
+    "ork.build",
+    "rp",
+    "sfq",
+    "fbusl",
+    "maxs",
+    "unclebulgaria-robodog",
+    "entari-plugin-database",
+    "deepface-antispoofing",
+    "routelit",
     "stimupy",
     "bluer-ai",
     "bluer-ugv",
@@ -13,7 +23,6 @@
     "hyperchoron",
     "library",
     "robhan-cdk-lib.aws-grafana",
-    "rp",
     "robhan-cdk-lib.aws-aps",
     "llama-index-llms-bedrock-converse",
     "apicache-cli-av",
@@ -74,14 +83,6 @@
     "z8ter",
     "cosmoGW",
     "pypomes-jwt",
-    "benchmark-runner",
-    "awt",
-    "embedded-jsonl-db-engine",
-    "docutranslate",
-    "pympebm",
-    "keras-nlp-nightly",
-    "keras-hub-nightly",
-    "abiftool",
-    "tradata-core"
+    "benchmark-runner"
   ]
 }
