@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-intl-en",
-  "version": "3.0.1263",
+  "version": "3.0.1264",
   "summary": "Tencent Cloud SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python-intl-en",
-  "download_filename": "tencentcloud-sdk-python-intl-en-3.0.1263.tar.gz",
-  "download_time": "2025-08-22T05:20:29.711991",
+  "download_filename": "tencentcloud-sdk-python-intl-en-3.0.1264.tar.gz",
+  "download_time": "2025-08-24T20:53:47.933264",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-intl-en/"
 }

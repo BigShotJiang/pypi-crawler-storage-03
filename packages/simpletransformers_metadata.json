@@ -1,11 +1,11 @@
 {
   "name": "simpletransformers",
-  "version": "0.70.2",
+  "version": "0.70.3",
   "summary": "An easy-to-use wrapper library for the Transformers library.",
   "author": "Thilina Rajapakse",
   "license": null,
   "home_page": "https://github.com/ThilinaRajapakse/simpletransformers/",
-  "download_filename": "simpletransformers-0.70.2.tar.gz",
-  "download_time": "2025-08-24T15:41:07.458297",
+  "download_filename": "simpletransformers-0.70.3.tar.gz",
+  "download_time": "2025-08-24T20:53:50.845407",
   "package_url": "https://pypi.org/project/simpletransformers/"
 }
