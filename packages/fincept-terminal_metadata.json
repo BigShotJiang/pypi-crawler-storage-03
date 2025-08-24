@@ -1,0 +1,11 @@
+{
+  "name": "fincept-terminal",
+  "version": "2.0.7",
+  "summary": "A Terminal for Financial Market Analysis and Fetching all kinds of Data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fincept_terminal-2.0.7.tar.gz",
+  "download_time": "2025-08-24T04:48:43.187899",
+  "package_url": "https://pypi.org/project/fincept-terminal/"
+}

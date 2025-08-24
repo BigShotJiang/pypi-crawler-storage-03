@@ -1,11 +1,11 @@
 {
   "name": "shekar",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "Simplifying Persian NLP for Modern Applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shekar-0.1.23.tar.gz",
-  "download_time": "2025-08-17T22:43:06.613958",
+  "download_filename": "shekar-0.1.24.tar.gz",
+  "download_time": "2025-08-24T04:48:44.333567",
   "package_url": "https://pypi.org/project/shekar/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sshc.py",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "一個支援 GUI 的 ssh 客戶端。",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sshc_py-1.0.tar.gz",
-  "download_time": "2025-08-23T03:36:36.815251",
+  "download_filename": "sshc_py-1.1.tar.gz",
+  "download_time": "2025-08-24T04:48:48.372845",
   "package_url": "https://pypi.org/project/sshc.py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "empathi",
+  "version": "1.0.6",
+  "summary": "An embedding-based phage protein annotation tool by hierarchical assignment",
+  "author": "Alexandre Boulay, Clovis Galiez, Elsa Rousseau",
+  "license": null,
+  "home_page": null,
+  "download_filename": "empathi-1.0.6.tar.gz",
+  "download_time": "2025-08-24T04:48:42.597797",
+  "package_url": "https://pypi.org/project/empathi/"
+}

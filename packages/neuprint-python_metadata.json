@@ -1,0 +1,11 @@
+{
+  "name": "neuprint-python",
+  "version": "0.5.2",
+  "summary": "Python client utilties for interacting with the neuPrint connectome analysis service",
+  "author": "Stuart Berg",
+  "license": null,
+  "home_page": "https://github.com/connectome-neuprint/neuprint-python",
+  "download_filename": "neuprint_python-0.5.2.tar.gz",
+  "download_time": "2025-08-24T04:48:46.079688",
+  "package_url": "https://pypi.org/project/neuprint-python/"
+}

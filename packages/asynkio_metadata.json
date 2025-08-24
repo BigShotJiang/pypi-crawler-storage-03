@@ -1,11 +1,11 @@
 {
   "name": "asynkio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Tokio-like functionality for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asynkio-0.0.1.tar.gz",
-  "download_time": "2025-08-24T04:28:35.994148",
+  "download_filename": "asynkio-0.0.2.tar.gz",
+  "download_time": "2025-08-24T04:48:50.065678",
   "package_url": "https://pypi.org/project/asynkio/"
 }
