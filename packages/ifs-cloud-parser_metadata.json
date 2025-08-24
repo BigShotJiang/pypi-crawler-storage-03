@@ -1,11 +1,11 @@
 {
   "name": "ifs-cloud-parser",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "A parser for IFS Cloud source code, made with tree-sitter. Tested on the entire 25.1.0 code-base with 100% success rate. Native support for SQL included.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ifs_cloud_parser-0.1.6.tar.gz",
-  "download_time": "2025-08-24T18:27:39.525619",
+  "download_filename": "ifs_cloud_parser-0.2.0.tar.gz",
+  "download_time": "2025-08-24T18:49:20.006906",
   "package_url": "https://pypi.org/project/ifs-cloud-parser/"
 }

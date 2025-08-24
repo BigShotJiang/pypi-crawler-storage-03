@@ -1,11 +1,11 @@
 {
   "name": "minecraft-nbt-editor",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A Python-based Minecraft NBT editor supporting Bedrock editions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "minecraft_nbt_editor-0.2.1.tar.gz",
-  "download_time": "2025-08-19T17:41:38.630142",
+  "download_filename": "minecraft_nbt_editor-0.3.0.tar.gz",
+  "download_time": "2025-08-24T18:49:26.720191",
   "package_url": "https://pypi.org/project/minecraft-nbt-editor/"
 }

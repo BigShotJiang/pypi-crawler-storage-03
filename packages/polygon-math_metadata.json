@@ -1,11 +1,11 @@
 {
   "name": "polygon-math",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "summary": "Calculate geometric properties of arbitrary 2D polygons",
   "author": "Gerrit Nowald",
   "license": null,
   "home_page": "https://github.com/gerritnowald/polygon",
-  "download_filename": "polygon_math-1.3.2.tar.gz",
-  "download_time": "2025-08-24T18:27:32.287934",
+  "download_filename": "polygon_math-1.3.3.tar.gz",
+  "download_time": "2025-08-24T18:49:17.444970",
   "package_url": "https://pypi.org/project/polygon-math/"
 }
