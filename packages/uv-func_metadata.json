@@ -1,0 +1,11 @@
+{
+  "name": "uv-func",
+  "version": "0.1.1",
+  "summary": "A package to run functions within dedicated UV Python environments.",
+  "author": "Reda Oulbacha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_func-0.1.1.tar.gz",
+  "download_time": "2025-08-24T18:27:57.550123",
+  "package_url": "https://pypi.org/project/uv-func/"
+}

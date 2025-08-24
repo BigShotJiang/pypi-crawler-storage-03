@@ -1,11 +1,11 @@
 {
   "name": "clipassman",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "summary": "Cross-platform console Smart Password manager and generator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clipassman-0.7.4.tar.gz",
-  "download_time": "2025-08-24T17:52:59.171208",
+  "download_filename": "clipassman-0.7.5.tar.gz",
+  "download_time": "2025-08-24T18:27:54.475747",
   "package_url": "https://pypi.org/project/clipassman/"
 }

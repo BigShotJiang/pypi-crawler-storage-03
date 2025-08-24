@@ -1,11 +1,11 @@
 {
   "name": "merobox",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "summary": "A Python CLI tool for managing Calimero nodes in Docker containers",
   "author": "Merobox Team",
   "license": null,
   "home_page": "https://github.com/merobox/merobox",
-  "download_filename": "merobox-0.1.17.tar.gz",
-  "download_time": "2025-08-24T10:20:53.695772",
+  "download_filename": "merobox-0.1.18.tar.gz",
+  "download_time": "2025-08-24T18:27:44.679333",
   "package_url": "https://pypi.org/project/merobox/"
 }

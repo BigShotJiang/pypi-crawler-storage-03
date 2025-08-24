@@ -1,11 +1,11 @@
 {
   "name": "lukhed-sports",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "A collection of sports analysis utility functions and API wrappers",
   "author": "lukhed",
   "license": null,
   "home_page": "https://github.com/lukhed/lukhed_sports",
-  "download_filename": "lukhed_sports-0.9.3.tar.gz",
-  "download_time": "2025-08-24T16:46:08.619231",
+  "download_filename": "lukhed_sports-0.9.4.tar.gz",
+  "download_time": "2025-08-24T18:27:35.895771",
   "package_url": "https://pypi.org/project/lukhed-sports/"
 }

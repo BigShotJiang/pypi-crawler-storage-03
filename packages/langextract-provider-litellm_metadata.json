@@ -1,0 +1,11 @@
+{
+  "name": "langextract-provider-litellm",
+  "version": "0.1.1",
+  "summary": "LangExtract provider plugin for LiteLLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langextract_provider_litellm-0.1.1.tar.gz",
+  "download_time": "2025-08-24T18:27:45.705322",
+  "package_url": "https://pypi.org/project/langextract-provider-litellm/"
+}
