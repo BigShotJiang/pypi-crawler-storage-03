@@ -1,0 +1,11 @@
+{
+  "name": "boabem",
+  "version": "0.2.0",
+  "summary": "Python bindings for the Rust crate 'boa', an embeddable JavaScript engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boabem-0.2.0.tar.gz",
+  "download_time": "2025-08-24T10:43:50.191521",
+  "package_url": "https://pypi.org/project/boabem/"
+}

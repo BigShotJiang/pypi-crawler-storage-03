@@ -1,11 +1,11 @@
 {
   "name": "chaindl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Download crypto on-chain data with a single line of code ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chaindl-0.1.0.tar.gz",
-  "download_time": "2025-08-22T05:43:20.297874",
+  "download_filename": "chaindl-0.1.1.tar.gz",
+  "download_time": "2025-08-24T10:44:02.165385",
   "package_url": "https://pypi.org/project/chaindl/"
 }
