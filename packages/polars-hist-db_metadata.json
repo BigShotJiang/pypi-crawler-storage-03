@@ -1,11 +1,11 @@
 {
   "name": "polars-hist-db",
-  "version": "0.8.18",
+  "version": "0.8.19",
   "summary": "(dsv,jetstream) --> dataframe <--> bitemporal-tables",
   "author": "jr200",
   "license": null,
   "home_page": "https://github.com/jr200/polars-hist-db",
-  "download_filename": "polars_hist_db-0.8.18.tar.gz",
-  "download_time": "2025-08-24T13:15:48.280971",
+  "download_filename": "polars_hist_db-0.8.19.tar.gz",
+  "download_time": "2025-08-24T15:53:09.459385",
   "package_url": "https://pypi.org/project/polars-hist-db/"
 }

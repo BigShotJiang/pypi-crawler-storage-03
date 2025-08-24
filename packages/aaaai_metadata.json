@@ -1,11 +1,11 @@
 {
   "name": "aaaai",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "All Agent And AI",
   "author": "Mahdi Nouri",
   "license": null,
   "home_page": "https://github.com/algonouir/aaaai",
-  "download_filename": "aaaai-0.2.1.tar.gz",
-  "download_time": "2025-08-24T14:42:16.529331",
+  "download_filename": "aaaai-0.3.0.tar.gz",
+  "download_time": "2025-08-24T15:53:10.561155",
   "package_url": "https://pypi.org/project/aaaai/"
 }
