@@ -1,0 +1,11 @@
+{
+  "name": "whatbeatsrock",
+  "version": "0.0.0",
+  "summary": "A simple API wrapper for whatbeatsrock.com",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "whatbeatsrock-0.0.0.tar.gz",
+  "download_time": "2025-08-24T21:18:53.070384",
+  "package_url": "https://pypi.org/project/whatbeatsrock/"
+}
