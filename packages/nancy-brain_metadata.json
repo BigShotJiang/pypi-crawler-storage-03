@@ -1,11 +1,11 @@
 {
   "name": "nancy-brain",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Turn any GitHub repository into a searchable knowledge base for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nancy_brain-0.1.1.tar.gz",
-  "download_time": "2025-08-24T19:17:18.568969",
+  "download_filename": "nancy_brain-0.1.2.tar.gz",
+  "download_time": "2025-08-24T19:28:52.471390",
   "package_url": "https://pypi.org/project/nancy-brain/"
 }

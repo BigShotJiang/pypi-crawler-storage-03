@@ -1,11 +1,11 @@
 {
   "name": "redisbench-admin",
-  "version": "0.11.43",
+  "version": "0.11.44",
   "summary": "Redis benchmark run helper. A wrapper around Redis and Redis Modules benchmark tools ( ftsb_redisearch, memtier_benchmark, redis-benchmark, aibench, etc... ).",
   "author": "filipecosta90",
   "license": null,
   "home_page": null,
-  "download_filename": "redisbench_admin-0.11.43.tar.gz",
-  "download_time": "2025-08-24T18:27:36.424166",
+  "download_filename": "redisbench_admin-0.11.44.tar.gz",
+  "download_time": "2025-08-24T19:28:49.884605",
   "package_url": "https://pypi.org/project/redisbench-admin/"
 }

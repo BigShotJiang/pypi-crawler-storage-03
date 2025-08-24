@@ -1,0 +1,11 @@
+{
+  "name": "cursword",
+  "version": "0.1.1",
+  "summary": "Simple functions to move by words in a string",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cursword-0.1.1.tar.gz",
+  "download_time": "2025-08-24T19:28:54.013609",
+  "package_url": "https://pypi.org/project/cursword/"
+}

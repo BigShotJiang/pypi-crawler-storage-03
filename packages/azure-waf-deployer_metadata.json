@@ -1,0 +1,11 @@
+{
+  "name": "azure-waf-deployer",
+  "version": "1.0.0",
+  "summary": "Azure Web Application Firewall deployment templates and utilities",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/azure-waf-deployer",
+  "download_filename": "azure_waf_deployer-1.0.0.tar.gz",
+  "download_time": "2025-08-24T19:28:55.043647",
+  "package_url": "https://pypi.org/project/azure-waf-deployer/"
+}
