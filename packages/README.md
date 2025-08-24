@@ -1,11 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T20:22:57.001204
-- **Total Packages**: 82
-- **Total Size**: 12.29 MB
+- **Download Time**: 2025-08-24T20:43:21.608529
+- **Total Packages**: 83
+- **Total Size**: 26.81 MB
 
 ## Packages List
+- iadrive
+- epipackpy
+- project-conf
+- leprikon
+- py3-tts-wrapper
+- grobid-client-python
+- branch_storm
+- webfaster
+- ocr-stream
+- nfelodcm
+- nancy-brain
+- tccli-intl-en
+- graphbridge
+- sphinx-codelinks
+- ccux
+- pianosdk
+- d365fo-client
+- seadexarr
+- prompt-roulette
+- lisptorch
+- ipyslides
+- yt-sdk
+- datacompose
+- django-manifeststaticfiles-enhanced
+- mjx-safety-gym
+- filedial
+- PyQrackIsing
+- momovu
+- ukaddresskit
+- tnr
+- wave-solver-2d
+- vitreaclient
+- OctoBot-Services
+- mattermost
+- hacka
+- fabrial-oven-control
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
 - quiffen
 - custos-labs
 - flexprofiler
@@ -23,13 +61,11 @@
 - dotgov
 - superpandas
 - zeroeval
-- turtleQS
 - taskpods
 - aicostmanager
 - wb-writeupbuilder
 - SAMBA-ilum
 - xtools-py
-- ocr-stream
 - cirq-core
 - cirq-aqt
 - cirq-google
@@ -53,38 +89,3 @@
 - jaeger
 - wsjt-all
 - cluster-experiments
-- PyMKF
-- helios-ml
-- matty
-- rcol
-- dl-md
-- myne
-- boring-semantic-layer
-- django-style
-- nyxpy
-- sphinx-tudelft-theme
-- simple-carla
-- pet-mad
-- minitap-mobile-use
-- cinetica
-- niebla
-- nillanet
-- neuralnetlib
-- data-finder
-- z8ter
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- async-queue-manager
-- code-puppy
-- Meez
-- lm-format-enforcer
-- cached-llm
-- clean-talk-client
-- bhp-pro
-- vsmuxtools
-- ajprax
-- bbot
-- dj-redis-panel
-- evercode
-- gitlabcis
-- raystack

@@ -1,11 +1,11 @@
 {
   "name": "iadrive",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Download Google Drive files/folders and upload them to the Internet Archive",
   "author": "Andres99",
   "license": "MIT",
   "home_page": "https://github.com/Andres9890/iadrive",
-  "download_filename": "iadrive-1.0.3.tar.gz",
-  "download_time": "2025-08-24T16:46:12.870818",
+  "download_filename": "iadrive-1.0.4.tar.gz",
+  "download_time": "2025-08-24T20:42:32.235082",
   "package_url": "https://pypi.org/project/iadrive/"
 }

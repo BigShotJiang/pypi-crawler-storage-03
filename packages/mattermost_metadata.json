@@ -1,0 +1,11 @@
+{
+  "name": "mattermost",
+  "version": "10.11.0",
+  "summary": "Mattermost API bindings",
+  "author": "someone",
+  "license": null,
+  "home_page": "https://git.somenet.org/pub/jan/mattermost-api-python.git",
+  "download_filename": "mattermost-10.11.0.tar.gz",
+  "download_time": "2025-08-24T20:42:51.794390",
+  "package_url": "https://pypi.org/project/mattermost/"
+}

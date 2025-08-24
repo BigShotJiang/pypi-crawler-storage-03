@@ -1,0 +1,11 @@
+{
+  "name": "prompt-roulette",
+  "version": "1.0.1",
+  "summary": "A chaotic prompt injection tool that occasionally returns brand-damaging statements",
+  "author": "Dan Gurney",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prompt_roulette-1.0.1.tar.gz",
+  "download_time": "2025-08-24T20:42:43.147619",
+  "package_url": "https://pypi.org/project/prompt-roulette/"
+}

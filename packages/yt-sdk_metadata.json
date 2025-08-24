@@ -1,11 +1,11 @@
 {
   "name": "yt-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Youtube SDK - Download video audio, etc...",
   "author": "Alejo Prieto Dávalos",
   "license": null,
   "home_page": "https://pypi.org/project/yt-sdk/",
-  "download_filename": "yt_sdk-0.0.2.tar.gz",
-  "download_time": "2025-08-24T19:17:12.821508",
+  "download_filename": "yt_sdk-0.0.3.tar.gz",
+  "download_time": "2025-08-24T20:42:44.773916",
   "package_url": "https://pypi.org/project/yt-sdk/"
 }

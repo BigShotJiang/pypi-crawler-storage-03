@@ -1,11 +1,11 @@
 {
   "name": "django-manifeststaticfiles-enhanced",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Enhanced ManifestStaticFilesStorage for Django",
   "author": "Django ManifestStaticFiles Enhanced Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "django_manifeststaticfiles_enhanced-0.6.0.tar.gz",
-  "download_time": "2025-08-17T11:41:07.351360",
+  "download_filename": "django_manifeststaticfiles_enhanced-0.6.2.tar.gz",
+  "download_time": "2025-08-24T20:42:46.368419",
   "package_url": "https://pypi.org/project/django-manifeststaticfiles-enhanced/"
 }
