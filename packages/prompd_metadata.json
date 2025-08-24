@@ -1,11 +1,11 @@
 {
   "name": "prompd",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Structured prompt management CLI with universal LLM provider support, version control, and git integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prompd-0.2.0.tar.gz",
-  "download_time": "2025-08-21T16:53:57.600165",
+  "download_filename": "prompd-0.2.1.tar.gz",
+  "download_time": "2025-08-24T08:45:27.476048",
   "package_url": "https://pypi.org/project/prompd/"
 }

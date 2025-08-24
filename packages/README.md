@@ -1,25 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T08:24:58.683037
-- **Total Packages**: 77
-- **Total Size**: 13.79 MB
+- **Download Time**: 2025-08-24T08:46:03.135707
+- **Total Packages**: 73
+- **Total Size**: 17.13 MB
 
 ## Packages List
-- LLMEvaluationFramework
+- quickdownload
+- tfp-nightly
+- wspr-ai-lite
+- fatum
+- hyundai-kia-connect-api
+- igbot-rag
 - shbagents
+- TeXicode
+- chat-memobase
+- prompd
+- nc-mcp
+- jacobi-poly
+- wiliot-testers
+- ray-embedding
+- sr2t
+- sherpa-onnx
+- sws-config
+- async-kernel
+- opynsense
+- kuzu
+- pywheels
+- python-cookietools
+- sherpa-onnx-core
+- atomic-agents
+- manaisys-style-guide
+- arts
+- pybFoam
+- tracecolor
+- LLMEvaluationFramework
 - sk-linearregression
 - Navygram
 - SLH-DSA
 - gt-api
 - tree-sitter-analyzer
 - legit-api-client
-- manaisys-style-guide
-- nc-mcp
 - mtcli
-- ray-embedding
 - nvfuser-cu126
-- hyundai-kia-connect-api
 - nvfuser-cu128
 - nvfuser-cu129
 - sglang
@@ -31,11 +54,9 @@
 - z-zephyr
 - pyglove
 - maleo-metadata
-- sherpa-onnx
 - atk-common
 - python-http_request
 - lucid-dl
-- fatum
 - calibreweb
 - akari-bot-webrender
 - octopus-sensing-monitoring
@@ -43,7 +64,6 @@
 - protean
 - coaiapy
 - pm-rank
-- TeXicode
 - akari-bot-webui
 - newrcc
 - port-ocean
@@ -59,27 +79,3 @@
 - leap-model-parser
 - pylua-bioxen-vm-lib
 - cuti
-- spyronx
-- blaubergvento-client
-- qwak-core
-- hcom
-- code-loader
-- maleo-soma
-- pypomes-db
-- sr2t
-- workspacex
-- hypothesis
-- ai-edge-litert-sdk-mediatek-nightly
-- ai-edge-litert-sdk-qualcomm-nightly
-- pgcrypt
-- brizz
-- djresttoolkit
-- wspr-ai-lite
-- pgcopylib
-- qlsdk2
-- task-scheduling
-- ABetter
-- peek-python
-- smdb-api
-- bedrock-protocol-nbt
-- clipassman

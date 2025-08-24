@@ -1,11 +1,11 @@
 {
   "name": "nc-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP Server for NetCDF format file",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nc_mcp-0.1.1.tar.gz",
-  "download_time": "2025-08-24T08:24:18.986937",
+  "download_filename": "nc_mcp-0.1.2.tar.gz",
+  "download_time": "2025-08-24T08:45:27.994541",
   "package_url": "https://pypi.org/project/nc-mcp/"
 }
