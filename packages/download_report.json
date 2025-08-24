@@ -1,9 +1,17 @@
 {
-  "download_time": "2025-08-24T23:42:57.331856",
+  "download_time": "2025-08-24T23:53:55.798637",
   "total_packages_downloaded": 72,
-  "total_size_mb": 10.81,
+  "total_size_mb": 0.95,
   "packages": [
+    "py-msu-scripter-app",
     "zeroeval",
+    "skimly",
+    "que_media",
+    "ryutils",
+    "allure-pytest-ext",
+    "superset-showtime",
+    "bomiot-control",
+    "vrin",
     "service-ping-sping",
     "devento",
     "pydantic-encryption",
@@ -20,8 +28,6 @@
     "pmarlo",
     "braintrust",
     "fastapi-custom-responses",
-    "allure-pytest-ext",
-    "ryutils",
     "grpfpy",
     "reasoning-deployment-service",
     "ubo-app-raw-bindings",
@@ -68,12 +74,6 @@
     "sqlmap-ai",
     "fbusl",
     "otary",
-    "SAMBA-ilum",
-    "tdrpa.tdworker",
-    "rq_geo_toolkit",
-    "local-wake",
-    "epijats",
-    "astabench",
-    "libreriajuan"
+    "SAMBA-ilum"
   ]
 }
