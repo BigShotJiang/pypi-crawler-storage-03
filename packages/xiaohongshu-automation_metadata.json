@@ -1,11 +1,11 @@
 {
   "name": "xiaohongshu-automation",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "基于 Model Context Protocol (MCP) 的小红书自动化解决方案",
   "author": "A1721",
   "license": null,
   "home_page": null,
-  "download_filename": "xiaohongshu_automation-2.0.7-py3-none-any.whl",
-  "download_time": "2025-08-19T14:19:43.169182",
+  "download_filename": "xiaohongshu_automation-2.0.8-py3-none-any.whl",
+  "download_time": "2025-08-24T03:13:05.631888",
   "package_url": "https://pypi.org/project/xiaohongshu-automation/"
 }

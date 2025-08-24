@@ -1,0 +1,11 @@
+{
+  "name": "pyamg",
+  "version": "5.3.0",
+  "summary": "PyAMG: Algebraic Multigrid Solvers in Python",
+  "author": "Nathan Bell, Luke Olson, and Jacob Schroder",
+  "license": "MIT",
+  "home_page": "https://github.com/pyamg/pyamg",
+  "download_filename": "pyamg-5.3.0.tar.gz",
+  "download_time": "2025-08-24T03:13:35.772007",
+  "package_url": "https://pypi.org/project/pyamg/"
+}

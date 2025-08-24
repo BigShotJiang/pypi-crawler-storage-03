@@ -1,11 +1,11 @@
 {
   "name": "lzytools",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "summary": "Python自用包",
   "author": "PPJUST",
   "license": null,
   "home_page": "https://github.com/PPJUST/lzytools",
-  "download_filename": "lzytools-0.0.37.tar.gz",
-  "download_time": "2025-08-23T06:49:44.706432",
+  "download_filename": "lzytools-0.0.38.tar.gz",
+  "download_time": "2025-08-24T03:13:17.560237",
   "package_url": "https://pypi.org/project/lzytools/"
 }

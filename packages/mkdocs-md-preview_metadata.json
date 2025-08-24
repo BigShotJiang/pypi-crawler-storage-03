@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-md-preview",
+  "version": "1.0.0",
+  "summary": "MkDocs plugin for side-by-side markdown preview",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/mkdocs-md-preview",
+  "download_filename": "mkdocs_md_preview-1.0.0.tar.gz",
+  "download_time": "2025-08-24T03:13:02.545284",
+  "package_url": "https://pypi.org/project/mkdocs-md-preview/"
+}

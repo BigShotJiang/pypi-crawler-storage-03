@@ -1,0 +1,11 @@
+{
+  "name": "otter-grader",
+  "version": "6.1.4",
+  "summary": "A Python and R autograding solution",
+  "author": "Christopher Pyles",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "otter_grader-6.1.4.tar.gz",
+  "download_time": "2025-08-24T03:13:36.811707",
+  "package_url": "https://pypi.org/project/otter-grader/"
+}

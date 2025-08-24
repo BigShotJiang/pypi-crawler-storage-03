@@ -1,0 +1,11 @@
+{
+  "name": "aicodebot",
+  "version": "0.30.0",
+  "summary": "AI-powered tool for developers, simplifying coding tasks and improving workflow efficiency.",
+  "author": "Nick Sullivan",
+  "license": null,
+  "home_page": "https://github.com/TechNickAI/AICodeBot",
+  "download_filename": "aicodebot-0.30.0.tar.gz",
+  "download_time": "2025-08-24T03:13:04.087936",
+  "package_url": "https://pypi.org/project/aicodebot/"
+}

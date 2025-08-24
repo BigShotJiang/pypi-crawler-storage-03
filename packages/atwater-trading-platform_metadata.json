@@ -1,0 +1,11 @@
+{
+  "name": "atwater-trading-platform",
+  "version": "0.2.1",
+  "summary": "Python SDK for the AtwaterFinancial HFT Trading Platform",
+  "author": "Atwater Financial",
+  "license": null,
+  "home_page": "https://github.com/AtwaterFinancial/AtwaterFinancial",
+  "download_filename": "atwater_trading_platform-0.2.1.tar.gz",
+  "download_time": "2025-08-24T03:13:03.061987",
+  "package_url": "https://pypi.org/project/atwater-trading-platform/"
+}

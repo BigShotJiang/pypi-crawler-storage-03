@@ -1,11 +1,11 @@
 {
   "name": "xldashboard",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "More beautiful/customizable admin dashboard for Django",
   "author": "xlartas",
   "license": null,
   "home_page": "https://github.com/Artasov/xldashboard",
-  "download_filename": "xldashboard-0.1.4.tar.gz",
-  "download_time": "2025-08-22T04:34:13.964763",
+  "download_filename": "xldashboard-0.1.5.tar.gz",
+  "download_time": "2025-08-24T03:13:42.476260",
   "package_url": "https://pypi.org/project/xldashboard/"
 }

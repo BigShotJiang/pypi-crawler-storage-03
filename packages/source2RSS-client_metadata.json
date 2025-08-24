@@ -1,0 +1,11 @@
+{
+  "name": "source2RSS-client",
+  "version": "0.1.1",
+  "summary": "Client Program of source2RSS",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "source2rss_client-0.1.1.tar.gz",
+  "download_time": "2025-08-24T03:13:21.685927",
+  "package_url": "https://pypi.org/project/source2RSS-client/"
+}
