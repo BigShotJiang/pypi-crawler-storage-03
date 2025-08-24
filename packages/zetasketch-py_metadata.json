@@ -1,0 +1,11 @@
+{
+  "name": "zetasketch-py",
+  "version": "0.1.2",
+  "summary": "Python bindings for zetasketch-rs - unofficial Rust reimplementation of the ZetaSketch Java library for HyperLogLog++ implementation used by Google BigQuery and BigTable.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://crates.io/crates/zetasketch-py",
+  "download_filename": "zetasketch_py-0.1.2.tar.gz",
+  "download_time": "2025-08-24T21:40:20.258333",
+  "package_url": "https://pypi.org/project/zetasketch-py/"
+}

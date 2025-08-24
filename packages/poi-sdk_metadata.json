@@ -1,0 +1,11 @@
+{
+  "name": "poi-sdk",
+  "version": "0.1.0",
+  "summary": "A Python SDK for creating trustworthy AI agent transactions with Proof-of-Intent",
+  "author": "Giovanny Pietro",
+  "license": null,
+  "home_page": "https://github.com/giovannypietro/poi-examples",
+  "download_filename": "poi_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-24T21:40:28.497339",
+  "package_url": "https://pypi.org/project/poi-sdk/"
+}

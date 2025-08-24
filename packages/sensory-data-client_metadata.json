@@ -1,11 +1,11 @@
 {
   "name": "sensory-data-client",
-  "version": "0.2.28",
+  "version": "0.2.29",
   "summary": "Asynchronous facade for PostgreSQL and MinIO for corporate semantic search systems.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sensory_data_client-0.2.28.tar.gz",
-  "download_time": "2025-08-24T19:17:21.667545",
+  "download_filename": "sensory_data_client-0.2.29.tar.gz",
+  "download_time": "2025-08-24T21:40:31.062930",
   "package_url": "https://pypi.org/project/sensory-data-client/"
 }

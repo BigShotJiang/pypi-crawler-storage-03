@@ -1,11 +1,11 @@
 {
   "name": "wave-solver-2d",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A modular 2D wave equation solver using finite difference methods",
   "author": "Celestine1729",
   "license": null,
   "home_page": "https://github.com/celestine1729/wave-solver-2d",
-  "download_filename": "wave_solver_2d-0.2.0.tar.gz",
-  "download_time": "2025-08-24T20:42:50.209089",
+  "download_filename": "wave_solver_2d-0.3.0.tar.gz",
+  "download_time": "2025-08-24T21:40:33.624054",
   "package_url": "https://pypi.org/project/wave-solver-2d/"
 }

@@ -1,17 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T21:19:27.101371
-- **Total Packages**: 82
-- **Total Size**: 8.06 MB
+- **Download Time**: 2025-08-24T21:41:01.741525
+- **Total Packages**: 78
+- **Total Size**: 7.57 MB
 
 ## Packages List
+- delete-workflow-runs
+- easycoder
+- zetasketch-py
+- mrx-runway
+- ivybloom
+- codearkt
+- mrapids
+- mtcli
+- mctools
+- svc-infra
+- sparqlx
+- sdk-pytest-checkmate
+- devhelper-carlosruc
+- chart-to-code
+- graph-games-proto
+- sqlmesh
+- snape-mss
+- multiplayer-session-recorder
+- poi-sdk
+- ryutils
+- agentsystems-toolkit
 - babylonrsa
+- zlang
+- sensory-data-client
+- cached-llm
+- thoth-dbmanager
+- fngen
+- fx-calendar
+- wave-solver-2d
+- PyOptik
+- python-roborock
 - supermemory
 - adversary-mcp-server
 - iceos-client
 - epipackpy
-- graph-games-proto
 - exosphere-cli
 - plotmath
 - abstractrepo-sqlalchemy
@@ -19,11 +48,9 @@
 - pyngb
 - polars-hist-db
 - nequip
-- fx-calendar
 - sws-config
 - trano
 - starconsumers
-- ryutils
 - python-pooldose
 - llm-chat-term
 - whatbeatsrock
@@ -32,9 +59,7 @@
 - df_config
 - project-eden
 - kedro-azureml
-- chart-to-code
 - hyperq
-- zlang
 - threadsafevariable
 - xlizard
 - rediacc
@@ -59,32 +84,3 @@
 - simpletransformers
 - lsre
 - chattr
-- niebla
-- ctxctx
-- miru-server-sdk
-- iadrive
-- leprikon
-- py3-tts-wrapper
-- grobid-client-python
-- branch_storm
-- webfaster
-- ocr-stream
-- nfelodcm
-- nancy-brain
-- tccli-intl-en
-- graphbridge
-- sphinx-codelinks
-- ccux
-- pianosdk
-- d365fo-client
-- seadexarr
-- prompt-roulette
-- lisptorch
-- ipyslides
-- yt-sdk
-- cmaboss
-- datacompose
-- django-manifeststaticfiles-enhanced
-- mjx-safety-gym
-- filedial
-- PyQrackIsing
