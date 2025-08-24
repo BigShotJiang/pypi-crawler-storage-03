@@ -1,11 +1,11 @@
 {
   "name": "agentsdk-ayush2",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Multi-agent SDK with Bedrock, ReAct, parallel sub-agents",
   "author": "AgentSDK",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "agentsdk_ayush2-0.1.2.tar.gz",
-  "download_time": "2025-08-24T01:44:24.742021",
+  "download_filename": "agentsdk_ayush2-0.1.4.tar.gz",
+  "download_time": "2025-08-24T07:52:49.621422",
   "package_url": "https://pypi.org/project/agentsdk-ayush2/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "watershed-delineation",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for delineating watersheds from a DEM and pour point.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "watershed_delineation-0.1.0.tar.gz",
-  "download_time": "2025-08-24T07:40:20.069908",
+  "download_filename": "watershed_delineation-0.1.1.tar.gz",
+  "download_time": "2025-08-24T07:53:08.154755",
   "package_url": "https://pypi.org/project/watershed-delineation/"
 }

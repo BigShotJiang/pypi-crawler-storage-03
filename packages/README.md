@@ -1,18 +1,31 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T07:40:47.631061
-- **Total Packages**: 72
-- **Total Size**: 7.52 MB
+- **Download Time**: 2025-08-24T07:53:33.437411
+- **Total Packages**: 74
+- **Total Size**: 3.71 MB
 
 ## Packages List
+- stigg-api-client-v2
+- stigg-api-client
+- frogml
+- agentsdk-ayush2
+- TeXicode
+- ray-embedding
+- leap-model-parser
+- pylua-bioxen-vm-lib
+- cuti
+- spyronx
+- PySide6-Fluent-UI
+- blaubergvento-client
+- soa-kafka-python
+- qwak-core
+- hcom
 - code-loader
 - maleo-soma
-- ray-embedding
 - pypomes-db
 - sr2t
 - workspacex
-- TeXicode
 - hypothesis
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
@@ -23,12 +36,9 @@
 - wspr-ai-lite
 - pgcopylib
 - qlsdk2
-- soa-kafka-python
 - task-scheduling
 - ABetter
-- pylua-bioxen-vm-lib
 - watershed-delineation
-- spyronx
 - peek-python
 - smdb-api
 - bedrock-protocol-nbt
@@ -70,11 +80,3 @@
 - passagemath-planarity
 - passagemath-objects
 - passagemath-homfly
-- passagemath-graphs
-- passagemath-glpk
-- passagemath-cmr
-- passagemath-cliquer
-- passagemath-cddlib
-- passagemath-categories
-- abstract-apis
-- NseEod
