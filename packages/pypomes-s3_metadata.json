@@ -1,11 +1,11 @@
 {
   "name": "pypomes-s3",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "A collection of Python pomes, penyeach (S3 storage modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_s3-1.0.3.tar.gz",
-  "download_time": "2025-08-24T04:48:51.225716",
+  "download_filename": "pypomes_s3-1.0.4.tar.gz",
+  "download_time": "2025-08-24T06:30:00.357804",
   "package_url": "https://pypi.org/project/pypomes-s3/"
 }

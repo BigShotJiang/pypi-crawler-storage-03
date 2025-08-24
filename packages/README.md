@@ -1,31 +1,16 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T05:54:13.107277
-- **Total Packages**: 81
-- **Total Size**: 4.21 MB
+- **Download Time**: 2025-08-24T06:30:10.714401
+- **Total Packages**: 80
+- **Total Size**: 0.63 MB
 
 ## Packages List
-- runbooks
-- ork.build
-- rp
-- sfq
-- fbusl
-- maxs
-- unclebulgaria-robodog
-- entari-plugin-database
-- deepface-antispoofing
-- routelit
-- stimupy
-- bluer-ai
-- bluer-ugv
-- soa-kafka-python
-- lcl-xhs-mcp
-- ASMRManager
 - mofa-ai
 - hyperchoron
 - library
 - robhan-cdk-lib.aws-grafana
+- rp
 - robhan-cdk-lib.aws-aps
 - llama-index-llms-bedrock-converse
 - apicache-cli-av
@@ -46,6 +31,7 @@
 - pydantic-enhanced-serializer
 - ClickMouse
 - t9
+- soa-kafka-python
 - initPygame
 - autoeis
 - bombhtml
@@ -68,6 +54,7 @@
 - NepTrainKit
 - ytconverter
 - cuti
+- lcl-xhs-mcp
 - zeroeval
 - ani-scrapy
 - empathi
@@ -87,3 +74,15 @@
 - cosmoGW
 - pypomes-jwt
 - benchmark-runner
+- awt
+- embedded-jsonl-db-engine
+- docutranslate
+- pympebm
+- keras-nlp-nightly
+- keras-hub-nightly
+- abiftool
+- tradata-core
+- ngraph
+- xl-docx
+- pulumi-juniper-mist
+- chromedriver-binary

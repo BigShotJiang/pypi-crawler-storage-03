@@ -1,11 +1,11 @@
 {
   "name": "apicache-cli-av",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Tiny Typer CLI that fetches an API and caches results in SQLite (SQLModel)",
   "author": "Austin Varnon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "apicache_cli_av-0.1.6.tar.gz",
-  "download_time": "2025-08-24T05:43:16.122827",
+  "download_filename": "apicache_cli_av-0.1.7.tar.gz",
+  "download_time": "2025-08-24T06:29:31.718698",
   "package_url": "https://pypi.org/project/apicache-cli-av/"
 }
