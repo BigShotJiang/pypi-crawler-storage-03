@@ -1,0 +1,11 @@
+{
+  "name": "fileslib",
+  "version": "0.1.0",
+  "summary": "Creating, Reading, Editing, and Executing files.",
+  "author": "Aiden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fileslib-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-24T07:19:23.560322",
+  "package_url": "https://pypi.org/project/fileslib/"
+}

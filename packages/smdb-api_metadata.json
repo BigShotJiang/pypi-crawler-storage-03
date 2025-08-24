@@ -1,0 +1,11 @@
+{
+  "name": "smdb-api",
+  "version": "0.13.6",
+  "summary": "API package for Server Monitoring Discord Bot",
+  "author": "Janthó Dávid",
+  "license": null,
+  "home_page": "https://github.com/NightKey/smdb-api",
+  "download_filename": "smdb_api-0.13.6.tar.gz",
+  "download_time": "2025-08-24T07:19:19.105399",
+  "package_url": "https://pypi.org/project/smdb-api/"
+}

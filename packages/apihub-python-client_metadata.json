@@ -1,0 +1,11 @@
+{
+  "name": "apihub-python-client",
+  "version": "0.2.1",
+  "summary": "A dynamic, extensible Python client for the APIHUB service supporting any APIs following the extract → status → retrieve pattern",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apihub_python_client-0.2.1.tar.gz",
+  "download_time": "2025-08-24T07:19:21.383938",
+  "package_url": "https://pypi.org/project/apihub-python-client/"
+}

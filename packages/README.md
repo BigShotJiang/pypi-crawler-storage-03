@@ -1,25 +1,49 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T06:52:08.256302
-- **Total Packages**: 83
-- **Total Size**: 42.2 MB
+- **Download Time**: 2025-08-24T07:19:59.918035
+- **Total Packages**: 76
+- **Total Size**: 13.78 MB
 
 ## Packages List
+- spyronx
+- peek-python
+- smdb-api
+- bedrock-protocol-nbt
+- clipassman
+- tf-models-nightly
+- apihub-python-client
+- pywheels
+- vimgolf-gym
+- clipassgen
+- fileslib
+- streamlit-nightly
+- mcmod-cli
+- smartpasslib
+- pluau
+- ai-terminal-cli
+- srtify
+- soa-kafka-python
+- smart-tsp-benchmark
+- wspr-ai-lite
+- parsehub
+- ibauth
+- fastapi-custom-responses
+- smart-tsp-solver
+- optics-framework
+- hundredandten
+- pylua-bioxen-vm-lib
 - linkcovery
 - evalsync
 - ai4one
 - kreuzberg
 - ttsfm
 - ani-scrapy
-- soa-kafka-python
 - pydatau
 - protoprimer
-- pluau
 - luxorasap
 - yt-queue
 - undetected-chrome-mcp-server
-- CoMBCR
 - NetyHT-STT
 - pypomes-db
 - zeroeval
@@ -29,17 +53,14 @@
 - passagemath-objects
 - passagemath-homfly
 - passagemath-graphs
-- vimgolf-gym
 - passagemath-glpk
 - passagemath-cmr
 - passagemath-cliquer
 - passagemath-cddlib
 - passagemath-categories
 - abstract-apis
-- hundredandten
 - NseEod
 - kitti-odom-2012-dataloader
-- wspr-ai-lite
 - traceloop-sdk
 - robotdatapy
 - opentelemetry-instrumentation-weaviate
@@ -61,31 +82,3 @@
 - opentelemetry-instrumentation-llamaindex
 - opentelemetry-instrumentation-langchain
 - opentelemetry-instrumentation-lancedb
-- opentelemetry-instrumentation-haystack
-- opentelemetry-instrumentation-groq
-- opentelemetry-instrumentation-google-generativeai
-- opentelemetry-instrumentation-crewai
-- opentelemetry-instrumentation-cohere
-- opentelemetry-instrumentation-chromadb
-- opentelemetry-instrumentation-bedrock
-- opentelemetry-instrumentation-anthropic
-- opentelemetry-instrumentation-alephalpha
-- TaiwanBus
-- voice-mode
-- django-formset
-- apicache-cli-av
-- Backtester-Tushar
-- pyagenity
-- hyperchoron
-- oat-llm
-- pydantic-super-model
-- tgmix
-- mcmod-cli
-- odsbox
-- PyQrackIsing
-- smartcleaner
-- cdk8s-awscdk-resolver
-- langchain-cli-v2
-- github2gerrit-python
-- energy_assistant
-- pypomes-jwt

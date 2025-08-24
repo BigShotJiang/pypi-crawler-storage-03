@@ -1,0 +1,11 @@
+{
+  "name": "clipassman",
+  "version": "0.7.3",
+  "summary": "Cross-platform console Smart Password manager and generator.",
+  "author": "A.A. Suvorov",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/smartlegionlab/clipassman/",
+  "download_filename": "clipassman-0.7.3.tar.gz",
+  "download_time": "2025-08-24T07:19:20.205675",
+  "package_url": "https://pypi.org/project/clipassman/"
+}

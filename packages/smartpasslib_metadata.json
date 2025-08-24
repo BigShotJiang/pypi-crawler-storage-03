@@ -1,0 +1,11 @@
+{
+  "name": "smartpasslib",
+  "version": "1.0.3",
+  "summary": "Cross-platform library for generating smart passwords.",
+  "author": "A.A. Suvorov",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/smartlegionlab",
+  "download_filename": "smartpasslib-1.0.3.tar.gz",
+  "download_time": "2025-08-24T07:19:25.496947",
+  "package_url": "https://pypi.org/project/smartpasslib/"
+}
