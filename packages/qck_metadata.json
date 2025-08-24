@@ -1,0 +1,11 @@
+{
+  "name": "qck",
+  "version": "2025.8.24",
+  "summary": "CLI to conveniently run DuckDB SQL scripts with support for templating",
+  "author": "Daniel Nouri",
+  "license": "MIT",
+  "home_page": "https://github.com/dnouri/qck",
+  "download_filename": "qck-2025.8.24.tar.gz",
+  "download_time": "2025-08-24T12:39:11.136761",
+  "package_url": "https://pypi.org/project/qck/"
+}

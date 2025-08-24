@@ -1,0 +1,11 @@
+{
+  "name": "rascpy",
+  "version": "2025.8.24",
+  "summary": "The RASC project has made some supplements and improvements to existing statistical methods in order to provide data analysts and modelers with a more accurate and easier-to-use algorithmic framework.",
+  "author": "SIFU DATA SCIENCE",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rascpy-2025.8.24-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2025-08-24T12:38:57.348875",
+  "package_url": "https://pypi.org/project/rascpy/"
+}

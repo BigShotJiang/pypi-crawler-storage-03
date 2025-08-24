@@ -1,0 +1,11 @@
+{
+  "name": "pgdbpool",
+  "version": "0.99",
+  "summary": "A tiny database de-multiplexer primarily scoped for Web- / Application Server.",
+  "author": "Claus Prüfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgdbpool-0.99.tar.gz",
+  "download_time": "2025-08-24T12:38:49.921772",
+  "package_url": "https://pypi.org/project/pgdbpool/"
+}

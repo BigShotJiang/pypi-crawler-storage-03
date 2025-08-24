@@ -1,11 +1,11 @@
 {
   "name": "pyrolinks",
-  "version": "2.2",
+  "version": "3",
   "summary": "Generate direct download links for Telegram media using Pyrogram",
   "author": "MrHamid97",
   "license": "MIT",
   "home_page": "https://github.com/MrHamid97/PyroLink",
-  "download_filename": "pyrolinks-2.2.tar.gz",
-  "download_time": "2025-08-23T19:40:04.625405",
+  "download_filename": "pyrolinks-3.tar.gz",
+  "download_time": "2025-08-24T12:39:26.975313",
   "package_url": "https://pypi.org/project/pyrolinks/"
 }

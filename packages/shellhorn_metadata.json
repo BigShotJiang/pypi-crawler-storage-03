@@ -1,0 +1,11 @@
+{
+  "name": "shellhorn",
+  "version": "0.1.0",
+  "summary": "🐚📯 A lightweight command wrapper that sounds the horn when your shell commands complete, fail, or die unexpectedly",
+  "author": "Mitchell Currie",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shellhorn-0.1.0.tar.gz",
+  "download_time": "2025-08-24T12:38:48.630190",
+  "package_url": "https://pypi.org/project/shellhorn/"
+}

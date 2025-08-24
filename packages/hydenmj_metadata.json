@@ -1,0 +1,11 @@
+{
+  "name": "hydenmj",
+  "version": "0.1.1",
+  "summary": "مكتبة لتحميل وتشغيل ملف exe من رابط",
+  "author": "اسمك",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydenmj-0.1.1.tar.gz",
+  "download_time": "2025-08-24T12:38:53.300088",
+  "package_url": "https://pypi.org/project/hydenmj/"
+}

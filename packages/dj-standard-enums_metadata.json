@@ -1,11 +1,11 @@
 {
   "name": "dj-standard-enums",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A standard way to use enums in Django and expose them via API so that they can be used in the Front End thereby reducing the code duplication.",
   "author": "Shivam Sharma",
   "license": "MIT",
   "home_page": "https://github.com/shivamAthb/django_enums",
-  "download_filename": "dj_standard_enums-0.0.1.tar.gz",
-  "download_time": "2025-08-17T16:22:10.146959",
+  "download_filename": "dj_standard_enums-0.0.2.tar.gz",
+  "download_time": "2025-08-24T12:39:16.322191",
   "package_url": "https://pypi.org/project/dj-standard-enums/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "preling",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Command-line tool for learning foreign languages through gradual exposure to new vocabulary",
   "author": "Danylo Mysak",
   "license": null,
   "home_page": "https://github.com/danmysak/preling",
-  "download_filename": "preling-1.2.3.tar.gz",
-  "download_time": "2025-08-23T11:40:54.586475",
+  "download_filename": "preling-1.2.4.tar.gz",
+  "download_time": "2025-08-24T12:39:02.602324",
   "package_url": "https://pypi.org/project/preling/"
 }

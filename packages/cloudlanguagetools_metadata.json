@@ -1,11 +1,11 @@
 {
   "name": "cloudlanguagetools",
-  "version": "14.3.1",
+  "version": "14.3.2",
   "summary": "Interface with various cloud APIs for language processing such as translation, text to speech",
   "author": "Luc",
   "license": "GPL",
   "home_page": "https://github.com/Vocab-Apps/cloud-language-tools-core",
-  "download_filename": "cloudlanguagetools-14.3.1.tar.gz",
-  "download_time": "2025-08-24T01:44:50.016765",
+  "download_filename": "cloudlanguagetools-14.3.2.tar.gz",
+  "download_time": "2025-08-24T12:39:09.993106",
   "package_url": "https://pypi.org/project/cloudlanguagetools/"
 }
