@@ -1,11 +1,11 @@
 {
   "name": "gse-gsatmicro-mgr",
-  "version": "3.6.1",
+  "version": "3.8.0",
   "summary": "Tools for interacting with GSatMicro Core products",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gse_gsatmicro_mgr-3.6.1-py3-none-any.whl",
-  "download_time": "2025-08-20T15:07:59.467891",
+  "download_filename": "gse_gsatmicro_mgr-3.8.0-py3-none-any.whl",
+  "download_time": "2025-08-24T16:23:52.663254",
   "package_url": "https://pypi.org/project/gse-gsatmicro-mgr/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wfield",
+  "version": "0.6.0",
+  "summary": "Utilities to look at widefield data and align with the allen reference map.",
+  "author": "Joao Couto",
+  "license": "GPL",
+  "home_page": "https://github.com/jcouto/wfield",
+  "download_filename": "wfield-0.6.0.tar.gz",
+  "download_time": "2025-08-24T16:24:02.092612",
+  "package_url": "https://pypi.org/project/wfield/"
+}

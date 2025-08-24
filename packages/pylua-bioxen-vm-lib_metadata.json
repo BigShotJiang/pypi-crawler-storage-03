@@ -1,11 +1,11 @@
 {
   "name": "pylua-bioxen-vm-lib",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "Process-isolated networked Lua VMs managed from Python (extracted from BioXen)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylua_bioxen_vm_lib-0.1.13.tar.gz",
-  "download_time": "2025-08-24T15:41:14.365782",
+  "download_filename": "pylua_bioxen_vm_lib-0.1.15.tar.gz",
+  "download_time": "2025-08-24T16:23:50.804394",
   "package_url": "https://pypi.org/project/pylua-bioxen-vm-lib/"
 }

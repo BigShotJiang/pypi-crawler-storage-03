@@ -1,11 +1,11 @@
 {
   "name": "ai-trackdown-pytools",
-  "version": "1.5.10",
+  "version": "1.5.11",
   "summary": "Modern Python CLI tools for AI project tracking and task management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_trackdown_pytools-1.5.10.tar.gz",
-  "download_time": "2025-08-20T20:43:45.799086",
+  "download_filename": "ai_trackdown_pytools-1.5.11.tar.gz",
+  "download_time": "2025-08-24T16:23:46.989038",
   "package_url": "https://pypi.org/project/ai-trackdown-pytools/"
 }
