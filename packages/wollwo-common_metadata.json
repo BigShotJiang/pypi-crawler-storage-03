@@ -1,11 +1,11 @@
 {
   "name": "wollwo-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "common libraries to enhance base workflow, Some decorators/context managers for your code and others",
   "author": "Michal Perzel",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "wollwo_common-0.1.0.tar.gz",
-  "download_time": "2025-08-24T09:53:05.871106",
+  "home_page": "https://github.com/Wollwo/wollwo-common",
+  "download_filename": "wollwo_common-0.1.1.tar.gz",
+  "download_time": "2025-08-24T10:20:49.967109",
   "package_url": "https://pypi.org/project/wollwo-common/"
 }

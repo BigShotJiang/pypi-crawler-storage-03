@@ -1,0 +1,11 @@
+{
+  "name": "fluidityai",
+  "version": "0.1.1",
+  "summary": "Classes for AI workflow development",
+  "author": "Ash Thakur",
+  "license": null,
+  "home_page": "https://github.com/AshT-Python/Fluidity",
+  "download_filename": "fluidityai-0.1.1.tar.gz",
+  "download_time": "2025-08-24T10:20:52.648256",
+  "package_url": "https://pypi.org/project/fluidityai/"
+}

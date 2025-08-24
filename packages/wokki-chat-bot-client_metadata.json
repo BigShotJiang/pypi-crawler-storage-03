@@ -1,0 +1,11 @@
+{
+  "name": "wokki-chat-bot-client",
+  "version": "0.2.2",
+  "summary": "Python client for wokki chat bots",
+  "author": "wokki20",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wokki_chat_bot_client-0.2.2.tar.gz",
+  "download_time": "2025-08-24T10:21:02.599607",
+  "package_url": "https://pypi.org/project/wokki-chat-bot-client/"
+}

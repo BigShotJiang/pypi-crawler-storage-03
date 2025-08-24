@@ -1,0 +1,11 @@
+{
+  "name": "liquidnn",
+  "version": "0.1.0",
+  "summary": "A PyTorch module for Liquid Neurons",
+  "author": "Nakshatra Yadav",
+  "license": null,
+  "home_page": null,
+  "download_filename": "liquidnn-0.1.0.tar.gz",
+  "download_time": "2025-08-24T10:20:57.869140",
+  "package_url": "https://pypi.org/project/liquidnn/"
+}

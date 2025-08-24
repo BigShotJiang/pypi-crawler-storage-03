@@ -1,0 +1,11 @@
+{
+  "name": "fastsio",
+  "version": "0.3.2",
+  "summary": "light and typization Socket.IO server and client for Python",
+  "author": "Miguel Grinberg",
+  "license": "MIT",
+  "home_page": "https://github.com/cicwak/fastsio",
+  "download_filename": "fastsio-0.3.2.tar.gz",
+  "download_time": "2025-08-24T10:20:46.283553",
+  "package_url": "https://pypi.org/project/fastsio/"
+}

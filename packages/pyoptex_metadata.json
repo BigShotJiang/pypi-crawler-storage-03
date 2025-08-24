@@ -1,11 +1,11 @@
 {
   "name": "pyoptex",
-  "version": "1.0.0rc5",
+  "version": "1.0.0",
   "summary": "Flexible and accessible design of experiments in Python. Provides industry with an easy package to create designs based with limited expert knowledge. Provides researchers with the ability to easily create new criteria and design structures.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyoptex-1.0.0rc5-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2025-08-19T07:51:34.799710",
+  "download_filename": "pyoptex-1.0.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2025-08-24T10:20:50.506902",
   "package_url": "https://pypi.org/project/pyoptex/"
 }

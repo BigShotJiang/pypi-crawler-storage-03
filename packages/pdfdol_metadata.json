@@ -1,11 +1,11 @@
 {
   "name": "pdfdol",
-  "version": "0.1.19",
+  "version": "0.1.20",
   "summary": "Data Object Layer for PDF data",
   "author": null,
   "license": "mit",
   "home_page": null,
-  "download_filename": "pdfdol-0.1.19.tar.gz",
-  "download_time": "2025-08-23T09:52:53.297156",
+  "download_filename": "pdfdol-0.1.20.tar.gz",
+  "download_time": "2025-08-24T10:20:58.390272",
   "package_url": "https://pypi.org/project/pdfdol/"
 }

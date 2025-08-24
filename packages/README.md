@@ -1,17 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T09:53:52.947406
-- **Total Packages**: 87
-- **Total Size**: 14.54 MB
+- **Download Time**: 2025-08-24T10:21:32.114799
+- **Total Packages**: 88
+- **Total Size**: 37.26 MB
 
 ## Packages List
+- pyrite-mx
+- pydsmc
+- cshogi
+- fastsio
+- segee
+- aqua-fetch
+- tdrpa.tdworker
+- getignore3
+- getlicense
+- frogml
+- wollwo-common
+- pyoptex
+- ai-edge-torch-nightly
+- github2gerrit
+- mcp-sqlserver-filesystem
+- fluidityai
+- gguf-connector
+- merobox
+- scikit-rmt
+- durusai-cli
+- sherpa-onnx
+- tometo-tomato
+- shoebill-ai
+- pcapana
+- bibtexautocomplete
+- liquidnn
+- pdfdol
+- gobrec
+- qwak-core
+- NMSpy
+- rfserver
+- ramyro-report
+- sherpa-onnx-core
+- wokki-chat-bot-client
+- skypilot-nightly
+- git-viewer
+- tbp-nightly
+- xprof-nightly
+- polars-uuid
+- pretix-oidc
+- minijinja
 - polykin
 - starlake-airflow
-- wollwo-common
 - starlake-dagster
 - aird
-- mcp-sqlserver-filesystem
 - lunchkey
 - atk-common
 - openevolve
@@ -37,7 +76,6 @@
 - nvidia-nat-zep-cloud
 - nvidia-nat-s3
 - filespawn
-- durusai-cli
 - nvidia-nat
 - nvidia-nat-ragaai
 - nvidia-nat-weave
@@ -56,40 +94,3 @@
 - aiqtoolkit-semantic-kernel
 - aiqtoolkit-llama-index
 - aiqtoolkit-test
-- aiqtoolkit-weave
-- minimal-ecash-sender
-- aiqtoolkit-crewai
-- wiz-trader
-- jsonshiatsu
-- zimagi
-- chat-memobase
-- httpcore_request
-- gingerino
-- qwen-image-mps
-- ut-eviq
-- optr
-- jarvis-ai-assistant
-- lattica-fhe-core
-- rfnode
-- maleo-identity
-- filum-utils
-- mridu-manda
-- hhd
-- ChemInformant
-- netsci
-- gherila
-- ytconverter
-- pretix-oidc
-- qr-payment-cz
-- biliup-mysql
-- culicidaelab
-- bpcode
-- agentic-blocks
-- BICSdifftest
-- vimgolf-gym
-- local-flight-map
-- claude-code-mate
-- z-zephyr
-- pyapi-service-kit
-- xl-docx
-- aic-sdk
