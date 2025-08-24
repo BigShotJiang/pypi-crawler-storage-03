@@ -1,11 +1,11 @@
 {
   "name": "testnewsdkwebdock",
-  "version": "1.0.9",
-  "summary": "Webdock Python SDK",
+  "version": "2.2.2",
+  "summary": "Add your description here",
   "author": "ahmad",
   "license": null,
   "home_page": null,
-  "download_filename": "testnewsdkwebdock-1.0.9.tar.gz",
-  "download_time": "2025-08-24T16:56:50.123733",
+  "download_filename": "testnewsdkwebdock-2.2.2.tar.gz",
+  "download_time": "2025-08-24T17:17:56.896838",
   "package_url": "https://pypi.org/project/testnewsdkwebdock/"
 }

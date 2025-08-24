@@ -1,0 +1,11 @@
+{
+  "name": "cogitator",
+  "version": "0.1.2",
+  "summary": "A Python toolkit for chain-of-thought prompting",
+  "author": "Hassan Abedi",
+  "license": "MIT",
+  "home_page": "https://github.com/habedi/cogitator",
+  "download_filename": "cogitator-0.1.2.tar.gz",
+  "download_time": "2025-08-24T17:18:20.217392",
+  "package_url": "https://pypi.org/project/cogitator/"
+}

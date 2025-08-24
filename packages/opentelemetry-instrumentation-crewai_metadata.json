@@ -1,11 +1,11 @@
 {
   "name": "opentelemetry-instrumentation-crewai",
-  "version": "0.46.0",
+  "version": "0.46.1",
   "summary": "OpenTelemetry crewAI instrumentation",
   "author": "Gal Kleinman",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "opentelemetry_instrumentation_crewai-0.46.0.tar.gz",
-  "download_time": "2025-08-24T06:51:55.484852",
+  "download_filename": "opentelemetry_instrumentation_crewai-0.46.1.tar.gz",
+  "download_time": "2025-08-24T17:18:13.223300",
   "package_url": "https://pypi.org/project/opentelemetry-instrumentation-crewai/"
 }
