@@ -1,0 +1,11 @@
+{
+  "name": "mlinsightlab",
+  "version": "0.0.30",
+  "summary": "Your Open Source Data Science and MLOps Platform",
+  "author": "MLIL Team",
+  "license": null,
+  "home_page": "https://github.com/MLInsightLab/MLInsightLab-Python-SDK",
+  "download_filename": "mlinsightlab-0.0.30.tar.gz",
+  "download_time": "2025-08-24T13:37:48.910942",
+  "package_url": "https://pypi.org/project/mlinsightlab/"
+}

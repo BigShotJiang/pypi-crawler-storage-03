@@ -1,0 +1,11 @@
+{
+  "name": "autoemailwarn",
+  "version": "0.2.0",
+  "summary": "A simple SMTP email sender wrapper (QQ Mail default)",
+  "author": "Your Name",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "autoemailwarn-0.2.0.tar.gz",
+  "download_time": "2025-08-24T13:37:26.885787",
+  "package_url": "https://pypi.org/project/autoemailwarn/"
+}

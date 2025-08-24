@@ -1,0 +1,11 @@
+{
+  "name": "jk_prettyprintobj",
+  "version": "0.2025.8.14",
+  "summary": "This python module provides a mixin for creating pretty debugging output for objects. This is especially useful for semi-complex data structures.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jk_prettyprintobj-0.2025.8.14.tar.gz",
+  "download_time": "2025-08-24T13:37:36.360275",
+  "package_url": "https://pypi.org/project/jk_prettyprintobj/"
+}

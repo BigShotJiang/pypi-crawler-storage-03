@@ -1,0 +1,11 @@
+{
+  "name": "tutorfile",
+  "version": "0.1.4",
+  "summary": "A vimtutor-inspired library for generating interactive tutorials using AI",
+  "author": "Carl Byers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tutorfile-0.1.4.tar.gz",
+  "download_time": "2025-08-24T13:37:36.878932",
+  "package_url": "https://pypi.org/project/tutorfile/"
+}

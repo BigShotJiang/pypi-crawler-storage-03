@@ -1,0 +1,11 @@
+{
+  "name": "db2qthelp",
+  "version": "0.4.0",
+  "summary": "A DocBook book to QtHelp converter",
+  "author": "dkrajzew",
+  "license": "GPL",
+  "home_page": "http://db2qthelp.readthedocs.org/",
+  "download_filename": "db2qthelp-0.4.0.tar.gz",
+  "download_time": "2025-08-24T13:37:42.140709",
+  "package_url": "https://pypi.org/project/db2qthelp/"
+}

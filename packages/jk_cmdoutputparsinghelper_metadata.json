@@ -1,0 +1,11 @@
+{
+  "name": "jk_cmdoutputparsinghelper",
+  "version": "0.2025.8.24",
+  "summary": "Assists in parsing output of *nix system commands such as df, systemctrl and others.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jk_cmdoutputparsinghelper-0.2025.8.24.tar.gz",
+  "download_time": "2025-08-24T13:37:45.795538",
+  "package_url": "https://pypi.org/project/jk_cmdoutputparsinghelper/"
+}

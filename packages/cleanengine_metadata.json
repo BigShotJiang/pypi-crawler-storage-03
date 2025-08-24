@@ -1,11 +1,11 @@
 {
   "name": "cleanengine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The Ultimate Data Cleaning & Analysis Toolkit",
   "author": "CleanEngine Community",
   "license": null,
   "home_page": "https://github.com/I-invincib1e/CleanEngine",
-  "download_filename": "cleanengine-0.1.1.tar.gz",
-  "download_time": "2025-08-23T18:26:30.484134",
+  "download_filename": "cleanengine-0.1.2.tar.gz",
+  "download_time": "2025-08-24T13:37:46.315612",
   "package_url": "https://pypi.org/project/cleanengine/"
 }
