@@ -1,0 +1,11 @@
+{
+  "name": "tinyagent-py",
+  "version": "0.1.13",
+  "summary": "TinyAgent with MCP Client, CodeAgent (Thinking, Planning, Interactive Python and Shell with high variaety of sandboxing(seatbelt, Modal, E2B, docker, etc) ), and Extendable Hooks, Tiny but powerful",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinyagent_py-0.1.13.tar.gz",
+  "download_time": "2025-08-24T19:17:16.997798",
+  "package_url": "https://pypi.org/project/tinyagent-py/"
+}

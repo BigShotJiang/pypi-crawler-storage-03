@@ -1,0 +1,11 @@
+{
+  "name": "iowarp-mcps",
+  "version": "0.3.11",
+  "summary": "Open Source MCP Servers for Scientific Computing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iowarp_mcps-0.3.11.tar.gz",
+  "download_time": "2025-08-24T19:17:10.198427",
+  "package_url": "https://pypi.org/project/iowarp-mcps/"
+}

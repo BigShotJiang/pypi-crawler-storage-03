@@ -1,11 +1,11 @@
 {
   "name": "CLHKidAI",
-  "version": "0.1.0",
-  "summary": "Kid-friendly wrapper for OpenAI: one-line AI for classrooms",
+  "version": "0.1.1",
+  "summary": "CLH Kid-friendly wrapper for OpenAI: one-line AI for classrooms",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clhkidai-0.1.0.tar.gz",
-  "download_time": "2025-08-24T18:49:13.255184",
+  "download_filename": "clhkidai-0.1.1.tar.gz",
+  "download_time": "2025-08-24T19:17:19.592397",
   "package_url": "https://pypi.org/project/CLHKidAI/"
 }

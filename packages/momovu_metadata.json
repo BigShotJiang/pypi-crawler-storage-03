@@ -1,11 +1,11 @@
 {
   "name": "momovu",
-  "version": "1.5.1",
+  "version": "1.6.1",
   "summary": "Preview dustjackets, covers, and interior pages of print books before publication",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "momovu-1.5.1.tar.gz",
-  "download_time": "2025-08-23T21:40:22.268486",
+  "download_filename": "momovu-1.6.1.tar.gz",
+  "download_time": "2025-08-24T19:17:07.561043",
   "package_url": "https://pypi.org/project/momovu/"
 }

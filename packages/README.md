@@ -1,31 +1,70 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T18:49:50.604531
-- **Total Packages**: 78
-- **Total Size**: 17.5 MB
+- **Download Time**: 2025-08-24T19:17:43.624765
+- **Total Packages**: 83
+- **Total Size**: 32.61 MB
 
 ## Packages List
+- NexWorld
+- ivpm
+- OctoBot-Commons
+- ha-synthetic-sensors
+- git-manage
+- aicostmanager
+- prompd
+- Meez
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
+- ezbeq
+- starconsumers
+- testnewsdkwebdock
+- momovu
+- sphinx-code-examples
+- ifs-cloud-parser
+- abdwp
+- energy_assistant
+- iowarp-mcps
+- spellbot
+- service-ping-sping
+- arkparse
+- HoloLink
+- yt-sdk
+- unique_toolkit
+- unique_sdk
+- mccole
+- smartpasslib
+- amused
+- pyautocausal
+- matty
+- tinyagent-py
+- strwythura
+- photomapai
+- nancy-brain
+- nuxt-payload
+- CLHKidAI
+- aniworld
+- lisptorch
+- pyegeria
+- sensory-data-client
+- pyramid-mcp
+- yivo
+- energy-assistant-frontend
+- bitarray
+- superset-showtime
+- odsbox
 - examexam
 - yeref
 - voice-mode
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
 - polars-hist-db
-- CLHKidAI
-- pyegeria
-- Meez
 - lionagi
 - lbt-dragonfly
-- ukaddress-ner
-- strwythura
 - dragonfly-doe2
 - polygon-math
 - gammarers.aws-secure-frontend-web-app-cloudfront-distribution
 - e3response
 - clipassman
 - pretix-uic-barcode
-- ifs-cloud-parser
 - mitmproxy
 - zeroeval
 - turtleQS
@@ -50,37 +89,3 @@
 - Backtester-Tushar
 - witticism
 - clipassgen
-- graph-games-proto
-- shlib
-- h2ogpte
-- sl-shared-assets
-- lukhed-sports
-- redisbench-admin
-- oxidize
-- mlsauce
-- mastui
-- vision-data-curation
-- stack-package
-- tspay-client
-- structifyai
-- abstractrepo-sqlalchemy
-- rnl
-- visualkit
-- chattr
-- private-assistant-comms-satellite
-- merobox
-- pixcore
-- langextract-provider-litellm
-- wspr-ai-lite
-- recce-nightly
-- basepak
-- fraudcrawler
-- labox
-- prompttest
-- rusty-todo-md
-- trainerbase
-- jsonschema-rs
-- odsbox
-- pynaim
-- workspace-mcp
-- hpfracc

@@ -1,0 +1,11 @@
+{
+  "name": "amused",
+  "version": "1.0.2",
+  "summary": "Open-source Python library for streaming data from Muse S (Athena) EEG headbands",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amused-1.0.2.tar.gz",
+  "download_time": "2025-08-24T19:17:15.394577",
+  "package_url": "https://pypi.org/project/amused/"
+}
