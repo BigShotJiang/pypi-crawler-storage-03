@@ -1,0 +1,11 @@
+{
+  "name": "vsmuxtools",
+  "version": "0.4.0",
+  "summary": "The extension to muxtools with vapoursynth and encoding stuff",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vsmuxtools-0.4.0.tar.gz",
+  "download_time": "2025-08-24T19:41:05.060722",
+  "package_url": "https://pypi.org/project/vsmuxtools/"
+}

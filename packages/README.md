@@ -1,23 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T19:29:31.180687
-- **Total Packages**: 83
-- **Total Size**: 7.5 MB
+- **Download Time**: 2025-08-24T19:41:40.200570
+- **Total Packages**: 78
+- **Total Size**: 2.36 MB
 
 ## Packages List
-- raystack
+- dl-md
+- rxfoundry.clients.swifty-api
+- rxfoundry.clients.swifty-oauth-api
+- async-queue-manager
+- code-puppy
+- Meez
+- lm-format-enforcer
 - cached-llm
+- clean-talk-client
+- matty
+- SAMBA-ilum
+- bhp-pro
+- vsmuxtools
+- ajprax
+- bbot
+- dj-redis-panel
+- evercode
+- gitlabcis
+- raystack
 - scietex.logging
 - redisbench-admin
 - natural-pdf
 - augint-billing-lib
-- SAMBA-ilum
 - nancy-brain
 - muxtools
 - mrapids
 - cursword
-- code-puppy
 - azure-waf-deployer
 - ures
 - sphinx-tudelft-theme
@@ -28,9 +43,6 @@
 - git-manage
 - aicostmanager
 - prompd
-- Meez
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
 - ezbeq
 - starconsumers
 - testnewsdkwebdock
@@ -51,7 +63,6 @@
 - smartpasslib
 - amused
 - pyautocausal
-- matty
 - tinyagent-py
 - strwythura
 - photomapai
@@ -73,19 +84,3 @@
 - polars-hist-db
 - lionagi
 - lbt-dragonfly
-- dragonfly-doe2
-- polygon-math
-- gammarers.aws-secure-frontend-web-app-cloudfront-distribution
-- e3response
-- clipassman
-- pretix-uic-barcode
-- mitmproxy
-- zeroeval
-- turtleQS
-- honeybee-doe2
-- optics_design_workbench
-- mybox
-- nsa-fusion
-- einteract
-- tinyloop
-- dana
