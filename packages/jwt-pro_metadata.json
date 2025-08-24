@@ -1,0 +1,11 @@
+{
+  "name": "jwt-pro",
+  "version": "1.0.2",
+  "summary": "JWT Pro is your all-in-one tool for working with JSON Web Tokens (JWTs) in Python. Whether you need to generate, verify, decode, or inspect tokens, JWT Pro makes it simple, safe, and developer-friendly.  ",
+  "author": "krishna Tadi",
+  "license": "MIT",
+  "home_page": "https://github.com/krishnatadi/jwt-pro-python",
+  "download_filename": "jwt_pro-1.0.2.tar.gz",
+  "download_time": "2025-08-24T08:24:39.264707",
+  "package_url": "https://pypi.org/project/jwt-pro/"
+}

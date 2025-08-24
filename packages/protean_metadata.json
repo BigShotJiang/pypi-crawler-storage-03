@@ -1,0 +1,11 @@
+{
+  "name": "protean",
+  "version": "0.14.2",
+  "summary": "Protean Application Framework",
+  "author": "Subhash Bhushan C",
+  "license": "BSD 3-Clause",
+  "home_page": "https://github.com/proteanhq/protean",
+  "download_filename": "protean-0.14.2.tar.gz",
+  "download_time": "2025-08-24T08:24:33.946249",
+  "package_url": "https://pypi.org/project/protean/"
+}

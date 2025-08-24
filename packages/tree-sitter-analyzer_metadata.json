@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-analyzer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Extensible multi-language code analyzer framework using Tree-sitter with dynamic plugin architecture",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_analyzer-1.0.0.tar.gz",
-  "download_time": "2025-08-19T08:26:43.921895",
+  "download_filename": "tree_sitter_analyzer-1.1.0.tar.gz",
+  "download_time": "2025-08-24T08:24:17.078322",
   "package_url": "https://pypi.org/project/tree-sitter-analyzer/"
 }

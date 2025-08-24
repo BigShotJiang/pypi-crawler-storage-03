@@ -1,0 +1,11 @@
+{
+  "name": "shbagents",
+  "version": "0.1.0",
+  "summary": "通用的多模型智能体框架，支持工具调用和多种LLM模型",
+  "author": "huangbaocheng",
+  "license": null,
+  "home_page": "https://github.com/huangbaocheng/shb-agent",
+  "download_filename": "shbagents-0.1.0.tar.gz",
+  "download_time": "2025-08-24T08:24:14.066697",
+  "package_url": "https://pypi.org/project/shbagents/"
+}

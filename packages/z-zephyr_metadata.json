@@ -1,0 +1,11 @@
+{
+  "name": "z-zephyr",
+  "version": "0.0.14",
+  "summary": "Zephyr is a declarative neural network library on top of JAX allowing for easy and fast neural network designing, creation, and manipulation",
+  "author": "Marko Zolo Gozano Untalan",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mzguntalan/zephyr",
+  "download_filename": "z_zephyr-0.0.14.tar.gz",
+  "download_time": "2025-08-24T08:24:26.321023",
+  "package_url": "https://pypi.org/project/z-zephyr/"
+}

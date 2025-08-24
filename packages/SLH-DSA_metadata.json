@@ -1,0 +1,11 @@
+{
+  "name": "SLH-DSA",
+  "version": "0.2.0",
+  "summary": "The pure python implement of the slh-dsa algorithm(based on fips205).",
+  "author": "Colinxu2020",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://github.com/colinxu2020/slhdsa",
+  "download_filename": "slh_dsa-0.2.0.tar.gz",
+  "download_time": "2025-08-24T08:24:15.933076",
+  "package_url": "https://pypi.org/project/SLH-DSA/"
+}

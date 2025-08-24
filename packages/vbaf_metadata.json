@@ -1,11 +1,11 @@
 {
   "name": "vbaf",
-  "version": "0.1.1",
-  "summary": "Vocabulary-Based Adversarial Fuzzing (VB-AF) framework",
+  "version": "1.0.0",
+  "summary": "Vocabulary-Based Adversarial Fuzzing (VB-AF) framework for Large Language Models (LLMs)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "vbaf-0.1.1.tar.gz",
-  "download_time": "2025-08-23T21:40:25.120961",
+  "download_filename": "vbaf-1.0.0.tar.gz",
+  "download_time": "2025-08-24T08:24:25.745575",
   "package_url": "https://pypi.org/project/vbaf/"
 }
