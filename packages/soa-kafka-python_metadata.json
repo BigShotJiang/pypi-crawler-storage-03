@@ -1,11 +1,11 @@
 {
   "name": "soa-kafka-python",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "SOA Kafka Python Client Utils",
   "author": "Bao,ZengKai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soa_kafka_python-1.0.2-py3-none-any.whl",
-  "download_time": "2025-08-24T05:20:41.776269",
+  "download_filename": "soa_kafka_python-1.0.3-py3-none-any.whl",
+  "download_time": "2025-08-24T05:43:10.968096",
   "package_url": "https://pypi.org/project/soa-kafka-python/"
 }

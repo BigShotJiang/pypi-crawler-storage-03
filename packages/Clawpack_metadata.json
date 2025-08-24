@@ -1,0 +1,11 @@
+{
+  "name": "Clawpack",
+  "version": "5.13.0",
+  "summary": "Finite volume methods for hyperbolic conservation laws",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "clawpack-5.13.0.tar.gz",
+  "download_time": "2025-08-24T05:43:16.678675",
+  "package_url": "https://pypi.org/project/Clawpack/"
+}
