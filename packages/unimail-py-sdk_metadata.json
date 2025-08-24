@@ -1,0 +1,11 @@
+{
+  "name": "unimail-py-sdk",
+  "version": "0.1.2",
+  "summary": "This is a Python SDK for Unimail. Quickly integrate into your project",
+  "author": "i-curve",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/i-curve/unimail-py-sdk",
+  "download_filename": "unimail_py_sdk-0.1.2.tar.gz",
+  "download_time": "2025-08-24T17:53:10.722006",
+  "package_url": "https://pypi.org/project/unimail-py-sdk/"
+}

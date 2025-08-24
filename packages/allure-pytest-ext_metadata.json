@@ -1,11 +1,11 @@
 {
   "name": "allure-pytest-ext",
-  "version": "2.13.3",
+  "version": "2.13.4",
   "summary": "Extensions for allure-pytest: propagate step failures and aggregate step failures",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "allure_pytest_ext-2.13.3.tar.gz",
-  "download_time": "2025-08-20T18:53:09.430369",
+  "download_filename": "allure_pytest_ext-2.13.4.tar.gz",
+  "download_time": "2025-08-24T17:53:04.369758",
   "package_url": "https://pypi.org/project/allure-pytest-ext/"
 }

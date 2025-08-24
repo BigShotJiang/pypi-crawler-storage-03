@@ -1,15 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T17:35:10.905233
-- **Total Packages**: 90
-- **Total Size**: 13.1 MB
+- **Download Time**: 2025-08-24T17:53:40.024575
+- **Total Packages**: 81
+- **Total Size**: 20.87 MB
 
 ## Packages List
-- powder-ens-commons
+- styro
+- chalkpy
+- CXool
+- echo-sdk
+- clipassman
+- okkie
+- odsbox
+- nlpfig
+- ipyvasp
+- testnewsdkwebdock
+- zecmf
+- zyra
+- ajprax
+- allure-pytest-ext
+- inception-helper-func
+- odoo-orm
 - pyboost-auditor
-- mohaf
+- apisql
+- checkdmarc
+- hyperchoron
+- pyb_utils
 - ide-config-mcp
+- datagent
+- pyagenity
+- python-http_request
+- unimail-py-sdk
+- multimodalsim-viewer
+- skipper-tool
+- ifs-cloud-parser
+- flet-charts
+- chunkhound
+- hpfracc
+- mirumoji
+- voice-mode
+- pyskyfire
+- powder-ens-commons
+- mohaf
 - OntoLearner
 - amcrest-api
 - amusic
@@ -21,7 +54,6 @@
 - mcp-pandoc
 - yt-sdk
 - dashlab
-- skipper-tool
 - redis-toolkit
 - discord.py
 - smart-tsp-solver
@@ -39,9 +71,7 @@
 - terracost
 - ytmusic-deleter
 - zopf
-- python-http_request
 - lusid-sdk
-- voice-mode
 - flavorpack
 - docu-devs-api-client
 - exospherehost
@@ -54,45 +84,6 @@
 - claude-mpm
 - quantconnect-mcp
 - devhelper-carlosruc
-- testnewsdkwebdock
 - pybirdsreynolds
 - lsre
 - traceloop-sdk
-- ifs-cloud-parser
-- py-p-audio
-- opentelemetry-instrumentation-weaviate
-- opentelemetry-instrumentation-watsonx
-- opentelemetry-instrumentation-vertexai
-- opentelemetry-instrumentation-transformers
-- opentelemetry-instrumentation-together
-- opentelemetry-instrumentation-sagemaker
-- opentelemetry-instrumentation-replicate
-- opentelemetry-instrumentation-qdrant
-- opentelemetry-instrumentation-pinecone
-- opentelemetry-instrumentation-openai-agents
-- opentelemetry-instrumentation-openai
-- opentelemetry-instrumentation-ollama
-- opentelemetry-instrumentation-mistralai
-- opentelemetry-instrumentation-milvus
-- opentelemetry-instrumentation-mcp
-- opentelemetry-instrumentation-marqo
-- opentelemetry-instrumentation-llamaindex
-- opentelemetry-instrumentation-langchain
-- opentelemetry-instrumentation-lancedb
-- opentelemetry-instrumentation-haystack
-- opentelemetry-instrumentation-groq
-- opentelemetry-instrumentation-google-generativeai
-- opentelemetry-instrumentation-crewai
-- opentelemetry-instrumentation-cohere
-- opentelemetry-instrumentation-chromadb
-- opentelemetry-instrumentation-bedrock
-- opentelemetry-instrumentation-anthropic
-- receipt-ocr
-- opentelemetry-instrumentation-alephalpha
-- multibypass
-- meson
-- fraudcrawler
-- contextgem
-- FlopPITy
-- cogitator
-- llama-scan

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-orm",
+  "version": "3.0.0",
+  "summary": "A kind of Python ORM for Odoo XML-RPC API inspired by Django ORM.",
+  "author": "mistiru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_orm-3.0.0.tar.gz",
+  "download_time": "2025-08-24T17:53:05.414393",
+  "package_url": "https://pypi.org/project/odoo-orm/"
+}
