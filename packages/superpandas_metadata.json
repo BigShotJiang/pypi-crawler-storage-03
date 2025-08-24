@@ -1,0 +1,11 @@
+{
+  "name": "superpandas",
+  "version": "0.4.0",
+  "summary": "Lightweight wrapper around Pandas to add AI capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superpandas-0.4.0.tar.gz",
+  "download_time": "2025-08-24T20:22:17.835781",
+  "package_url": "https://pypi.org/project/superpandas/"
+}

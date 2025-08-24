@@ -1,0 +1,11 @@
+{
+  "name": "concurrent-tasks",
+  "version": "1.14.0",
+  "summary": "Tools to run asyncio tasks concurrently.",
+  "author": "Gabriel Pajot",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "concurrent_tasks-1.14.0.tar.gz",
+  "download_time": "2025-08-24T20:22:13.168776",
+  "package_url": "https://pypi.org/project/concurrent-tasks/"
+}

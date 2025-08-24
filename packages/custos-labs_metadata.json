@@ -1,0 +1,11 @@
+{
+  "name": "custos-labs",
+  "version": "0.2.5",
+  "summary": "Custos – The AI Alignment Guardian. Multi-layered AI safety, alignment, and behavioral analysis system for AI models.",
+  "author": "Sylvester Duah",
+  "license": null,
+  "home_page": "https://github.com/dev-77-sys",
+  "download_filename": "custos_labs-0.2.5.tar.gz",
+  "download_time": "2025-08-24T20:22:06.896763",
+  "package_url": "https://pypi.org/project/custos-labs/"
+}

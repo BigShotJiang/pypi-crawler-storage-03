@@ -1,11 +1,11 @@
 {
   "name": "wsjt-all",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "Automated plots and analysis from the WSJT-X ALL.txt file",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wsjt_all-1.3.0.tar.gz",
-  "download_time": "2025-08-24T19:52:48.191287",
+  "download_filename": "wsjt_all-1.3.1.tar.gz",
+  "download_time": "2025-08-24T20:22:36.823734",
   "package_url": "https://pypi.org/project/wsjt-all/"
 }
