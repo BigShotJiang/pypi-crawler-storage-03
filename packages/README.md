@@ -1,11 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T22:54:58.096284
-- **Total Packages**: 81
-- **Total Size**: 0.64 MB
+- **Download Time**: 2025-08-24T23:20:17.542400
+- **Total Packages**: 76
+- **Total Size**: 16.45 MB
 
 ## Packages List
+- latexdl
+- typed-redis
+- tenxagent
+- grammdb
+- ryutils
+- iamdata
+- empowernow-common
+- agentex-sdk
+- reasoning-deployment-service
+- splurge-sql-generator
+- inferra
+- flwr-nightly
+- trn
+- PyMieSim
+- uiuapy
+- nominal-api-protos
+- nominal-api
+- cartography-client
+- fastapi-custom-responses
+- pymead
+- iLaplace
+- extradict
+- lollms-client
+- pepflow
+- powerdns-cli
+- fuse-cli
+- tinytuya
+- ai-infra
+- svc-infra
 - amazon-orders
 - wyld-cz
 - redisbench-admin
@@ -14,19 +43,15 @@
 - course-constraint-scheduler
 - mrapids
 - qbit-manage
-- ai-infra
 - allure-pytest-ext
 - agentsystems-sdk
 - ry-redis-bus
-- reasoning-deployment-service
 - sensory-data-client
 - greenlamp
 - sqlmap-ai
 - fbusl
-- tenxagent
 - service-ping-sping
 - otary
-- svc-infra
 - SAMBA-ilum
 - tdrpa.tdworker
 - rq_geo_toolkit
@@ -34,7 +59,6 @@
 - epijats
 - astabench
 - libreriajuan
-- trn
 - cfbd
 - HoloLink
 - lm-deluge
@@ -58,32 +82,3 @@
 - moto
 - coded-flows
 - abstractrepo-sqlalchemy
-- sdss-sep
-- nominal-api-protos
-- nominal-api
-- regula-documentreader-webclient
-- MECLib
-- evsemaster
-- strwythura
-- dml-util
-- delete-branches
-- nt-summary-stats
-- wyrestorm-networkhd
-- spider-mcp-client
-- arbi
-- kodexa-cli
-- zlang
-- sedd
-- vsg
-- docseer
-- multiplayer-session-recorder
-- py-msu-scripter-app
-- speed-analyzer
-- delete-workflow-runs
-- aisert
-- culicidaelab
-- inline-snapshot
-- chart-to-code
-- rdfc_runner
-- agentsystems-toolkit
-- apache-tvm-ffi

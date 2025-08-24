@@ -1,0 +1,11 @@
+{
+  "name": "uiuapy",
+  "version": "0.2.0",
+  "summary": "Use the Uiua array programming language from Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uiuapy-0.2.0.tar.gz",
+  "download_time": "2025-08-24T23:19:42.176115",
+  "package_url": "https://pypi.org/project/uiuapy/"
+}

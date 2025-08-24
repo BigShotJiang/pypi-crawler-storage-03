@@ -1,0 +1,11 @@
+{
+  "name": "extradict",
+  "version": "0.7.0",
+  "summary": "Miscelaneous data containers and utilities: A versioned dictionary, a bidirectional dictionary, a binary tree backed dictionary, a Grouper iterator mapper similar to itertools.tee, and an easy extractor from dictionary key/values to variables",
+  "author": "Joao S. O. Bueno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "extradict-0.7.0.tar.gz",
+  "download_time": "2025-08-24T23:19:46.361567",
+  "package_url": "https://pypi.org/project/extradict/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymead",
+  "version": "2.0.0b13",
+  "summary": "Python GUI and API for generation, aerodynamic analysis, and shape optimization of parametric airfoil systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymead-2.0.0b13.tar.gz",
+  "download_time": "2025-08-24T23:19:45.217278",
+  "package_url": "https://pypi.org/project/pymead/"
+}
