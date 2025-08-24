@@ -1,0 +1,11 @@
+{
+  "name": "django-mail-model-template",
+  "version": "0.1.2",
+  "summary": "Manage email templates in DB with django",
+  "author": "Minoru Yokoo",
+  "license": "MIT",
+  "home_page": "https://github.com/dreamiyokoo/django-mail-model-template",
+  "download_filename": "django_mail_model_template-0.1.2.tar.gz",
+  "download_time": "2025-08-24T14:53:09.446792",
+  "package_url": "https://pypi.org/project/django-mail-model-template/"
+}

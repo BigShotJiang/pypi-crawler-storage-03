@@ -1,0 +1,11 @@
+{
+  "name": "mamushi",
+  "version": "0.0.7",
+  "summary": "Vyper formatter",
+  "author": null,
+  "license": "{ text = \"MIT\" }",
+  "home_page": "https://github.com/benber86/mamushi",
+  "download_filename": "mamushi-0.0.7.tar.gz",
+  "download_time": "2025-08-24T14:53:15.353963",
+  "package_url": "https://pypi.org/project/mamushi/"
+}
