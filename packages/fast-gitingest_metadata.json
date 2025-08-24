@@ -1,0 +1,11 @@
+{
+  "name": "fast-gitingest",
+  "version": "0.1.0",
+  "summary": "Fast Git repository ingestion and analysis tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_gitingest-0.1.0.tar.gz",
+  "download_time": "2025-08-24T11:16:54.676941",
+  "package_url": "https://pypi.org/project/fast-gitingest/"
+}

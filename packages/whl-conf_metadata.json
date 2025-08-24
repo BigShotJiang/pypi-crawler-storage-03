@@ -1,0 +1,11 @@
+{
+  "name": "whl-conf",
+  "version": "0.0.1",
+  "summary": "A configuration management tool for WheelOS.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whl_conf-0.0.1.tar.gz",
+  "download_time": "2025-08-24T11:16:56.834187",
+  "package_url": "https://pypi.org/project/whl-conf/"
+}
