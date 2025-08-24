@@ -1,0 +1,11 @@
+{
+  "name": "john-migrator",
+  "version": "1.2.0",
+  "summary": "A lightweight database migration tool for Python projects",
+  "author": "John Doe",
+  "license": null,
+  "home_page": "https://github.com/Krishna-chauhan/john-migrator.git",
+  "download_filename": "john_migrator-1.2.0.tar.gz",
+  "download_time": "2025-08-24T21:53:20.358487",
+  "package_url": "https://pypi.org/project/john-migrator/"
+}

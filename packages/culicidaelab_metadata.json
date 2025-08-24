@@ -1,11 +1,11 @@
 {
   "name": "culicidaelab",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A Python library for mosquito detection, segmentation, and classification in images",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "culicidaelab-0.2.1.tar.gz",
-  "download_time": "2025-08-24T09:40:50.082081",
+  "download_filename": "culicidaelab-0.2.2.tar.gz",
+  "download_time": "2025-08-24T21:53:15.644364",
   "package_url": "https://pypi.org/project/culicidaelab/"
 }

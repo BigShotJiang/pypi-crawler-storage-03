@@ -1,0 +1,11 @@
+{
+  "name": "rdfc_runner",
+  "version": "0.0.2",
+  "summary": "Python runner for RDF-Connect",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rdfc_runner-0.0.2.tar.gz",
+  "download_time": "2025-08-24T21:53:18.270100",
+  "package_url": "https://pypi.org/project/rdfc_runner/"
+}

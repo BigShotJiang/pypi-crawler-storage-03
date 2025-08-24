@@ -1,11 +1,11 @@
 {
   "name": "aisert",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Assert-style validation library for AI outputs - ensure your LLMs behave exactly as expected",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aisert-0.1.1.tar.gz",
-  "download_time": "2025-08-17T19:14:56.215272",
+  "download_filename": "aisert-0.2.0.tar.gz",
+  "download_time": "2025-08-24T21:53:14.596473",
   "package_url": "https://pypi.org/project/aisert/"
 }
