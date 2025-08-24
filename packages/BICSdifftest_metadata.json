@@ -1,11 +1,11 @@
 {
   "name": "BICSdifftest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Differential Testing Framework for Verilog Hardware Verification",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bicsdifftest-1.0.0.tar.gz",
-  "download_time": "2025-08-24T03:13:31.077906",
+  "download_filename": "bicsdifftest-1.0.1.tar.gz",
+  "download_time": "2025-08-24T09:40:52.406861",
   "package_url": "https://pypi.org/project/BICSdifftest/"
 }

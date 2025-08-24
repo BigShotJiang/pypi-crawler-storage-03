@@ -1,0 +1,11 @@
+{
+  "name": "netsci",
+  "version": "0.0.4",
+  "summary": "Analyzing Complex Networks with Python",
+  "author": "Eyal Gal, Idan Segev, Michael London",
+  "license": null,
+  "home_page": "https://github.com/gialdetti/netsci/",
+  "download_filename": "netsci-0.0.4.tar.gz",
+  "download_time": "2025-08-24T09:40:46.057275",
+  "package_url": "https://pypi.org/project/netsci/"
+}

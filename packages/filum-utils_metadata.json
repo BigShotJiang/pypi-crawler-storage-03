@@ -1,11 +1,11 @@
 {
   "name": "filum-utils",
-  "version": "0.1.60",
+  "version": "0.1.61",
   "summary": "Filum Utils",
   "author": "Hiep Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "filum_utils-0.1.60.tar.gz",
-  "download_time": "2025-08-23T17:16:51.668318",
+  "download_filename": "filum_utils-0.1.61.tar.gz",
+  "download_time": "2025-08-24T09:40:43.725251",
   "package_url": "https://pypi.org/project/filum-utils/"
 }
