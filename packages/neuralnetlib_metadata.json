@@ -1,0 +1,11 @@
+{
+  "name": "neuralnetlib",
+  "version": "4.4.0",
+  "summary": "A flexible deep learning framework built from scratch using only NumPy",
+  "author": "Marc Pinet",
+  "license": null,
+  "home_page": "https://github.com/marcpinet/neuralnetlib",
+  "download_filename": "neuralnetlib-4.4.0.tar.gz",
+  "download_time": "2025-08-24T19:52:59.613328",
+  "package_url": "https://pypi.org/project/neuralnetlib/"
+}

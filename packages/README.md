@@ -1,12 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T19:41:40.200570
-- **Total Packages**: 78
-- **Total Size**: 2.36 MB
+- **Download Time**: 2025-08-24T19:53:30.370160
+- **Total Packages**: 80
+- **Total Size**: 4.41 MB
 
 ## Packages List
+- wsjt-all
+- starconsumers
+- helios-ml
+- matty
+- email-to-calendar
+- rcol
 - dl-md
+- convert-stream
+- myne
+- boring-semantic-layer
+- firecast
+- django-style
+- nyxpy
+- sphinx-tudelft-theme
+- simple-carla
+- pet-mad
+- minitap-mobile-use
+- cinetica
+- pyegeria
+- niebla
+- nillanet
+- neuralnetlib
+- data-finder
+- z8ter
 - rxfoundry.clients.swifty-api
 - rxfoundry.clients.swifty-oauth-api
 - async-queue-manager
@@ -15,7 +38,6 @@
 - lm-format-enforcer
 - cached-llm
 - clean-talk-client
-- matty
 - SAMBA-ilum
 - bhp-pro
 - vsmuxtools
@@ -35,7 +57,6 @@
 - cursword
 - azure-waf-deployer
 - ures
-- sphinx-tudelft-theme
 - NexWorld
 - ivpm
 - OctoBot-Commons
@@ -44,7 +65,6 @@
 - aicostmanager
 - prompd
 - ezbeq
-- starconsumers
 - testnewsdkwebdock
 - momovu
 - sphinx-code-examples
@@ -66,21 +86,3 @@
 - tinyagent-py
 - strwythura
 - photomapai
-- nuxt-payload
-- CLHKidAI
-- aniworld
-- lisptorch
-- pyegeria
-- sensory-data-client
-- pyramid-mcp
-- yivo
-- energy-assistant-frontend
-- bitarray
-- superset-showtime
-- odsbox
-- examexam
-- yeref
-- voice-mode
-- polars-hist-db
-- lionagi
-- lbt-dragonfly
