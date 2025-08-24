@@ -1,0 +1,11 @@
+{
+  "name": "kgrv",
+  "version": "0.1.2",
+  "summary": "Python пакет для экспериментов и обучения",
+  "author": "kogriv",
+  "license": "MIT",
+  "home_page": "https://github.com/kogriv/kgrv",
+  "download_filename": "kgrv-0.1.2.tar.gz",
+  "download_time": "2025-08-24T10:52:50.865882",
+  "package_url": "https://pypi.org/project/kgrv/"
+}

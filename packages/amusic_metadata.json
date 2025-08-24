@@ -1,0 +1,11 @@
+{
+  "name": "amusic",
+  "version": "2.0.0",
+  "summary": "A tool to generate MIDI visualization videos with visual effects.",
+  "author": "SolamateanTehCoder",
+  "license": null,
+  "home_page": "https://github.com/SolamateanTehCoder/amusic",
+  "download_filename": "amusic-2.0.0.tar.gz",
+  "download_time": "2025-08-24T10:52:54.032507",
+  "package_url": "https://pypi.org/project/amusic/"
+}

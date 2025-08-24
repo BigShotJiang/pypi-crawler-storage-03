@@ -1,11 +1,11 @@
 {
   "name": "claude-cto",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Fire-and-forget task execution system for Claude Code SDK with CLI and MCP interfaces",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_cto-0.7.1.tar.gz",
-  "download_time": "2025-08-24T10:43:44.267425",
+  "download_filename": "claude_cto-0.7.2.tar.gz",
+  "download_time": "2025-08-24T10:53:01.599254",
   "package_url": "https://pypi.org/project/claude-cto/"
 }
