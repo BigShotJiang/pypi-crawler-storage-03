@@ -1,0 +1,11 @@
+{
+  "name": "bool-hybrid-array",
+  "version": "7.8.13",
+  "summary": "Efficient boolean hybrid array library",
+  "author": "Cai Jingjie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bool_hybrid_array-7.8.13.tar.gz",
+  "download_time": "2025-08-24T08:55:39.326364",
+  "package_url": "https://pypi.org/project/bool-hybrid-array/"
+}

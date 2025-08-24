@@ -1,0 +1,11 @@
+{
+  "name": "referral-candy",
+  "version": "0.3.0",
+  "summary": "ReferralCandy Python API Client",
+  "author": "ReferralCandy",
+  "license": "MIT License",
+  "home_page": "https://github.com/ReferralCandy/referral_candy_python",
+  "download_filename": "referral_candy-0.3.0.tar.gz",
+  "download_time": "2025-08-24T08:55:42.981600",
+  "package_url": "https://pypi.org/project/referral-candy/"
+}

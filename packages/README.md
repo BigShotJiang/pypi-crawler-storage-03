@@ -1,11 +1,28 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T08:46:03.135707
-- **Total Packages**: 73
-- **Total Size**: 17.13 MB
+- **Download Time**: 2025-08-24T08:56:15.305746
+- **Total Packages**: 69
+- **Total Size**: 0.54 MB
 
 ## Packages List
+- portal-env
+- bool-hybrid-array
+- durusai-cli
+- ray-embedding
+- bdd-tags-processor
+- miamcpdoc
+- mocket
+- referral-candy
+- quant1x-base
+- z-zephyr
+- fbusl
+- LLMEvaluationFramework
+- zut
+- starlake-dagster
+- maleo-cds
+- sws-config
+- starlake-airflow
 - quickdownload
 - tfp-nightly
 - wspr-ai-lite
@@ -19,10 +36,8 @@
 - nc-mcp
 - jacobi-poly
 - wiliot-testers
-- ray-embedding
 - sr2t
 - sherpa-onnx
-- sws-config
 - async-kernel
 - opynsense
 - kuzu
@@ -34,7 +49,6 @@
 - arts
 - pybFoam
 - tracecolor
-- LLMEvaluationFramework
 - sk-linearregression
 - Navygram
 - SLH-DSA
@@ -51,7 +65,6 @@
 - odsbox
 - soa-kafka-python
 - vbaf
-- z-zephyr
 - pyglove
 - maleo-metadata
 - atk-common
@@ -62,20 +75,3 @@
 - octopus-sensing-monitoring
 - PySide6-Fluent-UI
 - protean
-- coaiapy
-- pm-rank
-- akari-bot-webui
-- newrcc
-- port-ocean
-- mesalab
-- jwt-pro
-- tvara
-- watershed-delineation
-- modular-noc-scheduling
-- stigg-api-client-v2
-- stigg-api-client
-- frogml
-- agentsdk-ayush2
-- leap-model-parser
-- pylua-bioxen-vm-lib
-- cuti

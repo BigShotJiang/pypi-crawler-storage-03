@@ -1,11 +1,11 @@
 {
   "name": "starlake-airflow",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Starlake Python Distribution For Airflow",
   "author": "Stéphane Manciot",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "starlake_airflow-0.4.0.tar.gz",
-  "download_time": "2025-08-20T09:21:48.880115",
+  "download_filename": "starlake_airflow-0.4.1.tar.gz",
+  "download_time": "2025-08-24T08:55:47.664670",
   "package_url": "https://pypi.org/project/starlake-airflow/"
 }
