@@ -1,0 +1,11 @@
+{
+  "name": "tisc",
+  "version": "0.1.2",
+  "summary": "Simple model creation and training framework for time series classification in Pytorch",
+  "author": "Yutsuro",
+  "license": "Apache",
+  "home_page": "https://github.com/Yutsuro/pytorch-time-series-classification",
+  "download_filename": "tisc-0.1.2.tar.gz",
+  "download_time": "2025-08-24T17:34:36.764999",
+  "package_url": "https://pypi.org/project/tisc/"
+}

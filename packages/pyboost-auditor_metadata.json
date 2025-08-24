@@ -1,0 +1,11 @@
+{
+  "name": "pyboost-auditor",
+  "version": "0.2.0",
+  "summary": "An upgrade assistant to audit Python projects and estimate cloud cost savings.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyboost_auditor-0.2.0.tar.gz",
+  "download_time": "2025-08-24T17:34:24.898729",
+  "package_url": "https://pypi.org/project/pyboost-auditor/"
+}

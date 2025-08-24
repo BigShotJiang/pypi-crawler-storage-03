@@ -1,0 +1,11 @@
+{
+  "name": "redis-toolkit",
+  "version": "0.4.0",
+  "summary": "Enhanced Redis wrapper with multi-type data support and pub/sub automation",
+  "author": "JonesHong",
+  "license": "MIT",
+  "home_page": "https://github.com/JonesHong/redis-toolkit",
+  "download_filename": "redis_toolkit-0.4.0-py3-none-any.whl",
+  "download_time": "2025-08-24T17:34:32.655997",
+  "package_url": "https://pypi.org/project/redis-toolkit/"
+}

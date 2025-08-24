@@ -1,11 +1,11 @@
 {
   "name": "OntoLearner",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "OntoLearner: A Modular Python Library for Ontology Learning with LLMs.",
   "author": "Hamed Babaei Giglou",
   "license": "MIT",
   "home_page": "https://ontolearner.readthedocs.io/",
-  "download_filename": "ontolearner-1.4.0.tar.gz",
-  "download_time": "2025-08-22T21:18:48.988152",
+  "download_filename": "ontolearner-1.4.1.tar.gz",
+  "download_time": "2025-08-24T17:34:26.443126",
   "package_url": "https://pypi.org/project/OntoLearner/"
 }
