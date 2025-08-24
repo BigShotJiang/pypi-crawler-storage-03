@@ -1,11 +1,11 @@
 {
   "name": "routelit-mantine",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "This is a routelit library repository for that uses uv for their dependency management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "routelit_mantine-0.1.1.tar.gz",
-  "download_time": "2025-08-21T01:26:27.361860",
+  "download_filename": "routelit_mantine-0.1.3.tar.gz",
+  "download_time": "2025-08-24T16:46:14.468026",
   "package_url": "https://pypi.org/project/routelit-mantine/"
 }

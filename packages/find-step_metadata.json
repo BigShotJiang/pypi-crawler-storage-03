@@ -1,0 +1,11 @@
+{
+  "name": "find-step",
+  "version": "0.0.2",
+  "summary": "All the str.find() goodness, now with a step argument",
+  "author": "Alex Willmer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "find_step-0.0.2.tar.gz",
+  "download_time": "2025-08-24T16:46:11.262552",
+  "package_url": "https://pypi.org/project/find-step/"
+}

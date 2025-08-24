@@ -1,11 +1,11 @@
 {
   "name": "skais-mapper",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "summary": "A framework for generating deep-learning SKA radio telescope & cosmological hydrodynamical simulation data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "skais_mapper-0.1.12.tar.gz",
-  "download_time": "2025-08-24T14:53:12.712821",
+  "download_filename": "skais_mapper-0.1.13.tar.gz",
+  "download_time": "2025-08-24T16:46:05.962210",
   "package_url": "https://pypi.org/project/skais-mapper/"
 }
