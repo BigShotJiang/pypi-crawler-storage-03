@@ -1,11 +1,11 @@
 {
   "name": "sqlmap-ai",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "AI-powered SQL injection testing tool with multiple AI providers",
   "author": "Atilla",
   "license": null,
   "home_page": "https://github.com/atiilla/sqlmap-ai",
-  "download_filename": "sqlmap_ai-2.0.0.tar.gz",
-  "download_time": "2025-08-22T23:19:52.213414",
+  "download_filename": "sqlmap_ai-2.0.1.tar.gz",
+  "download_time": "2025-08-24T22:43:33.435170",
   "package_url": "https://pypi.org/project/sqlmap-ai/"
 }

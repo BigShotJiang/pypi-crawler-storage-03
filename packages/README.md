@@ -1,11 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T22:21:04.449240
-- **Total Packages**: 77
-- **Total Size**: 15.4 MB
+- **Download Time**: 2025-08-24T22:44:12.912505
+- **Total Packages**: 79
+- **Total Size**: 9.6 MB
 
 ## Packages List
+- reasoning-deployment-service
+- sensory-data-client
+- greenlamp
+- sqlmap-ai
+- fbusl
+- tenxagent
+- service-ping-sping
+- otary
+- svc-infra
+- SAMBA-ilum
+- tdrpa.tdworker
+- allure-pytest-ext
+- rq_geo_toolkit
+- local-wake
+- epijats
+- astabench
+- libreriajuan
+- trn
+- cfbd
+- HoloLink
+- lm-deluge
+- supermemory
+- chaukas-spec-server
+- chaukas-spec-client
+- z8ter
+- yttran
 - wai-logging
 - pyrend
 - mrapids
@@ -13,9 +39,7 @@
 - novatrace
 - workbench
 - listpick
-- libreriajuan
 - aiwand
-- yttran
 - owlib
 - imdbinfo
 - tunnelify
@@ -30,7 +54,6 @@
 - regula-documentreader-webclient
 - MECLib
 - evsemaster
-- svc-infra
 - strwythura
 - dml-util
 - delete-branches
@@ -62,24 +85,3 @@
 - ivybloom
 - codearkt
 - mtcli
-- mctools
-- sparqlx
-- sdk-pytest-checkmate
-- devhelper-carlosruc
-- graph-games-proto
-- sqlmesh
-- snape-mss
-- poi-sdk
-- ryutils
-- babylonrsa
-- sensory-data-client
-- cached-llm
-- thoth-dbmanager
-- fngen
-- fx-calendar
-- wave-solver-2d
-- PyOptik
-- python-roborock
-- supermemory
-- adversary-mcp-server
-- iceos-client
