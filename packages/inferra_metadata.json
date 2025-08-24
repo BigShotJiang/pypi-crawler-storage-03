@@ -1,0 +1,11 @@
+{
+  "name": "inferra",
+  "version": "0.1.1",
+  "summary": "Inferra is an open-source platform to host, explore, and run pre-trained ML, DL, and NLP models with an interactive UI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inferra-0.1.1.tar.gz",
+  "download_time": "2025-08-24T11:42:04.181568",
+  "package_url": "https://pypi.org/project/inferra/"
+}

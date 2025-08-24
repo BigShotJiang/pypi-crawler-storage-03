@@ -1,0 +1,11 @@
+{
+  "name": "common-sense",
+  "version": "0.1.0",
+  "summary": "Because common sense is not so common. Now it is — in Python!",
+  "author": "Happy Sharma",
+  "license": "MIT",
+  "home_page": "https://github.com/Happy-Kumar-Sharma/common-sense",
+  "download_filename": "common_sense-0.1.0.tar.gz",
+  "download_time": "2025-08-24T11:42:09.669907",
+  "package_url": "https://pypi.org/project/common-sense/"
+}

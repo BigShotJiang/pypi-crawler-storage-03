@@ -1,11 +1,11 @@
 {
   "name": "passagemath-database-cunningham",
-  "version": "10.6.7",
+  "version": "10.6.8",
   "summary": "passagemath: List of the prime numbers occuring in the Cunningham table",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_database_cunningham-10.6.7.tar.gz",
-  "download_time": "2025-08-21T15:54:35.268219",
+  "download_filename": "passagemath_database_cunningham-10.6.8-py3-none-any.whl",
+  "download_time": "2025-08-24T11:41:59.725698",
   "package_url": "https://pypi.org/project/passagemath-database-cunningham/"
 }

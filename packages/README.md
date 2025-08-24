@@ -1,12 +1,74 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T11:30:24.467714
-- **Total Packages**: 68
-- **Total Size**: 12.76 MB
+- **Download Time**: 2025-08-24T11:42:21.329661
+- **Total Packages**: 84
+- **Total Size**: 57.69 MB
 
 ## Packages List
+- passagemath-maxima
+- passagemath-macaulay2
+- passagemath-lrslib
+- passagemath-linbox
+- passagemath-libecm
+- passagemath-libbraiding
+- passagemath-lcalc
+- passagemath-latte-4ti2
+- passagemath-kissat
+- passagemath-kenzo
+- passagemath-groups
+- passagemath-glucose
+- smol_k8s_lab
+- passagemath-giac
+- passagemath-gfan
+- passagemath-gap-pkg-semigroups
+- passagemath-sws2rst
+- passagemath-standard
+- passagemath-setup
+- passagemath-repl
+- passagemath-gap
+- passagemath-frobby
+- passagemath-pari-seadata-small
+- passagemath-fricas
+- passagemath-flint
+- passagemath-pari-nftables
+- passagemath-eclib
+- passagemath-pari-nflistdata
+- passagemath-ecl
+- passagemath-docbuild
+- Backtester-Tushar
+- passagemath-pari-galdata
+- passagemath-doc-pdf
+- passagemath-doc-html
+- passagemath-database-polytopes-4d
+- passagemath-database-cremona-ellcurve
+- passagemath-gap-pkg-factint-data
+- passagemath-coxeter3
+- passagemath-gap-pkg-ctbllib-data
+- passagemath-conf
+- passagemath-environment
+- passagemath-database-symbolic-data
+- passagemath-database-mutation-class
+- passagemath-database-jones-numfield
+- passagemath-buckygen
+- passagemath-database-cunningham
+- passagemath-brial
+- passagemath-bliss
+- passagemath-benzene
+- OncoDCA
+- torchzero
+- pretix-wallet
+- delta-trace-db
+- inferra
+- wsjt-all
+- pretix-uic-barcode
+- ros2em
+- naplexer
 - mcp-sqlserver-filesystem
+- legit-api-client
+- koder
+- logngraph
+- common-sense
 - agenticaiframework
 - torchx-nightly
 - airflow-chat
@@ -28,49 +90,3 @@
 - kreuzberg
 - azpytools
 - fast-gitingest
-- biliup-mysql-1
-- tb-nightly
-- whl-conf
-- agentic-blocks
-- hikari-lightbulb
-- fbusl
-- mcdreforged
-- autohack-next
-- legit-api-client
-- bedrock-server-manager
-- emta
-- logngraph
-- griffe2md
-- akshare
-- biliup-mysql
-- chutes
-- async-queue-manager
-- librestats
-- linkd
-- shraga-common
-- mon-tokenizer
-- pymud
-- kgrv
-- knoxcraft
-- mcp-cd-youth
-- higgs-kernels
-- amusic
-- hyperfast-uv-template
-- qualifire
-- square-authentication
-- konduktor-nightly
-- logsentinelai
-- mcp-ambari-api
-- ScoringPy
-- codearkt
-- mcp-postgresql-ops
-- mcp-airflow-api
-- trainy-policy-nightly
-- sphinx-notionbuilder
-- telegram-core
-- letta-nightly
-- newrcc
-- extended-sklearn-metrics
-- avl-axi-stream
-- abstractrepo
-- morten

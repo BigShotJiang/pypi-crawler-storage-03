@@ -1,11 +1,11 @@
 {
   "name": "mcp-sqlserver-filesystem",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Simple and efficient MCP server for SQL Server database access and filesystem operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_sqlserver_filesystem-1.0.1.tar.gz",
-  "download_time": "2025-08-24T11:29:47.028123",
+  "download_filename": "mcp_sqlserver_filesystem-1.0.2.tar.gz",
+  "download_time": "2025-08-24T11:42:07.377019",
   "package_url": "https://pypi.org/project/mcp-sqlserver-filesystem/"
 }
