@@ -1,11 +1,33 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-24T07:19:59.918035
-- **Total Packages**: 76
-- **Total Size**: 13.78 MB
+- **Download Time**: 2025-08-24T07:40:47.631061
+- **Total Packages**: 72
+- **Total Size**: 7.52 MB
 
 ## Packages List
+- code-loader
+- maleo-soma
+- ray-embedding
+- pypomes-db
+- sr2t
+- workspacex
+- TeXicode
+- hypothesis
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- pgcrypt
+- brizz
+- nc-mcp
+- djresttoolkit
+- wspr-ai-lite
+- pgcopylib
+- qlsdk2
+- soa-kafka-python
+- task-scheduling
+- ABetter
+- pylua-bioxen-vm-lib
+- watershed-delineation
 - spyronx
 - peek-python
 - smdb-api
@@ -23,16 +45,13 @@
 - pluau
 - ai-terminal-cli
 - srtify
-- soa-kafka-python
 - smart-tsp-benchmark
-- wspr-ai-lite
 - parsehub
 - ibauth
 - fastapi-custom-responses
 - smart-tsp-solver
 - optics-framework
 - hundredandten
-- pylua-bioxen-vm-lib
 - linkcovery
 - evalsync
 - ai4one
@@ -45,7 +64,6 @@
 - yt-queue
 - undetected-chrome-mcp-server
 - NetyHT-STT
-- pypomes-db
 - zeroeval
 - passagemath-rankwidth
 - passagemath-plot
@@ -60,25 +78,3 @@
 - passagemath-categories
 - abstract-apis
 - NseEod
-- kitti-odom-2012-dataloader
-- traceloop-sdk
-- robotdatapy
-- opentelemetry-instrumentation-weaviate
-- opentelemetry-instrumentation-watsonx
-- opentelemetry-instrumentation-vertexai
-- opentelemetry-instrumentation-transformers
-- opentelemetry-instrumentation-together
-- opentelemetry-instrumentation-sagemaker
-- opentelemetry-instrumentation-replicate
-- opentelemetry-instrumentation-qdrant
-- opentelemetry-instrumentation-pinecone
-- opentelemetry-instrumentation-openai-agents
-- opentelemetry-instrumentation-openai
-- opentelemetry-instrumentation-ollama
-- opentelemetry-instrumentation-mistralai
-- opentelemetry-instrumentation-milvus
-- opentelemetry-instrumentation-mcp
-- opentelemetry-instrumentation-marqo
-- opentelemetry-instrumentation-llamaindex
-- opentelemetry-instrumentation-langchain
-- opentelemetry-instrumentation-lancedb

@@ -1,11 +1,11 @@
 {
   "name": "pgcopylib",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "PGCopy bynary dump parser.",
   "author": "0xMihalich",
   "license": null,
   "home_page": "https://github.com/0xMihalich/pgcopylib",
-  "download_filename": "pgcopylib-0.0.2.tar.gz",
-  "download_time": "2025-08-22T04:47:42.729724",
+  "download_filename": "pgcopylib-0.0.3.tar.gz",
+  "download_time": "2025-08-24T07:40:16.394284",
   "package_url": "https://pypi.org/project/pgcopylib/"
 }
