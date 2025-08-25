@@ -1,11 +1,11 @@
 {
   "name": "lyzr-python-sdk",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Python client library for interacting with the Lyzr Agent API",
   "author": "Lyzr",
   "license": null,
   "home_page": "https://github.com/LyzrCore/lyzr-python",
-  "download_filename": "lyzr_python_sdk-0.1.2.tar.gz",
-  "download_time": "2025-08-25T05:46:01.657968",
+  "download_filename": "lyzr_python_sdk-0.1.4.tar.gz",
+  "download_time": "2025-08-25T05:56:58.441512",
   "package_url": "https://pypi.org/project/lyzr-python-sdk/"
 }
