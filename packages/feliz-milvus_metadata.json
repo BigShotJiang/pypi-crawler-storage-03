@@ -1,11 +1,11 @@
 {
   "name": "feliz-milvus",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "A Python package for Milvus Git integration",
   "author": "nexuni",
   "license": null,
   "home_page": "https://github.com/nexuni/feliz_milvus",
-  "download_filename": "feliz_milvus-0.1.5.tar.gz",
-  "download_time": "2025-08-25T09:24:37.782251",
+  "download_filename": "feliz_milvus-0.1.8.tar.gz",
+  "download_time": "2025-08-25T09:55:56.902801",
   "package_url": "https://pypi.org/project/feliz-milvus/"
 }

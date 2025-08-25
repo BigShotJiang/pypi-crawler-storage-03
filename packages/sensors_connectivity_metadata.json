@@ -1,0 +1,11 @@
+{
+  "name": "sensors_connectivity",
+  "version": "1.6.9",
+  "summary": "Robonomics package to read data from sensors and publish to different output channels",
+  "author": "Vadim Manaenko",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/airalab/sensors-connectivity",
+  "download_filename": "sensors_connectivity-1.6.9.tar.gz",
+  "download_time": "2025-08-25T09:55:51.620850",
+  "package_url": "https://pypi.org/project/sensors_connectivity/"
+}
