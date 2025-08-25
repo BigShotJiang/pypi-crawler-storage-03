@@ -1,11 +1,11 @@
 {
   "name": "cube-alchemy",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A lightweight, queryable hypercube engine for multidimensional data analysis",
   "author": null,
-  "license": "Apache 2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "cube_alchemy-0.1.4.tar.gz",
-  "download_time": "2025-08-21T17:42:55.415114",
+  "download_filename": "cube_alchemy-0.1.5.tar.gz",
+  "download_time": "2025-08-25T08:30:09.865207",
   "package_url": "https://pypi.org/project/cube-alchemy/"
 }

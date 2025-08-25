@@ -1,0 +1,11 @@
+{
+  "name": "bhopengraph",
+  "version": "1.1.0",
+  "summary": "A python library to create BloodHound OpenGraphs easily",
+  "author": "p0dalirius",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bhopengraph-1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-25T08:30:27.296928",
+  "package_url": "https://pypi.org/project/bhopengraph/"
+}

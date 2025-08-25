@@ -1,11 +1,11 @@
 {
   "name": "simple-tsdb",
-  "version": "0.9.8",
+  "version": "0.9.9",
   "summary": "Python code for accessing simple_tsdb databases.",
   "author": "Terry Greeniaus",
   "license": "MIT",
   "home_page": "https://github.com/tgree/simple_tsdb",
-  "download_filename": "simple_tsdb-0.9.8.tar.gz",
-  "download_time": "2025-08-19T01:28:22.039451",
+  "download_filename": "simple_tsdb-0.9.9.tar.gz",
+  "download_time": "2025-08-25T08:30:20.302700",
   "package_url": "https://pypi.org/project/simple-tsdb/"
 }

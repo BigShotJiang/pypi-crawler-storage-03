@@ -1,0 +1,11 @@
+{
+  "name": "bindensity",
+  "version": "0.1.4",
+  "summary": "Suite of functions to manipulate bins densities and covariance matrices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bindensity-0.1.4.tar.gz",
+  "download_time": "2025-08-25T08:30:07.572767",
+  "package_url": "https://pypi.org/project/bindensity/"
+}

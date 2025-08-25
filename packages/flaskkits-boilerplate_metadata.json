@@ -1,11 +1,11 @@
 {
   "name": "flaskkits-boilerplate",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Starter kit Flask modern dengan struktur rapi, integrasi Tailwind CSS, dan perintah CLI sederhana.",
   "author": "Hadiani",
   "license": "MIT",
   "home_page": "https://github.com/lahadiyani/flaskkit",
-  "download_filename": "flaskkits_boilerplate-0.1.3.tar.gz",
-  "download_time": "2025-08-19T03:44:27.960880",
+  "download_filename": "flaskkits_boilerplate-0.1.5.tar.gz",
+  "download_time": "2025-08-25T08:30:08.613975",
   "package_url": "https://pypi.org/project/flaskkits-boilerplate/"
 }

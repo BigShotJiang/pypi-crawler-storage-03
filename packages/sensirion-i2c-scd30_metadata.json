@@ -1,0 +1,11 @@
+{
+  "name": "sensirion-i2c-scd30",
+  "version": "1.0.0",
+  "summary": "I2C driver for the Sensirion SCD30 sensor family",
+  "author": "Sensirion",
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "sensirion_i2c_scd30-1.0.0.tar.gz",
+  "download_time": "2025-08-25T08:30:07.055718",
+  "package_url": "https://pypi.org/project/sensirion-i2c-scd30/"
+}
