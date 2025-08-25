@@ -1,11 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T14:47:59.535611
-- **Total Packages**: 88
-- **Total Size**: 56.05 MB
+- **Download Time**: 2025-08-25T14:58:16.139923
+- **Total Packages**: 85
+- **Total Size**: 13.38 MB
 
 ## Packages List
+- aioresonate
+- cmsdism
+- analytics-mcp
+- kvcommon
+- activity-browser
+- odoo-addon-crm-location
+- aioretry-decorator
+- matrice
+- deepparameters
+- mistral
+- pucktrick
+- odoo-addon-partner-category-description
+- pypaperless
+- eurocodepy
+- yayaml
+- odoo14-addon-purchase-order-line-sequence
+- aigroup-video-mcp
+- chess4x4
+- fireblocks-sdk
+- wbwriter
+- wbwiki
+- wbtasks
+- wbreport
+- wbportfolio
+- wbnews
+- wbmailing
+- wbintegrator_office365
+- wbhuman_resources
+- wbfdm
+- wbcrm
+- wbcore
+- wbcompliance
+- wbaccounting
+- conecta
+- sqlmesh
+- phandas
+- odoo-addon-edi-stock-oca
+- pretix-uic-barcode
+- praetorian-cli
+- plua
+- keeptalking
+- reachy2-sdk-api
+- django-migrate-sql-deux
+- localtest
+- VirecIntelligence
 - ksphinx
 - wmill-pg
 - biosteam
@@ -13,7 +58,6 @@
 - sgclimaapiclient
 - windmill-api
 - legit-api-client
-- matrice
 - langchain-llama-stack
 - odoo-addon-stock-orderpoint-no-horizon
 - bakeit
@@ -45,52 +89,5 @@
 - oneroster-api
 - raw-docx
 - oasm.dev
-- deepparameters
 - browniebroke-utils
 - gigachat
-- iCCF
-- mat-llm-cli
-- deezer-oauth-cli
-- terra-scientific-pipelines-service-api-client
-- envrihub
-- iqm-benchmarks
-- sibr-module
-- vinci-lang
-- assemblyline-service-utilities
-- risclog.batou
-- flake8-django-migrations
-- netlify-builds
-- django-codemod
-- datfid
-- attachments
-- openhexa.sdk
-- zodchy
-- pyrtex
-- django-admin-helpers
-- publicaddr
-- all-repos-envvar
-- atprun
-- deezer-python
-- memviz
-- pantheon-cli
-- entari-cli
-- aiagents4pharma
-- proteobench
-- training-hub
-- coiled
-- regscale-cli
-- viam-sdk
-- earthcarekit
-- pyxel
-- txgraffiti
-- django-pre-commit-hooks
-- tensorkube
-- ddb_single
-- avs-rvtools-analyzer
-- graph-games-proto
-- root-signals
-- simple-error-log
-- liblaf-cherries
-- django-remake-migrations
-- inferra
-- thermometers-mip-solver

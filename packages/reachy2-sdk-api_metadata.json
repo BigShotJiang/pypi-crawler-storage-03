@@ -1,0 +1,11 @@
+{
+  "name": "reachy2-sdk-api",
+  "version": "1.0.19",
+  "summary": "gRPC Protobuf API definition for Reachy 2 SDK",
+  "author": "Pollen Robotics",
+  "license": null,
+  "home_page": "https://github.com/pollen-robotics/reachy2-sdk-api",
+  "download_filename": "reachy2_sdk_api-1.0.19.tar.gz",
+  "download_time": "2025-08-25T14:57:51.269747",
+  "package_url": "https://pypi.org/project/reachy2-sdk-api/"
+}

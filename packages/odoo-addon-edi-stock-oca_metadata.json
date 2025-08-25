@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-edi-stock-oca",
+  "version": "18.0.1.0.0.5",
+  "summary": "Define EDI Configuration for Stock",
+  "author": "Creu Blanca, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/edi-framework",
+  "download_filename": "odoo_addon_edi_stock_oca-18.0.1.0.0.5-py3-none-any.whl",
+  "download_time": "2025-08-25T14:57:48.665531",
+  "package_url": "https://pypi.org/project/odoo-addon-edi-stock-oca/"
+}

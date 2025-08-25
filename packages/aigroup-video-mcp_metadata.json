@@ -1,0 +1,11 @@
+{
+  "name": "aigroup-video-mcp",
+  "version": "1.0.1",
+  "summary": "基于阿里云 DashScope 的视频多模态理解 MCP 服务器",
+  "author": "Video MCP Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-repo/aigroup-video-mcp",
+  "download_filename": "aigroup_video_mcp-1.0.1.tar.gz",
+  "download_time": "2025-08-25T14:57:38.154881",
+  "package_url": "https://pypi.org/project/aigroup-video-mcp/"
+}

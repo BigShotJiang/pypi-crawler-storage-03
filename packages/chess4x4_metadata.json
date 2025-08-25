@@ -1,11 +1,11 @@
 {
   "name": "chess4x4",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A 4x4 Chess library (King + Rook vs King) with move validation and win/draw detection",
   "author": "Krishna Yadav",
   "license": "MIT",
   "home_page": "https://github.com/kr812345/Chess4x4-library.git",
-  "download_filename": "chess4x4-0.1.1.tar.gz",
-  "download_time": "2025-08-25T14:23:22.811397",
+  "download_filename": "chess4x4-0.1.2.tar.gz",
+  "download_time": "2025-08-25T14:57:38.683699",
   "package_url": "https://pypi.org/project/chess4x4/"
 }
