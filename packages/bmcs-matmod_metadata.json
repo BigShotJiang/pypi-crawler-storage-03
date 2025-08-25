@@ -1,0 +1,11 @@
+{
+  "name": "bmcs-matmod",
+  "version": "0.0.10a0",
+  "summary": "Suite of utilities for material model development.",
+  "author": "BMCS-Group",
+  "license": "MIT License\n        \n        Copyright (c) 2024 BMCS-Group\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy\n        ...\n        ",
+  "home_page": "https://github.com/bmcs-group/bmcs_matmod",
+  "download_filename": "bmcs_matmod-0.0.10a0.tar.gz",
+  "download_time": "2025-08-25T07:00:21.291014",
+  "package_url": "https://pypi.org/project/bmcs-matmod/"
+}

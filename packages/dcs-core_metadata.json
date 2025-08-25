@@ -1,0 +1,11 @@
+{
+  "name": "dcs-core",
+  "version": "0.9.0",
+  "summary": "Open Source Data Quality Monitoring",
+  "author": "Waterdip Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/datachecks/dcs-core",
+  "download_filename": "dcs_core-0.9.0.tar.gz",
+  "download_time": "2025-08-25T07:00:11.350796",
+  "package_url": "https://pypi.org/project/dcs-core/"
+}

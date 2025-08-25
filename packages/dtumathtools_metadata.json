@@ -1,0 +1,11 @@
+{
+  "name": "dtumathtools",
+  "version": "2025.2.0",
+  "summary": "A plotting package for the Mathematics 1a/1b courses at the Technical University of Denmark",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "dtumathtools-2025.2.0.tar.gz",
+  "download_time": "2025-08-25T07:00:07.005730",
+  "package_url": "https://pypi.org/project/dtumathtools/"
+}

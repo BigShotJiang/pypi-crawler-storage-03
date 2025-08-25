@@ -1,0 +1,11 @@
+{
+  "name": "toot",
+  "version": "0.50.1",
+  "summary": "Mastodon CLI client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toot-0.50.1.tar.gz",
+  "download_time": "2025-08-25T07:00:24.936629",
+  "package_url": "https://pypi.org/project/toot/"
+}

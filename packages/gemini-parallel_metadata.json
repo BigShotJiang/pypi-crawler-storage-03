@@ -1,11 +1,11 @@
 {
   "name": "gemini-parallel",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Gemini Parallel Processing System",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gemini_parallel-0.6.0.tar.gz",
-  "download_time": "2025-08-25T05:46:05.774971",
+  "download_filename": "gemini_parallel-0.6.1.tar.gz",
+  "download_time": "2025-08-25T07:00:21.811633",
   "package_url": "https://pypi.org/project/gemini-parallel/"
 }

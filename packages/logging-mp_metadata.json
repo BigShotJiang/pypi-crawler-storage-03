@@ -1,0 +1,11 @@
+{
+  "name": "logging-mp",
+  "version": "0.1.6",
+  "summary": "A multiprocessing-safe logging system with Rich support.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "logging_mp-0.1.6.tar.gz",
+  "download_time": "2025-08-25T07:00:24.412739",
+  "package_url": "https://pypi.org/project/logging-mp/"
+}
