@@ -1,0 +1,11 @@
+{
+  "name": "context-packer",
+  "version": "1.1.5",
+  "summary": "Intelligently package project directories into a single markdown file for AI analysis",
+  "author": "MarkShawn2020",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_packer-1.1.5.tar.gz",
+  "download_time": "2025-08-25T03:09:26.622247",
+  "package_url": "https://pypi.org/project/context-packer/"
+}

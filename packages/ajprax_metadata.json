@@ -1,11 +1,11 @@
 {
   "name": "ajprax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A collection of generic utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ajprax-0.0.2.tar.gz",
-  "download_time": "2025-08-24T19:41:05.589768",
+  "download_filename": "ajprax-0.0.3.tar.gz",
+  "download_time": "2025-08-25T03:09:36.604155",
   "package_url": "https://pypi.org/project/ajprax/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tortitle",
+  "version": "0.0.1",
+  "summary": "A title parser for torrent filenames",
+  "author": "ccf2012",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tortitle-0.0.1.tar.gz",
+  "download_time": "2025-08-25T03:09:11.892081",
+  "package_url": "https://pypi.org/project/tortitle/"
+}

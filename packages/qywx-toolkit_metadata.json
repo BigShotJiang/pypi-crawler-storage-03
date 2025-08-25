@@ -1,0 +1,11 @@
+{
+  "name": "qywx-toolkit",
+  "version": "0.1.0",
+  "summary": "企业微信纯 requests 工具集",
+  "author": "chouhong",
+  "license": "MIT",
+  "home_page": "https://github.com/yourname/qywx-toolkit",
+  "download_filename": "qywx_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-08-25T03:08:57.562608",
+  "package_url": "https://pypi.org/project/qywx-toolkit/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "powder-ens-commons",
-  "version": "0.1.4",
+  "version": "0.2.5",
   "summary": "A simple data/model commons package for POWDER experiments",
   "author": "Mumtahin Habib",
   "license": null,
   "home_page": "https://gitlab.flux.utah.edu/mumtahin_habib/powder_ens_commons",
-  "download_filename": "powder_ens_commons-0.1.4.tar.gz",
-  "download_time": "2025-08-24T17:34:24.387991",
+  "download_filename": "powder_ens_commons-0.2.5.tar.gz",
+  "download_time": "2025-08-25T03:08:59.968337",
   "package_url": "https://pypi.org/project/powder-ens-commons/"
 }

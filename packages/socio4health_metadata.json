@@ -1,11 +1,11 @@
 {
   "name": "socio4health",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Socio4health is a Python package for gathering and consolidating socio-demographic data.",
   "author": "Erick Lozano, Diego Irreño, Juan Montenegro, Ingrid Mora",
   "license": null,
   "home_page": "https://github.com/harmonize-tools/socio4health",
-  "download_filename": "socio4health-0.1.4.tar.gz",
-  "download_time": "2025-08-25T01:31:24.889945",
+  "download_filename": "socio4health-0.1.5.tar.gz",
+  "download_time": "2025-08-25T03:09:20.796740",
   "package_url": "https://pypi.org/project/socio4health/"
 }

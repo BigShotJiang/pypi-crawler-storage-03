@@ -1,11 +1,11 @@
 {
   "name": "pyenvsearch",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Python library navigation and AI-powered analysis tool for developers and AI agents. Combines traditional code search with LLM-powered package insights.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyenvsearch-0.1.0.tar.gz",
-  "download_time": "2025-08-25T01:31:31.849042",
+  "download_filename": "pyenvsearch-0.4.0.tar.gz",
+  "download_time": "2025-08-25T03:09:34.790654",
   "package_url": "https://pypi.org/project/pyenvsearch/"
 }
