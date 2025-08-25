@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-demo-digital-multimeter",
+  "version": "0.1.4",
+  "summary": "This packes a demo SMU instrument for the NOMAD CAMELS sandbox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_demo_digital_multimeter-0.1.4.tar.gz",
+  "download_time": "2025-08-25T09:24:15.925671",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-demo-digital-multimeter/"
+}

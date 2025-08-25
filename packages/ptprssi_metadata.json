@@ -1,0 +1,11 @@
+{
+  "name": "ptprssi",
+  "version": "1.0.5",
+  "summary": "Path-Relative Style Sheet Import Testing Tool",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "ptprssi-1.0.5.tar.gz",
+  "download_time": "2025-08-25T09:24:56.645666",
+  "package_url": "https://pypi.org/project/ptprssi/"
+}

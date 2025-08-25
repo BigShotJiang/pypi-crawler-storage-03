@@ -1,11 +1,11 @@
 {
   "name": "pysoworks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "PySide6-based application for controlling NV200 devices.",
   "author": "piezosystem jena GmbH",
   "license": null,
   "home_page": null,
-  "download_filename": "pysoworks-1.0.2.tar.gz",
-  "download_time": "2025-08-22T12:40:08.001730",
+  "download_filename": "pysoworks-1.0.3.tar.gz",
+  "download_time": "2025-08-25T09:25:00.411116",
   "package_url": "https://pypi.org/project/pysoworks/"
 }

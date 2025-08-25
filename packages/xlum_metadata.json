@@ -1,0 +1,11 @@
+{
+  "name": "xlum",
+  "version": "0.0.9",
+  "summary": "Python importer for the XLUM data exchange and archive format",
+  "author": "Steve Grehl, Sebastian Kreutzer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlum-0.0.9.tar.gz",
+  "download_time": "2025-08-25T09:24:49.060763",
+  "package_url": "https://pypi.org/project/xlum/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qcdb",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Knowledge management app to interface with quantum chemical calculations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qcdb-0.1.1.tar.gz",
-  "download_time": "2025-08-25T08:54:16.354994",
+  "download_filename": "qcdb-0.2.1.tar.gz",
+  "download_time": "2025-08-25T09:24:57.717549",
   "package_url": "https://pypi.org/project/qcdb/"
 }

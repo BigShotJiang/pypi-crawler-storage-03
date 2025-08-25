@@ -1,0 +1,11 @@
+{
+  "name": "teleop",
+  "version": "0.1.2",
+  "summary": "Turns your phone into a robot arm teleoperation device by leveraging the WebXR API",
+  "author": "Spes Robotics",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "teleop-0.1.2.tar.gz",
+  "download_time": "2025-08-25T09:24:25.228279",
+  "package_url": "https://pypi.org/project/teleop/"
+}

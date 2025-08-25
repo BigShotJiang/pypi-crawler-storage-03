@@ -1,11 +1,11 @@
 {
   "name": "light-s3-client",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "A lightweight S3 client.",
   "author": "Douglas Coburn",
   "license": null,
   "home_page": null,
-  "download_filename": "light_s3_client-0.0.29.tar.gz",
-  "download_time": "2025-08-25T08:30:25.193423",
+  "download_filename": "light_s3_client-0.0.30.tar.gz",
+  "download_time": "2025-08-25T09:24:31.780351",
   "package_url": "https://pypi.org/project/light-s3-client/"
 }

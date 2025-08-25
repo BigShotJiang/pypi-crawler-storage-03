@@ -1,11 +1,11 @@
 {
   "name": "nidx-protos",
-  "version": "6.7.1.post4838",
+  "version": "6.7.1.post4846",
   "summary": "Protobuf definitions for nucliadb/nidx",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nidx_protos-6.7.1.post4838-py3-none-any.whl",
-  "download_time": "2025-08-21T12:40:56.183373",
+  "download_filename": "nidx_protos-6.7.1.post4846-py3-none-any.whl",
+  "download_time": "2025-08-25T09:24:55.555731",
   "package_url": "https://pypi.org/project/nidx-protos/"
 }

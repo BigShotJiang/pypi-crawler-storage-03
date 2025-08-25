@@ -1,0 +1,11 @@
+{
+  "name": "app20invoice",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Ardit Sulce",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "app20invoice-1.0.0.tar.gz",
+  "download_time": "2025-08-25T09:24:25.809432",
+  "package_url": "https://pypi.org/project/app20invoice/"
+}

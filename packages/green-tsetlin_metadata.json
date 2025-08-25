@@ -1,0 +1,11 @@
+{
+  "name": "green-tsetlin",
+  "version": "1.1.0",
+  "summary": "A fast Tsetlin Machine impl, based on c++",
+  "author": "Sondre 'Ooki' Glimsdal",
+  "license": "MIT",
+  "home_page": "https://github.com/ooki/green_tsetlin",
+  "download_filename": "green_tsetlin-1.1.0.tar.gz",
+  "download_time": "2025-08-25T09:24:14.811668",
+  "package_url": "https://pypi.org/project/green-tsetlin/"
+}
