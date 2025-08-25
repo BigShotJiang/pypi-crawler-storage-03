@@ -1,11 +1,11 @@
 {
   "name": "tcgplayer-client",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Python client library for TCGplayer API with async support, rate limiting, and comprehensive endpoint coverage",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "tcgplayer_client-2.0.2.tar.gz",
-  "download_time": "2025-08-25T03:08:50.673131",
+  "download_filename": "tcgplayer_client-2.0.3.tar.gz",
+  "download_time": "2025-08-25T04:51:18.707105",
   "package_url": "https://pypi.org/project/tcgplayer-client/"
 }
