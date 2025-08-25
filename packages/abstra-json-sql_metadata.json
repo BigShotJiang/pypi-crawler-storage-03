@@ -1,0 +1,11 @@
+{
+  "name": "abstra-json-sql",
+  "version": "0.0.10",
+  "summary": "run SQL queries on JSON data",
+  "author": "Abstra",
+  "license": "MIT",
+  "home_page": "https://github.com/abstra-app/json-sql",
+  "download_filename": "abstra_json_sql-0.0.10.tar.gz",
+  "download_time": "2025-08-25T23:53:26.997218",
+  "package_url": "https://pypi.org/project/abstra-json-sql/"
+}

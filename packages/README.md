@@ -1,11 +1,23 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T23:42:22.591515
-- **Total Packages**: 83
-- **Total Size**: 12.83 MB
+- **Download Time**: 2025-08-25T23:54:09.831046
+- **Total Packages**: 81
+- **Total Size**: 0.53 MB
 
 ## Packages List
+- abstra-json-sql
+- annex4risk-detector
+- truss
+- klotho-cac
+- korpy
+- leaf-common
+- EASLT
+- export_to_obsidian
+- ledlang
+- openfiles-ai
+- kode-kronical
+- pulumi-provider-boilerplate
 - mcp-composer
 - vortex-data
 - pygator
@@ -30,10 +42,8 @@
 - experiment-runner
 - seqspec
 - kaqing
-- pulumi-provider-boilerplate
 - juriscraper
 - mas-cli
-- ledlang
 - llm-claude-code-plugin
 - alation-ai-agent-mcp
 - steelsnakes
@@ -64,7 +74,6 @@
 - pydtmdl
 - airefinery-sdk
 - abstractrepo
-- openfiles-ai
 - pygmdl
 - portal-os
 - stinger-ipc
@@ -78,14 +87,3 @@
 - alation-ai-agent-sdk
 - ndice
 - stepflow-py
-- qingping-ble
-- mcp-foxxy-bridge
-- kode-kronical
-- c2pa-python
-- redis-benchmarks-specification
-- ha-synthetic-sensors
-- cirq-pasqal
-- cirq-aqt
-- cirq-web
-- cirq-google
-- cirq-core

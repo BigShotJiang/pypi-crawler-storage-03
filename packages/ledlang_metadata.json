@@ -1,11 +1,11 @@
 {
   "name": "ledlang",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "A language for controlling LED animations. Other device must support PLOT and CLEAR calls.",
   "author": "ElliNet13",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ledlang-0.3.0.tar.gz",
-  "download_time": "2025-08-24T16:24:01.456307",
+  "download_filename": "ledlang-0.3.1.tar.gz",
+  "download_time": "2025-08-25T23:53:31.228492",
   "package_url": "https://pypi.org/project/ledlang/"
 }
