@@ -1,0 +1,11 @@
+{
+  "name": "jwt-manager-py",
+  "version": "0.1.0",
+  "summary": "Gestion simplifiée des tokens JWT (access, refresh, blacklist) pour Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jwt_manager_py-0.1.0.tar.gz",
+  "download_time": "2025-08-25T13:50:46.973154",
+  "package_url": "https://pypi.org/project/jwt-manager-py/"
+}

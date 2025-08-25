@@ -1,0 +1,11 @@
+{
+  "name": "littlelearn",
+  "version": "0.1.6",
+  "summary": "machine learning ecosystem",
+  "author": "Candra Alpin Gunawan",
+  "license": null,
+  "home_page": "https://github.com/Airinchan818/LittleLearn",
+  "download_filename": "littlelearn-0.1.6.tar.gz",
+  "download_time": "2025-08-25T13:50:30.650426",
+  "package_url": "https://pypi.org/project/littlelearn/"
+}

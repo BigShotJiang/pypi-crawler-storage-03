@@ -1,0 +1,11 @@
+{
+  "name": "dsms-sdk",
+  "version": "4.0.0",
+  "summary": "Python SDK core-package for working with the Dataspace Management System (DSMS).",
+  "author": "Matthias Büschelberger, Yoav Nahshon, Pablo De Andres, Arjun Gopalakrishnan, Priyabrat Mishra",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/MI-FraunhoferIWM/dsms-python-sdk",
+  "download_filename": "dsms_sdk-4.0.0.tar.gz",
+  "download_time": "2025-08-25T13:50:29.610494",
+  "package_url": "https://pypi.org/project/dsms-sdk/"
+}

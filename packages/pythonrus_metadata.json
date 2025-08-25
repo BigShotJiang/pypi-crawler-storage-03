@@ -1,0 +1,11 @@
+{
+  "name": "pythonrus",
+  "version": "0.2.0",
+  "summary": "Простая библиотека для использования русских команд",
+  "author": "Слава Берн",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythonrus-0.2.0.tar.gz",
+  "download_time": "2025-08-25T13:50:20.196012",
+  "package_url": "https://pypi.org/project/pythonrus/"
+}

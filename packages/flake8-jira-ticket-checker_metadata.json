@@ -1,0 +1,11 @@
+{
+  "name": "flake8-jira-ticket-checker",
+  "version": "0.1.0",
+  "summary": "Flake8 plugin to check JIRA ticket status",
+  "author": "Nikita Lauer",
+  "license": "MIT",
+  "home_page": "https://github.com/lauernik/flake8-jira-ticket-checker",
+  "download_filename": "flake8_jira_ticket_checker-0.1.0.tar.gz",
+  "download_time": "2025-08-25T13:50:57.472210",
+  "package_url": "https://pypi.org/project/flake8-jira-ticket-checker/"
+}

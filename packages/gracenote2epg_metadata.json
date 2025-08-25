@@ -1,11 +1,11 @@
 {
   "name": "gracenote2epg",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "TV Guide Grabber for North America",
   "author": "th0ma7",
   "license": "GPL-3.0",
   "home_page": "https://github.com/th0ma7/gracenote2epg",
-  "download_filename": "gracenote2epg-1.5.2.tar.gz",
-  "download_time": "2025-08-24T16:24:11.419978",
+  "download_filename": "gracenote2epg-1.5.3.tar.gz",
+  "download_time": "2025-08-25T13:50:17.883811",
   "package_url": "https://pypi.org/project/gracenote2epg/"
 }

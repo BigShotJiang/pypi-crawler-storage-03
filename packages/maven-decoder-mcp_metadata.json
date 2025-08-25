@@ -1,11 +1,11 @@
 {
   "name": "maven-decoder-mcp",
-  "version": "1.0.0",
+  "version": "1.0.16",
   "summary": "MCP server for reading and decompiling Maven .m2 jar files with comprehensive Java project analysis",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maven_decoder_mcp-1.0.0.tar.gz",
-  "download_time": "2025-08-23T16:22:18.993766",
+  "download_filename": "maven_decoder_mcp-1.0.16.tar.gz",
+  "download_time": "2025-08-25T13:50:15.271213",
   "package_url": "https://pypi.org/project/maven-decoder-mcp/"
 }

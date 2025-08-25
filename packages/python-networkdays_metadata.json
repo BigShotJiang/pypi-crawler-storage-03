@@ -1,0 +1,11 @@
+{
+  "name": "python-networkdays",
+  "version": "1.2",
+  "summary": "Calculate Business days (workdays) between two date, like `NetworkDays` function used on spreadsheets. Schedule based on hours and business days",
+  "author": "Carlos Leite",
+  "license": null,
+  "home_page": "https://github.com/cadu-leite/networkdays",
+  "download_filename": "python_networkdays-1.2.tar.gz",
+  "download_time": "2025-08-25T13:50:28.032133",
+  "package_url": "https://pypi.org/project/python-networkdays/"
+}
