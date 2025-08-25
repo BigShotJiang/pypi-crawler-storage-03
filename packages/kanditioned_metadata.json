@@ -1,11 +1,11 @@
 {
   "name": "kanditioned",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Fast, Conditioned KAN",
   "author": "cats-marin",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cats-marin/KANditioned",
-  "download_filename": "kanditioned-1.0.1.tar.gz",
-  "download_time": "2025-08-19T18:50:00.363665",
+  "download_filename": "kanditioned-1.0.2.tar.gz",
+  "download_time": "2025-08-25T17:54:19.359327",
   "package_url": "https://pypi.org/project/kanditioned/"
 }

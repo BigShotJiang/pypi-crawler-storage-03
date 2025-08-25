@@ -1,11 +1,11 @@
 {
   "name": "metaflow-stubs",
-  "version": "2.17.3",
+  "version": "2.17.4",
   "summary": "Metaflow Stubs: Stubs for the metaflow package",
   "author": "Metaflow Developers",
   "license": "Apache Software License",
   "home_page": null,
-  "download_filename": "metaflow_stubs-2.17.3.tar.gz",
-  "download_time": "2025-08-21T22:54:26.936839",
+  "download_filename": "metaflow_stubs-2.17.4.tar.gz",
+  "download_time": "2025-08-25T17:54:06.395760",
   "package_url": "https://pypi.org/project/metaflow-stubs/"
 }

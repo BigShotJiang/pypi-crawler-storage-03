@@ -1,0 +1,11 @@
+{
+  "name": "WhispyWyser",
+  "version": "0.0.20",
+  "summary": "The WhispyWyser project is designed to provide a flexible and efficient implementation of Voice Assistant for Home Assistant based on Faster Whisper and Wyoming protocol. This project supports both CPU and CUDA architectures, allowing for optimized performance based on the available hardware.",
+  "author": "cociweb",
+  "license": null,
+  "home_page": null,
+  "download_filename": "whispywyser-0.0.20.tar.gz",
+  "download_time": "2025-08-25T17:54:20.888092",
+  "package_url": "https://pypi.org/project/WhispyWyser/"
+}

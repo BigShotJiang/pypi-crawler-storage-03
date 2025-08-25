@@ -1,11 +1,11 @@
 {
   "name": "splurge-tools",
-  "version": "2025.4.2",
+  "version": "2025.4.3",
   "summary": "Python tools for data type handling and validation",
   "author": "Jim Schilling",
   "license": null,
   "home_page": null,
-  "download_filename": "splurge_tools-2025.4.2.tar.gz",
-  "download_time": "2025-08-22T10:21:55.741259",
+  "download_filename": "splurge_tools-2025.4.3.tar.gz",
+  "download_time": "2025-08-25T17:53:44.167186",
   "package_url": "https://pypi.org/project/splurge-tools/"
 }

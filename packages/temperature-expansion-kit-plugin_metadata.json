@@ -1,0 +1,11 @@
+{
+  "name": "temperature-expansion-kit-plugin",
+  "version": "0.4.0",
+  "summary": "This plugin is necessary to use the temperature expansion kit for the Pioreactor",
+  "author": "Pioreactor",
+  "license": "MIT",
+  "home_page": "https://github.com/Pioreactor/temperature-expansion-kit-plugin",
+  "download_filename": "temperature_expansion_kit_plugin-0.4.0.tar.gz",
+  "download_time": "2025-08-25T17:53:50.850186",
+  "package_url": "https://pypi.org/project/temperature-expansion-kit-plugin/"
+}

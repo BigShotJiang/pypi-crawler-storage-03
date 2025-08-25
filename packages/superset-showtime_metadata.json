@@ -1,11 +1,11 @@
 {
   "name": "superset-showtime",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "summary": "🎪 Apache Superset ephemeral environment management with circus tent emoji state tracking",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "superset_showtime-0.5.6.tar.gz",
-  "download_time": "2025-08-25T16:46:52.507342",
+  "download_filename": "superset_showtime-0.5.7.tar.gz",
+  "download_time": "2025-08-25T17:54:22.966281",
   "package_url": "https://pypi.org/project/superset-showtime/"
 }

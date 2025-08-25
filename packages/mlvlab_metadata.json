@@ -1,11 +1,11 @@
 {
   "name": "mlvlab",
-  "version": "0.2.20",
-  "summary": "Visual AI Learning Ecosystem - MLVisual®",
+  "version": "0.2.22",
+  "summary": "Visual AI Ecosystem with Reinforced Learning Simulations based on Gymnasium - MLVisual®",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlvlab-0.2.20.tar.gz",
-  "download_time": "2025-08-23T10:20:13.938153",
+  "download_filename": "mlvlab-0.2.22.tar.gz",
+  "download_time": "2025-08-25T17:53:57.639532",
   "package_url": "https://pypi.org/project/mlvlab/"
 }

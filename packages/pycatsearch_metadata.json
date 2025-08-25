@@ -1,0 +1,11 @@
+{
+  "name": "pycatsearch",
+  "version": "5.2.3.1",
+  "summary": "Yet another implementation of JPL and CDMS spectroscopy catalogs offline search",
+  "author": null,
+  "license": "LGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pycatsearch-5.2.3.1.tar.gz",
+  "download_time": "2025-08-25T17:53:56.604838",
+  "package_url": "https://pypi.org/project/pycatsearch/"
+}
