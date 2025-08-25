@@ -1,11 +1,46 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T23:21:16.683037
-- **Total Packages**: 84
-- **Total Size**: 19.03 MB
+- **Download Time**: 2025-08-25T23:42:22.591515
+- **Total Packages**: 83
+- **Total Size**: 12.83 MB
 
 ## Packages List
+- mcp-composer
+- vortex-data
+- pygator
+- alation-ai-agent-langchain
+- unitycatalog-ai
+- cinchdb
+- pepmatch
+- viqi-api
+- datajunction
+- datajunction-reflection
+- datajunction-query
+- udata-hydra
+- datajunction-server
+- pulumi-xyz
+- nv-ingest-client
+- ivybloom
+- jetio
+- lmflux
+- sqlmesh
+- kapipy
+- agent-chat-api
+- experiment-runner
+- seqspec
+- kaqing
+- pulumi-provider-boilerplate
+- juriscraper
+- mas-cli
+- ledlang
+- llm-claude-code-plugin
+- alation-ai-agent-mcp
+- steelsnakes
+- mqtt5
+- pulumi-aws
+- sqlspec
+- aind-data-transfer-service
 - locarc
 - data-gatherer
 - promptic
@@ -19,7 +54,6 @@
 - omb-py
 - github-events-monitor
 - pdex
-- pygator
 - structifyai
 - arch-wiki-search
 - etana-trade-mcp
@@ -40,7 +74,6 @@
 - paper-qa
 - cron-descriptor
 - buildkite-sdk
-- pulumi-provider-boilerplate
 - elapi
 - alation-ai-agent-sdk
 - ndice
@@ -49,7 +82,6 @@
 - mcp-foxxy-bridge
 - kode-kronical
 - c2pa-python
-- pulumi-xyz
 - redis-benchmarks-specification
 - ha-synthetic-sensors
 - cirq-pasqal
@@ -57,36 +89,3 @@
 - cirq-web
 - cirq-google
 - cirq-core
-- cirq
-- cirq-ionq
-- nixtla
-- safari-sdk
-- vantage-agent
-- maps4fs
-- dynamic-fastmcp
-- xopr
-- llm-claude-code-plugin
-- neon-skill-weather
-- mas-devops
-- HS-TasNet
-- specforged
-- PyQrackIsing
-- lintkit
-- abstractrepo-sqlalchemy
-- pympebm
-- ocsp-checker
-- systembridgeconnector
-- nyxpy
-- cortexapps-cli
-- wsjt-all
-- mbari-aidata
-- llm-tmux-fragments
-- aegish
-- flowtask
-- rowan-mcp
-- timeseriesviz
-- ipss
-- promptplanner
-- pyburn
-- nsidc-metgenc
-- vpd

@@ -1,11 +1,11 @@
 {
   "name": "llm-claude-code-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "LLM plugin for Claude Code integration",
   "author": "Edward Champion",
   "license": null,
   "home_page": null,
-  "download_filename": "llm_claude_code_plugin-0.1.1.tar.gz",
-  "download_time": "2025-08-25T23:21:03.820469",
+  "download_filename": "llm_claude_code_plugin-0.1.2.tar.gz",
+  "download_time": "2025-08-25T23:41:53.828565",
   "package_url": "https://pypi.org/project/llm-claude-code-plugin/"
 }
