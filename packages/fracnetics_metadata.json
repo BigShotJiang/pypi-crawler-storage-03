@@ -1,11 +1,11 @@
 {
   "name": "fracnetics",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Genetic network programming with fractal expansion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fracnetics-0.1.9.tar.gz",
-  "download_time": "2025-08-22T16:25:01.082381",
+  "download_filename": "fracnetics-0.1.10.tar.gz",
+  "download_time": "2025-08-25T06:34:11.793185",
   "package_url": "https://pypi.org/project/fracnetics/"
 }

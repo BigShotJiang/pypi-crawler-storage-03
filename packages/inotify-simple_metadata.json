@@ -1,11 +1,11 @@
 {
   "name": "inotify-simple",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A simple wrapper around inotify. No fancy bells and whistles, just a literal wrapper with ctypes. Under 100 lines of code!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inotify_simple-2.0.0.tar.gz",
-  "download_time": "2025-08-25T05:22:47.166199",
+  "download_filename": "inotify_simple-2.0.1.tar.gz",
+  "download_time": "2025-08-25T06:33:47.352670",
   "package_url": "https://pypi.org/project/inotify-simple/"
 }

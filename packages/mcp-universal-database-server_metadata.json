@@ -1,11 +1,11 @@
 {
   "name": "mcp-universal-database-server",
-  "version": "0.3.0",
+  "version": "0.3.4",
   "summary": "Universal MCP server for multiple database connections and operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_universal_database_server-0.3.0.tar.gz",
-  "download_time": "2025-08-25T05:57:22.229266",
+  "download_filename": "mcp_universal_database_server-0.3.4.tar.gz",
+  "download_time": "2025-08-25T06:33:42.712537",
   "package_url": "https://pypi.org/project/mcp-universal-database-server/"
 }

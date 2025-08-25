@@ -1,0 +1,11 @@
+{
+  "name": "multisafepay-payment",
+  "version": "2.0.0",
+  "summary": "A library to provide payment gateway for MultisafePay Payment",
+  "author": "Akinon",
+  "license": null,
+  "home_page": "https://bitbucket.org/akinonteam/multisafe-payment/",
+  "download_filename": "multisafepay_payment-2.0.0.tar.gz",
+  "download_time": "2025-08-25T06:33:54.818451",
+  "package_url": "https://pypi.org/project/multisafepay-payment/"
+}

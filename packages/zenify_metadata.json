@@ -1,11 +1,11 @@
 {
   "name": "zenify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "🧘 A beautiful terminal meditation app with ASCII art, multi-language support, and breathing exercises",
   "author": "Zenify Team",
   "license": "MIT",
   "home_page": "https://github.com/kawarox/zenify",
-  "download_filename": "zenify-1.0.2.tar.gz",
-  "download_time": "2025-08-25T05:22:30.023760",
+  "download_filename": "zenify-1.0.3.tar.gz",
+  "download_time": "2025-08-25T06:34:14.948540",
   "package_url": "https://pypi.org/project/zenify/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gitignore-parser",
+  "version": "0.1.13",
+  "summary": "A spec-compliant gitignore parser for Python 3.5+",
+  "author": "Michael Herrmann",
+  "license": "MIT",
+  "home_page": "https://github.com/mherrmann/gitignore_parser",
+  "download_filename": "gitignore_parser-0.1.13.tar.gz",
+  "download_time": "2025-08-25T06:33:41.119081",
+  "package_url": "https://pypi.org/project/gitignore-parser/"
+}

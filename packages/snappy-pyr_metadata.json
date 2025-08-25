@@ -1,0 +1,11 @@
+{
+  "name": "snappy-pyr",
+  "version": "0.1.0",
+  "summary": "Run python files faster with pyr",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snappy_pyr-0.1.0.tar.gz",
+  "download_time": "2025-08-25T06:34:13.888113",
+  "package_url": "https://pypi.org/project/snappy-pyr/"
+}

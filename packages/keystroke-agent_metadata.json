@@ -1,11 +1,11 @@
 {
   "name": "keystroke-agent",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "An AI-powered CLI assistant with AWS Bedrock integration, tool support, and customizable features for interactive conversations and task automation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "keystroke_agent-0.1.5.tar.gz",
-  "download_time": "2025-08-25T03:09:10.736719",
+  "download_filename": "keystroke_agent-0.1.6.tar.gz",
+  "download_time": "2025-08-25T06:33:55.352618",
   "package_url": "https://pypi.org/project/keystroke-agent/"
 }
