@@ -1,11 +1,11 @@
 {
   "name": "stinger-ipc",
-  "version": "0.0.1",
-  "summary": "Add your description here",
+  "version": "0.0.3",
+  "summary": "Tools to create code to do IPC over MQTT",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stinger_ipc-0.0.1.tar.gz",
-  "download_time": "2025-08-25T22:22:50.346724",
+  "download_filename": "stinger_ipc-0.0.3.tar.gz",
+  "download_time": "2025-08-25T23:20:46.279899",
   "package_url": "https://pypi.org/project/stinger-ipc/"
 }

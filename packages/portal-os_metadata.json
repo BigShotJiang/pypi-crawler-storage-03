@@ -1,11 +1,11 @@
 {
   "name": "portal-os",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "AI-Native Developer Operating System based on Ubuntu",
   "author": "Portal OS Team",
   "license": "MIT",
   "home_page": "https://github.com/your-org/portal-os",
-  "download_filename": "portal_os-1.0.14.tar.gz",
-  "download_time": "2025-08-25T22:54:14.769948",
+  "download_filename": "portal_os-1.0.15.tar.gz",
+  "download_time": "2025-08-25T23:20:45.757967",
   "package_url": "https://pypi.org/project/portal-os/"
 }

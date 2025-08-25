@@ -1,0 +1,11 @@
+{
+  "name": "omb-py",
+  "version": "0.1.2",
+  "summary": "OMB — ODIN Meter & Billing (verifiable usage, signed bundles)",
+  "author": "ODIN Project",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "omb_py-0.1.2.tar.gz",
+  "download_time": "2025-08-25T23:20:37.373234",
+  "package_url": "https://pypi.org/project/omb-py/"
+}

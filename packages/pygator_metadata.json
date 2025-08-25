@@ -1,11 +1,11 @@
 {
   "name": "pygator",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "A collection of functions useful for Gaussian optics.",
   "author": "Raed Diab",
   "license": null,
   "home_page": "https://github.com/DiabRaed/pygator",
-  "download_filename": "pygator-0.1.9.tar.gz",
-  "download_time": "2025-08-22T15:41:45.268189",
+  "download_filename": "pygator-0.2.1.tar.gz",
+  "download_time": "2025-08-25T23:20:38.938447",
   "package_url": "https://pypi.org/project/pygator/"
 }

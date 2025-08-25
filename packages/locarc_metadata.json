@@ -1,0 +1,11 @@
+{
+  "name": "locarc",
+  "version": "0.1.0",
+  "summary": "A simple Python tools that aims to emulate EventArc behavior locally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "locarc-0.1.0.tar.gz",
+  "download_time": "2025-08-25T23:20:31.370410",
+  "package_url": "https://pypi.org/project/locarc/"
+}

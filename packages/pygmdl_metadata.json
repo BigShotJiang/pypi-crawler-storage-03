@@ -1,0 +1,11 @@
+{
+  "name": "pygmdl",
+  "version": "0.2.5",
+  "summary": "Download satellite images from Google Maps.",
+  "author": null,
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "pygmdl-0.2.5.tar.gz",
+  "download_time": "2025-08-25T23:20:45.235885",
+  "package_url": "https://pypi.org/project/pygmdl/"
+}
