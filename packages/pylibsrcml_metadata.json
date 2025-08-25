@@ -1,0 +1,11 @@
+{
+  "name": "pylibsrcml",
+  "version": "1.1.0",
+  "summary": "A Pythonic binding of the libsrcml C library",
+  "author": "srcML, LLC",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://www.srcml.org/",
+  "download_filename": "pylibsrcml-1.1.0.tar.gz",
+  "download_time": "2025-08-25T18:31:47.832178",
+  "package_url": "https://pypi.org/project/pylibsrcml/"
+}

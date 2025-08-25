@@ -1,0 +1,11 @@
+{
+  "name": "smogn-imbalanced-regression-toolkit",
+  "version": "0.1.8",
+  "summary": "A toolkit for imbalanced regression using SMOGN (φ relevance, SERT & SERA metrics, NestedCV, and oversampling utilities).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smogn_imbalanced_regression_toolkit-0.1.8.tar.gz",
+  "download_time": "2025-08-25T18:31:14.072668",
+  "package_url": "https://pypi.org/project/smogn-imbalanced-regression-toolkit/"
+}

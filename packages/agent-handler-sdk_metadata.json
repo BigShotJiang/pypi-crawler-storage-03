@@ -1,0 +1,11 @@
+{
+  "name": "agent-handler-sdk",
+  "version": "0.1.6",
+  "summary": "Agent Handler SDK for defining and invoking LLM tools",
+  "author": "David Dalmaso",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_handler_sdk-0.1.6.tar.gz",
+  "download_time": "2025-08-25T18:31:39.426206",
+  "package_url": "https://pypi.org/project/agent-handler-sdk/"
+}
