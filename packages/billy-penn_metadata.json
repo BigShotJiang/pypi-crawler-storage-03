@@ -1,0 +1,11 @@
+{
+  "name": "billy-penn",
+  "version": "0.1.12",
+  "summary": "A package for meta information about the City of Philadelphia's government.",
+  "author": "Nick Hand",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "billy_penn-0.1.12.tar.gz",
+  "download_time": "2025-08-25T16:47:05.303791",
+  "package_url": "https://pypi.org/project/billy-penn/"
+}

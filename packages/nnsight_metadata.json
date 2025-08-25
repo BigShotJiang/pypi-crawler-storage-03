@@ -1,11 +1,11 @@
 {
   "name": "nnsight",
-  "version": "0.4.11",
+  "version": "0.5.1",
   "summary": "Package for interpreting and manipulating the internals of deep learning models.",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "nnsight-0.4.11-py3-none-any.whl",
-  "download_time": "2025-08-19T18:26:51.854646",
+  "download_filename": "nnsight-0.5.1.tar.gz",
+  "download_time": "2025-08-25T16:47:13.993971",
   "package_url": "https://pypi.org/project/nnsight/"
 }

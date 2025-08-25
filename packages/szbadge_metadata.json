@@ -1,0 +1,11 @@
+{
+  "name": "szbadge",
+  "version": "1.0.2",
+  "summary": "A defensive, dependency-free text->SVG badge API for AWS Lambda",
+  "author": "DJ Stomp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "szbadge-1.0.2.tar.gz",
+  "download_time": "2025-08-25T16:47:01.239801",
+  "package_url": "https://pypi.org/project/szbadge/"
+}

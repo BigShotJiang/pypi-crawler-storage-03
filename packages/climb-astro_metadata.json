@@ -1,0 +1,11 @@
+{
+  "name": "climb-astro",
+  "version": "0.2.3",
+  "summary": "A versatile two-phase clustering algorithm designed for datasets with both known and exploratory components.",
+  "author": "Lorenzo Monti",
+  "license": "MIT",
+  "home_page": "https://github.com/LorenzoMonti/CLiMB",
+  "download_filename": "climb_astro-0.2.3.tar.gz",
+  "download_time": "2025-08-25T16:46:34.935894",
+  "package_url": "https://pypi.org/project/climb-astro/"
+}

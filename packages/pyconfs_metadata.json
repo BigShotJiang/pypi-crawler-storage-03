@@ -1,0 +1,11 @@
+{
+  "name": "pyconfs",
+  "version": "0.5.7",
+  "summary": "PyConfs, unified handling of configuration files for Python",
+  "author": "Geir Arne Hjelle",
+  "license": null,
+  "home_page": "https://github.com/gahjelle/pyconfs",
+  "download_filename": "pyconfs-0.5.7.tar.gz",
+  "download_time": "2025-08-25T16:46:41.103770",
+  "package_url": "https://pypi.org/project/pyconfs/"
+}

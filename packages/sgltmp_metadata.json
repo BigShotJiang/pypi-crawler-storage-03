@@ -1,0 +1,11 @@
+{
+  "name": "sgltmp",
+  "version": "0.5.1.post4",
+  "summary": "SGLang is yet another fast serving framework for large language models and vision language models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sgltmp-0.5.1.post4.tar.gz",
+  "download_time": "2025-08-25T16:46:50.158185",
+  "package_url": "https://pypi.org/project/sgltmp/"
+}
