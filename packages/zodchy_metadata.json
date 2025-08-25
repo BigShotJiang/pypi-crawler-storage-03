@@ -1,0 +1,11 @@
+{
+  "name": "zodchy",
+  "version": "0.6.0",
+  "summary": "Collection of contracts and tools for building CQRS applications",
+  "author": "Smairon",
+  "license": null,
+  "home_page": "https://github.com/smairon/zodchy",
+  "download_filename": "zodchy-0.6.0.tar.gz",
+  "download_time": "2025-08-25T14:47:43.282200",
+  "package_url": "https://pypi.org/project/zodchy/"
+}

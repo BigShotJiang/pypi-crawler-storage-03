@@ -1,11 +1,11 @@
 {
   "name": "django-pre-commit-hooks",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "A collection of pre-commit hooks for Django projects",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_pre_commit_hooks-0.1.1.tar.gz",
-  "download_time": "2025-08-25T13:50:23.308611",
+  "download_filename": "django_pre_commit_hooks-1.0.0.tar.gz",
+  "download_time": "2025-08-25T14:47:53.838517",
   "package_url": "https://pypi.org/project/django-pre-commit-hooks/"
 }

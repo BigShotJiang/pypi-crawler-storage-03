@@ -1,0 +1,11 @@
+{
+  "name": "localstack-extension-event-studio",
+  "version": "0.1.7",
+  "summary": "LocalStack Extension: eventstudio",
+  "author": null,
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "localstack_extension_event_studio-0.1.7.tar.gz",
+  "download_time": "2025-08-25T14:47:27.565923",
+  "package_url": "https://pypi.org/project/localstack-extension-event-studio/"
+}

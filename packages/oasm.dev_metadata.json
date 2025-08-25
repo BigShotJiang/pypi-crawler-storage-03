@@ -1,11 +1,11 @@
 {
   "name": "oasm.dev",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Open ASseMbly tools - DEVices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oasm_dev-0.1.5.tar.gz",
-  "download_time": "2025-08-23T03:37:06.797628",
+  "download_filename": "oasm_dev-0.1.7.tar.gz",
+  "download_time": "2025-08-25T14:47:32.786978",
   "package_url": "https://pypi.org/project/oasm.dev/"
 }

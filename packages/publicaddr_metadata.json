@@ -1,0 +1,11 @@
+{
+  "name": "publicaddr",
+  "version": "0.18.0",
+  "summary": "Getting your public IP v4 and v6",
+  "author": "Denis MACHARD",
+  "license": null,
+  "home_page": "https://github.com/dmachard/python-publicaddr",
+  "download_filename": "publicaddr-0.18.0.tar.gz",
+  "download_time": "2025-08-25T14:47:44.842735",
+  "package_url": "https://pypi.org/project/publicaddr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bakeit",
+  "version": "0.2.4",
+  "summary": "A command-line interface for Pastery, the best pastebin in the world.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bakeit-0.2.4.tar.gz",
+  "download_time": "2025-08-25T14:47:15.377069",
+  "package_url": "https://pypi.org/project/bakeit/"
+}

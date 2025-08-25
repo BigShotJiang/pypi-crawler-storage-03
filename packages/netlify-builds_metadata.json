@@ -1,0 +1,11 @@
+{
+  "name": "netlify-builds",
+  "version": "1.3.2",
+  "summary": "A command line utility to check build usage across multiple Netlify accounts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netlify_builds-1.3.2.tar.gz",
+  "download_time": "2025-08-25T14:47:40.680208",
+  "package_url": "https://pypi.org/project/netlify-builds/"
+}
