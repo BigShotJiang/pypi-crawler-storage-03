@@ -1,11 +1,11 @@
 {
   "name": "api-24sea-ai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Namespace package for api_24sea.ai, as indicated by PEP 420",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "api_24sea_ai-0.1.1.tar.gz",
-  "download_time": "2025-08-25T19:17:45.369361",
+  "download_filename": "api_24sea_ai-0.1.2.tar.gz",
+  "download_time": "2025-08-25T19:43:24.609590",
   "package_url": "https://pypi.org/project/api-24sea-ai/"
 }

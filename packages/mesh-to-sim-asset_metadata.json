@@ -1,0 +1,11 @@
+{
+  "name": "mesh-to-sim-asset",
+  "version": "0.1.0",
+  "summary": "Pipeline for converting mesh files into simulation assets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mesh_to_sim_asset-0.1.0.tar.gz",
+  "download_time": "2025-08-25T19:43:10.478457",
+  "package_url": "https://pypi.org/project/mesh-to-sim-asset/"
+}

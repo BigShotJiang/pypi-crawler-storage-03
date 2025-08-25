@@ -1,0 +1,11 @@
+{
+  "name": "sinapsis-data-tools",
+  "version": "0.2.16",
+  "summary": "Module that contains different packages to perform data-related operations through Sinapsis templates.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sinapsis_data_tools-0.2.16.tar.gz",
+  "download_time": "2025-08-25T19:43:17.763108",
+  "package_url": "https://pypi.org/project/sinapsis-data-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "MF-Algebra",
+  "version": "0.5.1",
+  "summary": "Manim plugin which aims to make it much easier to meaningfully transform algebra expressions.",
+  "author": "John Connell",
+  "license": "None",
+  "home_page": "https://github.com/TheMathematicFanatic/MF_Algebra",
+  "download_filename": "mf_algebra-0.5.1.tar.gz",
+  "download_time": "2025-08-25T19:43:09.947004",
+  "package_url": "https://pypi.org/project/MF-Algebra/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "assort",
+  "version": "1.0.0",
+  "summary": "Using AI to sort lists of unstructured text through iterative batches.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "assort-1.0.0.tar.gz",
+  "download_time": "2025-08-25T19:43:13.067375",
+  "package_url": "https://pypi.org/project/assort/"
+}

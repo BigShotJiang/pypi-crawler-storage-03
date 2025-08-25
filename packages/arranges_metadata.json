@@ -1,0 +1,11 @@
+{
+  "name": "arranges",
+  "version": "0.2.1",
+  "summary": "Mergable range object for use in Pydantic classes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arranges-0.2.1.tar.gz",
+  "download_time": "2025-08-25T19:43:20.399833",
+  "package_url": "https://pypi.org/project/arranges/"
+}
