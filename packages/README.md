@@ -1,14 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T07:27:23.401056
-- **Total Packages**: 77
-- **Total Size**: 28.79 MB
+- **Download Time**: 2025-08-25T07:43:16.633947
+- **Total Packages**: 82
+- **Total Size**: 27.28 MB
 
 ## Packages List
+- bfcl-eval
+- newpackage-a-zhenya
+- cli-lite
+- maas-backoff-scheduler
+- contract-analysis
+- maleo-metadata
+- lib-sap
+- suitcase-nomad-camels-hdf5
+- iamenumerate
+- linden
+- pdf2zh-next
+- extended-sklearn-metrics
+- matrice
+- nes
+- maleo-soma
+- worldnex
+- odoo-addon-fetchmail-attach-from-folder
+- flowfoundry
+- tencent-wedata-feature-engineering
+- questionary-cli
+- quarkcircuit
+- lib-azure
+- rubric-grader
+- eth-seher
+- mcp-upstage
+- ibm-secrets-manager-sdk
+- openaivec
+- stash-mcp-server
+- superset-showtime
+- nomad-camels-toolbox
+- odoo-addon-shopfloor
+- odoo-addon-shopfloor-reception
+- lh-webtool
+- typescope
+- must-cdk
+- odoo-addon-sell-only-by-packaging
+- aec-audio-processing
+- justai
+- wavesurfer
+- enumeratiam
+- edgeimpulse-api
+- peakrdl-python
+- omniopt2
+- gemini-parallel
+- odoo-addon-mail-activity-meeting-reminder
+- mcp-framework
+- roul
+- oarepo-model
+- odoo-addon-mail-activity-team
 - liblaf-mkdocs-preset
 - napari-flowreg
-- eth-seher
 - vansarah
 - php-framework-scaffolder
 - whiskerrag
@@ -23,7 +71,6 @@
 - pymobiledevice3
 - agentic-ai-engineering-course
 - tradx
-- tencent-wedata-feature-engineering
 - gllm-inference-binary
 - zylib-test
 - maleo-identity
@@ -36,50 +83,8 @@
 - pycrashreport
 - cdk-private-api-domain
 - tf-models-nightly
-- maleo-metadata
-- stash-mcp-server
 - AlistMediaRename
 - nemo-eval
 - python-filewrap
 - bigdata-research-tools
 - mathrtc
-- darkgray_dev_tools
-- jianpu-ly
-- neecli
-- akshare
-- maleo-soma
-- splurge-sql-generator
-- excel2pyral
-- code-index-mcp
-- ork.build
-- pymgcv
-- flexlibs
-- centering-lgram
-- superlinked-server
-- intuned-sdk
-- pybrv
-- llg3d
-- oxygent
-- odoo-addon-stock-picking-report-valued
-- goat-mcp-add-server
-- coyaml
-- jsonschema-diff
-- starlasu-specs
-- xiaozhi-sdk
-- vunit-py
-- maas-backoff-scheduler
-- django-epfl-entra-id
-- apis-core-rdf
-- alibabacloud-docmind-api20220711
-- matrice
-- NeMo-Export-Deploy
-- xenoslib
-- megatron-bridge
-- generalindex
-- unitorch
-- vcosmos-mcp-server
-- fashionstar-uart-sdk
-- fatehan-pypb
-- dtumathtools
-- mindroot
-- chainlit-aki

@@ -1,11 +1,11 @@
 {
   "name": "oarepo-model",
-  "version": "0.1.0.dev2",
+  "version": "0.1.0.dev3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oarepo_model-0.1.0.dev2.tar.gz",
-  "download_time": "2025-08-22T11:39:11.866710",
+  "download_filename": "oarepo_model-0.1.0.dev3.tar.gz",
+  "download_time": "2025-08-25T07:42:58.283003",
   "package_url": "https://pypi.org/project/oarepo-model/"
 }
