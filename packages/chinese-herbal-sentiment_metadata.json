@@ -1,0 +1,11 @@
+{
+  "name": "chinese-herbal-sentiment",
+  "version": "0.1.0",
+  "summary": "Chinese Herbal Medicine E-commerce Sentiment Analysis System",
+  "author": "Luo Chengwen, Chen Xingqiang",
+  "license": "MIT",
+  "home_page": "https://github.com/chenxingqiang/chinese-herbal-sentiment",
+  "download_filename": "chinese_herbal_sentiment-0.1.0.tar.gz",
+  "download_time": "2025-08-25T09:47:22.080564",
+  "package_url": "https://pypi.org/project/chinese-herbal-sentiment/"
+}

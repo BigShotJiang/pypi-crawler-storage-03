@@ -1,0 +1,11 @@
+{
+  "name": "p4lantir",
+  "version": "1.0.0",
+  "summary": "MiTM over TCP to intercept and manipulate flow",
+  "author": "acmo0",
+  "license": null,
+  "home_page": null,
+  "download_filename": "p4lantir-1.0.0.tar.gz",
+  "download_time": "2025-08-25T09:47:26.757892",
+  "package_url": "https://pypi.org/project/p4lantir/"
+}

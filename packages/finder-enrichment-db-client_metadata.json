@@ -1,11 +1,11 @@
 {
   "name": "finder-enrichment-db-client",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Client for the Finder Enrichment DB API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finder_enrichment_db_client-0.1.5.tar.gz",
-  "download_time": "2025-08-20T11:39:35.548102",
+  "download_filename": "finder_enrichment_db_client-0.1.6.tar.gz",
+  "download_time": "2025-08-25T09:47:27.896854",
   "package_url": "https://pypi.org/project/finder-enrichment-db-client/"
 }

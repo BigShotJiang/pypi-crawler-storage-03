@@ -1,11 +1,11 @@
 {
   "name": "durusai-cli",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "summary": "DurusAI CLI - Advanced AI assistant with memory, file operations, and project management like Claude Code",
   "author": "DurusAI Team",
   "license": null,
   "home_page": "https://github.com/durusai/cli",
-  "download_filename": "durusai_cli-3.5.0.tar.gz",
-  "download_time": "2025-08-25T07:00:18.639847",
+  "download_filename": "durusai_cli-3.5.1.tar.gz",
+  "download_time": "2025-08-25T09:47:38.244786",
   "package_url": "https://pypi.org/project/durusai-cli/"
 }

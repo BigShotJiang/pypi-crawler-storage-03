@@ -1,0 +1,11 @@
+{
+  "name": "omero-metrics",
+  "version": "0.2.3",
+  "summary": "An OMERO webapp to follow microscope performance over time",
+  "author": "Julio Mateos Langerak",
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/MontpellierRessourcesImagerie/omero-metrics",
+  "download_filename": "omero_metrics-0.2.3.tar.gz",
+  "download_time": "2025-08-25T09:47:04.753443",
+  "package_url": "https://pypi.org/project/omero-metrics/"
+}

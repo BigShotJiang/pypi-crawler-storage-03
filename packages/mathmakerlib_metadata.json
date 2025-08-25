@@ -1,0 +1,11 @@
+{
+  "name": "mathmakerlib",
+  "version": "0.7.31",
+  "summary": "Collection of lualatex-printable mathematical objects, including geometric shapes.",
+  "author": "Nicolas Hainaux",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "mathmakerlib-0.7.31-py3-none-any.whl",
+  "download_time": "2025-08-25T09:47:20.932395",
+  "package_url": "https://pypi.org/project/mathmakerlib/"
+}

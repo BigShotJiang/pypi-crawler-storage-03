@@ -1,0 +1,11 @@
+{
+  "name": "pydtree",
+  "version": "1.0.2",
+  "summary": "Python library for building and traversing trees",
+  "author": "DogiFnf",
+  "license": null,
+  "home_page": "https://github.com/DogiFnf/DTree",
+  "download_filename": "pydtree-1.0.2.tar.gz",
+  "download_time": "2025-08-25T09:47:01.759597",
+  "package_url": "https://pypi.org/project/pydtree/"
+}
