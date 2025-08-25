@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_langextract-mcp",
+  "version": "0.1.0",
+  "summary": "FastMCP server for Google's langextract library - extract structured information from unstructured text using LLMs",
+  "author": "Larsen Weigle",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_langextract_mcp-0.1.0.tar.gz",
+  "download_time": "2025-08-25T10:24:39.923072",
+  "package_url": "https://pypi.org/project/iflow-mcp_langextract-mcp/"
+}

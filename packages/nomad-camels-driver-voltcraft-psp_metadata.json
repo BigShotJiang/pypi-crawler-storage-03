@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-voltcraft-psp",
+  "version": "0.1.1",
+  "summary": "Driver for communicating with a Voltcraft PPS power supply.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_voltcraft_psp-0.1.1.tar.gz",
+  "download_time": "2025-08-25T10:24:45.679446",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-voltcraft-psp/"
+}

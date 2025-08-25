@@ -1,11 +1,11 @@
 {
   "name": "langchain-b12",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "A reusable collection of tools and implementations for Langchain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "langchain_b12-0.1.7.tar.gz",
-  "download_time": "2025-08-21T08:27:04.332478",
+  "download_filename": "langchain_b12-0.1.8.tar.gz",
+  "download_time": "2025-08-25T10:24:31.763288",
   "package_url": "https://pypi.org/project/langchain-b12/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "createfa",
+  "version": "1.0.3",
+  "summary": "Un générateur d'applications FastAPI avec structure complète",
+  "author": "Bonito Fotso",
+  "license": "MIT",
+  "home_page": "https://github.com/bonitoFotso/create_fastapi",
+  "download_filename": "createfa-1.0.3.tar.gz",
+  "download_time": "2025-08-25T10:24:32.340676",
+  "package_url": "https://pypi.org/project/createfa/"
+}

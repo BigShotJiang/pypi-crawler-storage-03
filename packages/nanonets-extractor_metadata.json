@@ -1,0 +1,11 @@
+{
+  "name": "nanonets-extractor",
+  "version": "0.2.2",
+  "summary": "A Python library for extracting data from any document using AI",
+  "author": "Nanonets",
+  "license": "MIT",
+  "home_page": "https://github.com/nanonets/document-extractor",
+  "download_filename": "nanonets_extractor-0.2.2.tar.gz",
+  "download_time": "2025-08-25T10:24:27.052474",
+  "package_url": "https://pypi.org/project/nanonets-extractor/"
+}

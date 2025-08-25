@@ -1,0 +1,11 @@
+{
+  "name": "scaaml",
+  "version": "3.0.5",
+  "summary": "Side Channel Attack Assisted with Machine Learning",
+  "author": "Elie Bursztein, Luca Invernizzi, Karel Král, Jean-Michel Picod",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "scaaml-3.0.5.tar.gz",
+  "download_time": "2025-08-25T10:24:01.982881",
+  "package_url": "https://pypi.org/project/scaaml/"
+}

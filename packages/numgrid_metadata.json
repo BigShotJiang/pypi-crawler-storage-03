@@ -1,0 +1,11 @@
+{
+  "name": "numgrid",
+  "version": "2.1.2",
+  "summary": "Numerical integration grid for molecules.",
+  "author": "Radovan Bast <bast@users.noreply.github.com>",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/dftlibs/numgrid/",
+  "download_filename": "numgrid-2.1.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2025-08-25T10:24:30.006435",
+  "package_url": "https://pypi.org/project/numgrid/"
+}

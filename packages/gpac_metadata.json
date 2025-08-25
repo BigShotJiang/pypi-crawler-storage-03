@@ -1,0 +1,11 @@
+{
+  "name": "gpac",
+  "version": "1.1.9",
+  "summary": "A Python package for plotting differential equation trajectories, and dealing with chemical reaction networks.",
+  "author": "David Doty",
+  "license": "MIT",
+  "home_page": "https://github.com/UC-Davis-molecular-computing/gpac",
+  "download_filename": "gpac-1.1.9.tar.gz",
+  "download_time": "2025-08-25T10:24:11.838858",
+  "package_url": "https://pypi.org/project/gpac/"
+}

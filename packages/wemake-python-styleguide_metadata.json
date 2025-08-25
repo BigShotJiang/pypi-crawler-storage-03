@@ -1,0 +1,11 @@
+{
+  "name": "wemake-python-styleguide",
+  "version": "1.4.0",
+  "summary": "The strictest and most opinionated python linter ever",
+  "author": "Nikita Sobolev",
+  "license": "MIT",
+  "home_page": "https://wemake-python-styleguide.rtfd.io",
+  "download_filename": "wemake_python_styleguide-1.4.0.tar.gz",
+  "download_time": "2025-08-25T10:24:16.512316",
+  "package_url": "https://pypi.org/project/wemake-python-styleguide/"
+}

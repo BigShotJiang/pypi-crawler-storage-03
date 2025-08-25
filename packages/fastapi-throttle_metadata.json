@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-throttle",
+  "version": "0.1.7",
+  "summary": "A rate limiter for FastAPI without using Redis.",
+  "author": "Ali Yaman",
+  "license": null,
+  "home_page": "https://github.com/AliYmn/fastapi-throttle",
+  "download_filename": "fastapi_throttle-0.1.7.tar.gz",
+  "download_time": "2025-08-25T10:24:05.316233",
+  "package_url": "https://pypi.org/project/fastapi-throttle/"
+}

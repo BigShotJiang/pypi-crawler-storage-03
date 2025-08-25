@@ -1,0 +1,11 @@
+{
+  "name": "nova",
+  "version": "31.1.0",
+  "summary": "Cloud computing fabric controller",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/nova/latest/",
+  "download_filename": "nova-31.1.0.tar.gz",
+  "download_time": "2025-08-25T10:24:13.047431",
+  "package_url": "https://pypi.org/project/nova/"
+}

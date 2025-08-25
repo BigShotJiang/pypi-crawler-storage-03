@@ -1,11 +1,11 @@
 {
   "name": "ghost-blog-smart",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "A powerful Python API for creating Ghost CMS blog posts with AI-powered features",
   "author": "leowang.net",
   "license": null,
   "home_page": "https://github.com/preangelleo/ghost-blog-smart",
-  "download_filename": "ghost_blog_smart-1.0.7.tar.gz",
-  "download_time": "2025-08-25T09:55:54.325839",
+  "download_filename": "ghost_blog_smart-1.0.9.tar.gz",
+  "download_time": "2025-08-25T10:24:33.491417",
   "package_url": "https://pypi.org/project/ghost-blog-smart/"
 }
