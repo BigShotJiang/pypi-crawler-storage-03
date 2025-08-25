@@ -1,11 +1,11 @@
 {
   "name": "a2a-sdk",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "A2A Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a2a_sdk-0.3.2.tar.gz",
-  "download_time": "2025-08-20T20:22:36.629261",
+  "download_filename": "a2a_sdk-0.3.3.tar.gz",
+  "download_time": "2025-08-25T18:55:00.248934",
   "package_url": "https://pypi.org/project/a2a-sdk/"
 }

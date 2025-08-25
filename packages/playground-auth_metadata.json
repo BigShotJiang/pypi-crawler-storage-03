@@ -1,0 +1,11 @@
+{
+  "name": "playground-auth",
+  "version": "0.2.9",
+  "summary": "Django authentication app for Fourlabs Playground integration",
+  "author": "Fourlabs",
+  "license": null,
+  "home_page": "https://fourlabs-un2@dev.azure.com/fourlabs-un2/Board_Lab/_git/fourlabs-playground-auth",
+  "download_filename": "playground_auth-0.2.9.tar.gz",
+  "download_time": "2025-08-25T18:54:44.680885",
+  "package_url": "https://pypi.org/project/playground-auth/"
+}

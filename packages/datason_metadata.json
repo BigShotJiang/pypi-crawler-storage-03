@@ -1,0 +1,11 @@
+{
+  "name": "datason",
+  "version": "0.13.0",
+  "summary": "A comprehensive Python package for intelligent serialization that handles complex data types with ease.",
+  "author": "datason Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datason-0.13.0.tar.gz",
+  "download_time": "2025-08-25T18:54:52.960522",
+  "package_url": "https://pypi.org/project/datason/"
+}
