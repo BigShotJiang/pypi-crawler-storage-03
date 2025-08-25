@@ -1,0 +1,11 @@
+{
+  "name": "automagik-spark",
+  "version": "0.3.7",
+  "summary": "AutoMagik Spark - Automagion Engine with LangFlow integration",
+  "author": "NamasteX Labs",
+  "license": null,
+  "home_page": "https://github.com/namastexlabs/automagik-spark",
+  "download_filename": "automagik_spark-0.3.7.tar.gz",
+  "download_time": "2025-08-25T22:54:23.552033",
+  "package_url": "https://pypi.org/project/automagik-spark/"
+}

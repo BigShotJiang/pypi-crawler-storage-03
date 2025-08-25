@@ -1,21 +1,47 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T22:45:02.887267
-- **Total Packages**: 83
-- **Total Size**: 13.33 MB
+- **Download Time**: 2025-08-25T22:54:51.041874
+- **Total Packages**: 82
+- **Total Size**: 5.87 MB
 
 ## Packages List
+- PyQrackIsing
+- abstractrepo-sqlalchemy
+- kode-kronical
+- qtype
+- pympebm
+- ocsp-checker
+- pulumi-provider-boilerplate
+- llm-claude-code-plugin
+- systembridgeconnector
+- nyxpy
+- cortexapps-cli
+- wsjt-all
+- portal-os
+- mbari-aidata
+- llm-tmux-fragments
+- aegish
+- flowtask
+- rowan-mcp
+- timeseriesviz
+- ipss
+- promptplanner
+- pyburn
+- nsidc-metgenc
+- vpd
+- pulumi-xyz
+- pyenet313
+- jdiff
+- sws-config
+- parsl
+- automagik-spark
 - ethyca-fides
 - vantage-agent
 - sinapsis-docling
 - foscat
-- llm-tmux-fragments
 - rank-llm
-- ipss
 - yokedcache
-- sws-config
-- qtype
 - nrtk
 - twigs
 - evalgate
@@ -28,7 +54,6 @@
 - konecty-sdk-python
 - contextlite
 - splat64
-- rowan-mcp
 - kececinumbers
 - pyelastica
 - deadline-cloud-for-nuke
@@ -59,33 +84,7 @@
 - hydroserverpy
 - pyloan
 - mlx-cpu
-- wsjt-all
 - reflex
 - xml2rfc
 - regula-documentreader-webclient
 - ledlang
-- great-expectations-cloud
-- cirq-ionq
-- cirq-core
-- cirq
-- cirq-google
-- cirq-web
-- cirq-aqt
-- cirq-pasqal
-- ara
-- window-viewport
-- symclatron
-- mlx
-- protovalidate
-- cleanlab-tlm
-- nvidia-matmul-heuristics
-- fhlmi
-- ldp
-- shopify-gql-helper
-- ngcsdk
-- rxfoundry.clients.swifty-api
-- rxfoundry.clients.swifty-oauth-api
-- nequix
-- goaly-mcp
-- telekit
-- sqlmap-ai

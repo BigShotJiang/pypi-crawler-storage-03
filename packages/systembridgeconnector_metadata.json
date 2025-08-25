@@ -1,0 +1,11 @@
+{
+  "name": "systembridgeconnector",
+  "version": "4.1.12",
+  "summary": "System Bridge Connector",
+  "author": "Aidan Timson (Timmo)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/timmo001/system-bridge-connector",
+  "download_filename": "systembridgeconnector-4.1.12.tar.gz",
+  "download_time": "2025-08-25T22:54:12.713071",
+  "package_url": "https://pypi.org/project/systembridgeconnector/"
+}

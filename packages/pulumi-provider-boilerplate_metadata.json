@@ -1,11 +1,11 @@
 {
   "name": "pulumi-provider-boilerplate",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "summary": "An example built with pulumi-go-provider.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_provider_boilerplate-0.0.29.tar.gz",
-  "download_time": "2025-08-25T21:20:36.287348",
+  "download_filename": "pulumi_provider_boilerplate-0.0.30.tar.gz",
+  "download_time": "2025-08-25T22:54:11.681487",
   "package_url": "https://pypi.org/project/pulumi-provider-boilerplate/"
 }

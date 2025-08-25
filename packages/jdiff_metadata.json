@@ -1,0 +1,11 @@
+{
+  "name": "jdiff",
+  "version": "1.0.0",
+  "summary": "A light-weight library to compare structured output from network devices show commands.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jdiff-1.0.0.tar.gz",
+  "download_time": "2025-08-25T22:54:22.007862",
+  "package_url": "https://pypi.org/project/jdiff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cortexapps-cli",
+  "version": "1.0.5",
+  "summary": "Command Line Interface for cortexapps",
+  "author": "Cortex Apps",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortexapps_cli-1.0.5.tar.gz",
+  "download_time": "2025-08-25T22:54:13.738813",
+  "package_url": "https://pypi.org/project/cortexapps-cli/"
+}
