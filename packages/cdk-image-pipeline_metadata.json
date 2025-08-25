@@ -1,11 +1,11 @@
 {
   "name": "cdk-image-pipeline",
-  "version": "0.5.123",
+  "version": "0.5.124",
   "summary": "Quickly deploy a complete EC2 Image Builder Image Pipeline using CDK",
   "author": "Cameron Magee<magcamer@amazon.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/aws-samples/cdk-image-pipeline.git",
-  "download_filename": "cdk_image_pipeline-0.5.123.tar.gz",
-  "download_time": "2025-08-18T15:22:17.687677",
+  "download_filename": "cdk_image_pipeline-0.5.124.tar.gz",
+  "download_time": "2025-08-25T14:23:10.166685",
   "package_url": "https://pypi.org/project/cdk-image-pipeline/"
 }

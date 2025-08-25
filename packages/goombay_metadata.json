@@ -1,11 +1,11 @@
 {
   "name": "goombay",
-  "version": "0.24.5",
+  "version": "0.24.7",
   "summary": "Python implementation of several sequence alignment algorithms such as Waterman-Smith-Beyer, Gotoh, and Needleman-Wunsch intended to calculate distance, show alignment, and display the underlying matrices.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "goombay-0.24.5.tar.gz",
-  "download_time": "2025-08-23T18:26:29.283483",
+  "download_filename": "goombay-0.24.7.tar.gz",
+  "download_time": "2025-08-25T14:23:19.079157",
   "package_url": "https://pypi.org/project/goombay/"
 }

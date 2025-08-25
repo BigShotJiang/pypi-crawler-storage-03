@@ -1,11 +1,11 @@
 {
   "name": "construct-classes",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Parse your binary structs into dataclasses",
   "author": "matejcik",
   "license": "MIT",
   "home_page": "https://github.com/matejcik/construct-classes",
-  "download_filename": "construct_classes-0.2.0.tar.gz",
-  "download_time": "2025-08-25T11:42:41.816156",
+  "download_filename": "construct_classes-0.2.1.tar.gz",
+  "download_time": "2025-08-25T14:23:12.292344",
   "package_url": "https://pypi.org/project/construct-classes/"
 }

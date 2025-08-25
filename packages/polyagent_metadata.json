@@ -1,11 +1,11 @@
 {
   "name": "polyagent",
-  "version": "0.9.5",
+  "version": "0.9.6",
   "summary": "A unified interface for managing stateful conversations with various CLI-based AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "polyagent-0.9.5.tar.gz",
-  "download_time": "2025-08-25T11:19:56.749037",
+  "download_filename": "polyagent-0.9.6.tar.gz",
+  "download_time": "2025-08-25T14:23:15.417172",
   "package_url": "https://pypi.org/project/polyagent/"
 }
