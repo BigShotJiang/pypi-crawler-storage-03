@@ -1,11 +1,11 @@
 {
   "name": "tortitle",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "summary": "一个用于从种⼦标题中解析电影、剧集信息的 Python 库，支持主标题和副标题的提取。",
   "author": "ccf2012",
   "license": null,
   "home_page": null,
-  "download_filename": "tortitle-0.0.9.tar.gz",
-  "download_time": "2025-08-25T15:55:43.638077",
+  "download_filename": "tortitle-0.1.0.tar.gz",
+  "download_time": "2025-08-25T17:36:37.102756",
   "package_url": "https://pypi.org/project/tortitle/"
 }

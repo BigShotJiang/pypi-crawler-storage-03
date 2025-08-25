@@ -1,11 +1,11 @@
 {
   "name": "canonmap",
-  "version": "0.4.86",
+  "version": "0.4.89",
   "summary": "A data matching and canonicalization library with multipl database connector support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "canonmap-0.4.86.tar.gz",
-  "download_time": "2025-08-21T17:42:44.582224",
+  "download_filename": "canonmap-0.4.89.tar.gz",
+  "download_time": "2025-08-25T17:36:17.568283",
   "package_url": "https://pypi.org/project/canonmap/"
 }

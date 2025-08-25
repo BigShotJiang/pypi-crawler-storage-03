@@ -1,0 +1,11 @@
+{
+  "name": "drfgen",
+  "version": "0.2.0",
+  "summary": "A CLI tool to bootstrap Django REST Framework projects quickly and easily.",
+  "author": "Mohammadreza Taheri",
+  "license": null,
+  "home_page": "https://github.com/tahericode/DRFgen.git",
+  "download_filename": "drfgen-0.2.0.tar.gz",
+  "download_time": "2025-08-25T17:36:26.964870",
+  "package_url": "https://pypi.org/project/drfgen/"
+}

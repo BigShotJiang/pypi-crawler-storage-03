@@ -1,11 +1,11 @@
 {
   "name": "deepparameters",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Advanced Bayesian Network CPD Learning with Neural Networks: LSTM, BNN, VAE, Normalizing Flows, and more - Beta Release with 9 Architectures and 8 Sampling Methods",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepparameters-2.0.1.tar.gz",
-  "download_time": "2025-08-25T14:57:32.918031",
+  "download_filename": "deepparameters-2.0.2.tar.gz",
+  "download_time": "2025-08-25T17:36:22.797582",
   "package_url": "https://pypi.org/project/deepparameters/"
 }
