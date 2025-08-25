@@ -1,11 +1,29 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T20:24:55.001756
-- **Total Packages**: 83
-- **Total Size**: 35.25 MB
+- **Download Time**: 2025-08-25T20:45:13.481859
+- **Total Packages**: 78
+- **Total Size**: 19.17 MB
 
 ## Packages List
+- orionis
+- verysimplemodulemyl89
+- hcipy
+- memoradb-sdk
+- amigo_sdk
+- pepperize.projen-awscdk-app-ts
+- franklin-cli
+- torch-fourier-rescale
+- idds-workflow
+- idds-website
+- idds-monitor
+- idds-server
+- mlflow-plugin-manager
+- idds-doma
+- ipuppy-notebooks
+- idds-common
+- idds-client
+- idds-atlas
 - batch-img
 - getTrades
 - omniopt2
@@ -21,7 +39,6 @@
 - kimmdy
 - pathcensus
 - speedi
-- franklin-cli
 - cirq
 - cirq-pasqal
 - cirq-core
@@ -47,14 +64,6 @@
 - graphcalc
 - zipcode3
 - vitax
-- idds-workflow
-- idds-website
-- idds-monitor
-- idds-server
-- idds-doma
-- idds-common
-- idds-client
-- idds-atlas
 - LogQS
 - strkit-rust-ext
 - eventuali-mcp-server
@@ -62,7 +71,6 @@
 - quicksectx
 - ai-infra
 - nvidia-matmul-heuristics
-- orionis
 - adversarial-nets-lib-econ
 - isolate-proto
 - lazynwb
@@ -76,16 +84,3 @@
 - mesh-to-sim-asset
 - stadtreinigung_hamburg
 - alpaka-re
-- nettracer3d
-- evoaug2
-- eventuali
-- awslabs.cloudtrail-mcp-server
-- indie
-- broadie
-- sirifi
-- novatrace
-- starlake-snowflake
-- battmo
-- sdominanta-mcp
-- bhumi
-- pgamit

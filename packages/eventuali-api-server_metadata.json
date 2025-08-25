@@ -1,11 +1,11 @@
 {
   "name": "eventuali-api-server",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "FastAPI server for Eventuali event sourcing system with real-time streaming",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "eventuali_api_server-0.2.1.tar.gz",
-  "download_time": "2025-08-25T20:24:38.855548",
+  "download_filename": "eventuali_api_server-0.2.2.tar.gz",
+  "download_time": "2025-08-25T20:45:04.275960",
   "package_url": "https://pypi.org/project/eventuali-api-server/"
 }

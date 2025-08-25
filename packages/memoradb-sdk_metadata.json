@@ -1,0 +1,11 @@
+{
+  "name": "memoradb-sdk",
+  "version": "0.1.0",
+  "summary": "Universal Memory Layer for AI Agents - Python SDK",
+  "author": "MemoraDB Team",
+  "license": "MIT",
+  "home_page": "https://github.com/memoradb/memoradb-python",
+  "download_filename": "memoradb_sdk-0.1.0.tar.gz",
+  "download_time": "2025-08-25T20:44:30.366372",
+  "package_url": "https://pypi.org/project/memoradb-sdk/"
+}
