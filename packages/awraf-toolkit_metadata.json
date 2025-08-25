@@ -1,0 +1,11 @@
+{
+  "name": "awraf-toolkit",
+  "version": "0.1.0",
+  "summary": "Adaptive Weight-Based Resource Allocation Framework for 6G IoT with THz Links and Intelligent Surfaces",
+  "author": "Kushagra Agrawal, Ferheen Ayaz, Polat Goktas",
+  "license": null,
+  "home_page": "https://github.com/afrilab/awraf",
+  "download_filename": "awraf_toolkit-0.1.0.tar.gz",
+  "download_time": "2025-08-25T19:33:11.715870",
+  "package_url": "https://pypi.org/project/awraf-toolkit/"
+}

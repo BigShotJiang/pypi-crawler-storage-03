@@ -1,11 +1,11 @@
 {
   "name": "indexify",
-  "version": "0.4.29",
+  "version": "0.4.31",
   "summary": "Open Source Indexify components and helper tools",
   "author": "Tensorlake Inc.",
   "license": "Apache 2.0",
   "home_page": "https://github.com/tensorlakeai/indexify",
-  "download_filename": "indexify-0.4.29.tar.gz",
-  "download_time": "2025-08-20T15:43:50.504000",
+  "download_filename": "indexify-0.4.31.tar.gz",
+  "download_time": "2025-08-25T19:33:17.182099",
   "package_url": "https://pypi.org/project/indexify/"
 }
