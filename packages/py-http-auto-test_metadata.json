@@ -1,0 +1,11 @@
+{
+  "name": "py-http-auto-test",
+  "version": "1.0.19",
+  "summary": "Python HTTP automated testing facility",
+  "author": "Cosimo Streppone",
+  "license": "MIT",
+  "home_page": "https://github.com/cosimo/py-http-auto-test",
+  "download_filename": "py-http-auto-test-1.0.19.tar.gz",
+  "download_time": "2025-08-25T15:23:28.840189",
+  "package_url": "https://pypi.org/project/py-http-auto-test/"
+}

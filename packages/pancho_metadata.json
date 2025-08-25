@@ -1,0 +1,11 @@
+{
+  "name": "pancho",
+  "version": "1.4.1",
+  "summary": "Commands and queries processor",
+  "author": "Smairon",
+  "license": null,
+  "home_page": "https://github.com/smairon/pancho",
+  "download_filename": "pancho-1.4.1.tar.gz",
+  "download_time": "2025-08-25T15:24:02.470056",
+  "package_url": "https://pypi.org/project/pancho/"
+}

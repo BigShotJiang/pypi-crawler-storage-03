@@ -1,0 +1,11 @@
+{
+  "name": "sglang-jax",
+  "version": "0.0.1",
+  "summary": "JAX backend for SGL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sglang_jax-0.0.1.tar.gz",
+  "download_time": "2025-08-25T15:23:37.863293",
+  "package_url": "https://pypi.org/project/sglang-jax/"
+}

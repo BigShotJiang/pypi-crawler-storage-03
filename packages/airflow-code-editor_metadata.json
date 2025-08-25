@@ -1,0 +1,11 @@
+{
+  "name": "airflow-code-editor",
+  "version": "8.1.0",
+  "summary": "Apache Airflow code editor and file manager",
+  "author": "Andrea Bonomi",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/andreax79/airflow-code-editor",
+  "download_filename": "airflow_code_editor-8.1.0.tar.gz",
+  "download_time": "2025-08-25T15:23:48.862934",
+  "package_url": "https://pypi.org/project/airflow-code-editor/"
+}

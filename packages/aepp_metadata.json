@@ -1,0 +1,11 @@
+{
+  "name": "aepp",
+  "version": "0.3.13",
+  "summary": "Package to manage AEP API endpoint and some helper functions",
+  "author": "Julien Piccini",
+  "license": null,
+  "home_page": "https://github.com/adobe/aepp",
+  "download_filename": "aepp-0.3.13.tar.gz",
+  "download_time": "2025-08-25T15:23:29.892391",
+  "package_url": "https://pypi.org/project/aepp/"
+}

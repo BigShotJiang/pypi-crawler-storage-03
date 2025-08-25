@@ -1,11 +1,11 @@
 {
   "name": "amrita",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "A bot powered by NoneBot2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amrita-0.1.7.tar.gz",
-  "download_time": "2025-08-23T15:20:06.014658",
+  "download_filename": "amrita-0.2.0.tar.gz",
+  "download_time": "2025-08-25T15:24:00.359990",
   "package_url": "https://pypi.org/project/amrita/"
 }

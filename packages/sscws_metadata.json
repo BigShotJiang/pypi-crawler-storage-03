@@ -1,0 +1,11 @@
+{
+  "name": "sscws",
+  "version": "2.4.5",
+  "summary": "NASA's Satellite Situation Center Web Service Client Library",
+  "author": "Bernie Harris",
+  "license": "NOSA",
+  "home_page": "https://sscweb.gsfc.nasa.gov/WebServices/REST",
+  "download_filename": "sscws-2.4.5.tar.gz",
+  "download_time": "2025-08-25T15:23:13.874171",
+  "package_url": "https://pypi.org/project/sscws/"
+}

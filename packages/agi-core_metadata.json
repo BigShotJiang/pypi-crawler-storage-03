@@ -1,11 +1,11 @@
 {
   "name": "agi-core",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "AGI core aggregation of agi-env, agi-cluster, agi-node",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agi_core-0.5.2-py3-none-any.whl",
-  "download_time": "2025-08-23T15:53:37.871791",
+  "download_filename": "agi_core-0.5.3-py3-none-any.whl",
+  "download_time": "2025-08-25T15:23:57.740041",
   "package_url": "https://pypi.org/project/agi-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-nested-admin",
+  "version": "4.1.4",
+  "summary": "Django admin classes that allow for nested inlines",
+  "author": "The Atlantic",
+  "license": "BSD",
+  "home_page": "https://github.com/theatlantic/django-nested-admin",
+  "download_filename": "django_nested_admin-4.1.4.tar.gz",
+  "download_time": "2025-08-25T15:23:46.731166",
+  "package_url": "https://pypi.org/project/django-nested-admin/"
+}

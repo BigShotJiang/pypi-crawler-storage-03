@@ -1,0 +1,11 @@
+{
+  "name": "swh.auth",
+  "version": "0.10.2",
+  "summary": "Software Heritage authentication utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_auth-0.10.2.tar.gz",
+  "download_time": "2025-08-25T15:23:32.097912",
+  "package_url": "https://pypi.org/project/swh.auth/"
+}

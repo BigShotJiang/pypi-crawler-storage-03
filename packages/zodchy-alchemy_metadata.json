@@ -1,0 +1,11 @@
+{
+  "name": "zodchy-alchemy",
+  "version": "0.2.0",
+  "summary": "SqlAlchemy query builder for Zodchy operators",
+  "author": "Feofilaktov, Sergey",
+  "license": null,
+  "home_page": "https://github.com/smairon/zodchy-alchemy",
+  "download_filename": "zodchy_alchemy-0.2.0.tar.gz",
+  "download_time": "2025-08-25T15:23:56.175903",
+  "package_url": "https://pypi.org/project/zodchy-alchemy/"
+}

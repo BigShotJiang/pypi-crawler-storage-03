@@ -1,0 +1,11 @@
+{
+  "name": "FStringInterpolation",
+  "version": "0.2.0",
+  "summary": "interpolation for python's `configparser` that does f-string substitution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fstringinterpolation-0.2.0.tar.gz",
+  "download_time": "2025-08-25T15:23:32.616144",
+  "package_url": "https://pypi.org/project/FStringInterpolation/"
+}

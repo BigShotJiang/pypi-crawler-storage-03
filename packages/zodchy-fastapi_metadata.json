@@ -1,11 +1,11 @@
 {
   "name": "zodchy-fastapi",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Collection of tools to integrate fastapi to zodchy architecture",
   "author": "Smairon",
   "license": null,
   "home_page": "https://github.com/smairon/zodchy-fastapi",
-  "download_filename": "zodchy_fastapi-1.2.4.tar.gz",
-  "download_time": "2025-08-18T14:47:57.440795",
+  "download_filename": "zodchy_fastapi-1.2.5.tar.gz",
+  "download_time": "2025-08-25T15:23:52.489759",
   "package_url": "https://pypi.org/project/zodchy-fastapi/"
 }
