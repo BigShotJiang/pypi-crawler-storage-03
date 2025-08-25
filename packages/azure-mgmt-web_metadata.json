@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-web",
+  "version": "10.0.0",
+  "summary": "Microsoft Azure Web Apps Management Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_mgmt_web-10.0.0.tar.gz",
+  "download_time": "2025-08-25T03:57:37.421015",
+  "package_url": "https://pypi.org/project/azure-mgmt-web/"
+}

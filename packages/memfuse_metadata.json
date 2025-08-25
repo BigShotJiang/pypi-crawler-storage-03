@@ -1,0 +1,11 @@
+{
+  "name": "memfuse",
+  "version": "0.3.2",
+  "summary": "Memfuse Python SDK",
+  "author": "Calvin Ku",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "memfuse-0.3.2.tar.gz",
+  "download_time": "2025-08-25T03:57:35.854122",
+  "package_url": "https://pypi.org/project/memfuse/"
+}

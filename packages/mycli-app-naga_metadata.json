@@ -1,0 +1,11 @@
+{
+  "name": "mycli-app-naga",
+  "version": "1.0.0",
+  "summary": "A simple CLI application similar to Azure CLI with Azure authentication capabilities",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/naga-nandyala/mycli-app",
+  "download_filename": "mycli_app_naga-1.0.0.tar.gz",
+  "download_time": "2025-08-25T03:57:36.897832",
+  "package_url": "https://pypi.org/project/mycli-app-naga/"
+}

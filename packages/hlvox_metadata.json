@@ -1,11 +1,11 @@
 {
   "name": "hlvox",
-  "version": "0.12.3",
+  "version": "0.12.6",
   "summary": "Pieces together voice files to form sentences",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hlvox-0.12.3.tar.gz",
-  "download_time": "2025-08-19T04:53:42.312961",
+  "download_filename": "hlvox-0.12.6.tar.gz",
+  "download_time": "2025-08-25T03:57:53.028709",
   "package_url": "https://pypi.org/project/hlvox/"
 }

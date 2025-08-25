@@ -1,0 +1,11 @@
+{
+  "name": "scenedetect",
+  "version": "0.6.7",
+  "summary": "Video scene cut/shot detection program and Python library.",
+  "author": "Brandon Castellano",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://www.scenedetect.com",
+  "download_filename": "scenedetect-0.6.7.tar.gz",
+  "download_time": "2025-08-25T03:57:40.546516",
+  "package_url": "https://pypi.org/project/scenedetect/"
+}

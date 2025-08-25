@@ -1,0 +1,11 @@
+{
+  "name": "mecord-cli",
+  "version": "0.7.411",
+  "summary": "mecord tools",
+  "author": "pengjun",
+  "license": null,
+  "home_page": "https://github.com/mecordofficial",
+  "download_filename": "mecord-cli-0.7.411.tar.gz",
+  "download_time": "2025-08-25T03:57:26.486876",
+  "package_url": "https://pypi.org/project/mecord-cli/"
+}
