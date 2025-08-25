@@ -1,0 +1,11 @@
+{
+  "name": "m-run-script-test",
+  "version": "1.0.4",
+  "summary": "Thư viện xử lý chạy các script của project mỗi khi deploy version mới",
+  "author": "MOBIO",
+  "license": "MIT",
+  "home_page": "https://github.com/mobiovn",
+  "download_filename": "m_run_script_test-1.0.4.tar.gz",
+  "download_time": "2025-08-25T07:53:15.683576",
+  "package_url": "https://pypi.org/project/m-run-script-test/"
+}

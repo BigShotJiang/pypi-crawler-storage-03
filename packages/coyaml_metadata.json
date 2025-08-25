@@ -1,11 +1,11 @@
 {
   "name": "coyaml",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "summary": "Yaml configuration library for python",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "coyaml-0.10.2.tar.gz",
-  "download_time": "2025-08-25T07:27:12.542088",
+  "download_filename": "coyaml-0.10.3.tar.gz",
+  "download_time": "2025-08-25T07:52:58.822153",
   "package_url": "https://pypi.org/project/coyaml/"
 }

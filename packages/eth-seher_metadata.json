@@ -1,11 +1,11 @@
 {
   "name": "eth-seher",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Seher - Ethereum Transaction Simulation and Analysis Tool",
   "author": "Toni Wahrstätter",
   "license": "MIT",
   "home_page": "https://github.com/nerolation/eth-seher",
-  "download_filename": "eth_seher-1.0.8.tar.gz",
-  "download_time": "2025-08-25T07:42:45.335272",
+  "download_filename": "eth_seher-1.0.9.tar.gz",
+  "download_time": "2025-08-25T07:53:05.736279",
   "package_url": "https://pypi.org/project/eth-seher/"
 }

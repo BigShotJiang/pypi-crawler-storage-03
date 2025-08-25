@@ -1,0 +1,11 @@
+{
+  "name": "pypsatopo",
+  "version": "1.1.2",
+  "summary": "PyPSATopo is a tool that allows generating the topographical representation of any arbitrary PyPSA-based network",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypsatopo-1.1.2.tar.gz",
+  "download_time": "2025-08-25T07:53:07.814640",
+  "package_url": "https://pypi.org/project/pypsatopo/"
+}

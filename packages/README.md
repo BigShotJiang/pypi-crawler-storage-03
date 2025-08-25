@@ -1,15 +1,50 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T07:43:16.633947
-- **Total Packages**: 82
-- **Total Size**: 27.28 MB
+- **Download Time**: 2025-08-25T07:53:43.544901
+- **Total Packages**: 87
+- **Total Size**: 7.57 MB
 
 ## Packages List
+- hgc-scripts
+- django-content-editor
+- narwhals
+- coyaml
+- starlake-dagster
+- BoschMiniRpa
+- kyoslib_py
+- roself
+- openenergyid
+- nuclia
+- datacontract-cli
+- HardView
+- bosa-server-plugins-binary
+- VersaLog
+- regula-facesdk-webclient
+- addon-odoo-wheel
+- eth-seher
+- starlake-snowflake
+- TorchDire
+- starlake-airflow
+- pypsatopo
+- maas-backoff-scheduler
+- starlake-orchestration
+- yycli
+- pulumi
+- velbus-aio
+- maleo-identity
+- tencent-wedata-feature-engineering
+- ut-path
+- file-detector
+- ai-edge-litert-sdk-mediatek-nightly
+- ai-edge-litert-sdk-qualcomm-nightly
+- nucliadb-admin-assets
+- stash-mcp-server
+- m-run-script-test
+- aec-audio-processing
 - bfcl-eval
 - newpackage-a-zhenya
 - cli-lite
-- maas-backoff-scheduler
 - contract-analysis
 - maleo-metadata
 - lib-sap
@@ -24,16 +59,13 @@
 - worldnex
 - odoo-addon-fetchmail-attach-from-folder
 - flowfoundry
-- tencent-wedata-feature-engineering
 - questionary-cli
 - quarkcircuit
 - lib-azure
 - rubric-grader
-- eth-seher
 - mcp-upstage
 - ibm-secrets-manager-sdk
 - openaivec
-- stash-mcp-server
 - superset-showtime
 - nomad-camels-toolbox
 - odoo-addon-shopfloor
@@ -42,7 +74,6 @@
 - typescope
 - must-cdk
 - odoo-addon-sell-only-by-packaging
-- aec-audio-processing
 - justai
 - wavesurfer
 - enumeratiam
@@ -62,29 +93,3 @@
 - whiskerrag
 - fffa
 - uurest
-- HowdenParser
-- tomca
-- cuti
-- investor-agent
-- cache-dit
-- qrpa
-- pymobiledevice3
-- agentic-ai-engineering-course
-- tradx
-- gllm-inference-binary
-- zylib-test
-- maleo-identity
-- fastj2
-- bdjobs-scraper
-- gjqh-DataFetch
-- mgi-alphatool
-- s1-shift-left-cli
-- ant-ray-cpp-nightly
-- pycrashreport
-- cdk-private-api-domain
-- tf-models-nightly
-- AlistMediaRename
-- nemo-eval
-- python-filewrap
-- bigdata-research-tools
-- mathrtc
