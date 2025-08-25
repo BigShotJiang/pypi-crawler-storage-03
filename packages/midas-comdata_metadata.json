@@ -1,0 +1,11 @@
+{
+  "name": "midas-comdata",
+  "version": "2.1.0",
+  "summary": "A Midas module for commercial buildings datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midas_comdata-2.1.0.tar.gz",
+  "download_time": "2025-08-25T11:53:22.288624",
+  "package_url": "https://pypi.org/project/midas-comdata/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sublig",
+  "version": "0.0.0",
+  "summary": "An example package. Generated with cookiecutter-pylibrary.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sublig-0.0.0.tar.gz",
+  "download_time": "2025-08-25T11:53:23.936890",
+  "package_url": "https://pypi.org/project/sublig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phable-cli",
+  "version": "0.1.12",
+  "summary": "Manage Phabricator tasks from the comfort of your terminal",
+  "author": "Balthazar Rouberol",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phable_cli-0.1.12.tar.gz",
+  "download_time": "2025-08-25T11:53:10.790829",
+  "package_url": "https://pypi.org/project/phable-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "midas-powerseries",
+  "version": "2.1.0",
+  "summary": "A MIDAS module for a electrical power timeseries simulator.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midas_powerseries-2.1.0.tar.gz",
+  "download_time": "2025-08-25T11:53:19.709616",
+  "package_url": "https://pypi.org/project/midas-powerseries/"
+}

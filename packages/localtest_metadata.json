@@ -1,11 +1,11 @@
 {
   "name": "localtest",
-  "version": "1.1.0.post1",
+  "version": "1.0.1",
   "summary": "A home to locally running tests such as testing your network speeds!",
   "author": "Sabio Tang",
   "license": null,
   "home_page": null,
-  "download_filename": "localtest-1.1.0.post1.tar.gz",
-  "download_time": "2025-08-25T11:42:21.462442",
+  "download_filename": "localtest-1.0.1.tar.gz",
+  "download_time": "2025-08-25T11:53:13.565273",
   "package_url": "https://pypi.org/project/localtest/"
 }
