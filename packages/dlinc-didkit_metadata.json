@@ -1,0 +1,11 @@
+{
+  "name": "dlinc-didkit",
+  "version": "0.1.1",
+  "summary": "Fork of spruceid/didkit-python maintained by dLinc. Library for Verifiable Credentials and Decentralized Identifiers.",
+  "author": null,
+  "license": null,
+  "home_page": "https://spruceid.dev/docs/didkit/",
+  "download_filename": "dlinc_didkit-0.1.1-cp310-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+  "download_time": "2025-08-25T17:18:05.048344",
+  "package_url": "https://pypi.org/project/dlinc-didkit/"
+}

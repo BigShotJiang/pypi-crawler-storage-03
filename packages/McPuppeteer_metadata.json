@@ -1,0 +1,11 @@
+{
+  "name": "McPuppeteer",
+  "version": "0.0.4",
+  "summary": "A python library for fully controlling the player in Minecraft",
+  "author": "PsychedelicPalimpsest",
+  "license": "GPLv3",
+  "home_page": "https://github.com/PsychedelicPalimpsest/PyMcPuppeteer",
+  "download_filename": "mcpuppeteer-0.0.4.tar.gz",
+  "download_time": "2025-08-25T17:18:06.610231",
+  "package_url": "https://pypi.org/project/McPuppeteer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "okx-exchange",
-  "version": "0.0.84",
+  "version": "0.0.85",
   "summary": "okx crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "okx_exchange-0.0.84.tar.gz",
-  "download_time": "2025-08-19T17:18:05.537607",
+  "download_filename": "okx_exchange-0.0.85.tar.gz",
+  "download_time": "2025-08-25T17:18:39.612404",
   "package_url": "https://pypi.org/project/okx-exchange/"
 }

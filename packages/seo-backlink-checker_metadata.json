@@ -1,0 +1,11 @@
+{
+  "name": "seo-backlink-checker",
+  "version": "0.3.0",
+  "summary": "A simple SEO backlink checker package with CLI (bulk support)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "seo_backlink_checker-0.3.0.tar.gz",
+  "download_time": "2025-08-25T17:18:05.567034",
+  "package_url": "https://pypi.org/project/seo-backlink-checker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gate-io-api",
-  "version": "0.0.83",
+  "version": "0.0.84",
   "summary": "gate crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gate_io_api-0.0.83.tar.gz",
-  "download_time": "2025-08-19T17:18:02.398118",
+  "download_filename": "gate_io_api-0.0.84.tar.gz",
+  "download_time": "2025-08-25T17:18:43.802293",
   "package_url": "https://pypi.org/project/gate-io-api/"
 }

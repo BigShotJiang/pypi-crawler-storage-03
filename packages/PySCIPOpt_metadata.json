@@ -1,0 +1,11 @@
+{
+  "name": "PySCIPOpt",
+  "version": "5.6.0",
+  "summary": "Python interface and modeling environment for SCIP",
+  "author": "Zuse Institute Berlin",
+  "license": "MIT",
+  "home_page": "https://github.com/SCIP-Interfaces/PySCIPOpt",
+  "download_filename": "pyscipopt-5.6.0.tar.gz",
+  "download_time": "2025-08-25T17:18:34.387674",
+  "package_url": "https://pypi.org/project/PySCIPOpt/"
+}

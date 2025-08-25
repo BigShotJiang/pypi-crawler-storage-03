@@ -1,11 +1,11 @@
 {
   "name": "lsre",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A project to learn simple regular expressions.",
   "author": "Rohit Gupta",
   "license": null,
   "home_page": null,
-  "download_filename": "lsre-0.1.1.tar.gz",
-  "download_time": "2025-08-24T20:53:51.425467",
+  "download_filename": "lsre-0.1.2.tar.gz",
+  "download_time": "2025-08-25T17:18:31.738773",
   "package_url": "https://pypi.org/project/lsre/"
 }

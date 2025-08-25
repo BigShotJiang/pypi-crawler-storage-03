@@ -1,11 +1,11 @@
 {
   "name": "multidecoder",
-  "version": "1.6.18",
+  "version": "1.6.19",
   "summary": "A context preserving IOC extraction library",
   "author": "CCCS Assemblyline development team",
   "license": "MIT",
   "home_page": "https://github.com/CybercentreCanada/Multidecoder",
-  "download_filename": "multidecoder-1.6.18.tar.gz",
-  "download_time": "2025-08-22T20:54:46.827817",
+  "download_filename": "multidecoder-1.6.19.tar.gz",
+  "download_time": "2025-08-25T17:18:15.553678",
   "package_url": "https://pypi.org/project/multidecoder/"
 }
