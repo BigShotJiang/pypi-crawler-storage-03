@@ -1,25 +1,56 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T21:42:21.687810
-- **Total Packages**: 78
-- **Total Size**: 19.63 MB
+- **Download Time**: 2025-08-25T21:55:29.301768
+- **Total Packages**: 71
+- **Total Size**: 14.19 MB
 
 ## Packages List
+- amazon-braket-sdk
 - portal-os
+- wallaroo
+- pyoso
+- oso-semantic
+- ca2roi
+- pulumi-aws-native
+- dv-pipecat-ai
+- pulumi-provider-boilerplate
+- fmmax
+- orionis
+- maps4fs
+- sat-download
+- kececinumbers
+- claude-helpers
+- augint-billing-lib
+- cron-descriptor
+- claude-mpm
+- qiskit-ionq
+- pulumi-gcp
+- llamactl
+- llama-deploy-core
+- llama-deploy-appserver
+- dandi
+- pulumi-xyz
+- aind-dynamic-foraging-data-utils
+- langchain-llama-stack
+- knoxcraft
+- purplefountain972
+- nv-ingest-client
+- torchling
+- adafruit-circuitpython-tlv320
+- quran-muaalem
+- sensingpy
+- ONTraC
 - rumdl
 - cuti
 - bbot
 - trackerfit
-- knoxcraft
 - sqlmesh
 - aibs-informatics-cdk-lib
 - derive-client
 - quacc
 - mrx-runway
 - flexprofiler
-- orionis
-- pulumi-provider-boilerplate
 - omniopt2
 - nsa-fusion
 - karellen-llvm-toolchain-tools
@@ -28,12 +59,10 @@
 - visier-platform-sdk
 - WhispyWyser
 - sinapsis-framework-converter
-- torchling
 - jjdiff
 - abstractrepo-sqlalchemy
 - natural-pdf
 - github-events-monitor
-- pulumi-xyz
 - burla
 - comments-generator
 - lammps-tablegen
@@ -48,39 +77,3 @@
 - darwin-notifications
 - aicodeprep-gui
 - lumibot
-- Jetson.GPIO
-- kececinumbers
-- maisaedu-poormans-dms
-- maisaedu-utilities-prefect
-- fhlmi
-- ldp
-- nuxt-payload
-- aibs-informatics-aws-utils
-- morin
-- ick
-- outerbounds
-- ob-metaflow-stubs
-- neurograd
-- py-simple-sharepoint
-- kapso
-- pymino
-- steelsnakes
-- datamule
-- datasentinel
-- strataregula-doe-runner
-- TikExt
-- pulumi-aws-apigateway
-- tensorkube
-- doc2dict
-- fuse-cli
-- aws-test-harness
-- kode-kronical
-- ez-wsi-dicomweb
-- searxng-simple-mcp
-- sinapsis-speech
-- sinapsis-parakeet-tdt
-- sinapsis-f5-tts
-- sinapsis-elevenlabs
-- hhd
-- novatrace
-- svc-infra

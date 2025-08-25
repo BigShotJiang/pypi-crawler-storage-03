@@ -1,0 +1,11 @@
+{
+  "name": "sat-download",
+  "version": "1.0.0",
+  "summary": "A Python package for satellite imaginery download.",
+  "author": "Sergio Heredia",
+  "license": null,
+  "home_page": "https://github.com/Aouei/remote-sensing-satellite-downloader",
+  "download_filename": "sat_download-1.0.0.tar.gz",
+  "download_time": "2025-08-25T21:54:52.415292",
+  "package_url": "https://pypi.org/project/sat-download/"
+}
