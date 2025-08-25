@@ -1,0 +1,11 @@
+{
+  "name": "emzed-spyder",
+  "version": "3.0.0",
+  "summary": "emzed IDE, see also https://emzed.ethz.ch",
+  "author": "Uwe Schmitt",
+  "license": "MIT",
+  "home_page": "https://emzed.ethz.ch",
+  "download_filename": "emzed_spyder-3.0.0.tar.gz",
+  "download_time": "2025-08-25T20:55:27.612525",
+  "package_url": "https://pypi.org/project/emzed-spyder/"
+}

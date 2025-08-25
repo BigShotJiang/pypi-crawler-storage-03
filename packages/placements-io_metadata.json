@@ -1,0 +1,11 @@
+{
+  "name": "placements-io",
+  "version": "0.0.3",
+  "summary": "Placements.io Python Software Development Kit",
+  "author": "Placements.io",
+  "license": "MIT",
+  "home_page": "https://placements.io",
+  "download_filename": "placements_io-0.0.3.tar.gz",
+  "download_time": "2025-08-25T20:55:23.915676",
+  "package_url": "https://pypi.org/project/placements-io/"
+}

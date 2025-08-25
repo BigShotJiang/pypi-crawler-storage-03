@@ -1,0 +1,11 @@
+{
+  "name": "nixos-compose",
+  "version": "0.7.4",
+  "summary": null,
+  "author": "Olivier Richard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nixos_compose-0.7.4.tar.gz",
+  "download_time": "2025-08-25T20:55:28.683746",
+  "package_url": "https://pypi.org/project/nixos-compose/"
+}

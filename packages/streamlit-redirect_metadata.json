@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-redirect",
+  "version": "0.1.0",
+  "summary": "A custom streamlit component for performing a page redirect programmatically. This is helpful since it is often required to perform a redirect, for instance after a button click or login. The streamlit-redirect component solves this by inserting a <meta> tag which directly triggers a browser redirect",
+  "author": "Jonathan Alles",
+  "license": "Apache-2.0",
+  "home_page": "https://www.evo-byte.com",
+  "download_filename": "streamlit_redirect-0.1.0.tar.gz",
+  "download_time": "2025-08-25T20:55:27.074751",
+  "package_url": "https://pypi.org/project/streamlit-redirect/"
+}

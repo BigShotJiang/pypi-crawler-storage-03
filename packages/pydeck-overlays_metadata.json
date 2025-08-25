@@ -1,0 +1,11 @@
+{
+  "name": "pydeck-overlays",
+  "version": "0.9.1",
+  "summary": "Pydeck layers for map overlays",
+  "author": "Oceanum Developers",
+  "license": "MIT license",
+  "home_page": "https://github.com/oceanum-io/pydeck_overlays",
+  "download_filename": "pydeck_overlays-0.9.1.tar.gz",
+  "download_time": "2025-08-25T20:55:12.307881",
+  "package_url": "https://pypi.org/project/pydeck-overlays/"
+}

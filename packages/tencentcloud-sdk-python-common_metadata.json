@@ -1,11 +1,11 @@
 {
   "name": "tencentcloud-sdk-python-common",
-  "version": "3.0.1448",
+  "version": "3.0.1449",
   "summary": "Tencent Cloud Common SDK for Python",
   "author": "Tencent Cloud",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/TencentCloud/tencentcloud-sdk-python",
-  "download_filename": "tencentcloud-sdk-python-common-3.0.1448.tar.gz",
-  "download_time": "2025-08-24T20:53:45.047439",
+  "download_filename": "tencentcloud-sdk-python-common-3.0.1449.tar.gz",
+  "download_time": "2025-08-25T20:55:17.621591",
   "package_url": "https://pypi.org/project/tencentcloud-sdk-python-common/"
 }

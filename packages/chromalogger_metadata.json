@@ -1,0 +1,11 @@
+{
+  "name": "chromalogger",
+  "version": "1.0.0",
+  "summary": "Logger colorido, contextual e simples para Python",
+  "author": "Guss",
+  "license": "MIT",
+  "home_page": "https://github.com/GussApenas/chromalogger",
+  "download_filename": "chromalogger-1.0.0.tar.gz",
+  "download_time": "2025-08-25T20:55:47.259629",
+  "package_url": "https://pypi.org/project/chromalogger/"
+}

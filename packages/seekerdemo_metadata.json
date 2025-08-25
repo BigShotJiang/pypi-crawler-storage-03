@@ -1,11 +1,11 @@
 {
   "name": "seekerdemo",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "summary": "InsideOpt Seeker Demo Distribution",
   "author": "Meinolf Sellmann",
   "license": null,
   "home_page": null,
-  "download_filename": "seekerdemo-0.0.12.tar.gz",
-  "download_time": "2025-08-25T20:24:12.479353",
+  "download_filename": "seekerdemo-0.0.13.tar.gz",
+  "download_time": "2025-08-25T20:55:28.164315",
   "package_url": "https://pypi.org/project/seekerdemo/"
 }

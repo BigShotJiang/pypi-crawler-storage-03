@@ -1,0 +1,11 @@
+{
+  "name": "djaodjin-deployutils",
+  "version": "0.14.0",
+  "summary": "Deploy webapps hosted on djaodjin.com",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "djaodjin_deployutils-0.14.0.tar.gz",
+  "download_time": "2025-08-25T20:55:38.281025",
+  "package_url": "https://pypi.org/project/djaodjin-deployutils/"
+}
