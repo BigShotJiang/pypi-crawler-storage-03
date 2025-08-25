@@ -1,11 +1,11 @@
 {
   "name": "dbt2lookml",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Generate lookml views from bigquery via dbt models",
   "author": null,
   "license": null,
   "home_page": "https://github.com/magnus-ffcg/dbt2lookml",
-  "download_filename": "dbt2lookml-0.2.3.tar.gz",
-  "download_time": "2025-08-19T08:49:50.502335",
+  "download_filename": "dbt2lookml-0.2.5.tar.gz",
+  "download_time": "2025-08-25T11:20:01.340088",
   "package_url": "https://pypi.org/project/dbt2lookml/"
 }

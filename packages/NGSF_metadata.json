@@ -1,0 +1,11 @@
+{
+  "name": "NGSF",
+  "version": "0.0.2",
+  "summary": "Next Generation SuperFit in Python",
+  "author": "Samantha Goldwasser, Ofer Yaron, Avner Sass, Ido Irani, Avishay Gal-Yam, D. Andrew Howell",
+  "license": "MIT",
+  "home_page": "https://github.com/samanthagoldwasser25/NGSF",
+  "download_filename": "ngsf-0.0.2.tar.gz",
+  "download_time": "2025-08-25T11:19:59.808606",
+  "package_url": "https://pypi.org/project/NGSF/"
+}

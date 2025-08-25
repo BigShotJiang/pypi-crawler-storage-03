@@ -1,11 +1,11 @@
 {
   "name": "bec-lib",
-  "version": "3.57.0",
+  "version": "3.58.0",
   "summary": "BEC library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bec_lib-3.57.0.tar.gz",
-  "download_time": "2025-08-25T08:54:41.635538",
+  "download_filename": "bec_lib-3.58.0.tar.gz",
+  "download_time": "2025-08-25T11:19:52.628622",
   "package_url": "https://pypi.org/project/bec-lib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "adxp-sdk",
+  "version": "0.1.11",
+  "summary": "SDK for AIX Platform",
+  "author": "AIX Enterprise",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "adxp_sdk-0.1.11.tar.gz",
+  "download_time": "2025-08-25T11:19:43.780616",
+  "package_url": "https://pypi.org/project/adxp-sdk/"
+}
