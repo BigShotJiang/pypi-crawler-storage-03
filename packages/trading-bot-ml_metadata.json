@@ -1,0 +1,11 @@
+{
+  "name": "trading-bot-ml",
+  "version": "1.0.0",
+  "summary": "Advanced ML-powered trading bot with real-time market analysis",
+  "author": "Trading Bot Team",
+  "license": "MIT",
+  "home_page": "https://github.com/krish567366/bot-model",
+  "download_filename": "trading_bot_ml-1.0.0.tar.gz",
+  "download_time": "2025-08-25T05:22:59.055766",
+  "package_url": "https://pypi.org/project/trading-bot-ml/"
+}

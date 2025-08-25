@@ -1,0 +1,11 @@
+{
+  "name": "pyfastmath",
+  "version": "1.1.2",
+  "summary": "High-performance math functions implemented in C for Python.",
+  "author": "Gourabananda Datta",
+  "license": null,
+  "home_page": "https://github.com/gourabanandad/pyfastmath",
+  "download_filename": "pyfastmath-1.1.2.tar.gz",
+  "download_time": "2025-08-25T05:23:01.124154",
+  "package_url": "https://pypi.org/project/pyfastmath/"
+}

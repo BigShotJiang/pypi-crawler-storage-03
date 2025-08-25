@@ -1,11 +1,11 @@
 {
   "name": "ultrasphere",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "summary": "Hyperspherical coordinates in NumPy / PyTorch / JAX.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ultrasphere-1.1.5.tar.gz",
-  "download_time": "2025-08-25T03:09:31.204517",
+  "download_filename": "ultrasphere-1.1.6.tar.gz",
+  "download_time": "2025-08-25T05:22:48.188981",
   "package_url": "https://pypi.org/project/ultrasphere/"
 }

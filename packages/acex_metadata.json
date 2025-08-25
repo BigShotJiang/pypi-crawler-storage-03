@@ -1,11 +1,11 @@
 {
   "name": "acex",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": null,
   "author": "Johan Lahti",
   "license": null,
   "home_page": null,
-  "download_filename": "acex-0.1.3.tar.gz",
-  "download_time": "2025-08-22T13:22:29.258857",
+  "download_filename": "acex-0.1.4.tar.gz",
+  "download_time": "2025-08-25T05:22:45.585064",
   "package_url": "https://pypi.org/project/acex/"
 }
