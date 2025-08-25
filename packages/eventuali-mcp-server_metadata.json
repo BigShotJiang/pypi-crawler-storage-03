@@ -1,0 +1,11 @@
+{
+  "name": "eventuali-mcp-server",
+  "version": "0.2.1",
+  "summary": "MCP server and client for Eventuali event sourcing system with integrated API server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "eventuali_mcp_server-0.2.1.tar.gz",
+  "download_time": "2025-08-25T20:24:38.333465",
+  "package_url": "https://pypi.org/project/eventuali-mcp-server/"
+}

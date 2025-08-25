@@ -1,0 +1,11 @@
+{
+  "name": "stadtreinigung_hamburg",
+  "version": "0.3.4",
+  "summary": "A library to get garbage collection dates in Hamburg.",
+  "author": "Tom Schneider",
+  "license": "MIT",
+  "home_page": "https://github.com/vigonotion/stadtreinigung_hamburg",
+  "download_filename": "stadtreinigung_hamburg-0.3.4.tar.gz",
+  "download_time": "2025-08-25T20:24:47.247622",
+  "package_url": "https://pypi.org/project/stadtreinigung_hamburg/"
+}

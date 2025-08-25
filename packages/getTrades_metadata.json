@@ -1,0 +1,11 @@
+{
+  "name": "getTrades",
+  "version": "1.8.0",
+  "summary": "A tool querying Bitvavo.com to retrieve all trades and calculate overall results",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gettrades-1.8.0-py3-none-any.whl",
+  "download_time": "2025-08-25T20:24:10.845350",
+  "package_url": "https://pypi.org/project/getTrades/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "speedi",
+  "version": "0.1.0",
+  "summary": "Speedi – A typed, stateful, high-performance CLI framework for Python",
+  "author": "Muonry Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speedi-0.1.0.tar.gz",
+  "download_time": "2025-08-25T20:24:17.798340",
+  "package_url": "https://pypi.org/project/speedi/"
+}
