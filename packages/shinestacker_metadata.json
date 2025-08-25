@@ -1,11 +1,11 @@
 {
   "name": "shinestacker",
-  "version": "0.5.0",
+  "version": "1.0.1",
   "summary": "ShineStacker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shinestacker-0.5.0-py3-none-any.whl",
-  "download_time": "2025-08-20T17:18:45.672927",
+  "download_filename": "shinestacker-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-25T15:55:47.790218",
   "package_url": "https://pypi.org/project/shinestacker/"
 }

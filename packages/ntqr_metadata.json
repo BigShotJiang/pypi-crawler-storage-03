@@ -1,0 +1,11 @@
+{
+  "name": "ntqr",
+  "version": "0.7",
+  "summary": "Tools for the logic of evaluation using unlabeled data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ntqr-0.7.tar.gz",
+  "download_time": "2025-08-25T15:56:03.336632",
+  "package_url": "https://pypi.org/project/ntqr/"
+}

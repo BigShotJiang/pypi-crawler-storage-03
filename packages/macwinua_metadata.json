@@ -1,11 +1,11 @@
 {
   "name": "macwinua",
-  "version": "0.5.250825",
+  "version": "0.5.250826",
   "summary": "A library for generating realistic browser headers for macOS and Windows platforms — always the freshest Chrome headers, updated automatically.",
   "author": "Nuung",
   "license": "MIT",
   "home_page": "https://github.com/Nuung/MacWinUA.git",
-  "download_filename": "macwinua-0.5.250825.tar.gz",
-  "download_time": "2025-08-25T15:23:31.057627",
+  "download_filename": "macwinua-0.5.250826.tar.gz",
+  "download_time": "2025-08-25T15:55:43.123966",
   "package_url": "https://pypi.org/project/macwinua/"
 }

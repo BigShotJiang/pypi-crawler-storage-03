@@ -1,0 +1,11 @@
+{
+  "name": "mlcroissant",
+  "version": "1.0.22",
+  "summary": "MLCommons datasets format.",
+  "author": "Costanza Conforti, Joaquin Vanschoren, Jos van der Velde, Monjish Bhattacharyya, Omar Benjelloun, Peter Mattson, Pieter Gijsbers, Pierre Marcenac, Pierre Ruyssen, Prabhant Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlcroissant-1.0.22.tar.gz",
+  "download_time": "2025-08-25T15:55:37.976159",
+  "package_url": "https://pypi.org/project/mlcroissant/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pygeoinf",
+  "version": "1.1.0",
+  "summary": "A package for solving geophysical inference and inverse problems",
+  "author": "David Al-Attar and Dan Heathcote",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pygeoinf-1.1.0.tar.gz",
+  "download_time": "2025-08-25T15:55:35.863116",
+  "package_url": "https://pypi.org/project/pygeoinf/"
+}

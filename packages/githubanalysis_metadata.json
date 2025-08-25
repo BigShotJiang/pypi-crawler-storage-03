@@ -1,0 +1,11 @@
+{
+  "name": "githubanalysis",
+  "version": "0.1.7",
+  "summary": "A powerful tool for analyzing Git repositories using LLM-powered insights",
+  "author": "Rimon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "githubanalysis-0.1.7.tar.gz",
+  "download_time": "2025-08-25T15:56:15.675614",
+  "package_url": "https://pypi.org/project/githubanalysis/"
+}

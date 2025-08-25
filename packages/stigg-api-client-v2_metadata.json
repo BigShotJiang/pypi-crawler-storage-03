@@ -1,11 +1,11 @@
 {
   "name": "stigg-api-client-v2",
-  "version": "3.39.0",
+  "version": "3.40.0",
   "summary": null,
   "author": "Stigg",
   "license": "STIGG SDK LICENSE",
   "home_page": null,
-  "download_filename": "stigg_api_client_v2-3.39.0.tar.gz",
-  "download_time": "2025-08-25T14:22:42.668414",
+  "download_filename": "stigg_api_client_v2-3.40.0.tar.gz",
+  "download_time": "2025-08-25T15:55:36.394367",
   "package_url": "https://pypi.org/project/stigg-api-client-v2/"
 }

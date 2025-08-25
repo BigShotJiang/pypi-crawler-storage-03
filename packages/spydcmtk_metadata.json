@@ -1,11 +1,11 @@
 {
   "name": "spydcmtk",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "summary": "Simple python dicom toolkit.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spydcmtk-1.2.11.tar.gz",
-  "download_time": "2025-08-18T20:19:52.477869",
+  "download_filename": "spydcmtk-1.2.12.tar.gz",
+  "download_time": "2025-08-25T15:55:37.463404",
   "package_url": "https://pypi.org/project/spydcmtk/"
 }
