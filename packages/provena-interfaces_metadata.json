@@ -1,0 +1,11 @@
+{
+  "name": "provena-interfaces",
+  "version": "2.10.3",
+  "summary": "Interfaces for Provena Application (see https://provena.io)",
+  "author": null,
+  "license": null,
+  "home_page": "https://provena.io",
+  "download_filename": "provena_interfaces-2.10.3.tar.gz",
+  "download_time": "2025-08-25T04:29:04.500538",
+  "package_url": "https://pypi.org/project/provena-interfaces/"
+}

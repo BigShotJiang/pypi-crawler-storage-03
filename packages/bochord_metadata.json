@@ -1,11 +1,11 @@
 {
   "name": "bochord",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "Backup iCloud Books to usable ePubs",
   "author": "AJ Slater",
   "license": null,
   "home_page": null,
-  "download_filename": "bochord-1.2.2.tar.gz",
-  "download_time": "2025-08-18T21:51:16.397544",
+  "download_filename": "bochord-1.2.3.tar.gz",
+  "download_time": "2025-08-25T04:29:02.226202",
   "package_url": "https://pypi.org/project/bochord/"
 }

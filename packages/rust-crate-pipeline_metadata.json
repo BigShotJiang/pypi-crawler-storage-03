@@ -1,11 +1,11 @@
 {
   "name": "rust-crate-pipeline",
-  "version": "2.3.0",
-  "summary": "A comprehensive pipeline for analyzing Rust crates with AI enrichment and enhanced scraping",
-  "author": "SigilDERG Team",
+  "version": "3.0.0",
+  "summary": "A comprehensive system for gathering, enriching, and analyzing metadata for Rust crates using AI-powered insights, advanced caching, machine learning predictions, and microservices architecture.",
+  "author": "SuperUser666-Sigil",
   "license": null,
   "home_page": "https://github.com/Superuser666-Sigil/SigilDERG-Data_Production",
-  "download_filename": "rust_crate_pipeline-2.3.0.tar.gz",
-  "download_time": "2025-08-22T04:33:48.401073",
+  "download_filename": "rust_crate_pipeline-3.0.0.tar.gz",
+  "download_time": "2025-08-25T04:29:23.071534",
   "package_url": "https://pypi.org/project/rust-crate-pipeline/"
 }

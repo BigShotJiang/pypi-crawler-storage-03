@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T03:58:07.064928
-- **Total Packages**: 79
-- **Total Size**: 24.1 MB
+- **Download Time**: 2025-08-25T04:29:50.810201
+- **Total Packages**: 87
+- **Total Size**: 21.93 MB
 
 ## Packages List
+- pyflowreg
+- bochord
+- tortitle
+- bosa-core-binary
+- PyQrackIsing
+- provena-interfaces
+- reywechat
+- dsat-ai
+- pyxcp
+- lunchable-pushlunch
+- grain-nightly
+- canns-ripser
+- fastj2
+- napari-flowreg
+- PySide6-Fluent-UI
+- computer-split-screen-mcp
+- django-mercury-performance
+- soa-kafka-python
+- pmcx
+- keras-nlp-nightly
+- keras-hub-nightly
+- tencent-wedata-feature-engineering
+- megatron-core
+- bgp-data-interface
+- sherpa-onnx
+- devstack-cli
+- mcp-framework
+- wuying-agentbay-sdk
+- gohumanloop
+- abstract-gui
+- matrice
+- pyproforma
+- tree-sitter-bosque
+- sherpa-onnx-core
+- internal
+- rust-crate-pipeline
+- climate-ref-pmp
+- climate-ref-ilamb
+- climate-ref-esmvaltool
+- climate-ref-core
+- climate-ref-celery
+- climate-ref
+- bool-hybrid-array
+- wkrq
+- DLMS-SPODES
+- ClickMouse
 - skope-py
 - robodogcli
 - keras-nightly
@@ -26,7 +72,6 @@
 - alibabacloud-mpaas20200710
 - folder-classifier
 - zengin-code
-- flavorpack
 - pyheroapi
 - memfuse
 - llm-web-kit
@@ -48,40 +93,3 @@
 - todollama
 - qywx-toolkit
 - stty
-- mkdocs-include-files
-- cache-dit
-- sling
-- whisper-ai-zxs
-- krex
-- datahub_binary
-- tencent-wedata-feature-engineering
-- powder-ens-commons
-- named-arrays
-- mypywallpaper
-- prootvec
-- homodyne-analysis
-- fast-tradier-client
-- hlvox
-- wuying-agentbay-sdk
-- sherpa-onnx-core
-- pydantic-rpc
-- flashinfer-python
-- ec2-simple-connect
-- radioactiveshrimp
-- rovibrational-excitation
-- wormhole-proxy
-- PyQrackIsing
-- kuba
-- zen-rule
-- socio4health
-- devstack-cli
-- OpenPinch
-- parsehub
-- taskr-cli
-- ani-scrapy
-- mcp-framework
-- arpscanner
-- types-Authlib
-- types-pyRFC3339
-- maas-backoff-scheduler
-- maleo-soma

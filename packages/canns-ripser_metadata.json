@@ -1,11 +1,11 @@
 {
   "name": "canns-ripser",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Rust implementation of Ripser for topological data analysis, optimized for CANNS library",
   "author": null,
   "license": null,
   "home_page": "https://github.com/routhleck/canns-ripser",
-  "download_filename": "canns_ripser-0.4.2.tar.gz",
-  "download_time": "2025-08-24T03:13:35.230180",
+  "download_filename": "canns_ripser-0.4.3.tar.gz",
+  "download_time": "2025-08-25T04:29:08.420443",
   "package_url": "https://pypi.org/project/canns-ripser/"
 }
