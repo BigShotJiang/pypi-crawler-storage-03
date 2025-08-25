@@ -1,11 +1,11 @@
 {
   "name": "EmbedSelection",
-  "version": "2.0",
+  "version": "0.1",
   "summary": "Embedding selection: A tool for selecting the best embedding model for your use case",
   "author": "Ilias, Hongliu",
   "license": null,
   "home_page": "https://github.com/AmadeusITGroup/EmbSelection",
-  "download_filename": "embedselection-2.0.tar.gz",
-  "download_time": "2025-08-25T14:22:59.507245",
+  "download_filename": "embedselection-0.1.tar.gz",
+  "download_time": "2025-08-25T15:45:43.589351",
   "package_url": "https://pypi.org/project/EmbedSelection/"
 }
