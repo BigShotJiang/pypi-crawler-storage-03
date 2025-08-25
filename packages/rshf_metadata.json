@@ -1,0 +1,11 @@
+{
+  "name": "rshf",
+  "version": "0.1.12",
+  "summary": "RS pretrained models in huggingface style",
+  "author": "Srikumar Sastry",
+  "license": null,
+  "home_page": "https://github.com/mvrl/rshf",
+  "download_filename": "rshf-0.1.12.tar.gz",
+  "download_time": "2025-08-25T19:53:43.521653",
+  "package_url": "https://pypi.org/project/rshf/"
+}
