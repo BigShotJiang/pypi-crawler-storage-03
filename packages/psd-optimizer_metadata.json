@@ -1,11 +1,11 @@
 {
   "name": "psd-optimizer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Perturbed Saddle-point Descent optimizer for PyTorch",
   "author": "PSD Authors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "psd_optimizer-0.1.1.tar.gz",
-  "download_time": "2025-08-23T20:21:44.200890",
+  "download_filename": "psd_optimizer-0.1.2.tar.gz",
+  "download_time": "2025-08-25T11:42:26.047344",
   "package_url": "https://pypi.org/project/psd-optimizer/"
 }

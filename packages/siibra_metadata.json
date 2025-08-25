@@ -1,0 +1,11 @@
+{
+  "name": "siibra",
+  "version": "1.0.1a9",
+  "summary": "siibra - Software interfaces for interacting with brain atlases",
+  "author": "Big Data Analytics Group, Forschungszentrum Juelich, Institute of Neuroscience and Medicine (INM-1)",
+  "license": null,
+  "home_page": "https://github.com/FZJ-INM1-BDA/siibra-python",
+  "download_filename": "siibra-1.0.1a9.tar.gz",
+  "download_time": "2025-08-25T11:42:19.119962",
+  "package_url": "https://pypi.org/project/siibra/"
+}

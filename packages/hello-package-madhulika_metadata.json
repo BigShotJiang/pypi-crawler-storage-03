@@ -1,0 +1,11 @@
+{
+  "name": "hello-package-madhulika",
+  "version": "0.1.0",
+  "summary": "A simple hello-world pip package",
+  "author": "Madhulika",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hello_package_madhulika-0.1.0.tar.gz",
+  "download_time": "2025-08-25T11:42:32.607228",
+  "package_url": "https://pypi.org/project/hello-package-madhulika/"
+}

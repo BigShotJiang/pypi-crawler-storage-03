@@ -1,0 +1,11 @@
+{
+  "name": "pyture",
+  "version": "0.1.1",
+  "summary": "A simple capture utility for logging variables in Python",
+  "author": "Shakib Sayyed",
+  "license": "MIT",
+  "home_page": "https://github.com/ShakibCodes/pyture",
+  "download_filename": "pyture-0.1.1.tar.gz",
+  "download_time": "2025-08-25T11:42:31.451734",
+  "package_url": "https://pypi.org/project/pyture/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pytcs",
+  "version": "0.2.0",
+  "summary": "Python API for processing TwinCAT Scope data files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytcs-0.2.0.tar.gz",
+  "download_time": "2025-08-25T11:42:30.881487",
+  "package_url": "https://pypi.org/project/pytcs/"
+}

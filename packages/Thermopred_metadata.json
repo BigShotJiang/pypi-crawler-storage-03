@@ -1,0 +1,11 @@
+{
+  "name": "Thermopred",
+  "version": "1.0.0",
+  "summary": "A python package to predict some thermochemical properties.",
+  "author": "Jefferson Richard; Diullio P",
+  "license": "GNU GPL",
+  "home_page": "https://github.com/jeffrichardchemistry/thermopred",
+  "download_filename": "thermopred-1.0.0.tar.gz",
+  "download_time": "2025-08-25T11:42:40.101037",
+  "package_url": "https://pypi.org/project/Thermopred/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "airbyte-source-slack",
+  "version": "2.1.0",
+  "summary": "Source implementation for Slack.",
+  "author": "Airbyte",
+  "license": "MIT",
+  "home_page": "https://airbyte.com",
+  "download_filename": "airbyte_source_slack-2.1.0.tar.gz",
+  "download_time": "2025-08-25T11:42:30.311004",
+  "package_url": "https://pypi.org/project/airbyte-source-slack/"
+}
