@@ -1,11 +1,11 @@
 {
   "name": "service-sms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Un package Python pour envoyer des SMS via Airtel et des messages WhatsApp (OTP).",
   "author": "Abdou Khamiss",
   "license": null,
   "home_page": "https://github.com/ton-compte/service-sms",
-  "download_filename": "service_sms-0.1.0.tar.gz",
-  "download_time": "2025-08-25T09:47:07.575316",
+  "download_filename": "service_sms-0.1.1.tar.gz",
+  "download_time": "2025-08-25T10:49:24.261419",
   "package_url": "https://pypi.org/project/service-sms/"
 }

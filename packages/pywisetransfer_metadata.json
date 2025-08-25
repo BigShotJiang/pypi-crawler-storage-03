@@ -1,0 +1,11 @@
+{
+  "name": "pywisetransfer",
+  "version": "0.3.4.2",
+  "summary": "Python library for the TransferWise API",
+  "author": "James Addison",
+  "license": "AGPL-3.0",
+  "home_page": "https://www.github.com/jayaddison/pywisetransfer",
+  "download_filename": "pywisetransfer-0.3.4.2.tar.gz",
+  "download_time": "2025-08-25T10:49:44.191547",
+  "package_url": "https://pypi.org/project/pywisetransfer/"
+}

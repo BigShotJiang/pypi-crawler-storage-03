@@ -1,11 +1,11 @@
 {
   "name": "NlpToolkit-MorphologicalAnalysis",
-  "version": "1.0.48",
+  "version": "1.0.51",
   "summary": "Turkish Morphological Analysis",
   "author": "olcaytaner",
   "license": null,
   "home_page": "https://github.com/StarlangSoftware/TurkishMorphologicalAnalysis-Py",
-  "download_filename": "NlpToolkit-MorphologicalAnalysis-1.0.48.tar.gz",
-  "download_time": "2025-08-17T10:43:05.917847",
+  "download_filename": "NlpToolkit-MorphologicalAnalysis-1.0.51.tar.gz",
+  "download_time": "2025-08-25T10:49:34.825305",
   "package_url": "https://pypi.org/project/NlpToolkit-MorphologicalAnalysis/"
 }

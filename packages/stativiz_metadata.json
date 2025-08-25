@@ -1,0 +1,11 @@
+{
+  "name": "stativiz",
+  "version": "1.0.18",
+  "summary": "Stativiz is a library for statistical analysis, visualization and modeling.",
+  "author": "Martin Luther Bironga",
+  "license": null,
+  "home_page": "https://github.com/lunyamwis/stativo.git",
+  "download_filename": "stativiz-1.0.18.tar.gz",
+  "download_time": "2025-08-25T10:49:41.292572",
+  "package_url": "https://pypi.org/project/stativiz/"
+}
