@@ -1,11 +1,11 @@
 {
   "name": "agentsculptor",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "summary": "AgentSculptor: Refactor, restructure & modernize codebases with natural language — powered by GPT-OSS and vLLM.",
   "author": "Perpetue237",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Perpetue237/agentsculptor",
-  "download_filename": "agentsculptor-0.1.6.tar.gz",
-  "download_time": "2025-08-25T08:30:16.665061",
+  "download_filename": "agentsculptor-0.1.9.tar.gz",
+  "download_time": "2025-08-25T08:54:19.088271",
   "package_url": "https://pypi.org/project/agentsculptor/"
 }

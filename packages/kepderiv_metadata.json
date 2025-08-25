@@ -1,0 +1,11 @@
+{
+  "name": "kepderiv",
+  "version": "1.0.9",
+  "summary": "Keplerian modeling and derivatives for radial velocities and astrometry analyses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kepderiv-1.0.9.tar.gz",
+  "download_time": "2025-08-25T08:54:50.334502",
+  "package_url": "https://pypi.org/project/kepderiv/"
+}
