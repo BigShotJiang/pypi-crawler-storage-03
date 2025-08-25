@@ -1,0 +1,11 @@
+{
+  "name": "hoa_utils_redux",
+  "version": "0.1.1",
+  "summary": "A slightly updated fork of `hoa_utils`. Utilities for the HOA format.",
+  "author": "Luca Di Stefano",
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hoa_utils_redux-0.1.1.tar.gz",
+  "download_time": "2025-08-25T10:58:40.538525",
+  "package_url": "https://pypi.org/project/hoa_utils_redux/"
+}

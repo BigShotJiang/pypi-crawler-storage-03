@@ -1,11 +1,11 @@
 {
   "name": "ilt-py-lib",
-  "version": "1.0b8",
+  "version": "1.0b9",
   "summary": "A python library for inverse Laplace transform of one dimensional and multidimensional data.",
   "author": "Davis Thomas Daniel, Josef Granwehr",
   "license": null,
   "home_page": "https://apps.fz-juelich.de/iltpy",
-  "download_filename": "ilt_py_lib-1.0b8.tar.gz",
-  "download_time": "2025-08-17T10:53:25.097184",
+  "download_filename": "ilt_py_lib-1.0b9.tar.gz",
+  "download_time": "2025-08-25T10:58:29.635144",
   "package_url": "https://pypi.org/project/ilt-py-lib/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "worldnex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Nex library Helps you remotly access your Computer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "worldnex-1.0.3.tar.gz",
-  "download_time": "2025-08-25T07:42:41.244700",
+  "download_filename": "worldnex-1.0.4.tar.gz",
+  "download_time": "2025-08-25T10:58:30.211822",
   "package_url": "https://pypi.org/project/worldnex/"
 }

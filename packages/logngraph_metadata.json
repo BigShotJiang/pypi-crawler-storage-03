@@ -1,11 +1,11 @@
 {
   "name": "logngraph",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "summary": "Draw primitives and save your logs!",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "logngraph-0.0.10.tar.gz",
-  "download_time": "2025-08-25T10:24:41.065409",
+  "download_filename": "logngraph-0.0.11.tar.gz",
+  "download_time": "2025-08-25T10:58:46.342480",
   "package_url": "https://pypi.org/project/logngraph/"
 }
