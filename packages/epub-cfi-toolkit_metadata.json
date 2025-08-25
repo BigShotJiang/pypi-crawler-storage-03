@@ -1,11 +1,11 @@
 {
   "name": "epub-cfi-toolkit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Python toolkit for processing EPUB Canonical Fragment Identifiers (CFIs)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "epub_cfi_toolkit-0.2.0.tar.gz",
-  "download_time": "2025-08-25T19:53:47.254345",
+  "download_filename": "epub_cfi_toolkit-0.3.0.tar.gz",
+  "download_time": "2025-08-25T21:20:50.464788",
   "package_url": "https://pypi.org/project/epub-cfi-toolkit/"
 }

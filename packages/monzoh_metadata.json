@@ -1,11 +1,11 @@
 {
   "name": "monzoh",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A Python library for the Monzo Developer API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "monzoh-1.0.0.tar.gz",
-  "download_time": "2025-08-20T12:40:43.285985",
+  "download_filename": "monzoh-1.1.0.tar.gz",
+  "download_time": "2025-08-25T21:21:04.071134",
   "package_url": "https://pypi.org/project/monzoh/"
 }

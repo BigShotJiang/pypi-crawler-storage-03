@@ -1,0 +1,11 @@
+{
+  "name": "qbraid-algorithms",
+  "version": "0.1.0",
+  "summary": "Python package for utilizing, implementing, and building quantum algorithms in OpenQASM 3.",
+  "author": "qBraid Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qbraid_algorithms-0.1.0.tar.gz",
+  "download_time": "2025-08-25T21:20:54.825477",
+  "package_url": "https://pypi.org/project/qbraid-algorithms/"
+}
