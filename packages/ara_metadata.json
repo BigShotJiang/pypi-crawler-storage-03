@@ -1,0 +1,11 @@
+{
+  "name": "ara",
+  "version": "1.7.3",
+  "summary": "ARA Records Ansible",
+  "author": "ARA Records Ansible Authors",
+  "license": null,
+  "home_page": "https://codeberg.org/ansible-community/ara",
+  "download_filename": "ara-1.7.3-py2.py3-none-any.whl",
+  "download_time": "2025-08-25T22:22:28.202621",
+  "package_url": "https://pypi.org/project/ara/"
+}

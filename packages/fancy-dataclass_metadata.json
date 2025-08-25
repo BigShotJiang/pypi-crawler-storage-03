@@ -1,0 +1,11 @@
+{
+  "name": "fancy-dataclass",
+  "version": "0.10.1",
+  "summary": "Spiff up your dataclasses with extra features.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "fancy_dataclass-0.10.1.tar.gz",
+  "download_time": "2025-08-25T22:22:59.722323",
+  "package_url": "https://pypi.org/project/fancy-dataclass/"
+}

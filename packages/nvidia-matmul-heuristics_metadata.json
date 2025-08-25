@@ -1,11 +1,11 @@
 {
   "name": "nvidia-matmul-heuristics",
-  "version": "0.1.0.26",
-  "summary": "NVIDIA heuristics library",
+  "version": "0.1.0.27",
+  "summary": "NVIDIA Matmul Heuristics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_matmul_heuristics-0.1.0.26-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2025-08-25T20:24:40.430161",
+  "download_filename": "nvidia_matmul_heuristics-0.1.0.27-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2025-08-25T22:22:33.891768",
   "package_url": "https://pypi.org/project/nvidia-matmul-heuristics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "autoscan",
+  "version": "0.1.2",
+  "summary": "High fidelity PDF to Markdown conversion using LLMs (GPT-4o, Gemini, etc.)",
+  "author": "Umer Mansoor",
+  "license": "MIT",
+  "home_page": "https://github.com/umermansoor/autoscan",
+  "download_filename": "autoscan-0.1.2.tar.gz",
+  "download_time": "2025-08-25T22:22:52.843861",
+  "package_url": "https://pypi.org/project/autoscan/"
+}

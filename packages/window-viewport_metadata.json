@@ -1,0 +1,11 @@
+{
+  "name": "window-viewport",
+  "version": "1.0.0",
+  "summary": "Just another window to viewport coordinates translator",
+  "author": "Jeff Anderson",
+  "license": "Artistic",
+  "home_page": "https://github.com/jeffa/window-viewport",
+  "download_filename": "window_viewport-1.0.0.tar.gz",
+  "download_time": "2025-08-25T22:22:29.428119",
+  "package_url": "https://pypi.org/project/window-viewport/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genqo",
+  "version": "0.0.4",
+  "summary": "A hybrid gaussian/non-gaussian quantum optics state engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genqo-0.0.4.tar.gz",
+  "download_time": "2025-08-25T22:22:11.834888",
+  "package_url": "https://pypi.org/project/genqo/"
+}

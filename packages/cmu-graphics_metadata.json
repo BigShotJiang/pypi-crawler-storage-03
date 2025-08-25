@@ -1,0 +1,11 @@
+{
+  "name": "cmu-graphics",
+  "version": "1.1.43",
+  "summary": "The graphics framework used by CMU CS Academy, geared toward beginner CS students.",
+  "author": "Austin Schick",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://academy.cs.cmu.edu/",
+  "download_filename": "cmu_graphics-1.1.43.tar.gz",
+  "download_time": "2025-08-25T22:23:00.969515",
+  "package_url": "https://pypi.org/project/cmu-graphics/"
+}

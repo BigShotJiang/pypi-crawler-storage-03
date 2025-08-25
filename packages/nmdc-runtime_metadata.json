@@ -1,0 +1,11 @@
+{
+  "name": "nmdc-runtime",
+  "version": "2.10.0",
+  "summary": "A runtime system for NMDC data management and orchestration",
+  "author": "Donny Winston",
+  "license": null,
+  "home_page": "https://github.com/microbiomedata/nmdc-runtime",
+  "download_filename": "nmdc_runtime-2.10.0.tar.gz",
+  "download_time": "2025-08-25T22:22:49.046561",
+  "package_url": "https://pypi.org/project/nmdc-runtime/"
+}
