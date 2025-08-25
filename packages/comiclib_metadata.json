@@ -1,0 +1,11 @@
+{
+  "name": "comiclib",
+  "version": "0.0.8",
+  "summary": "Manage, read and share your comic/manga library",
+  "author": "URenko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comiclib-0.0.8.tar.gz",
+  "download_time": "2025-08-25T01:31:30.261823",
+  "package_url": "https://pypi.org/project/comiclib/"
+}

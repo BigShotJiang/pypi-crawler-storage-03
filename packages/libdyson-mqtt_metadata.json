@@ -1,11 +1,11 @@
 {
   "name": "libdyson-mqtt",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Python library for MQTT communication with Dyson devices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "libdyson_mqtt-0.1.1.tar.gz",
-  "download_time": "2025-08-22T18:51:14.291073",
+  "download_filename": "libdyson_mqtt-0.2.1.tar.gz",
+  "download_time": "2025-08-25T01:31:53.254503",
   "package_url": "https://pypi.org/project/libdyson-mqtt/"
 }

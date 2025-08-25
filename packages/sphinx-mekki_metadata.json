@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-mekki",
+  "version": "0.8.9",
+  "summary": "A Sphinx extension to embed images, download files, CSSs, and JSs into a single HTML file.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinx_mekki-0.8.9.tar.gz",
+  "download_time": "2025-08-25T01:32:00.503546",
+  "package_url": "https://pypi.org/project/sphinx-mekki/"
+}

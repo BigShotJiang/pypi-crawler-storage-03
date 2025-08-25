@@ -1,0 +1,11 @@
+{
+  "name": "RsLogMod",
+  "version": "1.3.0",
+  "summary": "A versatile logging module for Python projects",
+  "author": "D-3-X",
+  "license": "MIT",
+  "home_page": "https://github.com/D-3-X/RsLogMod/",
+  "download_filename": "rslogmod-1.3.0.tar.gz",
+  "download_time": "2025-08-25T01:31:50.541172",
+  "package_url": "https://pypi.org/project/RsLogMod/"
+}
