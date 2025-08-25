@@ -1,11 +1,11 @@
 {
   "name": "natural-pdf",
-  "version": "0.2.13",
+  "version": "0.2.15",
   "summary": "A more intuitive interface for working with PDFs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "natural_pdf-0.2.13.tar.gz",
-  "download_time": "2025-08-24T19:28:50.412389",
+  "download_filename": "natural_pdf-0.2.15.tar.gz",
+  "download_time": "2025-08-25T21:41:53.317205",
   "package_url": "https://pypi.org/project/natural-pdf/"
 }

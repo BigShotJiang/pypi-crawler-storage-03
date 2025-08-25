@@ -1,0 +1,11 @@
+{
+  "name": "Jetson.GPIO",
+  "version": "2.1.11",
+  "summary": "A module to control Jetson GPIO channels",
+  "author": "NVIDIA",
+  "license": "MIT",
+  "home_page": "https://github.com/NVIDIA/jetson-gpio",
+  "download_filename": "jetson_gpio-2.1.11-py3-none-any.whl",
+  "download_time": "2025-08-25T21:42:02.812168",
+  "package_url": "https://pypi.org/project/Jetson.GPIO/"
+}

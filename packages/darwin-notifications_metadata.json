@@ -1,0 +1,11 @@
+{
+  "name": "darwin-notifications",
+  "version": "0.0.2",
+  "summary": "Post darwin-based notifications using NSUserNotification API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "darwin_notifications-0.0.2.tar.gz",
+  "download_time": "2025-08-25T21:42:01.105081",
+  "package_url": "https://pypi.org/project/darwin-notifications/"
+}

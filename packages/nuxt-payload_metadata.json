@@ -1,11 +1,11 @@
 {
   "name": "nuxt-payload",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A lightweight Python library to parse and lazily resolve Nuxt 3 _payload.json files.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nuxt_payload-0.1.5-py3-none-any.whl",
-  "download_time": "2025-08-25T20:24:25.694658",
+  "download_filename": "nuxt_payload-0.1.6-py3-none-any.whl",
+  "download_time": "2025-08-25T21:42:06.077747",
   "package_url": "https://pypi.org/project/nuxt-payload/"
 }
