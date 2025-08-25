@@ -1,11 +1,11 @@
 {
   "name": "asr-business",
-  "version": "0.3.7",
+  "version": "0.4.0",
   "summary": null,
   "author": "wuwenxiao",
   "license": "MIT Licence",
   "home_page": "https://github.com/Tonywu2018/asr_business",
-  "download_filename": "asr_business-0.3.7.tar.gz",
-  "download_time": "2025-08-25T06:33:58.006043",
+  "download_filename": "asr_business-0.4.0.tar.gz",
+  "download_time": "2025-08-25T12:43:35.332072",
   "package_url": "https://pypi.org/project/asr-business/"
 }

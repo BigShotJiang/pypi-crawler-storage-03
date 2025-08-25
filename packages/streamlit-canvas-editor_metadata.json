@@ -1,11 +1,11 @@
 {
   "name": "streamlit-canvas-editor",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Streamlit component that allows you to do X",
   "author": "Adrien Lefèvre",
   "license": null,
   "home_page": null,
-  "download_filename": "streamlit_canvas_editor-0.3.0.tar.gz",
-  "download_time": "2025-08-21T09:43:18.962550",
+  "download_filename": "streamlit_canvas_editor-0.5.0.tar.gz",
+  "download_time": "2025-08-25T12:43:01.204617",
   "package_url": "https://pypi.org/project/streamlit-canvas-editor/"
 }

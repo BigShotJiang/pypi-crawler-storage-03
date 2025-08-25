@@ -1,0 +1,11 @@
+{
+  "name": "EmberFactory",
+  "version": "2.2.0",
+  "summary": "Software to (re)produce burning ember diagrams of the style used in IPCC reports.",
+  "author": "Philippe Marbaix",
+  "license": "GNU General Public License 3 or later",
+  "home_page": "https://framagit.org/marbaix/ember-factory",
+  "download_filename": "emberfactory-2.2.0.tar.gz",
+  "download_time": "2025-08-25T12:43:30.677029",
+  "package_url": "https://pypi.org/project/EmberFactory/"
+}

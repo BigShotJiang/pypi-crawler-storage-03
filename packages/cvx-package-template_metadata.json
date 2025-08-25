@@ -1,0 +1,11 @@
+{
+  "name": "cvx-package-template",
+  "version": "0.1.4",
+  "summary": "CVX package template for convex optimization projects.",
+  "author": "Author 1, Author 2",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cvx_package_template-0.1.4.tar.gz",
+  "download_time": "2025-08-25T12:43:17.966523",
+  "package_url": "https://pypi.org/project/cvx-package-template/"
+}

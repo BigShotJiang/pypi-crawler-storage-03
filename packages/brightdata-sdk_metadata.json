@@ -1,11 +1,11 @@
 {
   "name": "brightdata-sdk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "summary": "Python SDK for Bright Data Web Scraping and SERP APIs",
   "author": "Bright Data",
   "license": "MIT",
   "home_page": "https://github.com/brightdata/brightdata-sdk-python",
-  "download_filename": "brightdata_sdk-1.0.6.tar.gz",
-  "download_time": "2025-08-24T14:18:54.048549",
+  "download_filename": "brightdata_sdk-1.0.7.tar.gz",
+  "download_time": "2025-08-25T12:43:45.635018",
   "package_url": "https://pypi.org/project/brightdata-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "paopao-cli",
+  "version": "0.0.1.dev10",
+  "summary": "🥭 PaoPao's CLI Framework - Plugin-based CLI system",
+  "author": "PaoPaoDev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "paopao_cli-0.0.1.dev10.tar.gz",
+  "download_time": "2025-08-25T12:43:12.116086",
+  "package_url": "https://pypi.org/project/paopao-cli/"
+}

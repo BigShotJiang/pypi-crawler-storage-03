@@ -1,11 +1,11 @@
 {
   "name": "flink-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for Apache Flink SQL Gateway",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flink_mcp-0.2.0.tar.gz",
-  "download_time": "2025-08-25T11:53:05.810018",
+  "download_filename": "flink_mcp-0.2.1.tar.gz",
+  "download_time": "2025-08-25T12:43:02.282656",
   "package_url": "https://pypi.org/project/flink-mcp/"
 }

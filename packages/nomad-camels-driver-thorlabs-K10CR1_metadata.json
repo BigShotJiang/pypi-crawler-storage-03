@@ -1,0 +1,11 @@
+{
+  "name": "nomad-camels-driver-thorlabs-K10CR1",
+  "version": "0.1.2",
+  "summary": "Instrument driver for the Thorlabs K10CR1 rotation mount for NOMAD-CAMELS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nomad_camels_driver_thorlabs_k10cr1-0.1.2.tar.gz",
+  "download_time": "2025-08-25T12:43:42.704928",
+  "package_url": "https://pypi.org/project/nomad-camels-driver-thorlabs-K10CR1/"
+}

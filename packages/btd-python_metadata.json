@@ -1,0 +1,11 @@
+{
+  "name": "btd-python",
+  "version": "0.1.2",
+  "summary": "A python client for Baltic Transparency Data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "btd_python-0.1.2.tar.gz",
+  "download_time": "2025-08-25T12:43:08.656093",
+  "package_url": "https://pypi.org/project/btd-python/"
+}

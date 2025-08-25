@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-project-task-note",
+  "version": "18.0.1.0.1",
+  "summary": "Add notes in project tasks",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/project",
+  "download_filename": "odoo_addon_project_task_note-18.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-25T12:43:38.723220",
+  "package_url": "https://pypi.org/project/odoo-addon-project-task-note/"
+}
