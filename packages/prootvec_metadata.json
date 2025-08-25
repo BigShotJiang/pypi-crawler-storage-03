@@ -1,11 +1,11 @@
 {
   "name": "prootvec",
-  "version": "0.2.0b1",
-  "summary": "ProotVec: librería mínima para vectorización y entrenamiento básico en ARM64/Ubuntu/Termux",
+  "version": "0.2.0b2",
+  "summary": "ProotVec: vectorización y entrenamiento básico en ARM64/Ubuntu/Termux con MLP minimal (micrograd)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prootvec-0.2.0b1.tar.gz",
-  "download_time": "2025-08-25T03:57:51.471023",
+  "download_filename": "prootvec-0.2.0b2.tar.gz",
+  "download_time": "2025-08-25T05:46:19.749340",
   "package_url": "https://pypi.org/project/prootvec/"
 }

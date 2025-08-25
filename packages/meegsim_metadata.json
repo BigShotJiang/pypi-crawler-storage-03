@@ -1,0 +1,11 @@
+{
+  "name": "meegsim",
+  "version": "0.0.2",
+  "summary": "Building blocks (waveforms, SNR, connectivity) for M/EEG simulations with MNE-Python",
+  "author": "Alina Studenova, Mina Jamshidi Idaji",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meegsim-0.0.2.tar.gz",
+  "download_time": "2025-08-25T05:46:10.437926",
+  "package_url": "https://pypi.org/project/meegsim/"
+}

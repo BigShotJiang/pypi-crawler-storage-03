@@ -1,11 +1,11 @@
 {
   "name": "wot-pdf",
-  "version": "1.2.1",
-  "summary": "Advanced PDF generation with Production Builder v1.2.1, professional code highlighting, CLI auto-installation, and comprehensive document creation",
+  "version": "1.2.2",
+  "summary": "Advanced PDF generation with Production Builder v1.2.2, intelligent engine routing, comprehensive CLI, and professional document creation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wot_pdf-1.2.1.tar.gz",
-  "download_time": "2025-08-22T23:20:19.551811",
+  "download_filename": "wot_pdf-1.2.2.tar.gz",
+  "download_time": "2025-08-25T05:46:20.290425",
   "package_url": "https://pypi.org/project/wot-pdf/"
 }

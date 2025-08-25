@@ -1,16 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T05:23:12.366733
-- **Total Packages**: 79
-- **Total Size**: 51.4 MB
+- **Download Time**: 2025-08-25T05:46:46.292809
+- **Total Packages**: 85
+- **Total Size**: 8.4 MB
 
 ## Packages List
+- lyzr-python-sdk
+- vrz
+- annofabcli-llm
+- nonebot-plugin-resolver2
+- miru-server-sdk
+- cuti
+- util-common
+- fmc-report
+- gemini-parallel
+- util-intelligence
+- tracecolor
+- pmcxcl
+- durusai-cli
+- DLMS-SPODES
+- LoopStructural
+- botrun-litellm
+- assignment-codeval
+- meegsim
+- pgn-extract-wg
+- superset-showtime
+- automlplforidps
+- dcs-sdk
+- linked-claims-extractor
+- RoboOp
+- pgn-extract
+- neosqlite
+- optika
+- aiomql
+- hilda
+- leap-model-parser
+- xraylabtool
+- provenaclient
+- sakuragasaki46-suou
+- nost-tools
+- xx-ent-wiki-sm
+- prootvec
+- wot-pdf
+- eth-seher
+- okkie
+- lt-tensor
+- mcp-universal-database-server
+- ray-vllm
+- pulumi-gcp
 - zenify
 - code-loader
 - fastapi-custom-responses
 - moto-ext
-- superset-showtime
 - finecode-extension-api
 - coyaml
 - wspr-ai-lite
@@ -19,7 +61,6 @@
 - easyrip
 - listpick
 - datamule
-- ray-vllm
 - py-sgframework
 - dew-gwdata
 - alibabacloud-videorecog20200320
@@ -50,38 +91,3 @@
 - simple-carla
 - haniwers
 - zf-school-sdk
-- odin-ope
-- wkrq
-- abacustest
-- fastj2
-- school-sdk
-- pmcx
-- iamdata
-- finter
-- tcgplayer-client
-- lunchable-primelunch
-- trading-bot-ml
-- folder-classifier
-- mrx-runway
-- flavorpack
-- pyfastmath
-- annofabcli-llm
-- DLMSAdapter
-- mkdocs-media-gallery-plugin
-- reywechat
-- reyweb
-- pyrekit
-- zeroeval
-- hpfracc
-- elevenlabs
-- langchain-hreflang
-- mcp-framework
-- pyflowreg
-- bochord
-- tortitle
-- bosa-core-binary
-- PyQrackIsing
-- provena-interfaces
-- dsat-ai
-- pyxcp
-- lunchable-pushlunch

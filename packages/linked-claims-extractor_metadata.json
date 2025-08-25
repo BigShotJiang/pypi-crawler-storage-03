@@ -1,0 +1,11 @@
+{
+  "name": "linked-claims-extractor",
+  "version": "0.2.1",
+  "summary": "Extract structured claims from text and PDFs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "linked_claims_extractor-0.2.1.tar.gz",
+  "download_time": "2025-08-25T05:46:13.011843",
+  "package_url": "https://pypi.org/project/linked-claims-extractor/"
+}

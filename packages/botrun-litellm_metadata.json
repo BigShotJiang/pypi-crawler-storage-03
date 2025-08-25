@@ -1,0 +1,11 @@
+{
+  "name": "botrun-litellm",
+  "version": "0.2.6",
+  "summary": "A wrapper for litellm with TAIDE configuration support",
+  "author": "sebastian-hsu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "botrun_litellm-0.2.6.tar.gz",
+  "download_time": "2025-08-25T05:46:09.411225",
+  "package_url": "https://pypi.org/project/botrun-litellm/"
+}
