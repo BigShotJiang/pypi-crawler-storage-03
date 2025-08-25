@@ -1,0 +1,11 @@
+{
+  "name": "llg3d",
+  "version": "2.0.1",
+  "summary": "A solver for the stochastic Landau-Lifshitz-Gilbert equation in 3D",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llg3d-2.0.1.tar.gz",
+  "download_time": "2025-08-25T07:27:10.441589",
+  "package_url": "https://pypi.org/project/llg3d/"
+}

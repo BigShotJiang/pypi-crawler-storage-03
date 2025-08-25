@@ -1,11 +1,11 @@
 {
   "name": "splurge-sql-generator",
-  "version": "2025.4.4",
+  "version": "2025.4.5",
   "summary": "A Python tool for generating Python classes from SQL files",
   "author": "Jim Schilling",
   "license": null,
   "home_page": null,
-  "download_filename": "splurge_sql_generator-2025.4.4.tar.gz",
-  "download_time": "2025-08-24T23:19:39.224690",
+  "download_filename": "splurge_sql_generator-2025.4.5.tar.gz",
+  "download_time": "2025-08-25T07:27:05.228059",
   "package_url": "https://pypi.org/project/splurge-sql-generator/"
 }

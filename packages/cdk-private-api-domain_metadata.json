@@ -1,0 +1,11 @@
+{
+  "name": "cdk-private-api-domain",
+  "version": "0.0.0",
+  "summary": "A CDK construct library that provisions a private Amazon API Gateway with a custom domain name, accessible only through VPC endpoints. It simplifies the creation of internal APIs by combining API Gateway, Route 53, and certificate management into a reusable construct.",
+  "author": "avishayil<avishay.il@gmail.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/avishayil/cdk-private-api-domain.git",
+  "download_filename": "cdk_private_api_domain-0.0.0.tar.gz",
+  "download_time": "2025-08-25T07:26:56.886167",
+  "package_url": "https://pypi.org/project/cdk-private-api-domain/"
+}

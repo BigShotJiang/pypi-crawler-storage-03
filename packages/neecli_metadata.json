@@ -1,0 +1,11 @@
+{
+  "name": "neecli",
+  "version": "0.2.0",
+  "summary": "A CLI to chat with LLMs (Groq/OpenAI etc.)",
+  "author": "Neeraj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "neecli-0.2.0.tar.gz",
+  "download_time": "2025-08-25T07:27:03.654062",
+  "package_url": "https://pypi.org/project/neecli/"
+}

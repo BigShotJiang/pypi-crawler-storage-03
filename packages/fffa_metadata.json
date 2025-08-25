@@ -1,11 +1,11 @@
 {
   "name": "fffa",
-  "version": "0.1.0",
-  "summary": "FFFA: A Nature-Inspired Single Solution Optimization Algorithm",
+  "version": "0.1.1",
+  "summary": "FFFA: A Nature-Inspired Optimization Algorithm",
   "author": "Zeshan Khan",
   "license": null,
   "home_page": "https://github.com/zeshanalvi/FFFA",
-  "download_filename": "fffa-0.1.0.tar.gz",
-  "download_time": "2025-08-25T07:00:02.316256",
+  "download_filename": "fffa-0.1.1.tar.gz",
+  "download_time": "2025-08-25T07:26:45.306584",
   "package_url": "https://pypi.org/project/fffa/"
 }

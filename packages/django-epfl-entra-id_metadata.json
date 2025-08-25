@@ -1,11 +1,11 @@
 {
   "name": "django-epfl-entra-id",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Custom Microsoft Entra ID Authentication Backend for Django.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_epfl_entra_id-0.0.5.tar.gz",
-  "download_time": "2025-08-20T05:53:51.479865",
+  "download_filename": "django_epfl_entra_id-0.0.6.tar.gz",
+  "download_time": "2025-08-25T07:27:15.673115",
   "package_url": "https://pypi.org/project/django-epfl-entra-id/"
 }
