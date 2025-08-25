@@ -1,14 +1,51 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-25T22:23:02.639255
-- **Total Packages**: 81
-- **Total Size**: 29.4 MB
+- **Download Time**: 2025-08-25T22:45:02.887267
+- **Total Packages**: 83
+- **Total Size**: 13.33 MB
 
 ## Packages List
+- ethyca-fides
+- vantage-agent
+- sinapsis-docling
+- foscat
+- llm-tmux-fragments
+- rank-llm
+- ipss
+- yokedcache
+- sws-config
+- qtype
+- nrtk
+- twigs
+- evalgate
+- WhispyWyser
+- PYield
+- aryn-mcp-server
+- sphinxcontrib-osint
+- argflow
+- nomnomdata-engine
+- konecty-sdk-python
+- contextlite
+- splat64
+- rowan-mcp
+- kececinumbers
+- pyelastica
+- deadline-cloud-for-nuke
+- gradboard
+- increase
+- cterasdk
+- pulumi-azuredevops
+- toshi-hazard-post
+- simpletransformers
+- freeplay
+- sqlmesh
+- GameSentenceMiner
+- pipecat-ai-whisker
+- circuit-agent-sdk
+- graphcast
 - hcom
 - commit-check
-- kececinumbers
 - agatha-protobuf
 - experiment-generator
 - flexprofiler
@@ -21,11 +58,8 @@
 - t-nextgen
 - hydroserverpy
 - pyloan
-- prism-pull
-- argflow
 - mlx-cpu
 - wsjt-all
-- konecty-sdk-python
 - reflex
 - xml2rfc
 - regula-documentreader-webclient
@@ -41,8 +75,6 @@
 - ara
 - window-viewport
 - symclatron
-- sqlmesh
-- pipecat-ai-whisker
 - mlx
 - protovalidate
 - cleanlab-tlm
@@ -57,33 +89,3 @@
 - goaly-mcp
 - telekit
 - sqlmap-ai
-- yesglot
-- matrix-cli
-- dew-gwdata
-- ca2roi
-- sinapsis-retina-face-trt
-- PyQrackIsing
-- pydeephaven
-- deephaven-core
-- nmdc-runtime
-- pydreamplet
-- stinger-ipc
-- dotgov
-- superego-mcp
-- portal-os
-- autoscan
-- pyoso
-- oso-semantic
-- WhispyWyser
-- beaker-gantry
-- claude-cto
-- aisp
-- freeplay
-- tobiko-cloud-helpers
-- tobiko-cloud-pydantic
-- langchain-llama-stack
-- fancy-dataclass
-- tobiko-cloud-api-client
-- cmu-graphics
-- turtleQS
-- aoiro

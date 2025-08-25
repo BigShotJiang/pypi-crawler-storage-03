@@ -1,0 +1,11 @@
+{
+  "name": "cterasdk",
+  "version": "2.20.20",
+  "summary": "CTERA Python SDK",
+  "author": "CTERA Networks",
+  "license": null,
+  "home_page": "https://pypi.org/project/cterasdk/",
+  "download_filename": "cterasdk-2.20.20.tar.gz",
+  "download_time": "2025-08-25T22:44:33.463007",
+  "package_url": "https://pypi.org/project/cterasdk/"
+}

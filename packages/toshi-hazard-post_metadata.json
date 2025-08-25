@@ -1,0 +1,11 @@
+{
+  "name": "toshi-hazard-post",
+  "version": "0.7.1",
+  "summary": "Hazard post-processing pipeline as serverless AWS infrastructure.",
+  "author": "Chris DiCaprio",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "toshi_hazard_post-0.7.1.tar.gz",
+  "download_time": "2025-08-25T22:44:34.503659",
+  "package_url": "https://pypi.org/project/toshi-hazard-post/"
+}

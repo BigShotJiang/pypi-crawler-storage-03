@@ -1,0 +1,11 @@
+{
+  "name": "ipss",
+  "version": "1.1.4",
+  "summary": "Python implementation of integrated path stability selection (IPSS)",
+  "author": "Omar Melikechi",
+  "license": "MIT",
+  "home_page": "https://github.com/omelikechi/ipss",
+  "download_filename": "ipss-1.1.4.tar.gz",
+  "download_time": "2025-08-25T22:44:21.952230",
+  "package_url": "https://pypi.org/project/ipss/"
+}
