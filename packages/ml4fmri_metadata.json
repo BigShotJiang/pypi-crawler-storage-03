@@ -1,11 +1,11 @@
 {
   "name": "ml4fmri",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Machine learning models for fMRI classification",
   "author": "Pavel Popov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ml4fmri-1.0.2.tar.gz",
-  "download_time": "2025-08-22T05:20:44.235735",
+  "download_filename": "ml4fmri-1.0.3.tar.gz",
+  "download_time": "2025-08-25T19:17:45.882665",
   "package_url": "https://pypi.org/project/ml4fmri/"
 }

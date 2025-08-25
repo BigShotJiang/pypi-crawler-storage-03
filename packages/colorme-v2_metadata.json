@@ -1,0 +1,11 @@
+{
+  "name": "colorme-v2",
+  "version": "2.1",
+  "summary": "Print hex-colored text in your terminal from Python",
+  "author": "TS-DEV-JAVA",
+  "license": "GPL-2.0",
+  "home_page": "https://github.com/ts-dev-java/colorme",
+  "download_filename": "colorme_v2-2.1.tar.gz",
+  "download_time": "2025-08-25T19:17:51.188907",
+  "package_url": "https://pypi.org/project/colorme-v2/"
+}

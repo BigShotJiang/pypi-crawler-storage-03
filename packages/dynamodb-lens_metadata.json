@@ -1,0 +1,11 @@
+{
+  "name": "dynamodb-lens",
+  "version": "25.8.dev1",
+  "summary": "DynamoDB Lens - Analyze your DynamoDB environment",
+  "author": "Adam North",
+  "license": "MIT",
+  "home_page": "https://github.com/doitintl/dynamodb-lens.git",
+  "download_filename": "dynamodb_lens-25.8.dev1-py3-none-any.whl",
+  "download_time": "2025-08-25T19:18:17.541569",
+  "package_url": "https://pypi.org/project/dynamodb-lens/"
+}
