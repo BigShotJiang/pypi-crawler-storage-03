@@ -1,11 +1,11 @@
 {
   "name": "nats-fasterapi",
-  "version": "0.2.61",
+  "version": "0.2.62",
   "summary": "A CLI tool to scaffold FastAPI projects with CRUD and schema support",
   "author": "Nathaniel Uriri",
   "license": null,
   "home_page": "https://github.com/nathanieluriri/faster-api",
-  "download_filename": "nats-fasterapi-0.2.61.tar.gz",
-  "download_time": "2025-08-26T10:48:12.331247",
+  "download_filename": "nats-fasterapi-0.2.62.tar.gz",
+  "download_time": "2025-08-26T11:43:48.894740",
   "package_url": "https://pypi.org/project/nats-fasterapi/"
 }

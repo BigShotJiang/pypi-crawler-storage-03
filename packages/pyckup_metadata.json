@@ -1,0 +1,11 @@
+{
+  "name": "pyckup",
+  "version": "0.1.2",
+  "summary": "Tools to provide easy access to prepared data to data scientists that can't be asked.",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/pyckup",
+  "download_filename": "pyckup-0.1.2.tar.gz",
+  "download_time": "2025-08-26T11:43:57.068959",
+  "package_url": "https://pypi.org/project/pyckup/"
+}

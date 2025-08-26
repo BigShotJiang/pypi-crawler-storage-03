@@ -1,0 +1,11 @@
+{
+  "name": "azuredol",
+  "version": "0.1.7",
+  "summary": "Azure Storage Data Object Layer",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/azuredol",
+  "download_filename": "azuredol-0.1.7.tar.gz",
+  "download_time": "2025-08-26T11:43:49.468545",
+  "package_url": "https://pypi.org/project/azuredol/"
+}

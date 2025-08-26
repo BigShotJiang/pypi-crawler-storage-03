@@ -1,0 +1,11 @@
+{
+  "name": "verb",
+  "version": "0.1.14",
+  "summary": "Easy make mini-languages to do python things.",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/verb",
+  "download_filename": "verb-0.1.14.tar.gz",
+  "download_time": "2025-08-26T11:43:53.547963",
+  "package_url": "https://pypi.org/project/verb/"
+}

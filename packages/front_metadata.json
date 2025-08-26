@@ -1,0 +1,11 @@
+{
+  "name": "front",
+  "version": "0.1.97",
+  "summary": "Getting from python objects to UIs exposing them",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/front",
+  "download_filename": "front-0.1.97.tar.gz",
+  "download_time": "2025-08-26T11:43:59.942731",
+  "package_url": "https://pypi.org/project/front/"
+}

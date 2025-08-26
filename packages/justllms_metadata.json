@@ -1,0 +1,11 @@
+{
+  "name": "justllms",
+  "version": "1.4.0",
+  "summary": "Production-ready Python library for multi-provider LLM orchestration with intelligent routing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "justllms-1.4.0.tar.gz",
+  "download_time": "2025-08-26T11:43:12.517135",
+  "package_url": "https://pypi.org/project/justllms/"
+}

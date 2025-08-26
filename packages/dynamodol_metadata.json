@@ -1,0 +1,11 @@
+{
+  "name": "dynamodol",
+  "version": "0.1.4",
+  "summary": "dynamodb (through boto3) with a simple (dict-like or list-like) interface",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/dynamodol",
+  "download_filename": "dynamodol-0.1.4.tar.gz",
+  "download_time": "2025-08-26T11:43:48.320561",
+  "package_url": "https://pypi.org/project/dynamodol/"
+}

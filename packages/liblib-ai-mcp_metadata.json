@@ -1,0 +1,11 @@
+{
+  "name": "liblib-ai-mcp",
+  "version": "1.0.0",
+  "summary": "LiblibAI AI图片生成MCP工具 - 支持各种风格的AI图片创作",
+  "author": "LiblibAI MCP Developer",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/liblib-ai-mcp",
+  "download_filename": "liblib_ai_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-26T11:43:17.060514",
+  "package_url": "https://pypi.org/project/liblib-ai-mcp/"
+}

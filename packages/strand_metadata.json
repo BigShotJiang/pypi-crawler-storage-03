@@ -1,0 +1,11 @@
+{
+  "name": "strand",
+  "version": "0.1.8",
+  "summary": "Easy creation of non-blocking tasks",
+  "author": null,
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/strand",
+  "download_filename": "strand-0.1.8.tar.gz",
+  "download_time": "2025-08-26T11:43:54.770720",
+  "package_url": "https://pypi.org/project/strand/"
+}

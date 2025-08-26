@@ -1,0 +1,11 @@
+{
+  "name": "trove-classifiers",
+  "version": "2025.8.26.11",
+  "summary": "Canonical source for classifiers on PyPI (pypi.org).",
+  "author": "The PyPI Admins",
+  "license": null,
+  "home_page": "https://github.com/pypa/trove-classifiers",
+  "download_filename": "trove_classifiers-2025.8.26.11.tar.gz",
+  "download_time": "2025-08-26T11:43:32.733866",
+  "package_url": "https://pypi.org/project/trove-classifiers/"
+}

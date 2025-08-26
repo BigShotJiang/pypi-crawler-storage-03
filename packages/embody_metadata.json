@@ -1,0 +1,11 @@
+{
+  "name": "embody",
+  "version": "0.1.5",
+  "summary": "Generate templated objects",
+  "author": "Thor Whalen",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/i2mint/embody",
+  "download_filename": "embody-0.1.5.tar.gz",
+  "download_time": "2025-08-26T11:43:58.791144",
+  "package_url": "https://pypi.org/project/embody/"
+}
