@@ -1,0 +1,11 @@
+{
+  "name": "pythermoai",
+  "version": "0.1.0",
+  "summary": "PyThermoAI is a Python package that leverages intelligent agents to search the web for thermodynamic data and equations, and seamlessly integrates the results into PyThermoDB.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pythermoai-0.1.0.tar.gz",
+  "download_time": "2025-08-26T22:44:24.020248",
+  "package_url": "https://pypi.org/project/pythermoai/"
+}

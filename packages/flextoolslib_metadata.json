@@ -1,0 +1,11 @@
+{
+  "name": "flextoolslib",
+  "version": "2025.8.26",
+  "summary": "A tool for running Python scripts on FieldWorks Language Explorer projects",
+  "author": "Craig Farrow",
+  "license": "\"GPL-2.0-or-later\"",
+  "home_page": "https://github.com/cdfarrow/flextools",
+  "download_filename": "flextoolslib-2025.8.26-py3-none-any.whl",
+  "download_time": "2025-08-26T22:44:28.635014",
+  "package_url": "https://pypi.org/project/flextoolslib/"
+}

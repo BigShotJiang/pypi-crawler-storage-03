@@ -1,0 +1,11 @@
+{
+  "name": "chepy",
+  "version": "7.4.0",
+  "summary": null,
+  "author": "@securisec",
+  "license": "GPL",
+  "home_page": "https://github.com/securisec/chepy",
+  "download_filename": "chepy-7.4.0.tar.gz",
+  "download_time": "2025-08-26T22:44:22.355678",
+  "package_url": "https://pypi.org/project/chepy/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ryoma-ai",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "AI Powered Data Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ryoma_ai-0.1.0.tar.gz",
-  "download_time": "2025-08-26T22:21:23.065789",
+  "download_filename": "ryoma_ai-0.1.2.tar.gz",
+  "download_time": "2025-08-26T22:44:25.730296",
   "package_url": "https://pypi.org/project/ryoma-ai/"
 }

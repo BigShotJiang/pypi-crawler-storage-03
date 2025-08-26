@@ -1,0 +1,11 @@
+{
+  "name": "pyowm",
+  "version": "3.5.0",
+  "summary": "A Python wrapper around OpenWeatherMap web APIs",
+  "author": "Claudio Sparpaglione",
+  "license": "MIT",
+  "home_page": "https://github.com/csparpa/pyowm",
+  "download_filename": "pyowm-3.5.0.tar.gz",
+  "download_time": "2025-08-26T22:44:25.216473",
+  "package_url": "https://pypi.org/project/pyowm/"
+}
