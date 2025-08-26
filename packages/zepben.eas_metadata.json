@@ -1,0 +1,11 @@
+{
+  "name": "zepben.eas",
+  "version": "0.22.0",
+  "summary": "Python SDK for interacting with the Evolve App Server",
+  "author": "Ramon Bouckaert",
+  "license": null,
+  "home_page": "https://github.com/zepben/eas-python-client",
+  "download_filename": "zepben_eas-0.22.0-py3-none-any.whl",
+  "download_time": "2025-08-26T01:29:35.910295",
+  "package_url": "https://pypi.org/project/zepben.eas/"
+}

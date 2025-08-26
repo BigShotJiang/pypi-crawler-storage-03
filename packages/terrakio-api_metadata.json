@@ -1,0 +1,11 @@
+{
+  "name": "terrakio-api",
+  "version": "0.4.97",
+  "summary": "Client version of the terrakio-python-api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terrakio_api-0.4.97.tar.gz",
+  "download_time": "2025-08-26T01:29:16.357766",
+  "package_url": "https://pypi.org/project/terrakio-api/"
+}

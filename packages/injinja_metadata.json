@@ -1,0 +1,11 @@
+{
+  "name": "injinja",
+  "version": "1.0.1",
+  "summary": "Injinja: Injectable Jinja Configuration tool. Insanely configurable... config system.",
+  "author": "Josh Peak",
+  "license": null,
+  "home_page": null,
+  "download_filename": "injinja-1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-26T01:29:50.086030",
+  "package_url": "https://pypi.org/project/injinja/"
+}

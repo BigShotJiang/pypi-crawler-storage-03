@@ -1,0 +1,11 @@
+{
+  "name": "strainpycon-inferencemethods",
+  "version": "1.0.0.dev1",
+  "summary": "Strain disambiguation methods for mixed DNA samples. Built upon strainpycon package",
+  "author": "Gary Vestal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "strainpycon_inferencemethods-1.0.0.dev1.tar.gz",
+  "download_time": "2025-08-26T01:29:15.317384",
+  "package_url": "https://pypi.org/project/strainpycon-inferencemethods/"
+}

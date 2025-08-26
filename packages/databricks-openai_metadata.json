@@ -1,0 +1,11 @@
+{
+  "name": "databricks-openai",
+  "version": "0.6.1",
+  "summary": "Support for Databricks AI support with OpenAI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "databricks_openai-0.6.1-py3-none-any.whl",
+  "download_time": "2025-08-26T01:29:26.393655",
+  "package_url": "https://pypi.org/project/databricks-openai/"
+}

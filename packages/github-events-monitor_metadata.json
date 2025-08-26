@@ -1,11 +1,11 @@
 {
   "name": "github-events-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "GitHub Events Monitor with FastAPI and MCP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "github_events_monitor-1.0.0.tar.gz",
-  "download_time": "2025-08-25T23:20:37.895038",
+  "download_filename": "github_events_monitor-1.0.1.tar.gz",
+  "download_time": "2025-08-26T01:29:50.614659",
   "package_url": "https://pypi.org/project/github-events-monitor/"
 }

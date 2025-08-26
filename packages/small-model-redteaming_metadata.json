@@ -1,0 +1,11 @@
+{
+  "name": "small-model-redteaming",
+  "version": "0.1.0",
+  "summary": "A comprehensive AI redteaming framework for testing small language models across multiple safety and alignment dimensions, including deceptive alignment detection, evaluation awareness testing, data exfiltration prevention, and meta-cognition analysis with statistical significance testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "small_model_redteaming-0.1.0.tar.gz",
+  "download_time": "2025-08-26T01:29:14.261015",
+  "package_url": "https://pypi.org/project/small-model-redteaming/"
+}

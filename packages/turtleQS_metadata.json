@@ -1,11 +1,11 @@
 {
   "name": "turtleQS",
-  "version": "1.1",
+  "version": "1.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "turtleqs-1.1.tar.gz",
-  "download_time": "2025-08-25T22:23:01.542675",
+  "download_filename": "turtleqs-1.2.tar.gz",
+  "download_time": "2025-08-26T01:29:42.764144",
   "package_url": "https://pypi.org/project/turtleQS/"
 }
