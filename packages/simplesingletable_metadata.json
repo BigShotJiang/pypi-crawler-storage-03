@@ -1,11 +1,11 @@
 {
   "name": "simplesingletable",
-  "version": "12.0.1",
+  "version": "12.1.0",
   "summary": "A simple boto3/Pydantic implementation of DynamoDB Single Table Design and related utilities.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplesingletable-12.0.1.tar.gz",
-  "download_time": "2025-08-22T19:53:42.513000",
+  "download_filename": "simplesingletable-12.1.0.tar.gz",
+  "download_time": "2025-08-26T05:45:48.504333",
   "package_url": "https://pypi.org/project/simplesingletable/"
 }

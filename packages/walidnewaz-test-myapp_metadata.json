@@ -1,0 +1,11 @@
+{
+  "name": "walidnewaz-test-myapp",
+  "version": "0.1.0",
+  "summary": "An example Python app using Poetry",
+  "author": "Walid Newaz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "walidnewaz_test_myapp-0.1.0.tar.gz",
+  "download_time": "2025-08-26T05:45:42.100609",
+  "package_url": "https://pypi.org/project/walidnewaz-test-myapp/"
+}

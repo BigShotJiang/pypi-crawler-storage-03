@@ -1,0 +1,11 @@
+{
+  "name": "pydefect-2d",
+  "version": "0.1.5",
+  "summary": "Package for correcting defect formation energies and eigenvalues in two-dimensional materials",
+  "author": "Yu Kumagai",
+  "license": "MIT license",
+  "home_page": "https://github.com/kumagai-group/pydefect_2d",
+  "download_filename": "pydefect_2d-0.1.5.tar.gz",
+  "download_time": "2025-08-26T05:45:31.061363",
+  "package_url": "https://pypi.org/project/pydefect-2d/"
+}

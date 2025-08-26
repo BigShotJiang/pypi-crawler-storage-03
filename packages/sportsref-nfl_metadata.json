@@ -1,0 +1,11 @@
+{
+  "name": "sportsref-nfl",
+  "version": "0.1.3",
+  "summary": "NFL data scraping library for Pro Football Reference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sportsref_nfl-0.1.3.tar.gz",
+  "download_time": "2025-08-26T05:45:27.956672",
+  "package_url": "https://pypi.org/project/sportsref-nfl/"
+}
