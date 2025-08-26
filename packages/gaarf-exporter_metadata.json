@@ -1,0 +1,11 @@
+{
+  "name": "gaarf-exporter",
+  "version": "1.2.1",
+  "summary": "Prometheus exporter for Google Ads.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "gaarf_exporter-1.2.1.tar.gz",
+  "download_time": "2025-08-26T13:51:15.329013",
+  "package_url": "https://pypi.org/project/gaarf-exporter/"
+}

@@ -1,11 +1,68 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T13:25:30.289983
-- **Total Packages**: 91
-- **Total Size**: 22.48 MB
+- **Download Time**: 2025-08-26T13:51:46.249988
+- **Total Packages**: 92
+- **Total Size**: 32.19 MB
 
 ## Packages List
+- django-html-utils
+- odoo-backup-manager
+- langgate-transform
+- langgate-server
+- langgate-sdk
+- langgate-registry
+- workflowforge
+- langgate-processor
+- canviewer
+- langgate-core
+- langgate-client
+- langgate
+- fusion-solar-py
+- selene-sim
+- openhems
+- indie
+- obe
+- cohere-haystack
+- slurpit_netbox
+- orthanc-tools
+- Canaille
+- django-pbx-admin
+- openfund-taker
+- export_to_obsidian
+- openfund-maker
+- fers-calculations
+- mas-cli
+- django-smartbase-admin
+- sourcemeta-jsonschema
+- fbgemm-gpu-nightly-cpu
+- streamlit-rockyroad-tools
+- frogml
+- UncountablePythonSDK
+- kececinumbers
+- dvd-rw
+- Sandroid
+- ustat-var
+- optr
+- gaarf-exporter
+- jaxnasium
+- aisberg
+- PyQrackIsing
+- pulumi-ovh
+- mlx-cpu
+- openfund-core
+- stacklet.client.sinistral
+- ppplca
+- usearch
+- zse
+- griffe
+- tflite-micro
+- trading-sdk
+- unstructured
+- mexc-trading-sdk
+- relaxai-test
+- intentkit
+- aipmodel
 - dbxsql
 - siegrist-lca-algebraic
 - talktollm
@@ -18,14 +75,12 @@
 - mlx
 - earthkit-data
 - vt4ai
-- kececinumbers
 - qwak-core
 - ssm-simulators
 - acceptChanges
 - fabricengineer-py
 - crowdin-api-client
 - mpiprof
-- export_to_obsidian
 - pygluelock
 - hyperswe
 - galaxy-py-service
@@ -43,57 +98,3 @@
 - transformerlab-client
 - napari-tree-rings
 - modelbaker
-- geobox
-- rag-fact-checker
-- capepy
-- mitm-tooling
-- zowie-agent-sdk
-- prime
-- aiida-fireball
-- denario
-- zpl
-- fastapi-throttle
-- dff-py
-- bmasterai
-- stash-mcp
-- seeq
-- ggoat
-- relaxai-test
-- csonpath
-- urbalurba-logging
-- ez-django-common
-- worker-automate-hub
-- suse-cloud-image-name-parser
-- pywen
-- otf-addons-o365
-- openfund-maker
-- email-validator
-- ml-management
-- vkbottle
-- odoo-addon-fieldservice-portal
-- openfund-taker
-- ropt-pymoo
-- nosible
-- kode-kronical
-- ropt-nomad
-- ropt-dakota
-- jedha-cli
-- pyjudilibre
-- segscript
-- openalgo-backtrader
-- coraw
-- swajay-cv-toolkit
-- galaxy-py-perfo
-- mayan-edms
-- agentic-blocks
-- scc-firewall-manager-sdk
-- aws-test-harness
-- kiwitcms-tenants
-- zou
-- canvas
-- orq-ai-sdk
-- kirk
-- pydantic-graph
-- pydantic-evals
-- intentkit
-- pydantic-ai-slim

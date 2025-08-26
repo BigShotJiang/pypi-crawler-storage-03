@@ -1,0 +1,11 @@
+{
+  "name": "stacklet.client.sinistral",
+  "version": "0.5.32",
+  "summary": "Sinistral CLI",
+  "author": "Sonny Shi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stacklet_client_sinistral-0.5.32.tar.gz",
+  "download_time": "2025-08-26T13:51:19.256149",
+  "package_url": "https://pypi.org/project/stacklet.client.sinistral/"
+}
