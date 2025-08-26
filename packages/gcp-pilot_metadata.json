@@ -1,11 +1,11 @@
 {
   "name": "gcp-pilot",
-  "version": "1.38.1",
+  "version": "1.38.2",
   "summary": "Google Cloud Platform Friendly Pilot",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gcp_pilot-1.38.1.tar.gz",
-  "download_time": "2025-08-26T22:44:21.257877",
+  "download_filename": "gcp_pilot-1.38.2.tar.gz",
+  "download_time": "2025-08-26T23:20:21.137989",
   "package_url": "https://pypi.org/project/gcp-pilot/"
 }

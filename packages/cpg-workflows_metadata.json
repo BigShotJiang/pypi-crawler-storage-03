@@ -1,0 +1,11 @@
+{
+  "name": "cpg-workflows",
+  "version": "1.37.12",
+  "summary": "CPG workflows for Hail Batch",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/populationgenomics/production-pipelines",
+  "download_filename": "cpg_workflows-1.37.12.tar.gz",
+  "download_time": "2025-08-26T23:20:36.386909",
+  "package_url": "https://pypi.org/project/cpg-workflows/"
+}

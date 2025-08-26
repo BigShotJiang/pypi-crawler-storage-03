@@ -1,0 +1,11 @@
+{
+  "name": "MagmaLink",
+  "version": "1.2.0",
+  "summary": "A simple lavalink wrapper easy to use",
+  "author": "southctrl",
+  "license": null,
+  "home_page": "https://github.com/southctrl/magmalink",
+  "download_filename": "magmalink-1.2.0.tar.gz",
+  "download_time": "2025-08-26T23:20:13.776198",
+  "package_url": "https://pypi.org/project/MagmaLink/"
+}

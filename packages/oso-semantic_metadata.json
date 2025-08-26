@@ -1,11 +1,11 @@
 {
   "name": "oso-semantic",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oso_semantic-0.1.2.tar.gz",
-  "download_time": "2025-08-25T21:54:47.803691",
+  "download_filename": "oso_semantic-0.1.3.tar.gz",
+  "download_time": "2025-08-26T23:20:35.867036",
   "package_url": "https://pypi.org/project/oso-semantic/"
 }

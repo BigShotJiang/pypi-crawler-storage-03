@@ -1,0 +1,11 @@
+{
+  "name": "iss-location-tracker",
+  "version": "0.1.0",
+  "summary": "A simple Python library to get the current location of the International Space Station.",
+  "author": "Keyonei Victory",
+  "license": null,
+  "home_page": "https://github.com/KeyoneiV/iss-tracker",
+  "download_filename": "iss_location_tracker-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-26T23:20:36.905154",
+  "package_url": "https://pypi.org/project/iss-location-tracker/"
+}
