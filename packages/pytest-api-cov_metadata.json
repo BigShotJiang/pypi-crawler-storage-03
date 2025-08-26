@@ -1,11 +1,11 @@
 {
   "name": "pytest-api-cov",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Api Coverage Report Pytest Plugin",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pytest_api_cov-0.1.1.tar.gz",
-  "download_time": "2025-08-26T22:44:18.056355",
+  "download_filename": "pytest_api_cov-0.1.2.tar.gz",
+  "download_time": "2025-08-26T22:54:14.481346",
   "package_url": "https://pypi.org/project/pytest-api-cov/"
 }

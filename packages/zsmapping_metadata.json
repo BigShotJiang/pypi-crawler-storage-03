@@ -1,0 +1,11 @@
+{
+  "name": "zsmapping",
+  "version": "0.1.1",
+  "summary": "Python binding for ZSMapping",
+  "author": "netmanchris",
+  "license": "Apache2",
+  "home_page": "https://github.com/netmanchris/",
+  "download_filename": "zsmapping-0.1.1.tar.gz",
+  "download_time": "2025-08-26T22:54:11.064583",
+  "package_url": "https://pypi.org/project/zsmapping/"
+}

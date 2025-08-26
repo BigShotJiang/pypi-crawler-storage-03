@@ -1,11 +1,11 @@
 {
   "name": "judge-markday",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Utility for marking daily results with judge integration",
   "author": "Andrii Meleshkov",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "judge_markday-0.1.5.tar.gz",
-  "download_time": "2025-08-26T03:44:27.368281",
+  "download_filename": "judge_markday-0.1.6.tar.gz",
+  "download_time": "2025-08-26T22:54:17.929181",
   "package_url": "https://pypi.org/project/judge-markday/"
 }

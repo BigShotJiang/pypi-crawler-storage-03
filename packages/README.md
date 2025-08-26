@@ -1,14 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T22:45:01.274067
-- **Total Packages**: 80
-- **Total Size**: 18.32 MB
+- **Download Time**: 2025-08-26T22:54:53.092012
+- **Total Packages**: 79
+- **Total Size**: 7.96 MB
 
 ## Packages List
+- futurehouse-client
+- mjx-safety-gym
+- scionpathml
+- zsmapping
+- pipen
+- outerport
+- devopness
+- minecraft-datapack-language
+- qstrings
+- pytest-api-cov
+- pythermoai
+- sagemaker-hyperpod
+- usearch
+- ccux
+- astabench
+- judge-markday
+- letta-client
+- ryoma-ai
+- yutipy
+- fyodorov-utils
+- fyodorov-llm-agents
+- cool-styles
+- xpublish-tiles
+- b10-tcache
+- cylestio-perimeter
 - graph-games-proto
 - kode-kronical
-- pytest-api-cov
 - zenable-mcp
 - langroid
 - dv-pipecat-ai
@@ -19,10 +43,8 @@
 - chepy
 - markitdown
 - graphql-mcp
-- pythermoai
 - opentrons
 - pyowm
-- ryoma-ai
 - whis
 - sws-config
 - ut-ctl
@@ -34,19 +56,14 @@
 - posthog
 - hata
 - scarletio
-- usearch
 - mangaba-ai
 - aioscraper
 - slurm-usage
 - xqute
 - localstack-core
 - remnawave
-- letta-client
-- futurehouse-client
 - opentrons-shared-data
 - 3lc-ultralytics
-- fyodorov-utils
-- fyodorov-llm-agents
 - byu_pytest_utils
 - abstract-gui
 - jragbeer-common
@@ -57,7 +74,6 @@
 - arize
 - Loomr
 - keyrings-chainguard-libraries
-- cylestio-perimeter
 - valetudo-map-parser
 - nrel.routee.compass
 - tinyloop
@@ -69,20 +85,3 @@
 - flowtask
 - assemblyline-core
 - assemblyline
-- assemblyline-v4-service
-- assemblyline-ui
-- assemblyline-service-server
-- assemblyline-service-client
-- aider-code
-- agent-memory-client
-- sinapsis-retina-face-trt
-- fckprint
-- gfw-common
-- chattr
-- crystalbuilder
-- flexlibs
-- django-spire
-- segmented-creator
-- regula-documentreader-webclient
-- mriqa
-- SchemaRefinery

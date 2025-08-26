@@ -1,11 +1,11 @@
 {
   "name": "minecraft-datapack-language",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "summary": "Compile a tiny MDL language or Python API into a Minecraft datapack (1.21+ ready).",
   "author": "Minecraft Datapack Language Team",
   "license": null,
   "home_page": null,
-  "download_filename": "minecraft_datapack_language-4.2.0.tar.gz",
-  "download_time": "2025-08-26T22:21:18.289846",
+  "download_filename": "minecraft_datapack_language-4.3.0.tar.gz",
+  "download_time": "2025-08-26T22:54:13.353686",
   "package_url": "https://pypi.org/project/minecraft-datapack-language/"
 }
