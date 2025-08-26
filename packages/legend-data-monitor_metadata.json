@@ -1,0 +1,11 @@
+{
+  "name": "legend-data-monitor",
+  "version": "2.1.3",
+  "summary": "Python package for LEGEND data monitoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "legend_data_monitor-2.1.3.tar.gz",
+  "download_time": "2025-08-26T11:20:25.779071",
+  "package_url": "https://pypi.org/project/legend-data-monitor/"
+}

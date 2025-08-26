@@ -1,11 +1,11 @@
 {
   "name": "pyotme",
-  "version": "1.1",
+  "version": "1.5",
   "summary": "library for python (2+3)",
   "author": "Devil",
   "license": "LGPLv3+",
   "home_page": "https://t.me/NexLangPy",
-  "download_filename": "pyotme-1.1.tar.gz",
-  "download_time": "2025-08-26T10:58:38.142992",
+  "download_filename": "pyotme-1.5.tar.gz",
+  "download_time": "2025-08-26T11:20:35.574059",
   "package_url": "https://pypi.org/project/pyotme/"
 }
