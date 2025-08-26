@@ -1,0 +1,11 @@
+{
+  "name": "chunked-anndata",
+  "version": "1.0.4a3",
+  "summary": "Save and Load anndata in chunked format for random access",
+  "author": "Ziwei Xue",
+  "license": null,
+  "home_page": "https://github.com/xueziwei/chunked-anndata",
+  "download_filename": "chunked_anndata-1.0.4a3-py3-none-any.whl",
+  "download_time": "2025-08-26T03:44:26.825443",
+  "package_url": "https://pypi.org/project/chunked-anndata/"
+}

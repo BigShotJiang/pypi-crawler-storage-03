@@ -1,11 +1,11 @@
 {
   "name": "fyuneru",
-  "version": "0.4.28",
+  "version": "0.4.34",
   "summary": "A Python utility library with logging and path management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fyuneru-0.4.28.tar.gz",
-  "download_time": "2025-08-22T06:58:14.302226",
+  "download_filename": "fyuneru-0.4.34.tar.gz",
+  "download_time": "2025-08-26T03:44:12.749931",
   "package_url": "https://pypi.org/project/fyuneru/"
 }

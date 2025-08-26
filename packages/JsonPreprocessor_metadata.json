@@ -1,0 +1,11 @@
+{
+  "name": "JsonPreprocessor",
+  "version": "0.10.0",
+  "summary": "Preprocessor for json files",
+  "author": "Mai Dinh Nam Son",
+  "license": null,
+  "home_page": "https://github.com/test-fullautomation/python-jsonpreprocessor",
+  "download_filename": "JsonPreprocessor-0.10.0.tar.gz",
+  "download_time": "2025-08-26T03:44:09.951585",
+  "package_url": "https://pypi.org/project/JsonPreprocessor/"
+}

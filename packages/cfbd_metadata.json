@@ -1,11 +1,11 @@
 {
   "name": "cfbd",
-  "version": "5.9.7",
+  "version": "5.9.8",
   "summary": "College Football Data API",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/CFBD/cfbd-python",
-  "download_filename": "cfbd-5.9.7.tar.gz",
-  "download_time": "2025-08-24T22:43:41.270638",
+  "download_filename": "cfbd-5.9.8.tar.gz",
+  "download_time": "2025-08-26T03:44:30.136371",
   "package_url": "https://pypi.org/project/cfbd/"
 }

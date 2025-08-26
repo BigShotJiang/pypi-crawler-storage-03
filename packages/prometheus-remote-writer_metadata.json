@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-remote-writer",
+  "version": "0.1.2",
+  "summary": "A Python package to send data using Prometheus remote write protocol.",
+  "author": "xy.kong",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "prometheus_remote_writer-0.1.2.tar.gz",
+  "download_time": "2025-08-26T03:44:04.102890",
+  "package_url": "https://pypi.org/project/prometheus-remote-writer/"
+}
