@@ -1,0 +1,11 @@
+{
+  "name": "kuristo",
+  "version": "0.4.0",
+  "summary": "A simple automation framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kuristo-0.4.0.tar.gz",
+  "download_time": "2025-08-26T15:23:39.035145",
+  "package_url": "https://pypi.org/project/kuristo/"
+}

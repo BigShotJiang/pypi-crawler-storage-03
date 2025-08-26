@@ -1,11 +1,11 @@
 {
   "name": "supervisely",
-  "version": "6.73.425",
+  "version": "6.73.426",
   "summary": "Supervisely Python SDK.",
   "author": "Supervisely",
   "license": null,
   "home_page": "https://github.com/supervisely/supervisely",
-  "download_filename": "supervisely-6.73.425.tar.gz",
-  "download_time": "2025-08-25T14:22:57.943917",
+  "download_filename": "supervisely-6.73.426.tar.gz",
+  "download_time": "2025-08-26T15:23:29.418384",
   "package_url": "https://pypi.org/project/supervisely/"
 }

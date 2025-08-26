@@ -1,0 +1,11 @@
+{
+  "name": "meilisearch-fastapi",
+  "version": "0.21.1",
+  "summary": "Meilisearch integration with FastAPI",
+  "author": "Paul Sanders",
+  "license": "MIT",
+  "home_page": "https://github.com/sanders41/meilisearch-fastapi",
+  "download_filename": "meilisearch_fastapi-0.21.1.tar.gz",
+  "download_time": "2025-08-26T15:23:46.889262",
+  "package_url": "https://pypi.org/project/meilisearch-fastapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "solargis.documentation-mcp-server",
+  "version": "0.1.0",
+  "summary": "Model Context Protocol (MCP) server for Solargis documentation",
+  "author": "Solargis",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "solargis_documentation_mcp_server-0.1.0-py3-none-any.whl",
+  "download_time": "2025-08-26T15:23:57.951157",
+  "package_url": "https://pypi.org/project/solargis.documentation-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "islpy-barvinok",
-  "version": "2025.2.5",
-  "summary": "Wrapper around isl, an integer set library",
-  "author": null,
+  "version": "2025.2.5.post1",
+  "summary": "islpy built with Barvinok and vendored native libs (Linux/macOS). Falls back to source build if wheel unavailable.",
+  "author": "Cambridge Yang",
   "license": null,
-  "home_page": null,
-  "download_filename": "islpy-barvinok-2025.2.5.tar.gz",
-  "download_time": "2025-08-21T07:52:13.123129",
+  "home_page": "https://github.com/thisiscam/islpy-barvinok",
+  "download_filename": "islpy-barvinok-2025.2.5.post1.tar.gz",
+  "download_time": "2025-08-26T15:24:08.958825",
   "package_url": "https://pypi.org/project/islpy-barvinok/"
 }

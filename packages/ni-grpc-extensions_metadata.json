@@ -1,0 +1,11 @@
+{
+  "name": "ni-grpc-extensions",
+  "version": "0.1.0.dev0",
+  "summary": "gRPC Extensions",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": "https://github.com/ni/ni-apis-python",
+  "download_filename": "ni_grpc_extensions-0.1.0.dev0.tar.gz",
+  "download_time": "2025-08-26T15:24:01.130291",
+  "package_url": "https://pypi.org/project/ni-grpc-extensions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sdss-semaphore",
+  "version": "0.2.8",
+  "summary": "Fun with SDSS flags",
+  "author": "Andy Casey",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/sdss/semaphore",
+  "download_filename": "sdss_semaphore-0.2.8.tar.gz",
+  "download_time": "2025-08-26T15:23:42.200792",
+  "package_url": "https://pypi.org/project/sdss-semaphore/"
+}

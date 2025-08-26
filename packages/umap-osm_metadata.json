@@ -1,0 +1,11 @@
+{
+  "name": "umap-osm",
+  "version": "3.0.0",
+  "summary": "Draw beautiful maps from OpenStreetMap with a simple Python API and CLI.",
+  "author": "Umutcan Edizaslan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "umap_osm-3.0.0.tar.gz",
+  "download_time": "2025-08-26T15:23:48.457875",
+  "package_url": "https://pypi.org/project/umap-osm/"
+}
