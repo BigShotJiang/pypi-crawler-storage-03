@@ -1,0 +1,11 @@
+{
+  "name": "capepy",
+  "version": "2.2.0",
+  "summary": "A collection of utility functions useful for developing on and interacting with the CAPE infrastructure",
+  "author": "Micah Halter",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "capepy-2.2.0.tar.gz",
+  "download_time": "2025-08-26T13:25:02.537288",
+  "package_url": "https://pypi.org/project/capepy/"
+}

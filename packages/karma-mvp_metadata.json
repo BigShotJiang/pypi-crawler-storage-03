@@ -1,0 +1,11 @@
+{
+  "name": "karma-mvp",
+  "version": "0.1.1",
+  "summary": "Multi-domain AI assistant with three-layer memory architecture (Global-Workspace-Session) for personalized, context-aware conversations",
+  "author": "Karma AI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "karma_mvp-0.1.1.tar.gz",
+  "download_time": "2025-08-26T13:24:55.194714",
+  "package_url": "https://pypi.org/project/karma-mvp/"
+}

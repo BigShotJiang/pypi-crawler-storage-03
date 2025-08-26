@@ -1,11 +1,11 @@
 {
   "name": "pygluelock",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "pygluelock is a sync wrapper around glue lock API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygluelock-0.2.0.tar.gz",
-  "download_time": "2025-08-23T22:42:54.846545",
+  "download_filename": "pygluelock-0.3.0.tar.gz",
+  "download_time": "2025-08-26T13:24:52.601324",
   "package_url": "https://pypi.org/project/pygluelock/"
 }

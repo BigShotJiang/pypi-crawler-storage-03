@@ -1,0 +1,11 @@
+{
+  "name": "zpl",
+  "version": "0.1.12",
+  "summary": "Driver and generator for ZPL2 lables.",
+  "author": "Julian Hammer",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/cod3monk/zpl",
+  "download_filename": "zpl-0.1.12-py3-none-any.whl",
+  "download_time": "2025-08-26T13:25:05.642512",
+  "package_url": "https://pypi.org/project/zpl/"
+}

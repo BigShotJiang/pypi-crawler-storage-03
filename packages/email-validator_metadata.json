@@ -1,0 +1,11 @@
+{
+  "name": "email-validator",
+  "version": "2.3.0",
+  "summary": "A robust email address syntax and deliverability validation library.",
+  "author": "Joshua Tauberer",
+  "license": "Unlicense",
+  "home_page": "https://github.com/JoshData/python-email-validator",
+  "download_filename": "email_validator-2.3.0.tar.gz",
+  "download_time": "2025-08-26T13:25:14.370923",
+  "package_url": "https://pypi.org/project/email-validator/"
+}
