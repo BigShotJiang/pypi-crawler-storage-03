@@ -1,0 +1,11 @@
+{
+  "name": "pylacus",
+  "version": "1.17.0",
+  "summary": "Python CLI and module for lacus",
+  "author": "Raphaël Vinot",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pylacus-1.17.0.tar.gz",
+  "download_time": "2025-08-26T10:58:37.112862",
+  "package_url": "https://pypi.org/project/pylacus/"
+}

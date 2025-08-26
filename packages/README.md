@@ -1,14 +1,37 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T10:49:00.274920
-- **Total Packages**: 90
-- **Total Size**: 32.03 MB
+- **Download Time**: 2025-08-26T10:59:21.448197
+- **Total Packages**: 87
+- **Total Size**: 3.84 MB
 
 ## Packages List
+- faird
+- IOSimulator
+- pylacus
+- maven-proxy
+- pyotme
+- ippc-model
+- adaptsapi
+- bee-taxonomy
+- websocket-wrapper
+- pyconvertu
+- docling-mcp
+- vorak
+- unifyai
+- ewox
+- spx-python
+- dihlibs
+- pyxfs
+- ewoxdbgraph
+- powertrain-build
+- odoo-addon-maintenance-location
+- Sandroid
+- pretix-wallet
+- i6-models
+- konduktor-nightly
 - finbourne-access-sdk
 - internal
-- pyotme
 - fileshiftlib
 - AutoRAG
 - LightWin
@@ -70,29 +93,3 @@
 - chirpstack-api
 - pubmed-downloader
 - tinybird
-- canviewer
-- jorvik
-- md2fileo
-- fishjam-server-sdk
-- HowdenLLM
-- calculator-service
-- redisbench-admin
-- bank-scrapers
-- xarray-eopf
-- jaaql-middleware-python
-- coralearn
-- mdconv
-- fun-mathutils-walid
-- walledai
-- naeural-core
-- virtual-stories
-- pypcad
-- openevolve
-- fractal-faim-ipa
-- check-config
-- FERS
-- maxim-py
-- aiogoogle
-- pipeline-csv
-- nbitk
-- jettask

@@ -1,11 +1,11 @@
 {
   "name": "dihlibs",
-  "version": "0.0.80",
+  "version": "0.0.81",
   "summary": "A helper package for data integrations",
   "author": "Nitu",
   "license": null,
   "home_page": "https://github.com/nKataraia/dihlibs",
-  "download_filename": "dihlibs-0.0.80.tar.gz",
-  "download_time": "2025-08-26T09:24:43.765746",
+  "download_filename": "dihlibs-0.0.81.tar.gz",
+  "download_time": "2025-08-26T10:58:43.891991",
   "package_url": "https://pypi.org/project/dihlibs/"
 }

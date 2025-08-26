@@ -1,0 +1,11 @@
+{
+  "name": "adaptsapi",
+  "version": "0.1.9",
+  "summary": "CLI to enqueue triggers via internal API Gateway → SNS",
+  "author": "adapts",
+  "license": null,
+  "home_page": "https://github.com/adaptsai/adaptsapi",
+  "download_filename": "adaptsapi-0.1.9-py3-none-any.whl",
+  "download_time": "2025-08-26T10:58:39.186308",
+  "package_url": "https://pypi.org/project/adaptsapi/"
+}
