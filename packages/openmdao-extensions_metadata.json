@@ -1,0 +1,11 @@
+{
+  "name": "openmdao-extensions",
+  "version": "1.3.3",
+  "summary": "Additional solvers and drivers for OpenMDAO framework",
+  "author": "Rémi Lafage",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/OneraHub/openmdao_extensions",
+  "download_filename": "openmdao_extensions-1.3.3.tar.gz",
+  "download_time": "2025-08-26T08:30:08.806482",
+  "package_url": "https://pypi.org/project/openmdao-extensions/"
+}

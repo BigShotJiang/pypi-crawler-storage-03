@@ -1,0 +1,11 @@
+{
+  "name": "octopize.avatar",
+  "version": "1.0.9",
+  "summary": "Python client for Octopize's avatar API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "octopize_avatar-1.0.9.tar.gz",
+  "download_time": "2025-08-26T08:30:20.429445",
+  "package_url": "https://pypi.org/project/octopize.avatar/"
+}

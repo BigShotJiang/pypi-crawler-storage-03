@@ -1,0 +1,11 @@
+{
+  "name": "superduper-redis",
+  "version": "0.10.0",
+  "summary": "superduper allows users to work with arbitrary sklearn estimators, with additional support for pre-, post-processing and input/ output data-types.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "superduper_redis-0.10.0.tar.gz",
+  "download_time": "2025-08-26T08:30:04.986178",
+  "package_url": "https://pypi.org/project/superduper-redis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ibmmq",
+  "version": "0.0.0",
+  "summary": "IBM MQ",
+  "author": "IBM MQ Development",
+  "license": "Python-2.0",
+  "home_page": "https://ibm.com/software/products/en/ibm-mq",
+  "download_filename": "ibmmq-0.0.0.tar.gz",
+  "download_time": "2025-08-26T08:30:51.318877",
+  "package_url": "https://pypi.org/project/ibmmq/"
+}

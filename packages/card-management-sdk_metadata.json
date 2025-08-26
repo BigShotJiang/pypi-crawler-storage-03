@@ -1,0 +1,11 @@
+{
+  "name": "card-management-sdk",
+  "version": "2.0.0",
+  "summary": "The Shell Card Management API is REST-based and employs OAUTH 2.0,Basic and ApiKey authentication. The API endpoints accept JSON-encoded request bodies, return JSON-encoded responses and use standard HTTP response codes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "card_management_sdk-2.0.0.tar.gz",
+  "download_time": "2025-08-26T08:30:46.591918",
+  "package_url": "https://pypi.org/project/card-management-sdk/"
+}

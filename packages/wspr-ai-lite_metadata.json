@@ -1,11 +1,11 @@
 {
   "name": "wspr-ai-lite",
-  "version": "0.3.8",
+  "version": "0.4.0",
   "summary": "Lightweight WSPR analytics: DuckDB ingest + Streamlit dashboard.",
   "author": "Greg Beam (KI7MT)",
   "license": null,
   "home_page": null,
-  "download_filename": "wspr_ai_lite-0.3.8.tar.gz",
-  "download_time": "2025-08-26T06:32:49.136047",
+  "download_filename": "wspr_ai_lite-0.4.0.tar.gz",
+  "download_time": "2025-08-26T08:30:12.582114",
   "package_url": "https://pypi.org/project/wspr-ai-lite/"
 }

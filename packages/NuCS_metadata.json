@@ -1,0 +1,11 @@
+{
+  "name": "NuCS",
+  "version": "9.0.0",
+  "summary": "A Numpy and Numba based Python library for solving Constraint Satisfaction Problems over finite domains",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nucs-9.0.0.tar.gz",
+  "download_time": "2025-08-26T08:30:32.077852",
+  "package_url": "https://pypi.org/project/NuCS/"
+}

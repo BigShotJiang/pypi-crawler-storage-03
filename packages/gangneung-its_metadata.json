@@ -1,11 +1,11 @@
 {
   "name": "gangneung-its",
-  "version": "0.1.0",
-  "summary": "강릉 ITS를 쉽게 사용하기 위한 모듈입니다.",
+  "version": "1.0.0",
+  "summary": "강릉 ITS API를 파이썬에서 쉽게 사용할 수 있게 해 주는 라이브러리입니다.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gangneung_its-0.1.0.tar.gz",
-  "download_time": "2025-08-19T13:19:02.199448",
+  "download_filename": "gangneung_its-1.0.0.tar.gz",
+  "download_time": "2025-08-26T08:30:45.490444",
   "package_url": "https://pypi.org/project/gangneung-its/"
 }
