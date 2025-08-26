@@ -1,0 +1,11 @@
+{
+  "name": "visionedgefusion",
+  "version": "1.0.0",
+  "summary": "A lightweight and educational Python toolkit for fundamental feature extraction using Difference of Gaussians (DoG) and Histogram of Oriented Gradients (HoG).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "visionedgefusion-1.0.0.tar.gz",
+  "download_time": "2025-08-26T07:22:02.054855",
+  "package_url": "https://pypi.org/project/visionedgefusion/"
+}

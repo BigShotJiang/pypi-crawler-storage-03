@@ -1,11 +1,11 @@
 {
   "name": "PyCFF",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "summary": "A function fitting tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycff-1.1.6-py3-none-manylinux2014_x86_64.whl",
-  "download_time": "2025-08-26T05:45:39.493047",
+  "download_filename": "pycff-1.1.8-py3-none-macosx_10_14_x86_64.whl",
+  "download_time": "2025-08-26T07:21:47.220404",
   "package_url": "https://pypi.org/project/PyCFF/"
 }

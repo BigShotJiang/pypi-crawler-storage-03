@@ -1,11 +1,11 @@
 {
   "name": "pancham",
-  "version": "0.27.1",
+  "version": "0.27.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pancham-0.27.1.tar.gz",
-  "download_time": "2025-08-25T10:24:48.554682",
+  "download_filename": "pancham-0.27.3.tar.gz",
+  "download_time": "2025-08-26T07:21:39.793408",
   "package_url": "https://pypi.org/project/pancham/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tcai-sandesh",
+  "version": "1.0.0",
+  "summary": "AI-powered audio sentiment analyzer with a Flask-based web interface.",
+  "author": "The Celeritas AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcai_sandesh-1.0.0.tar.gz",
+  "download_time": "2025-08-26T07:22:00.948363",
+  "package_url": "https://pypi.org/project/tcai-sandesh/"
+}
