@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-problem",
+  "version": "0.11.5",
+  "summary": "FastAPI support for RFC9457 problems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_problem-0.11.5.tar.gz",
+  "download_time": "2025-08-26T08:53:57.486654",
+  "package_url": "https://pypi.org/project/fastapi-problem/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mpt-extension-sdk",
-  "version": "5.6.1",
+  "version": "5.7.0",
   "summary": "Extensions SDK for SoftwareONE Marketplace Platform",
   "author": "SoftwareOne AG",
   "license": "Apache-2.0 license",
   "home_page": null,
-  "download_filename": "mpt_extension_sdk-5.6.1.tar.gz",
-  "download_time": "2025-08-22T09:22:14.278343",
+  "download_filename": "mpt_extension_sdk-5.7.0.tar.gz",
+  "download_time": "2025-08-26T08:53:25.958953",
   "package_url": "https://pypi.org/project/mpt-extension-sdk/"
 }

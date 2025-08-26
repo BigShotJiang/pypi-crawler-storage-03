@@ -1,11 +1,11 @@
 {
   "name": "claude-helpers",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Cross-platform voice and HIL tools for Claude Code",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_helpers-0.2.1.tar.gz",
-  "download_time": "2025-08-25T21:54:53.577748",
+  "download_filename": "claude_helpers-0.2.2.tar.gz",
+  "download_time": "2025-08-26T08:53:43.524177",
   "package_url": "https://pypi.org/project/claude-helpers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edc-python",
+  "version": "0.3.0",
+  "summary": "Helps handling EDC Tractus X API with python.",
+  "author": "Fluid 4.0",
+  "license": null,
+  "home_page": "https://github.com/fluid40/edc_python",
+  "download_filename": "edc_python-0.3.0.tar.gz",
+  "download_time": "2025-08-26T08:53:56.976028",
+  "package_url": "https://pypi.org/project/edc-python/"
+}

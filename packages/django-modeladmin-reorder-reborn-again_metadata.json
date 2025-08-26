@@ -1,0 +1,11 @@
+{
+  "name": "django-modeladmin-reorder-reborn-again",
+  "version": "0.1.1",
+  "summary": "Custom ordering for the apps and models in the admin app.",
+  "author": "amphr",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/amphr/django-modeladmin-reorder-reborn-again",
+  "download_filename": "django_modeladmin_reorder_reborn_again-0.1.1.tar.gz",
+  "download_time": "2025-08-26T08:53:50.240393",
+  "package_url": "https://pypi.org/project/django-modeladmin-reorder-reborn-again/"
+}
