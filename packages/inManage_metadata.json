@@ -1,0 +1,11 @@
+{
+  "name": "inManage",
+  "version": "1.3.3",
+  "summary": "ieisystem server manager api",
+  "author": "Wangbaoshan",
+  "license": "Expat License",
+  "home_page": "https://github.com/ieisystem/inManage",
+  "download_filename": "inManage-1.3.3.tar.gz",
+  "download_time": "2025-08-26T02:58:44.667224",
+  "package_url": "https://pypi.org/project/inManage/"
+}

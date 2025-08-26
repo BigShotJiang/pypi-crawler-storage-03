@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-http-sd",
+  "version": "2.0.6",
+  "summary": "Prometheus HTTP SD framework.",
+  "author": "laixintao",
+  "license": null,
+  "home_page": "https://python-poetry.org://github.com/laixintao/prometheus-http-sd",
+  "download_filename": "prometheus_http_sd-2.0.6.tar.gz",
+  "download_time": "2025-08-26T02:58:36.252676",
+  "package_url": "https://pypi.org/project/prometheus-http-sd/"
+}

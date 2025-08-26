@@ -1,11 +1,11 @@
 {
   "name": "etana-trade-mcp",
-  "version": "0.1.39",
+  "version": "0.1.46",
   "summary": "MCP server that talks to the Etana Trade system to provide tool functions like, get user information and get account information from userId",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "etana_trade_mcp-0.1.39.tar.gz",
-  "download_time": "2025-08-25T23:20:40.510067",
+  "download_filename": "etana_trade_mcp-0.1.46.tar.gz",
+  "download_time": "2025-08-26T02:58:31.948535",
   "package_url": "https://pypi.org/project/etana-trade-mcp/"
 }

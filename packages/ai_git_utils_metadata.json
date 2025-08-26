@@ -1,0 +1,11 @@
+{
+  "name": "ai_git_utils",
+  "version": "0.4.2",
+  "summary": "AI git utils is an intelligent Git commit assistant that leverages AI to enhance your Git workflow.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_git_utils-0.4.2.tar.gz",
+  "download_time": "2025-08-26T02:58:42.595853",
+  "package_url": "https://pypi.org/project/ai_git_utils/"
+}

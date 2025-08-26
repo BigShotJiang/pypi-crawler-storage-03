@@ -1,0 +1,11 @@
+{
+  "name": "pypdftotext",
+  "version": "0.1.0",
+  "summary": "Extract text from pdf pages from codebehind or Azure OCR as required",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypdftotext-0.1.0.tar.gz",
+  "download_time": "2025-08-26T02:58:47.434392",
+  "package_url": "https://pypi.org/project/pypdftotext/"
+}

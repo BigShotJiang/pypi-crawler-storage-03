@@ -1,0 +1,11 @@
+{
+  "name": "docx2md",
+  "version": "1.0.4",
+  "summary": "convert .docx to .md",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docx2md-1.0.4.tar.gz",
+  "download_time": "2025-08-26T02:59:01.566841",
+  "package_url": "https://pypi.org/project/docx2md/"
+}
