@@ -1,0 +1,11 @@
+{
+  "name": "metrolopy",
+  "version": "1.0.0",
+  "summary": "tools for dealing with measured quantities: uncertainty propagation and unit conversion",
+  "author": "Harold Parks, National Research Council Canada",
+  "license": null,
+  "home_page": "http://nrc-cnrc.github.io/MetroloPy/",
+  "download_filename": "metrolopy-1.0.0.tar.gz",
+  "download_time": "2025-08-26T14:56:38.697463",
+  "package_url": "https://pypi.org/project/metrolopy/"
+}

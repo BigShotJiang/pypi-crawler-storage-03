@@ -1,11 +1,11 @@
 {
   "name": "Trajectree",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Trajectree is a quantum trajectory theory and tensor network based quantum optics simulator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trajectree-0.0.1.tar.gz",
-  "download_time": "2025-08-26T07:21:49.480638",
+  "download_filename": "trajectree-0.0.2.tar.gz",
+  "download_time": "2025-08-26T14:56:26.529918",
   "package_url": "https://pypi.org/project/Trajectree/"
 }

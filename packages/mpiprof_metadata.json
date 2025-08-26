@@ -1,11 +1,11 @@
 {
   "name": "mpiprof",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "summary": "Profiler for MPI python programs",
   "author": "Your Name",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mpiprof-0.1.2.tar.gz",
-  "download_time": "2025-08-26T13:24:51.578676",
+  "download_filename": "mpiprof-0.2.1.tar.gz",
+  "download_time": "2025-08-26T14:56:37.117104",
   "package_url": "https://pypi.org/project/mpiprof/"
 }

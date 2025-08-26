@@ -1,19 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T14:46:42.487928
-- **Total Packages**: 91
-- **Total Size**: 34.28 MB
+- **Download Time**: 2025-08-26T14:57:10.541763
+- **Total Packages**: 88
+- **Total Size**: 10.04 MB
 
 ## Packages List
+- stigg-sidecar-sdk
+- currency-quote
+- csv-detective
+- accqsure
+- context-log-python
+- Trajectree
+- bfabric-app-runner
+- any-llm-sdk
+- cert-issuer
+- lineagetree
+- igorwriter
+- wandelbots-api-client
+- aipmodel
+- fsai-proto-specs
+- omniopt2
+- mydiabby-client
+- UncountablePythonSDK
+- instavm
+- umcu-ai-utils
+- dbcrust
+- etana-trade-mcp
+- checkcrontab
+- mlx-knife
+- relaxai
+- argorator
+- mpiprof
+- bfabric
+- alita-sdk
+- metrolopy
+- nonconform
+- primalbedtools
+- odoo-addon-odoo-instance
+- kabigon
+- eikonax
+- aiohasupervisor
+- debabelizer
 - HS-TasNet
+- libfrankapy
+- crazyflow
+- iplotx
+- custom_package_25731542
 - amigo_sdk
 - dadosic-zenlenium
 - rtc-tools
 - streamlit-cookies-manager-v2
 - whologin
 - gliner
-- nonconform
 - bornrule
 - airbyte-source-file
 - airbyte-source-azure-blob-storage
@@ -23,7 +62,6 @@
 - airflow-balancer
 - tree-sitter-analyzer
 - automlplforidps
-- omniopt2
 - ida-hcli
 - sortinghat-eclipse-foundation
 - aiagents4pharma-ansh
@@ -37,7 +75,6 @@
 - whisper-slurm-gui
 - aidial-interceptors-sdk
 - damo
-- lineagetree
 - streamlit-rockyroad-tools
 - django-memoized-prefetch
 - emhass
@@ -57,43 +94,3 @@
 - pycarlo
 - hcai-discover
 - gse-gsatmicro-mgr
-- sage-agent-internal
-- dagtool
-- spark-rapids-user-tools
-- dana
-- archer-cli
-- semlib
-- hxntools
-- haiway
-- miniopy-async
-- impit
-- construct-classes
-- snpit-utils
-- nami-surf
-- pigeon-client
-- platformdirs
-- islpy-barvinok
-- structifyai
-- spaceforge
-- crc-pulp-service-client
-- crc-pulp-file-client
-- sinapsis-retina-face-trt
-- crc-pulp-maven-client
-- crc-pulp-rpm-client
-- crc-pulp-gem-client
-- crc-pulp-npm-client
-- crc-pulp-python-client
-- crc-pulpcore-client
-- vaultxfer
-- hubmap-entity-sdk
-- eikonax
-- prism-pull
-- autofree
-- hubmap-search-sdk
-- flowdapt
-- smrtnet-latest
-- nomenklatura
-- primalbedtools
-- liger-kernel-nightly
-- dreamai
-- catalystwan
