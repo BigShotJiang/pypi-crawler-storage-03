@@ -1,11 +1,11 @@
 {
   "name": "pyleetpatterns",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Master 14 essential algorithmic patterns with drop-in Python implementations for LeetCode and coding interviews",
-  "author": "q0d",
+  "author": null,
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/pyleetpatterns",
-  "download_filename": "pyleetpatterns-0.1.0.tar.gz",
-  "download_time": "2025-08-26T04:03:02.823806",
+  "home_page": null,
+  "download_filename": "pyleetpatterns-0.1.4.tar.gz",
+  "download_time": "2025-08-26T05:24:25.906044",
   "package_url": "https://pypi.org/project/pyleetpatterns/"
 }

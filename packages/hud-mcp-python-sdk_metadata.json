@@ -1,11 +1,11 @@
 {
   "name": "hud-mcp-python-sdk",
-  "version": "2.13.10",
-  "summary": "Model Context Protocol SDK",
+  "version": "2.14.3",
+  "summary": "HUD FORK OF Model Context Protocol SDK",
   "author": "Anthropic, PBC.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hud_mcp_python_sdk-2.13.10.tar.gz",
-  "download_time": "2025-08-26T04:35:46.049518",
+  "download_filename": "hud_mcp_python_sdk-2.14.3.tar.gz",
+  "download_time": "2025-08-26T05:24:24.737474",
   "package_url": "https://pypi.org/project/hud-mcp-python-sdk/"
 }

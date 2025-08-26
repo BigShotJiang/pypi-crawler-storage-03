@@ -1,11 +1,11 @@
 {
   "name": "doopal",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Python SDK for Doopal AI Governance Platform",
   "author": "Doopal Team",
   "license": null,
   "home_page": "https://github.com/doopal-ai/doopal-governance",
-  "download_filename": "doopal-1.1.1.tar.gz",
-  "download_time": "2025-08-26T04:57:05.587944",
+  "download_filename": "doopal-1.1.2.tar.gz",
+  "download_time": "2025-08-26T05:24:29.617363",
   "package_url": "https://pypi.org/project/doopal/"
 }

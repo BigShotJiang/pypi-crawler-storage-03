@@ -1,11 +1,11 @@
 {
   "name": "miru-agent-sdk",
-  "version": "0.0.1",
-  "summary": "The official Python library for the miru-agent API",
+  "version": "0.0.2",
+  "summary": "The official Python library for the miru API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "miru_agent_sdk-0.0.1.tar.gz",
-  "download_time": "2025-08-26T04:03:02.303634",
+  "download_filename": "miru_agent_sdk-0.0.2.tar.gz",
+  "download_time": "2025-08-26T05:24:43.171198",
   "package_url": "https://pypi.org/project/miru-agent-sdk/"
 }

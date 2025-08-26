@@ -1,11 +1,11 @@
 {
   "name": "SearchLibrium",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "summary": "A wrapper for Searchlogit with extended functionality for ABM models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "searchlibrium-0.0.41-py3-none-any.whl",
-  "download_time": "2025-08-26T03:44:24.657981",
+  "download_filename": "searchlibrium-0.0.42-py3-none-any.whl",
+  "download_time": "2025-08-26T05:24:24.150136",
   "package_url": "https://pypi.org/project/SearchLibrium/"
 }
