@@ -1,11 +1,11 @@
 {
   "name": "xcleaner",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Delete all posts from your X (formerly Twitter) account.",
   "author": "Scott H. Collins",
   "license": null,
   "home_page": "https://www.linkedin.com/in/scotthcollins/",
-  "download_filename": "xcleaner-0.1.5.tar.gz",
-  "download_time": "2025-08-26T21:41:49.026489",
+  "download_filename": "xcleaner-0.1.6.tar.gz",
+  "download_time": "2025-08-26T21:54:09.259512",
   "package_url": "https://pypi.org/project/xcleaner/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rag-firewall",
+  "version": "0.1.0",
+  "summary": "Retrieval-time trust layer for RAG: poisoning detection, policies, provenance, and audit.",
+  "author": "RAG Firewall Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rag_firewall-0.1.0.tar.gz",
+  "download_time": "2025-08-26T21:54:17.346347",
+  "package_url": "https://pypi.org/project/rag-firewall/"
+}

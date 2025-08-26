@@ -1,0 +1,11 @@
+{
+  "name": "paramdb",
+  "version": "0.15.3",
+  "summary": "Python package for storing and retrieving experiment parameters.",
+  "author": "Alex Hadley",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "paramdb-0.15.3.tar.gz",
+  "download_time": "2025-08-26T21:54:11.524766",
+  "package_url": "https://pypi.org/project/paramdb/"
+}

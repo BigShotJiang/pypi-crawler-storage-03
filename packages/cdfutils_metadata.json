@@ -1,0 +1,11 @@
+{
+  "name": "cdfutils",
+  "version": "1.1.2",
+  "summary": "A general utility library of miscellaneous functions and classes",
+  "author": "Craig Farrow",
+  "license": "\"GPL-2.0-or-later\"",
+  "home_page": "https://github.com/cdfarrow/cdfutils/wiki",
+  "download_filename": "cdfutils-1.1.2-py3-none-any.whl",
+  "download_time": "2025-08-26T21:53:57.749003",
+  "package_url": "https://pypi.org/project/cdfutils/"
+}
