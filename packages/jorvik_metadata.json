@@ -1,11 +1,11 @@
 {
   "name": "jorvik",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "A set of utilities for creating and managing ETL Pipelines with pyspark.",
   "author": "https://github.com/jorvik-io",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/jorvik-io/jorvik",
-  "download_filename": "jorvik-1.2.3-py3-none-any.whl",
-  "download_time": "2025-08-25T18:55:00.766075",
+  "download_filename": "jorvik-1.2.4-py3-none-any.whl",
+  "download_time": "2025-08-26T10:48:44.735624",
   "package_url": "https://pypi.org/project/jorvik/"
 }

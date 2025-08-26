@@ -1,0 +1,11 @@
+{
+  "name": "aiogoogle",
+  "version": "5.17.0",
+  "summary": "Async Google API client",
+  "author": "Omar Ryhan",
+  "license": "MIT",
+  "home_page": "https://github.com/omarryhan/aiogoogle",
+  "download_filename": "aiogoogle-5.17.0.tar.gz",
+  "download_time": "2025-08-26T10:48:57.705893",
+  "package_url": "https://pypi.org/project/aiogoogle/"
+}

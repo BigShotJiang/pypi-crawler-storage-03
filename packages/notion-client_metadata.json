@@ -1,0 +1,11 @@
+{
+  "name": "notion-client",
+  "version": "2.5.0",
+  "summary": "Python client for the official Notion API",
+  "author": "Guillaume Gelin",
+  "license": null,
+  "home_page": "https://github.com/ramnes/notion-sdk-py",
+  "download_filename": "notion_client-2.5.0.tar.gz",
+  "download_time": "2025-08-26T10:48:22.614865",
+  "package_url": "https://pypi.org/project/notion-client/"
+}

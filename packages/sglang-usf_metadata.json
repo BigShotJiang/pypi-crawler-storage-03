@@ -1,0 +1,11 @@
+{
+  "name": "sglang-usf",
+  "version": "0.5.1.post2",
+  "summary": "SGLang is yet another fast serving framework for large language models and vision language models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sglang_usf-0.5.1.post2-py3-none-any.whl",
+  "download_time": "2025-08-26T10:48:14.045032",
+  "package_url": "https://pypi.org/project/sglang-usf/"
+}

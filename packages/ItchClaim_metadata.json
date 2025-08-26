@@ -1,0 +1,11 @@
+{
+  "name": "ItchClaim",
+  "version": "1.6.2",
+  "summary": "Automatically claim free games from itch.io",
+  "author": "Smart123s",
+  "license": null,
+  "home_page": null,
+  "download_filename": "itchclaim-1.6.2.tar.gz",
+  "download_time": "2025-08-26T10:48:37.211997",
+  "package_url": "https://pypi.org/project/ItchClaim/"
+}

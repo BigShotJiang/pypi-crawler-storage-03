@@ -1,0 +1,11 @@
+{
+  "name": "signxai2",
+  "version": "0.13.8",
+  "summary": "A comprehensive explainable AI library supporting both TensorFlow and PyTorch with unified API and advanced XAI methods including SIGN, LRP, and Grad-CAM. Authored by Nils Gumpfer, Jana Fischer and Alexander Paul.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signxai2-0.13.8.tar.gz",
+  "download_time": "2025-08-26T10:48:30.597580",
+  "package_url": "https://pypi.org/project/signxai2/"
+}

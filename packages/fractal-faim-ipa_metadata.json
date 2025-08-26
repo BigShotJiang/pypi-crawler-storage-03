@@ -1,11 +1,11 @@
 {
   "name": "fractal-faim-ipa",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Provides Fractal tasks for the MD to OME-Zarr conversion of faim-ipa",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "fractal_faim_ipa-0.6.1-py3-none-any.whl",
-  "download_time": "2025-08-18T14:20:57.446813",
+  "download_filename": "fractal_faim_ipa-0.6.2-py3-none-any.whl",
+  "download_time": "2025-08-26T10:48:55.460998",
   "package_url": "https://pypi.org/project/fractal-faim-ipa/"
 }
