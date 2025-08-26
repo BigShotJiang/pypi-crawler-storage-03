@@ -1,27 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T17:44:35.541914
-- **Total Packages**: 92
-- **Total Size**: 25.04 MB
+- **Download Time**: 2025-08-26T17:54:36.544257
+- **Total Packages**: 91
+- **Total Size**: 27.32 MB
 
 ## Packages List
+- tobiko-cloud-api-client
+- easy-vitessce
+- tobiko-cloud-helpers
+- memium
+- django-sync-package
+- gguf-connector
+- toastapi
+- simplyprint-bambu-lab
+- checkcrontab
+- diplomat-track
+- fun-functions-lib
+- gtirb-pprinter
+- loggerric
+- kaqing
+- npcpy
+- delta-trace-db
+- mars-patcher
+- InsideForest
+- vaiz-sdk
+- jeig
+- v2xflexstack
+- kognitos-bdk-api
+- truss
+- moy-nalog-py
+- sheshe
+- amsdal-glue
+- griptape-nodes
+- helix-py
+- gpt-oss-20b-redteam
+- wisent-guard
+- palimpzest
+- orjson
+- kapso
+- kode-kronical
+- airflow-common
 - alita-sdk
 - qalita
 - broadie
-- fun-functions-lib
+- arxivory
 - contrast-agent
 - gradboard
 - edupage-api
 - python-codicefiscale
-- wisent-guard
 - wayfound
 - openaivec
 - mig-dx-api
 - mistralai
 - adieu-discordbot-cogs
 - creds-vault
-- loggerric
 - hra-api-client
 - autisticstuff
 - prism-pull
@@ -64,37 +97,3 @@
 - kelvin-python-api-client
 - img-proof
 - svc-infra
-- django-spire
-- meltanolabs-tap-postgres
-- fairchem-core
-- pythontyperlol
-- 3lc
-- lmc-external-log-backend
-- nuvom
-- pasjonsfrukt
-- mcp-postgresql-ops
-- tksheet
-- aiware
-- hspf
-- bluesky
-- numerax
-- gpt-oss-20b-redteam
-- django-plugin-tasks
-- fastauth-api
-- abstract-gui
-- tobiko-cloud-helpers
-- mpcaHydro
-- mx-platform-python
-- tobiko-cloud-api-client
-- ut-dic
-- tobiko-cloud-pydantic
-- datahold
-- meltanolabs-target-snowflake
-- fyodorov-utils
-- finbourne-access-sdk
-- yeref
-- fyodorov-llm-agents
-- synqly
-- rapids-dependency-file-generator
-- tagmania
-- agi-med-ai-chat-manager

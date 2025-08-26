@@ -1,0 +1,11 @@
+{
+  "name": "InsideForest",
+  "version": "0.3.3",
+  "summary": "A comprehensive library for describing and analyzing data insights via AI",
+  "author": "Jose Carlos Del Valle",
+  "license": "MIT",
+  "home_page": "https://github.com/jcval94/InsideForest.git",
+  "download_filename": "insideforest-0.3.3-py3-none-any.whl",
+  "download_time": "2025-08-26T17:53:56.269341",
+  "package_url": "https://pypi.org/project/InsideForest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "palimpzest",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "Palimpzest is a system which enables anyone to process AI-powered analytical queries simply by defining them in a declarative language",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "palimpzest-0.8.0.tar.gz",
-  "download_time": "2025-08-25T15:23:17.678802",
+  "download_filename": "palimpzest-0.8.1.tar.gz",
+  "download_time": "2025-08-26T17:54:04.611738",
   "package_url": "https://pypi.org/project/palimpzest/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "kognitos-bdk-api",
-  "version": "1.23.0",
+  "version": "1.23.1",
   "summary": "Kognitos Book Development Kit",
   "author": "Emiliano Lesende",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "kognitos_bdk_api-1.23.0.tar.gz",
-  "download_time": "2025-08-25T12:43:37.071650",
+  "download_filename": "kognitos_bdk_api-1.23.1.tar.gz",
+  "download_time": "2025-08-26T17:53:58.849740",
   "package_url": "https://pypi.org/project/kognitos-bdk-api/"
 }
