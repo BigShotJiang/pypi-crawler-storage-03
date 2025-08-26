@@ -1,11 +1,11 @@
 {
   "name": "prism-pull",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "Python package to pull PRISM weather data via web automation.",
   "author": "John Baird",
   "license": null,
   "home_page": null,
-  "download_filename": "prism_pull-0.1.8.tar.gz",
-  "download_time": "2025-08-26T17:43:56.656150",
+  "download_filename": "prism_pull-0.2.0.tar.gz",
+  "download_time": "2025-08-26T19:18:12.797575",
   "package_url": "https://pypi.org/project/prism-pull/"
 }

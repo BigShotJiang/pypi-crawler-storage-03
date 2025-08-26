@@ -1,11 +1,11 @@
 {
   "name": "deid",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "summary": "best effort deidentify dicom with python and pydicom",
   "author": "Vanessa Sochat",
   "license": "LICENSE",
   "home_page": "https://github.com/pydicom/deid",
-  "download_filename": "deid-0.4.5.tar.gz",
-  "download_time": "2025-08-18T16:54:10.091081",
+  "download_filename": "deid-0.4.6.tar.gz",
+  "download_time": "2025-08-26T19:18:02.538042",
   "package_url": "https://pypi.org/project/deid/"
 }

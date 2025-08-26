@@ -1,0 +1,11 @@
+{
+  "name": "aioeasysqlite",
+  "version": "0.0.5",
+  "summary": "Library for easy work with databases. Easier aiosqlite version.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aioeasysqlite-0.0.5.tar.gz",
+  "download_time": "2025-08-26T19:18:31.661080",
+  "package_url": "https://pypi.org/project/aioeasysqlite/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tako-sdk",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "A Python SDK for interacting with the Tako API",
   "author": "Tako",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tako_sdk-0.1.32.tar.gz",
-  "download_time": "2025-08-20T22:18:39.683873",
+  "download_filename": "tako_sdk-0.1.33.tar.gz",
+  "download_time": "2025-08-26T19:18:23.755942",
   "package_url": "https://pypi.org/project/tako-sdk/"
 }
