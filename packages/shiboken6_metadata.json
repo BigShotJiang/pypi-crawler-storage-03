@@ -1,0 +1,11 @@
+{
+  "name": "shiboken6",
+  "version": "6.9.2",
+  "summary": "Python/C++ bindings helper module",
+  "author": null,
+  "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "shiboken6-6.9.2-cp39-abi3-macosx_12_0_universal2.whl",
+  "download_time": "2025-08-26T07:54:43.274272",
+  "package_url": "https://pypi.org/project/shiboken6/"
+}

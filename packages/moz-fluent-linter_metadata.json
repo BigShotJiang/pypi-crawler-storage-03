@@ -1,0 +1,11 @@
+{
+  "name": "moz-fluent-linter",
+  "version": "0.4.9",
+  "summary": "Linter package used to check Fluent files",
+  "author": "Francesco Lodolo",
+  "license": null,
+  "home_page": "https://github.com/mozilla-l10n/moz-fluent-linter",
+  "download_filename": "moz_fluent_linter-0.4.9.tar.gz",
+  "download_time": "2025-08-26T07:54:56.386758",
+  "package_url": "https://pypi.org/project/moz-fluent-linter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdhs",
+  "version": "0.1.6",
+  "summary": "A Python package for accessing and analyzing Demographic and Health Survey (DHS) data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdhs-0.1.6.tar.gz",
+  "download_time": "2025-08-26T07:54:58.106418",
+  "package_url": "https://pypi.org/project/pdhs/"
+}

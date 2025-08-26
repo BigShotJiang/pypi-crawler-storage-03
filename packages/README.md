@@ -1,14 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T07:43:43.511795
-- **Total Packages**: 87
-- **Total Size**: 23.18 MB
+- **Download Time**: 2025-08-26T07:55:34.905499
+- **Total Packages**: 83
+- **Total Size**: 2.6 MB
 
 ## Packages List
+- tigergraph-mcp
+- shiboken6
+- valuator
+- mapminer
+- cloud-pak-operations-cli
+- aigroup-video-mcp
+- amylodeep
+- PyCFF
+- legit-api-client
+- reddit-mcp-tool
+- bosa-connectors-binary
+- easy-tos
+- z-zytome
+- voximplant-apiclient
+- pygments-supercollider-lexer
+- charm-refresh-build-version
+- Hawc2Models
+- datagouv-client
+- p115oss
+- bilichat-request
+- gcp-pilot
+- moz-fluent-linter
+- jndataset-up
+- CLHKidAI
+- pdhs
+- cardvalidator-rupay
+- wujing
+- lhammai-cli
+- neuralmag
+- emta
+- universal-message
+- ocflib
+- pulumi-gcp
+- acex
+- aipyapp
 - b10-kernel
 - huibiao-framework
-- PyCFF
 - shraga-common
 - hagworm
 - openepi-client
@@ -32,7 +66,6 @@
 - mcap-owa-support
 - omniopt2
 - owa
-- pyPrecipTHR
 - conflict-collection
 - nhs_aws_helpers
 - canonical-transformer
@@ -49,47 +82,10 @@
 - cozeloop
 - TkinterLite
 - memviz
-- reddit-mcp-tool
 - fastdevcli-slim
 - fast-dev-cli
 - trendvisdata
 - tigergraphx
 - problog
-- amylodeep
 - gitlab-api
 - kstchatutils
-- moku
-- servicenow-api
-- ollm
-- unique_sdk
-- repository-manager
-- media-downloader
-- odoo-mcp-xyt
-- ix-notifiers
-- appwrite
-- livekit-plugins-tenvad
-- shopline-sdk
-- wittiot
-- pancham
-- jj-multi-db-mcp
-- python-iterutils
-- rlquantdata
-- odoo-addon-maintenance-request-purchase
-- bliss
-- vtk-openCARP-methods-ibt
-- egos-helpers
-- picca
-- odoo-addon-base-maintenance-group
-- bquant
-- wujing
-- crossplane-function-pythonic
-- bw-essentials-core
-- pulumi-oci
-- object-mother-pattern
-- Trajectree
-- Hawc2Models
-- tf-models-nightly
-- z-zytome
-- streamlit-nightly
-- intellif-arcternweb
-- silero-vad

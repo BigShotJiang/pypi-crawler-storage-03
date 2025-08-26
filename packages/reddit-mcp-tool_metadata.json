@@ -1,11 +1,11 @@
 {
   "name": "reddit-mcp-tool",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Reddit MCP server for reading and searching Reddit content",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reddit_mcp_tool-0.1.8.tar.gz",
-  "download_time": "2025-08-26T07:43:20.168231",
+  "download_filename": "reddit_mcp_tool-0.1.9.tar.gz",
+  "download_time": "2025-08-26T07:54:48.342850",
   "package_url": "https://pypi.org/project/reddit-mcp-tool/"
 }
