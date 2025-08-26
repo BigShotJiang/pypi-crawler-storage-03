@@ -1,11 +1,11 @@
 {
   "name": "xcmap",
-  "version": "0.0.26",
+  "version": "0.0.27",
   "summary": null,
   "author": "chuck yang",
   "license": null,
   "home_page": "https://www.xcmap.cn",
-  "download_filename": "xcmap-0.0.26.tar.gz",
-  "download_time": "2025-08-26T02:58:14.850682",
+  "download_filename": "xcmap-0.0.27.tar.gz",
+  "download_time": "2025-08-26T05:55:34.258875",
   "package_url": "https://pypi.org/project/xcmap/"
 }

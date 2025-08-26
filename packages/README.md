@@ -1,17 +1,40 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T05:46:07.275420
-- **Total Packages**: 80
-- **Total Size**: 14.15 MB
+- **Download Time**: 2025-08-26T05:56:19.346096
+- **Total Packages**: 85
+- **Total Size**: 9.96 MB
 
 ## Packages List
+- pulumi-f5bigip
+- dicompare
+- xcmap
+- pulumi-databricks
+- pulumi-external
+- rl-worlds
+- composio-openai-agents
+- composio-openai
+- composio-langgraph
+- composio-langchain
+- composio-google-adk
+- composio-google
+- composio-gemini
+- composio-crewai
+- pulumi-aws-apigateway
+- composio-autogen
+- composio-anthropic
+- composio
+- gitlab-api
+- robotnikai
+- chainlit-aki
+- homematicip
+- pulumi-dnsimple
+- pulumi-dbtcloud
 - ulid-dates
 - liotel
 - seliky
 - pulumi-consul
 - semantics.py3
-- gitlab-api
 - sportsref-nfl
 - 7gh938h9747893yg
 - pulumi-confluentcloud
@@ -29,7 +52,6 @@
 - general-calculator-zsd
 - pulumi-cloudinit
 - pulumi-azuread
-- pulumi-aws-apigateway
 - pulumi-cloudamqp
 - folder-classifier
 - pulumi-azuredevops
@@ -69,20 +91,3 @@
 - gtm-rosamii1
 - pulumi-aiven
 - sarm-sdk
-- alloy-ai
-- tensorlake
-- matrice
-- particle-pack-tools
-- orq-ai-sdk
-- speckit
-- filum-utils
-- coq-tools
-- SearchLibrium
-- hud-mcp-python-sdk
-- pynite-tools
-- pyleetpatterns
-- plutoprint
-- appm
-- hud-python
-- listpick
-- doopal
