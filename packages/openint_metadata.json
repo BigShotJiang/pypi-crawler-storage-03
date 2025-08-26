@@ -1,0 +1,11 @@
+{
+  "name": "openint",
+  "version": "2.9.0",
+  "summary": "The official Python library for the Openint API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "openint-2.9.0.tar.gz",
+  "download_time": "2025-08-26T04:56:51.361950",
+  "package_url": "https://pypi.org/project/openint/"
+}

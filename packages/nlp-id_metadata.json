@@ -1,0 +1,11 @@
+{
+  "name": "nlp-id",
+  "version": "0.1.20.0",
+  "summary": "kumparan's NLP Services",
+  "author": "Zavli Juwantara",
+  "license": "MIT",
+  "home_page": "https://github.com/kumparan/NLP-ID",
+  "download_filename": "nlp_id-0.1.20.0.tar.gz",
+  "download_time": "2025-08-26T04:56:55.590576",
+  "package_url": "https://pypi.org/project/nlp-id/"
+}

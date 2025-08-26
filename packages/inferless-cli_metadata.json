@@ -1,0 +1,11 @@
+{
+  "name": "inferless-cli",
+  "version": "2.0.22",
+  "summary": "Inferless - Deploy Machine Learning Models in Minutes.",
+  "author": "Naveen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inferless_cli-2.0.22.tar.gz",
+  "download_time": "2025-08-26T04:57:02.119535",
+  "package_url": "https://pypi.org/project/inferless-cli/"
+}
