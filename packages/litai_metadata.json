@@ -1,0 +1,11 @@
+{
+  "name": "litai",
+  "version": "0.0.10",
+  "summary": "Easiest way to access any AI model with a single subscription.",
+  "author": "Lightning-AI et al.",
+  "license": null,
+  "home_page": "https://github.com/Lightning-AI/LitAI",
+  "download_filename": "litai-0.0.10.tar.gz",
+  "download_time": "2025-08-26T16:49:50.283040",
+  "package_url": "https://pypi.org/project/litai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mdbq",
-  "version": "4.0.121",
+  "version": "4.0.122",
   "summary": null,
   "author": "xigua, ",
   "license": "MIT",
   "home_page": "https://pypi.org/project/mdbq",
-  "download_filename": "mdbq-4.0.121.tar.gz",
-  "download_time": "2025-08-26T16:27:03.461670",
+  "download_filename": "mdbq-4.0.122.tar.gz",
+  "download_time": "2025-08-26T16:49:41.570569",
   "package_url": "https://pypi.org/project/mdbq/"
 }

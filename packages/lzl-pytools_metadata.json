@@ -1,11 +1,11 @@
 {
   "name": "lzl-pytools",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "a multi run http req tool",
   "author": "lzlcodex",
   "license": null,
   "home_page": "https://gitee.com/lzlcodex/lzl-pytools.git",
-  "download_filename": "lzl_pytools-0.2.5.tar.gz",
-  "download_time": "2025-08-22T06:30:30.183411",
+  "download_filename": "lzl_pytools-0.2.6.tar.gz",
+  "download_time": "2025-08-26T16:49:51.305048",
   "package_url": "https://pypi.org/project/lzl-pytools/"
 }

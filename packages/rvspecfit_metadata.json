@@ -1,0 +1,11 @@
+{
+  "name": "rvspecfit",
+  "version": "0.8.1",
+  "summary": "RVSpecfit: a package for fitting stellar spectra",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rvspecfit-0.8.1.tar.gz",
+  "download_time": "2025-08-26T16:49:46.710829",
+  "package_url": "https://pypi.org/project/rvspecfit/"
+}

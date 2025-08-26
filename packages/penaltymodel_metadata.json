@@ -1,0 +1,11 @@
+{
+  "name": "penaltymodel",
+  "version": "1.3.0",
+  "summary": "Package for creating penalty models.",
+  "author": "D-Wave Systems Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dwavesystems/penaltymodel",
+  "download_filename": "penaltymodel-1.3.0.tar.gz",
+  "download_time": "2025-08-26T16:49:45.685597",
+  "package_url": "https://pypi.org/project/penaltymodel/"
+}

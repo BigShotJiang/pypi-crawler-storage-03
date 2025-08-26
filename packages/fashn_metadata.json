@@ -1,11 +1,11 @@
 {
   "name": "fashn",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "The official Python library for the fashn API",
   "author": "Fashn",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "fashn-0.1.1.tar.gz",
-  "download_time": "2025-08-25T18:31:10.214617",
+  "download_filename": "fashn-0.1.2.tar.gz",
+  "download_time": "2025-08-26T16:49:48.233860",
   "package_url": "https://pypi.org/project/fashn/"
 }

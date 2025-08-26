@@ -1,0 +1,11 @@
+{
+  "name": "italian-holidays",
+  "version": "0.0.7",
+  "summary": "A simple Python helper class to determine Italian holidays with the possibility to set custom holidays.",
+  "author": "Giuseppe Bruno",
+  "license": "MIT License",
+  "home_page": "https://github.com/giuseppebruno/italian-holidays",
+  "download_filename": "italian_holidays-0.0.7.tar.gz",
+  "download_time": "2025-08-26T16:49:45.173492",
+  "package_url": "https://pypi.org/project/italian-holidays/"
+}

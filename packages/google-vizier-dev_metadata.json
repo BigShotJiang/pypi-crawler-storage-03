@@ -1,11 +1,11 @@
 {
   "name": "google-vizier-dev",
-  "version": "0.1.24.dev20250819144452",
+  "version": "0.1.24.dev20250826163538",
   "summary": "Open Source Vizier: Distributed service framework for blackbox optimization and research.",
   "author": "Vizier Team",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/google/vizier",
-  "download_filename": "google_vizier_dev-0.1.24.dev20250819144452.tar.gz",
-  "download_time": "2025-08-19T14:45:09.223669",
+  "download_filename": "google_vizier_dev-0.1.24.dev20250826163538.tar.gz",
+  "download_time": "2025-08-26T16:49:36.429342",
   "package_url": "https://pypi.org/project/google-vizier-dev/"
 }
