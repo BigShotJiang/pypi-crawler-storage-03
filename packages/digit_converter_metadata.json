@@ -1,11 +1,11 @@
 {
   "name": "digit_converter",
-  "version": "2.1",
+  "version": "2.3",
   "summary": "A useful tool for digit conversion, applicable in Genetic Algorithms (GA). It transforms a number into a list of digits under any base, for example, `[1, 0, 1, 0, 1, 1, 1, 0] <-> 174`.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Freakwill/digit-converter",
-  "download_filename": "digit_converter-2.1.tar.gz",
-  "download_time": "2025-08-26T08:30:19.829147",
+  "download_filename": "digit_converter-2.3.tar.gz",
+  "download_time": "2025-08-26T09:59:39.596894",
   "package_url": "https://pypi.org/project/digit_converter/"
 }

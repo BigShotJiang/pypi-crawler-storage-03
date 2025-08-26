@@ -1,0 +1,11 @@
+{
+  "name": "ddreport",
+  "version": "4.6.5",
+  "summary": "pytest测试报告 1.修改测试报告模板, 添加ui自动化截图逻辑",
+  "author": "duanliangcong",
+  "license": "MIT Licence",
+  "home_page": "https://blog.csdn.net/weixin_43975720/article/details/137867720",
+  "download_filename": "ddreport-4.6.5.tar.gz",
+  "download_time": "2025-08-26T10:00:17.407073",
+  "package_url": "https://pypi.org/project/ddreport/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "warpfield",
+  "version": "0.2.2",
+  "summary": "GPU-accelerated 3D non-rigid registration",
+  "author": "jlab.berlin, Maximilian Hoffmann, Benjamin Judkewitz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "warpfield-0.2.2.tar.gz",
+  "download_time": "2025-08-26T09:59:52.254435",
+  "package_url": "https://pypi.org/project/warpfield/"
+}

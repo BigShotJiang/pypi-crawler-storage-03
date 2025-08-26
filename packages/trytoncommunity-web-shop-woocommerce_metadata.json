@@ -1,0 +1,11 @@
+{
+  "name": "trytoncommunity-web-shop-woocommerce",
+  "version": "7.0.3",
+  "summary": "Woocommerce connector for the Tryton platform",
+  "author": "Kopen Software",
+  "license": "GPL-3",
+  "home_page": "https://www.kopen.es",
+  "download_filename": "trytoncommunity_web_shop_woocommerce-7.0.3.tar.gz",
+  "download_time": "2025-08-26T09:59:48.245183",
+  "package_url": "https://pypi.org/project/trytoncommunity-web-shop-woocommerce/"
+}

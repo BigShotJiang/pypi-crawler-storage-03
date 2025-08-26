@@ -1,0 +1,11 @@
+{
+  "name": "skytag",
+  "version": "0.3.3",
+  "summary": "Annotate transient sources or galaxies with the percentage credibility region they reside within on a given HealPix sky map.",
+  "author": "David Young",
+  "license": "MIT",
+  "home_page": "https://github.com/thespacedoctor/skytag",
+  "download_filename": "skytag-0.3.3.tar.gz",
+  "download_time": "2025-08-26T10:00:11.493888",
+  "package_url": "https://pypi.org/project/skytag/"
+}

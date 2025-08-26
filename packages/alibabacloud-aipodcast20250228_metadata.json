@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-aipodcast20250228",
+  "version": "1.0.4",
+  "summary": "Alibaba Cloud AIPodcast (20250228) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_aipodcast20250228-1.0.4.tar.gz",
+  "download_time": "2025-08-26T09:59:49.965837",
+  "package_url": "https://pypi.org/project/alibabacloud-aipodcast20250228/"
+}
