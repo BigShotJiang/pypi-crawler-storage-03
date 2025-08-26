@@ -1,0 +1,11 @@
+{
+  "name": "reportbro-lib",
+  "version": "3.11.3",
+  "summary": "Generate PDF and Excel reports from visually designed templates",
+  "author": "jobsta",
+  "license": "AGPL-3.0",
+  "home_page": "https://www.reportbro.com",
+  "download_filename": "reportbro_lib-3.11.3.tar.gz",
+  "download_time": "2025-08-26T14:46:18.957802",
+  "package_url": "https://pypi.org/project/reportbro-lib/"
+}

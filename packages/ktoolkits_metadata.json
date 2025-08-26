@@ -1,0 +1,11 @@
+{
+  "name": "ktoolkits",
+  "version": "0.2.2",
+  "summary": "一个面向AI智能体应用的超级工具,提供基于AI主机操作系统级别的工具扩展能力。",
+  "author": "kpai",
+  "license": null,
+  "home_page": "https://s.apifox.cn/2b306df6-5d22-423f-83ba-ed07415b13d5",
+  "download_filename": "ktoolkits-0.2.2.tar.gz",
+  "download_time": "2025-08-26T14:46:12.676205",
+  "package_url": "https://pypi.org/project/ktoolkits/"
+}

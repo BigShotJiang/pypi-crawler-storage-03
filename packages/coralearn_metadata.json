@@ -1,11 +1,11 @@
 {
   "name": "coralearn",
-  "version": "0.1.8",
-  "summary": "An AI library written using only numpy.",
+  "version": "0.2",
+  "summary": "An AI library written using only NumPy",
   "author": "Coralap",
   "license": null,
-  "home_page": null,
-  "download_filename": "coralearn-0.1.8.tar.gz",
-  "download_time": "2025-08-26T10:48:49.866319",
+  "home_page": "https://github.com/Coralap/CoraLearn",
+  "download_filename": "coralearn-0.2.tar.gz",
+  "download_time": "2025-08-26T14:46:18.438896",
   "package_url": "https://pypi.org/project/coralearn/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-cookies-manager-v2",
+  "version": "0.3.1",
+  "summary": "Access and save cookies from Streamlit - Modernized fork with st.cache_data fix, uv package manager, and updated Node dependencies",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "streamlit_cookies_manager_v2-0.3.1.tar.gz",
+  "download_time": "2025-08-26T14:45:56.252974",
+  "package_url": "https://pypi.org/project/streamlit-cookies-manager-v2/"
+}

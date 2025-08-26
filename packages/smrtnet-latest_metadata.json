@@ -1,0 +1,11 @@
+{
+  "name": "smrtnet-latest",
+  "version": "0.23",
+  "summary": "A python lib for predicting small molecule-RNA interactions (SRIs)",
+  "author": "yuhan_Fei & jiasheng_Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/Yuhan-Fei/SMRTnet",
+  "download_filename": "smrtnet_latest-0.23.tar.gz",
+  "download_time": "2025-08-26T14:46:39.356571",
+  "package_url": "https://pypi.org/project/smrtnet-latest/"
+}
