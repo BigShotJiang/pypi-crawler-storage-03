@@ -1,11 +1,11 @@
 {
   "name": "passagemath-latte-4ti2",
-  "version": "10.6.8",
+  "version": "10.6.9",
   "summary": "passagemath: Lattice points in polyhedra with LattE integrale and 4ti2",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_latte_4ti2-10.6.8.tar.gz",
-  "download_time": "2025-08-24T11:41:31.131605",
+  "download_filename": "passagemath_latte_4ti2-10.6.9.tar.gz",
+  "download_time": "2025-08-26T15:44:13.119661",
   "package_url": "https://pypi.org/project/passagemath-latte-4ti2/"
 }
