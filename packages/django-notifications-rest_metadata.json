@@ -1,0 +1,11 @@
+{
+  "name": "django-notifications-rest",
+  "version": "1.0.2",
+  "summary": "A django notifications package exposed through API Rest",
+  "author": "Yusniel Hidalgo Delgado",
+  "license": "MIT",
+  "home_page": "https://github.com/yhdelgado/django-notifications-rest",
+  "download_filename": "django_notifications_rest-1.0.2.tar.gz",
+  "download_time": "2025-08-26T23:42:50.701886",
+  "package_url": "https://pypi.org/project/django-notifications-rest/"
+}

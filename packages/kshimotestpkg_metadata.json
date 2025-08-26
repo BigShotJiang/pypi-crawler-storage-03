@@ -1,11 +1,11 @@
 {
   "name": "kshimotestpkg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A basic hello package",
   "author": "Christopher Kazu Shimotake",
   "license": null,
   "home_page": null,
-  "download_filename": "kshimotestpkg-0.0.3.tar.gz",
-  "download_time": "2025-08-26T23:20:12.736199",
+  "download_filename": "kshimotestpkg-0.0.4.tar.gz",
+  "download_time": "2025-08-26T23:43:03.054194",
   "package_url": "https://pypi.org/project/kshimotestpkg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "nginx-statsd-sidecar",
+  "version": "0.2.1",
+  "summary": "A sidecar for nginx to send statsd metrics to a statsd server",
+  "author": null,
+  "license": "Copyright 2025 California Institute of Technology.  Questions or comments\n        may be directed to the author, the Academic Development Services group of\n        Caltech's Information Management Systems and Services department, at\n        imss-ads-staff@caltech.edu.  All rights reserved.\n        \n        Permission is hereby granted, free of charge, to any person obtaining a copy of\n        this software and associated documentation files (the \"Software\"), to deal in\n        the Software without restriction, including without limitation the rights to\n        use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of\n        the Software, and to permit persons to whom the Software is furnished to do so,\n        subject to the following conditions:\n        \n        The above copyright notice and this permission notice shall be included in all\n        copies or substantial portions of the Software.\n        \n        Neither the name of the copyright holder nor the names of its contributors may\n        be used to endorse or promote products derived from this software without\n        specific prior written permission.\n        \n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS\n        FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR\n        COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER\n        IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN\n        CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n        ",
+  "home_page": null,
+  "download_filename": "nginx_statsd_sidecar-0.2.1.tar.gz",
+  "download_time": "2025-08-26T23:42:57.241090",
+  "package_url": "https://pypi.org/project/nginx-statsd-sidecar/"
+}

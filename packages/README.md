@@ -1,14 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T23:20:52.943910
-- **Total Packages**: 79
-- **Total Size**: 12.72 MB
+- **Download Time**: 2025-08-26T23:43:26.478546
+- **Total Packages**: 85
+- **Total Size**: 20.17 MB
 
 ## Packages List
+- abstract-gui
+- contextual-client
+- perturbvi
+- deployfish
+- splurge-tools
+- pycarlo
+- shsim
+- pydantic-graph
+- pydantic-evals
+- pydantic-ai-slim
+- pydantic-ai-examples
+- alawymdb
+- pydantic-ai
+- clai
+- splurge-dsv
+- dash-flash
+- letta-nightly
 - prefect-aws
-- dita-cleanup
+- letta
+- django-notifications-rest
+- tobiko-cloud-pydantic
+- tobiko-cloud-helpers
+- tobiko-cloud-api-client
+- checkdmarc
+- mcp-chat
+- HoloTTS
+- jijzept-sdk
+- nv-ingest-client
+- gedcom-x
+- nginx-statsd-sidecar
+- agentsystems-sdk
+- pydough
+- xrfm
+- emsuite
+- ohmqtt
+- ctxkit
+- rubin-scheduler
+- narada
+- narada-pyodide
+- narada-core
 - kshimotestpkg
+- interpretablefa
+- tachyon-api
+- usearch
+- nvidia-dali-nightly-cuda130
+- sf-quant
+- spaim
+- increase
+- ghastoolkit
+- pyonir
+- PyQrackIsing
+- tenduke-core
+- dita-cleanup
 - mkdocs-copy-to-llm
 - MagmaLink
 - cirq-google
@@ -27,7 +77,6 @@
 - gcp-pilot
 - abstract-paths
 - nominal
-- usearch
 - py-msu-scripter-app
 - odoo-addon-l10n-br-fiscal-edi
 - odoo-addon-l10n-br-nfe
@@ -35,7 +84,6 @@
 - odoo-addon-l10n-br-cte
 - odoo-addon-l10n-br-mdfe
 - odoo-addon-l10n-br-fiscal
-- abstract-gui
 - cripser
 - contextlite
 - flwr-nightly
@@ -43,45 +91,3 @@
 - renfield
 - mcp-jupyter
 - letta-client
-- zmanim-core-bindings
-- ut-com
-- minecraft-datapack-language
-- processligand-py
-- abstract_dataloader
-- fyodorov-utils
-- fyodorov-llm-agents
-- pytest-api-cov
-- pyoso
-- oso-semantic
-- cpg-workflows
-- iss-location-tracker
-- mas-cli
-- vidavis
-- MDL-Density-Histogram
-- futurehouse-client
-- mjx-safety-gym
-- scionpathml
-- zsmapping
-- pipen
-- outerport
-- devopness
-- qstrings
-- pythermoai
-- sagemaker-hyperpod
-- ccux
-- astabench
-- judge-markday
-- ryoma-ai
-- yutipy
-- cool-styles
-- xpublish-tiles
-- b10-tcache
-- cylestio-perimeter
-- graph-games-proto
-- kode-kronical
-- zenable-mcp
-- langroid
-- dv-pipecat-ai
-- hyperpod-cluster-stack-template
-- csv2cte
-- phylodata

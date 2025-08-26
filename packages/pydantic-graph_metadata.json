@@ -1,11 +1,11 @@
 {
   "name": "pydantic-graph",
-  "version": "0.7.6",
+  "version": "0.8.0",
   "summary": "Graph and state machine library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_graph-0.7.6.tar.gz",
-  "download_time": "2025-08-26T13:25:28.244417",
+  "download_filename": "pydantic_graph-0.8.0.tar.gz",
+  "download_time": "2025-08-26T23:42:42.316850",
   "package_url": "https://pypi.org/project/pydantic-graph/"
 }

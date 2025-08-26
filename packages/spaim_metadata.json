@@ -1,0 +1,11 @@
+{
+  "name": "spaim",
+  "version": "0.1.0",
+  "summary": "A library to test prompt injections on large language models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spaim-0.1.0.tar.gz",
+  "download_time": "2025-08-26T23:43:06.306955",
+  "package_url": "https://pypi.org/project/spaim/"
+}
