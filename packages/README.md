@@ -1,12 +1,32 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T23:43:26.478546
-- **Total Packages**: 85
-- **Total Size**: 20.17 MB
+- **Download Time**: 2025-08-26T23:54:42.882749
+- **Total Packages**: 86
+- **Total Size**: 9.39 MB
 
 ## Packages List
+- pymeu
+- prisma-cloud-docs-mcp-server
+- agentsystems-sdk
 - abstract-gui
+- analyser2_hj3415
+- fmmax
+- satori-ci
+- fpyjp
+- dda-py
+- llm-chatbot-kit
+- renfield
+- graphql-mcp
+- omserv
+- ommlds
+- omlish
+- ominfra
+- omdev
+- omdev-cli
+- omdev-cext
+- gh-download
+- grasp_agents
 - contextual-client
 - perturbvi
 - deployfish
@@ -36,7 +56,6 @@
 - nv-ingest-client
 - gedcom-x
 - nginx-statsd-sidecar
-- agentsystems-sdk
 - pydough
 - xrfm
 - emsuite
@@ -73,21 +92,3 @@
 - cmaboss
 - lisan
 - workflowforge
-- ATdispatcher
-- gcp-pilot
-- abstract-paths
-- nominal
-- py-msu-scripter-app
-- odoo-addon-l10n-br-fiscal-edi
-- odoo-addon-l10n-br-nfe
-- odoo-addon-l10n-br-fiscal-closing
-- odoo-addon-l10n-br-cte
-- odoo-addon-l10n-br-mdfe
-- odoo-addon-l10n-br-fiscal
-- cripser
-- contextlite
-- flwr-nightly
-- binja-test-mocks
-- renfield
-- mcp-jupyter
-- letta-client
