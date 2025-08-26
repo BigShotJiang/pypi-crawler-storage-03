@@ -1,0 +1,11 @@
+{
+  "name": "batchBOTS",
+  "version": "0.0.1",
+  "summary": "BOTS",
+  "author": "REML lab developer",
+  "license": "MIT",
+  "home_page": "https://github.com/reml-lab/BOTS/",
+  "download_filename": "batchbots-0.0.1.tar.gz",
+  "download_time": "2025-08-26T20:54:16.540192",
+  "package_url": "https://pypi.org/project/batchBOTS/"
+}

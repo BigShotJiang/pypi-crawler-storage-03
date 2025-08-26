@@ -1,0 +1,11 @@
+{
+  "name": "notonames",
+  "version": "0.0.3",
+  "summary": "Checks for noto-emoji style filenames",
+  "author": "Rod S",
+  "license": null,
+  "home_page": null,
+  "download_filename": "notonames-0.0.3.tar.gz",
+  "download_time": "2025-08-26T20:54:07.030148",
+  "package_url": "https://pypi.org/project/notonames/"
+}

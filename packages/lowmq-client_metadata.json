@@ -1,11 +1,11 @@
 {
   "name": "lowmq-client",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Python asynchronous client for interacting with LowMQ",
   "author": "AI-Stratov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lowmq_client-0.1.0.tar.gz",
-  "download_time": "2025-08-26T20:24:02.665865",
+  "download_filename": "lowmq_client-1.0.0.tar.gz",
+  "download_time": "2025-08-26T20:54:36.343434",
   "package_url": "https://pypi.org/project/lowmq-client/"
 }

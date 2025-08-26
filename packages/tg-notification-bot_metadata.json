@@ -1,0 +1,11 @@
+{
+  "name": "tg-notification-bot",
+  "version": "0.3.0",
+  "summary": "Modern Telegram notification bot library for Python projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tg_notification_bot-0.3.0.tar.gz",
+  "download_time": "2025-08-26T20:54:01.357411",
+  "package_url": "https://pypi.org/project/tg-notification-bot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lumberjack-sdk",
-  "version": "0.4.25",
+  "version": "2.0.2",
   "summary": "The Lumberjack Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lumberjack_sdk-0.4.25.tar.gz",
-  "download_time": "2025-08-18T18:55:23.119788",
+  "download_filename": "lumberjack_sdk-2.0.2.tar.gz",
+  "download_time": "2025-08-26T20:54:10.169995",
   "package_url": "https://pypi.org/project/lumberjack-sdk/"
 }

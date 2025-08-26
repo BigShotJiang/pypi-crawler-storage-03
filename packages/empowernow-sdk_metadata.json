@@ -1,0 +1,11 @@
+{
+  "name": "empowernow-sdk",
+  "version": "2.3.12",
+  "summary": "Comprehensive OAuth 2.1 / FAPI + AuthZEN PDP + FIPS client library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "empowernow_sdk-2.3.12.tar.gz",
+  "download_time": "2025-08-26T20:54:16.027600",
+  "package_url": "https://pypi.org/project/empowernow-sdk/"
+}
