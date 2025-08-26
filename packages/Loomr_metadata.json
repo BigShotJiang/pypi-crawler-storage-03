@@ -1,0 +1,11 @@
+{
+  "name": "Loomr",
+  "version": "0.1.1",
+  "summary": "Modular, event-driven messaging bot runtime with plugins, YAML flows, and built-in FastAPI.",
+  "author": null,
+  "license": "Prosperity Public License 3.0.0 (non-commercial)",
+  "home_page": null,
+  "download_filename": "loomr-0.1.1.tar.gz",
+  "download_time": "2025-08-26T19:42:27.961982",
+  "package_url": "https://pypi.org/project/Loomr/"
+}
