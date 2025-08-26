@@ -1,0 +1,11 @@
+{
+  "name": "Eve",
+  "version": "2.2.3",
+  "summary": "Python REST API for Humans.",
+  "author": "Nicola Iarocci",
+  "license": "BSD",
+  "home_page": "http://python-eve.org",
+  "download_filename": "eve-2.2.3-py3-none-any.whl",
+  "download_time": "2025-08-26T14:22:12.815719",
+  "package_url": "https://pypi.org/project/Eve/"
+}

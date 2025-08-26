@@ -1,0 +1,11 @@
+{
+  "name": "copilot-auth",
+  "version": "0.1.0",
+  "summary": "A simple patch antenna design library",
+  "author": "Bhanuchander Udhayakumar",
+  "license": "MIT",
+  "home_page": "https://github.com/bhachauk/copilot-auth.git",
+  "download_filename": "copilot_auth-0.1.0.tar.gz",
+  "download_time": "2025-08-26T14:22:42.148631",
+  "package_url": "https://pypi.org/project/copilot-auth/"
+}

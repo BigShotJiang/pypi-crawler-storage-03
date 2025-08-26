@@ -1,11 +1,11 @@
 {
   "name": "optr",
-  "version": "0.0.0a5",
+  "version": "0.0.0a6",
   "summary": "Unified toolkit for building, training, and testing digital and physical operators.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "optr-0.0.0a5-py3-none-any.whl",
-  "download_time": "2025-08-26T13:51:14.763193",
+  "download_filename": "optr-0.0.0a6-py3-none-any.whl",
+  "download_time": "2025-08-26T14:22:39.265633",
   "package_url": "https://pypi.org/project/optr/"
 }

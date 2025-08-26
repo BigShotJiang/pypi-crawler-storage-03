@@ -1,0 +1,11 @@
+{
+  "name": "cloakrt",
+  "version": "0.1.0",
+  "summary": "Framing-first red-teaming for LLMs",
+  "author": "Adam Hartman",
+  "license": "MIT",
+  "home_page": "https://github.com/hartmantexas/cloakrt",
+  "download_filename": "cloakrt-0.1.0.tar.gz",
+  "download_time": "2025-08-26T14:22:06.381700",
+  "package_url": "https://pypi.org/project/cloakrt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocstrings-python",
+  "version": "1.18.0",
+  "summary": "A Python handler for mkdocstrings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocstrings_python-1.18.0.tar.gz",
+  "download_time": "2025-08-26T14:22:35.794795",
+  "package_url": "https://pypi.org/project/mkdocstrings-python/"
+}

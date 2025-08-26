@@ -1,0 +1,11 @@
+{
+  "name": "lrdbenchmark-dashboard",
+  "version": "1.0.0",
+  "summary": "Interactive web dashboard for LRDBenchmark - Long-range dependence analysis",
+  "author": "Davian R. Chin",
+  "license": "MIT",
+  "home_page": "https://github.com/dave2k77/LRDBenchmark",
+  "download_filename": "lrdbenchmark_dashboard-1.0.0.tar.gz",
+  "download_time": "2025-08-26T14:22:43.328292",
+  "package_url": "https://pypi.org/project/lrdbenchmark-dashboard/"
+}

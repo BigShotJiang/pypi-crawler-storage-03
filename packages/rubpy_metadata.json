@@ -1,11 +1,11 @@
 {
   "name": "rubpy",
-  "version": "7.1.22",
+  "version": "7.1.23",
   "summary": "A powerful, fast and optimal library for making robots in Rubika with sync and async support.",
   "author": "Shayan Heidari",
   "license": null,
   "home_page": "https://github.com/shayanheidari01/rubika",
-  "download_filename": "rubpy-7.1.22.tar.gz",
-  "download_time": "2025-08-24T12:39:10.566363",
+  "download_filename": "rubpy-7.1.23.tar.gz",
+  "download_time": "2025-08-26T14:22:08.764944",
   "package_url": "https://pypi.org/project/rubpy/"
 }

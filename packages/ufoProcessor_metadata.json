@@ -1,0 +1,11 @@
+{
+  "name": "ufoProcessor",
+  "version": "1.14.0",
+  "summary": "Read, write and generate UFOs with designspace data.",
+  "author": "Erik van Blokland",
+  "license": "MIT",
+  "home_page": "https://github.com/LettError/ufoProcessor",
+  "download_filename": "ufoprocessor-1.14.0.tar.gz",
+  "download_time": "2025-08-26T14:22:11.086922",
+  "package_url": "https://pypi.org/project/ufoProcessor/"
+}
