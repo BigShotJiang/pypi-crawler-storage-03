@@ -1,0 +1,11 @@
+{
+  "name": "roadsync_configgy",
+  "version": "1.6.1",
+  "summary": "A simple config file loader that can read values from AWS.",
+  "author": "SRE",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "roadsync_configgy-1.6.1.tar.gz",
+  "download_time": "2025-08-26T18:30:01.137539",
+  "package_url": "https://pypi.org/project/roadsync_configgy/"
+}

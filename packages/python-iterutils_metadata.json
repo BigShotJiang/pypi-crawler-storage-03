@@ -1,11 +1,11 @@
 {
   "name": "python-iterutils",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Python another itertools.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/python-iterutils",
-  "download_filename": "python_iterutils-0.2.9.tar.gz",
-  "download_time": "2025-08-26T07:21:40.885846",
+  "download_filename": "python_iterutils-0.2.10.tar.gz",
+  "download_time": "2025-08-26T18:30:18.420170",
   "package_url": "https://pypi.org/project/python-iterutils/"
 }

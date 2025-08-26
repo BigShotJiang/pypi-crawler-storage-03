@@ -1,11 +1,11 @@
 {
   "name": "myfacedetect",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A comprehensive face detection library with multiple detection methods and advanced features",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myfacedetect-0.2.1.tar.gz",
-  "download_time": "2025-08-26T17:44:09.681983",
+  "download_filename": "myfacedetect-0.2.2.tar.gz",
+  "download_time": "2025-08-26T18:30:03.222315",
   "package_url": "https://pypi.org/project/myfacedetect/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "gcloud-aio-datastore",
-  "version": "9.0.0",
+  "version": "9.1.0",
   "summary": "Python Client for Google Cloud Datastore",
   "author": "Vi Engineering",
   "license": "MIT",
   "home_page": "https://github.com/talkiq/gcloud-aio",
-  "download_filename": "gcloud_aio_datastore-9.0.0.tar.gz",
-  "download_time": "2025-08-21T14:21:00.795717",
+  "download_filename": "gcloud_aio_datastore-9.1.0.tar.gz",
+  "download_time": "2025-08-26T18:29:50.607418",
   "package_url": "https://pypi.org/project/gcloud-aio-datastore/"
 }

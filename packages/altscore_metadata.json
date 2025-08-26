@@ -1,11 +1,11 @@
 {
   "name": "altscore",
-  "version": "0.1.225",
+  "version": "0.1.226",
   "summary": "Python SDK for AltScore. It provides a simple interface to the AltScore API.",
   "author": "AltScore",
   "license": "MIT",
   "home_page": "https://github.com/altscore/altscore-python",
-  "download_filename": "altscore-0.1.225.tar.gz",
-  "download_time": "2025-08-25T18:54:56.091605",
+  "download_filename": "altscore-0.1.226.tar.gz",
+  "download_time": "2025-08-26T18:30:03.747899",
   "package_url": "https://pypi.org/project/altscore/"
 }

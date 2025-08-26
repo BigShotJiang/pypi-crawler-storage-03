@@ -1,0 +1,11 @@
+{
+  "name": "tird",
+  "version": "0.22.0",
+  "summary": "A file encryption tool focused on minimizing metadata and hiding encrypted data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tird-0.22.0.tar.gz",
+  "download_time": "2025-08-26T18:29:44.785422",
+  "package_url": "https://pypi.org/project/tird/"
+}

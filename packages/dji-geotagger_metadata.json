@@ -1,0 +1,11 @@
+{
+  "name": "dji-geotagger",
+  "version": "1.0.9",
+  "summary": "A precise PPK + MRK-based geotagging tool for DJI RTK drones",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "dji_geotagger-1.0.9.tar.gz",
+  "download_time": "2025-08-26T18:29:59.066534",
+  "package_url": "https://pypi.org/project/dji-geotagger/"
+}

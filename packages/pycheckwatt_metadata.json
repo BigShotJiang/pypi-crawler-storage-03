@@ -1,11 +1,11 @@
 {
   "name": "pycheckwatt",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "summary": "Read data from CheckWatts EnergyInBalance WEB API",
   "author": "Marcus Karlsson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycheckwatt-0.2.10.tar.gz",
-  "download_time": "2025-08-18T16:54:10.610208",
+  "download_filename": "pycheckwatt-0.2.11.tar.gz",
+  "download_time": "2025-08-26T18:30:07.413589",
   "package_url": "https://pypi.org/project/pycheckwatt/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pr-arena",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "PR-Arena: Arena Setting for GitHub Issue Resolver",
   "author": "OpenHands",
   "license": "MIT",
   "home_page": "https://github.com/neulab/pr-arena",
-  "download_filename": "pr_arena-0.2.1.tar.gz",
-  "download_time": "2025-08-18T18:55:39.585185",
+  "download_filename": "pr_arena-0.2.2.tar.gz",
+  "download_time": "2025-08-26T18:30:07.935659",
   "package_url": "https://pypi.org/project/pr-arena/"
 }
