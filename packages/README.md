@@ -1,22 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T20:54:38.426712
+- **Download Time**: 2025-08-26T21:20:33.081375
 - **Total Packages**: 87
-- **Total Size**: 49.26 MB
+- **Total Size**: 4.91 MB
 
 ## Packages List
-- tencentcloud-sdk-python-waf
-- tencentcloud-sdk-python-vclm
-- tencentcloud-sdk-python-trtc
-- zencfg
-- tencentcloud-sdk-python-teo
-- kode-kronical
-- tencentcloud-sdk-python-mariadb
-- tencentcloud-sdk-python-lkeap
-- tencentcloud-sdk-python-iotexplorer
-- tencentcloud-sdk-python-dcdb
-- tencentcloud-sdk-python-common
 - tencentcloud-sdk-python-cbs
 - placards
 - v440
@@ -93,3 +82,14 @@
 - chordnet
 - lbt-dragonfly
 - fyodorov-utils
+- django-zxcvbn-password-validator
+- synqly
+- zha
+- maleo-soma
+- aws-test-harness
+- LCNE-patchseq-analysis
+- fyodorov-llm-agents
+- kaxanuk.data-curator
+- dragonfly-radiance
+- dragonfly-energy
+- meteofetch
