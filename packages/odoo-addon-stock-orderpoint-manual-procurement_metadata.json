@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-orderpoint-manual-procurement",
+  "version": "18.0.1.0.0.3",
+  "summary": "Allows to create procurement orders from orderpoints instead of relying only on the scheduler.",
+  "author": "ForgeFlow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-orderpoint",
+  "download_filename": "odoo_addon_stock_orderpoint_manual_procurement-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2025-08-26T04:35:40.367778",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-orderpoint-manual-procurement/"
+}

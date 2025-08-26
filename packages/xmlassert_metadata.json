@@ -1,0 +1,11 @@
+{
+  "name": "xmlassert",
+  "version": "0.1.0",
+  "summary": "Human-readable XML comparison for testing with clean diff output",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xmlassert-0.1.0.tar.gz",
+  "download_time": "2025-08-26T04:35:50.883208",
+  "package_url": "https://pypi.org/project/xmlassert/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lynx-e2e-appium",
+  "version": "0.0.6",
+  "summary": "Lynx E2E Driver",
+  "author": "gaohanqing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lynx_e2e_appium-0.0.6.tar.gz",
+  "download_time": "2025-08-26T04:35:35.508580",
+  "package_url": "https://pypi.org/project/lynx-e2e-appium/"
+}

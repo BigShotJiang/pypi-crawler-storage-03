@@ -1,11 +1,11 @@
 {
   "name": "async-kernel",
-  "version": "0.1.0rc1",
+  "version": "0.1.0rc2",
   "summary": "A python kernel for Jupyter running inside an anyio event loop.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "async_kernel-0.1.0rc1.tar.gz",
-  "download_time": "2025-08-26T04:03:00.744011",
+  "download_filename": "async_kernel-0.1.0rc2.tar.gz",
+  "download_time": "2025-08-26T04:35:54.178434",
   "package_url": "https://pypi.org/project/async-kernel/"
 }

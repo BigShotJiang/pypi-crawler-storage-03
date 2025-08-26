@@ -1,11 +1,11 @@
 {
   "name": "mcp-server-openmetadata",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Model Context Protocol (MCP) server for OpenMetadata",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_server_openmetadata-0.2.3.tar.gz",
-  "download_time": "2025-08-20T11:39:49.413269",
+  "download_filename": "mcp_server_openmetadata-0.2.4.tar.gz",
+  "download_time": "2025-08-26T04:35:27.953344",
   "package_url": "https://pypi.org/project/mcp-server-openmetadata/"
 }
