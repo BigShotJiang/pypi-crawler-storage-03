@@ -1,0 +1,11 @@
+{
+  "name": "geopack-vectorized",
+  "version": "1.1.4",
+  "summary": "Python implementation of geopack and Tsyganenko models with optimized vectorization",
+  "author": "geopack-vectorize contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/Butadiene/geopack-vectorize",
+  "download_filename": "geopack_vectorized-1.1.4-py3-none-any.whl",
+  "download_time": "2025-08-26T09:25:12.090019",
+  "package_url": "https://pypi.org/project/geopack-vectorized/"
+}

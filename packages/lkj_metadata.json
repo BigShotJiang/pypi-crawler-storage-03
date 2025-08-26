@@ -1,0 +1,11 @@
+{
+  "name": "lkj",
+  "version": "0.1.47",
+  "summary": "A dump of homeless useful utils",
+  "author": "Thor Whalen",
+  "license": "apache-2.0",
+  "home_page": "https://github.com/thorwhalen/lkj",
+  "download_filename": "lkj-0.1.47.tar.gz",
+  "download_time": "2025-08-26T09:25:10.932766",
+  "package_url": "https://pypi.org/project/lkj/"
+}

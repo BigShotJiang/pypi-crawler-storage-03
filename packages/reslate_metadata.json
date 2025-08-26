@@ -1,0 +1,11 @@
+{
+  "name": "reslate",
+  "version": "0.60.0",
+  "summary": "A command-line tool to automate generation of neatly-formatted Sphinx-based API documentation pages.",
+  "author": "Samuel Rowlinson",
+  "license": "GPL",
+  "home_page": "https://gitlab.com/ifosim/finesse/reslate",
+  "download_filename": "reslate-0.60.0.tar.gz",
+  "download_time": "2025-08-26T09:24:43.186569",
+  "package_url": "https://pypi.org/project/reslate/"
+}

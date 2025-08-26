@@ -1,0 +1,11 @@
+{
+  "name": "volutemcp",
+  "version": "1.0.0",
+  "summary": "MCP server for PowerPoint integration and local file manipulation in AI applications",
+  "author": "Coritan",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/coritan/volutemcp",
+  "download_filename": "volutemcp-1.0.0.tar.gz",
+  "download_time": "2025-08-26T09:24:45.427236",
+  "package_url": "https://pypi.org/project/volutemcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "webinteract",
+  "version": "1.54",
+  "summary": "A Python module for simple web interaction",
+  "author": "A Andersen",
+  "license": "Modified BSD License",
+  "home_page": "https://www.pg12.org/software",
+  "download_filename": "webinteract-1.54.tar.gz",
+  "download_time": "2025-08-26T09:25:27.866843",
+  "package_url": "https://pypi.org/project/webinteract/"
+}

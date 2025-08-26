@@ -1,0 +1,11 @@
+{
+  "name": "sixgill-clients",
+  "version": "0.2.27",
+  "summary": "Sixgill clients package",
+  "author": "Sixgill",
+  "license": null,
+  "home_page": "https://bitbucket.org/sixgill/cybersixgill-client",
+  "download_filename": "sixgill-clients-0.2.27.tar.gz",
+  "download_time": "2025-08-26T09:25:22.707504",
+  "package_url": "https://pypi.org/project/sixgill-clients/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ezstat",
+  "version": "2.4",
+  "summary": "OOP For eazy statistics, inspired by `Statistics` class of the lib `deap` but more user-friendly",
+  "author": "William Song",
+  "license": "MIT",
+  "home_page": "https://github.com/Freakwill/ezstat",
+  "download_filename": "ezstat-2.4.tar.gz",
+  "download_time": "2025-08-26T09:24:58.313936",
+  "package_url": "https://pypi.org/project/ezstat/"
+}

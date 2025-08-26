@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-loyalty-mass-mailing",
+  "version": "16.0.2.0.0",
+  "summary": "Loyalty Mass Mailing",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-promotion",
+  "download_filename": "odoo_addon_loyalty_mass_mailing-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2025-08-26T09:25:06.304467",
+  "package_url": "https://pypi.org/project/odoo-addon-loyalty-mass-mailing/"
+}
