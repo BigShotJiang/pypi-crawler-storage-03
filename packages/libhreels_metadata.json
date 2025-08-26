@@ -1,0 +1,11 @@
+{
+  "name": "libhreels",
+  "version": "2.3.1",
+  "summary": "Handling, simulating, and plotting HREELS and Auger spectroscopy data",
+  "author": "Wolf Widdra",
+  "license": null,
+  "home_page": "https://gitlab.informatik.uni-halle.de/e3fm8/libhreels",
+  "download_filename": "libhreels-2.3.1.tar.gz",
+  "download_time": "2025-08-26T15:54:18.988561",
+  "package_url": "https://pypi.org/project/libhreels/"
+}

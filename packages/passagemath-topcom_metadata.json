@@ -1,11 +1,11 @@
 {
   "name": "passagemath-topcom",
-  "version": "10.6.8",
+  "version": "10.6.9",
   "summary": "passagemath: Triangulations of point configurations and oriented matroids with TOPCOM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_topcom-10.6.8.tar.gz",
-  "download_time": "2025-08-24T11:52:54.818241",
+  "download_filename": "passagemath_topcom-10.6.9.tar.gz",
+  "download_time": "2025-08-26T15:54:15.246917",
   "package_url": "https://pypi.org/project/passagemath-topcom/"
 }

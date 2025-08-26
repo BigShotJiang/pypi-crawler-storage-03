@@ -1,0 +1,11 @@
+{
+  "name": "nano-numwords",
+  "version": "0.1.0",
+  "summary": "Tiny English word→number parser in ~1KB",
+  "author": "ozgunlu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nano_numwords-0.1.0.tar.gz",
+  "download_time": "2025-08-26T15:54:06.266149",
+  "package_url": "https://pypi.org/project/nano-numwords/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sigmaker",
+  "version": "0.1.0",
+  "summary": "IDA Pro plugin to generate signatures for code",
+  "author": "Mahmoud Abdelkader",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigmaker-0.1.0.tar.gz",
+  "download_time": "2025-08-26T15:54:25.875509",
+  "package_url": "https://pypi.org/project/sigmaker/"
+}

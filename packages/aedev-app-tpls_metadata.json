@@ -1,0 +1,11 @@
+{
+  "name": "aedev-app-tpls",
+  "version": "0.3.18",
+  "summary": "aedev namespace package portion app_tpls: aedev_app_tpls module main module",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_app_tpls",
+  "download_filename": "aedev_app_tpls-0.3.18.tar.gz",
+  "download_time": "2025-08-26T15:54:03.128542",
+  "package_url": "https://pypi.org/project/aedev-app-tpls/"
+}
