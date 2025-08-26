@@ -1,0 +1,11 @@
+{
+  "name": "qweather-mcp-server",
+  "version": "1.0.0",
+  "summary": "中国天气查询 MCP 服务器",
+  "author": "MCP Weather Server",
+  "license": "MIT",
+  "home_page": "https://github.com/modelcontextprotocol/weather-mcp-server",
+  "download_filename": "qweather_mcp_server-1.0.0.tar.gz",
+  "download_time": "2025-08-26T16:27:10.559951",
+  "package_url": "https://pypi.org/project/qweather-mcp-server/"
+}

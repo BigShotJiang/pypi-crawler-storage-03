@@ -1,0 +1,11 @@
+{
+  "name": "abc-tsp",
+  "version": "2.0.3",
+  "summary": "Artificial Bee Colony TSP solver",
+  "author": "Angel Sanz Gutierrez",
+  "license": "MIT",
+  "home_page": "https://github.com/AngelS017/ABC-algorithm-for-TSP",
+  "download_filename": "abc_tsp-2.0.3.tar.gz",
+  "download_time": "2025-08-26T16:27:02.196744",
+  "package_url": "https://pypi.org/project/abc-tsp/"
+}

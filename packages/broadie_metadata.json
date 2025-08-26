@@ -1,11 +1,11 @@
 {
   "name": "broadie",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "summary": "A powerful multi-agent framework with persistence, API server, and agent-to-agent communication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "broadie-1.0.12.tar.gz",
-  "download_time": "2025-08-26T14:22:39.843271",
+  "download_filename": "broadie-1.0.13.tar.gz",
+  "download_time": "2025-08-26T16:26:50.243048",
   "package_url": "https://pypi.org/project/broadie/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "locidex",
+  "version": "0.4.0",
+  "summary": "Genomic Address Service: De novo clustering and cluster address assignment",
+  "author": "James Robertson",
+  "license": "GPLv3",
+  "home_page": "https://github.com/phac-nml/locidex",
+  "download_filename": "locidex-0.4.0.tar.gz",
+  "download_time": "2025-08-26T16:27:34.784506",
+  "package_url": "https://pypi.org/project/locidex/"
+}

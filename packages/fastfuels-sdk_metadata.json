@@ -1,0 +1,11 @@
+{
+  "name": "fastfuels-sdk",
+  "version": "0.12.0",
+  "summary": "3D Fuels for Next Generation Fire Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/silvxlabs/fastfuels-sdk-python",
+  "download_filename": "fastfuels_sdk-0.12.0.tar.gz",
+  "download_time": "2025-08-26T16:27:04.719364",
+  "package_url": "https://pypi.org/project/fastfuels-sdk/"
+}
