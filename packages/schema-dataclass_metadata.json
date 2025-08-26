@@ -1,11 +1,11 @@
 {
   "name": "schema-dataclass",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python 2/3 兼容的 DataClass 库，支持完整的数据校验功能和自定义错误消息",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "schema_dataclass-0.0.2.tar.gz",
-  "download_time": "2025-08-24T05:20:51.750697",
+  "download_filename": "schema_dataclass-0.0.3.tar.gz",
+  "download_time": "2025-08-26T06:33:01.303819",
   "package_url": "https://pypi.org/project/schema-dataclass/"
 }

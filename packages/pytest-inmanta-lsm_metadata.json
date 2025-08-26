@@ -1,0 +1,11 @@
+{
+  "name": "pytest-inmanta-lsm",
+  "version": "3.14.0",
+  "summary": "Common fixtures for inmanta LSM related modules",
+  "author": "Inmanta",
+  "license": "inmanta EULA",
+  "home_page": "https://github.com/inmanta/pytest-inmanta-lsm",
+  "download_filename": "pytest_inmanta_lsm-3.14.0.tar.gz",
+  "download_time": "2025-08-26T06:33:02.349525",
+  "package_url": "https://pypi.org/project/pytest-inmanta-lsm/"
+}

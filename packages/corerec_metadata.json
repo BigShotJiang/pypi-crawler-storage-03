@@ -1,0 +1,11 @@
+{
+  "name": "corerec",
+  "version": "0.5.0",
+  "summary": "A Framework to built custom recommendors.",
+  "author": "Vishesh Yadav",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/corerec",
+  "download_filename": "corerec-0.5.0.tar.gz",
+  "download_time": "2025-08-26T06:33:05.554988",
+  "package_url": "https://pypi.org/project/corerec/"
+}

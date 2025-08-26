@@ -1,11 +1,11 @@
 {
   "name": "llumo",
-  "version": "0.2.28",
+  "version": "0.2.29",
   "summary": "Python SDK for interacting with the Llumo ai API.",
   "author": "Llumo",
   "license": null,
   "home_page": "https://www.llumo.ai/",
-  "download_filename": "llumo-0.2.28.tar.gz",
-  "download_time": "2025-08-20T18:11:10.537933",
+  "download_filename": "llumo-0.2.29.tar.gz",
+  "download_time": "2025-08-26T06:32:53.316893",
   "package_url": "https://pypi.org/project/llumo/"
 }

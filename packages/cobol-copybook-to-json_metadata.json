@@ -1,0 +1,11 @@
+{
+  "name": "cobol-copybook-to-json",
+  "version": "1.1.0",
+  "summary": "Convert COBOL copybooks to JSON schema format",
+  "author": "Arunkumar Selvam",
+  "license": null,
+  "home_page": "https://github.com/arunkumars-mf/cobol-copybook-to-json",
+  "download_filename": "cobol_copybook_to_json-1.1.0.tar.gz",
+  "download_time": "2025-08-26T06:32:34.756636",
+  "package_url": "https://pypi.org/project/cobol-copybook-to-json/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "durl-py",
+  "version": "0.2.0",
+  "summary": "Simple Data URL Model",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": "https://github.com/allen2c/durl-py",
+  "download_filename": "durl_py-0.2.0.tar.gz",
+  "download_time": "2025-08-26T06:32:30.657886",
+  "package_url": "https://pypi.org/project/durl-py/"
+}

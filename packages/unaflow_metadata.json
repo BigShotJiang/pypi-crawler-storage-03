@@ -1,0 +1,11 @@
+{
+  "name": "unaflow",
+  "version": "0.7.0",
+  "summary": "A collection helper classes for Apache Airflow",
+  "author": "Unacast",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/unacast/unaflow",
+  "download_filename": "unaflow-0.7.0.tar.gz",
+  "download_time": "2025-08-26T06:33:09.776885",
+  "package_url": "https://pypi.org/project/unaflow/"
+}
