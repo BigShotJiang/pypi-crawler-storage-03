@@ -1,21 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-26T03:44:37.306414
-- **Total Packages**: 78
-- **Total Size**: 28.91 MB
+- **Download Time**: 2025-08-26T04:03:24.337971
+- **Total Packages**: 76
+- **Total Size**: 24.18 MB
 
 ## Packages List
+- gitlab-api
+- python-sat
+- livekit-plugins-ten
+- sunpy-sphinx-theme
+- Backtester-Tushar
+- hud-python
+- notebook-intelligence
+- odoo-addon-report-xlsx
+- lmcache-frontend
+- xqute
+- logger-console
+- wayback-machine-archiver
+- secretpackage
+- genai-perf
+- modelswrkpi
+- pulumi-harness
+- odoo14-addons-oca-purchase-workflow
+- luxorasap
+- import-license-checker
+- palabra-ai
+- cinchdb
+- lunchable-splitlunch
+- keras-nightly
+- jj-multi-database-mcp
+- nanovecs
+- tool-sync
+- rich-tools
+- protoc-gen-connecpy
+- lesscode-flask
+- sbcli-dev
+- async-kernel
+- pyrekit
+- lunaconf
+- miru-agent-sdk
+- pyleetpatterns
+- terrakio-admin-api
+- terrakio-api
+- fileformats-extras
+- terrakio-core
+- fileformats
 - odoo-addon-partner-contact-in-several-companies
 - freeai-utils
 - tk-base-utils
 - llmcompressor
 - MeUtils
-- wayback-machine-archiver
 - internal
 - odoo-addon-openupgrade-scripts
 - frplib
-- pyrekit
 - odoo-addon-ir-ui-view-multi-company
 - zenx
 - caption-flow
@@ -25,7 +63,6 @@
 - pkbrokers
 - mcp-server-starrocks
 - odoo-addon-mrp-bom-attribute-match
-- Backtester-Tushar
 - prometheus-remote-writer
 - rqrisk
 - amiyautils
@@ -34,7 +71,6 @@
 - maleo-toolkit-imaging
 - ocdsextensionregistry
 - collective-trace
-- cinchdb
 - power-attention
 - JsonPreprocessor
 - reddit-mcp-tool
@@ -46,41 +82,3 @@
 - pyvider-cty
 - annofabcli
 - alloy-ai
-- hud-mcp-use-python-sdk
-- prism-pull
-- whl-deploy
-- seliky
-- geocode-mcp-hubei
-- wikibee
-- difytools
-- cex-discord-bot
-- dotdict-tool
-- dde-agent-lib
-- nanovecs
-- email-to-calendar
-- TSMasterAPI
-- firecracker-python
-- faird
-- SearchLibrium
-- videoipath-automation-tool
-- orionis
-- devstack-cli
-- chunked-anndata
-- judge-markday
-- kochen
-- mcp-sqlserver-filesystem
-- bizydraft
-- netree
-- cfbd
-- harmony-midi-token
-- dcap-qvl
-- slimformers
-- odoo-addon-helpdesk-mgmt-fieldservice-equipment-warranty
-- odoo-addon-helpdesk-mgmt-fieldservice-equipment
-- statzy
-- dff-py
-- log-added-func
-- exodus-calendar
-- odoo-addon-fieldservice-address-no-change
-- gs2-cdk
-- odoo-addon-fieldservice-equipment-warranty

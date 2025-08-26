@@ -1,0 +1,11 @@
+{
+  "name": "rich-tools",
+  "version": "0.6.0",
+  "summary": "A python package with helpful tools when working with the rich python library.",
+  "author": "Avi Perl",
+  "license": "MIT",
+  "home_page": "https://github.com/avi-perl/rich_tools",
+  "download_filename": "rich_tools-0.6.0.tar.gz",
+  "download_time": "2025-08-26T04:02:58.643627",
+  "package_url": "https://pypi.org/project/rich-tools/"
+}

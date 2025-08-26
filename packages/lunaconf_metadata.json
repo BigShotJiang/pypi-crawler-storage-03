@@ -1,0 +1,11 @@
+{
+  "name": "lunaconf",
+  "version": "0.1.0",
+  "summary": "lunaconf is a Python library to support easy-to-understand configuration for evaluations",
+  "author": "Wenrui Huang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lunaconf-0.1.0.tar.gz",
+  "download_time": "2025-08-26T04:03:01.783085",
+  "package_url": "https://pypi.org/project/lunaconf/"
+}
