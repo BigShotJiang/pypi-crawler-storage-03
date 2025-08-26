@@ -1,0 +1,11 @@
+{
+  "name": "pyPrecipTHR",
+  "version": "1.0.0",
+  "summary": "Flexible Temporal Hierarchical Reconciliation Package for Precipitation Forecasting",
+  "author": "Karthik Nayak",
+  "license": null,
+  "home_page": "https://github.com/Karthiknayak26",
+  "download_filename": "pyprecipthr-1.0.0.tar.gz",
+  "download_time": "2025-08-26T07:43:10.203290",
+  "package_url": "https://pypi.org/project/pyPrecipTHR/"
+}

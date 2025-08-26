@@ -1,0 +1,11 @@
+{
+  "name": "hagworm",
+  "version": "5.10.2",
+  "summary": "Network Development Suite",
+  "author": "Shaobo.Wang",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://gitee.com/wsb310/hagworm",
+  "download_filename": "hagworm-5.10.2.tar.gz",
+  "download_time": "2025-08-26T07:42:57.901545",
+  "package_url": "https://pypi.org/project/hagworm/"
+}

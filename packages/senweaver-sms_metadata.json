@@ -1,0 +1,11 @@
+{
+  "name": "senweaver-sms",
+  "version": "0.1.2",
+  "summary": "您的一站式 Python 短信发送解决方案",
+  "author": "senweaver",
+  "license": null,
+  "home_page": "https://github.com/senweaver/senweaver-sms",
+  "download_filename": "senweaver_sms-0.1.2.tar.gz",
+  "download_time": "2025-08-26T07:43:01.078400",
+  "package_url": "https://pypi.org/project/senweaver-sms/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clyrdia-cli",
+  "version": "1.0.5",
+  "summary": "Zero-Knowledge AI Benchmarking Platform",
+  "author": "Clyrdia Team",
+  "license": "Proprietary",
+  "home_page": "https://clyrdia.com",
+  "download_filename": "clyrdia_cli-1.0.5.tar.gz",
+  "download_time": "2025-08-26T07:43:03.209332",
+  "package_url": "https://pypi.org/project/clyrdia-cli/"
+}

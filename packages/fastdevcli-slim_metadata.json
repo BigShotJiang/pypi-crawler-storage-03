@@ -1,11 +1,11 @@
 {
   "name": "fastdevcli-slim",
-  "version": "0.17.2",
+  "version": "0.17.3",
   "summary": "Python project development tool.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastdevcli_slim-0.17.2.tar.gz",
-  "download_time": "2025-08-22T10:55:39.419509",
+  "download_filename": "fastdevcli_slim-0.17.3.tar.gz",
+  "download_time": "2025-08-26T07:43:20.699697",
   "package_url": "https://pypi.org/project/fastdevcli-slim/"
 }

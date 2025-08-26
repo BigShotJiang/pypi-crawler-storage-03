@@ -1,11 +1,11 @@
 {
   "name": "servicenow-api",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "Python ServiceNow API Wrapper",
   "author": "Audel Rouhi",
   "license": "MIT",
   "home_page": "https://github.com/Knuckles-Team/servicenow-api",
-  "download_filename": "servicenow_api-1.0.7-py2.py3-none-any.whl",
-  "download_time": "2025-08-26T06:56:44.667082",
+  "download_filename": "servicenow_api-1.0.8-py2.py3-none-any.whl",
+  "download_time": "2025-08-26T07:43:25.425761",
   "package_url": "https://pypi.org/project/servicenow-api/"
 }
