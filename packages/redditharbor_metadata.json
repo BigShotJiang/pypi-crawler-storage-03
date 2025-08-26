@@ -1,0 +1,11 @@
+{
+  "name": "redditharbor",
+  "version": "0.3",
+  "summary": "Effortlessly collect and store Reddit data in your database.",
+  "author": "Nick Oh",
+  "license": "MIT",
+  "home_page": "https://github.com/socius-org/RedditHarbor/",
+  "download_filename": "redditharbor-0.3-py3-none-any.whl",
+  "download_time": "2025-08-26T11:54:16.901377",
+  "package_url": "https://pypi.org/project/redditharbor/"
+}

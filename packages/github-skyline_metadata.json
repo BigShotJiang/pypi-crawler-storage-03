@@ -1,0 +1,11 @@
+{
+  "name": "github-skyline",
+  "version": "1.0.2",
+  "summary": "Package for generating a 3D contribution map on GitHub",
+  "author": "doctorixx",
+  "license": "MIT",
+  "home_page": "https://github.com/doctorixx/github-skyline",
+  "download_filename": "github_skyline-1.0.2.tar.gz",
+  "download_time": "2025-08-26T11:54:10.173148",
+  "package_url": "https://pypi.org/project/github-skyline/"
+}
