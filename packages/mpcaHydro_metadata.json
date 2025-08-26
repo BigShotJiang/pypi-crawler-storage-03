@@ -1,11 +1,11 @@
 {
   "name": "mpcaHydro",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Python package for downloading MPCA hydrology data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpcahydro-2.0.2.tar.gz",
-  "download_time": "2025-08-18T20:41:40.288971",
+  "download_filename": "mpcahydro-2.0.3.tar.gz",
+  "download_time": "2025-08-26T17:44:27.731251",
   "package_url": "https://pypi.org/project/mpcaHydro/"
 }

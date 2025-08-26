@@ -1,0 +1,11 @@
+{
+  "name": "metronome-pulse-sqlite",
+  "version": "0.1.0",
+  "summary": "High-performance SQLite connector for DataPulse - async-first, local storage, and development features",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metronome_pulse_sqlite-0.1.0.tar.gz",
+  "download_time": "2025-08-26T17:44:00.309225",
+  "package_url": "https://pypi.org/project/metronome-pulse-sqlite/"
+}

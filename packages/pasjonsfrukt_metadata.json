@@ -1,0 +1,11 @@
+{
+  "name": "pasjonsfrukt",
+  "version": "0.2.6",
+  "summary": "Scrape PodMe podcast streams to mp3 and host with RSS feed",
+  "author": "Mathias Oterhals Myklebust",
+  "license": null,
+  "home_page": "https://github.com/mathiazom/pasjonsfrukt",
+  "download_filename": "pasjonsfrukt-0.2.6.tar.gz",
+  "download_time": "2025-08-26T17:44:21.547131",
+  "package_url": "https://pypi.org/project/pasjonsfrukt/"
+}

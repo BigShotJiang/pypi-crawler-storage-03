@@ -1,0 +1,11 @@
+{
+  "name": "metronome-pulse-postgres-psycopg3",
+  "version": "0.1.0",
+  "summary": "PostgreSQL DataPulse connector using psycopg3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "metronome_pulse_postgres_psycopg3-0.1.0.tar.gz",
+  "download_time": "2025-08-26T17:43:58.762831",
+  "package_url": "https://pypi.org/project/metronome-pulse-postgres-psycopg3/"
+}

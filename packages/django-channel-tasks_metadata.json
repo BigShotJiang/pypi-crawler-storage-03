@@ -1,11 +1,11 @@
 {
   "name": "django-channel-tasks",
-  "version": "1.0.0.dev4",
+  "version": "1.1.0.dev0",
   "summary": "Running background tasks through websocket, using channels-redis, from Django Admin or REST API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_channel_tasks-1.0.0.dev4.tar.gz",
-  "download_time": "2025-08-19T18:26:50.100946",
+  "download_filename": "django_channel_tasks-1.1.0.dev0.tar.gz",
+  "download_time": "2025-08-26T17:44:11.736557",
   "package_url": "https://pypi.org/project/django-channel-tasks/"
 }
