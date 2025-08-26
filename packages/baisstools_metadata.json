@@ -1,0 +1,11 @@
+{
+  "name": "baisstools",
+  "version": "0.0.4",
+  "summary": "Baiss-Tools is a Python package designed to simplify and enhance the development.",
+  "author": "Abdelmathin Habachi",
+  "license": null,
+  "home_page": "https://github.com/tbeninnovation-mobileapp/baisstools",
+  "download_filename": "baisstools-0.0.4.tar.gz",
+  "download_time": "2025-08-26T19:53:58.668951",
+  "package_url": "https://pypi.org/project/baisstools/"
+}

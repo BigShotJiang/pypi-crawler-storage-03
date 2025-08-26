@@ -1,11 +1,11 @@
 {
   "name": "weni-rp-apps",
-  "version": "2.10.3",
+  "version": "2.10.4",
   "summary": "Weni apps for Rapidpro Platform",
   "author": "jcbalmeida",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "weni_rp_apps-2.10.3.tar.gz",
-  "download_time": "2025-08-19T21:51:24.206456",
+  "download_filename": "weni_rp_apps-2.10.4.tar.gz",
+  "download_time": "2025-08-26T19:53:51.956992",
   "package_url": "https://pypi.org/project/weni-rp-apps/"
 }

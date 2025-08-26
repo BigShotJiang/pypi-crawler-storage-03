@@ -1,0 +1,11 @@
+{
+  "name": "lalamo",
+  "version": "0.2.1",
+  "summary": "JAX library for optimization and export of models for use with the UZU inference engine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lalamo-0.2.1.tar.gz",
+  "download_time": "2025-08-26T19:54:01.247725",
+  "package_url": "https://pypi.org/project/lalamo/"
+}
