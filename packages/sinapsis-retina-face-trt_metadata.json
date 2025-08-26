@@ -1,11 +1,11 @@
 {
   "name": "sinapsis-retina-face-trt",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "trt version of retina face and facenet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sinapsis_retina_face_trt-0.1.11.tar.gz",
-  "download_time": "2025-08-26T21:42:02.032912",
+  "download_filename": "sinapsis_retina_face_trt-0.1.12.tar.gz",
+  "download_time": "2025-08-26T22:21:00.065920",
   "package_url": "https://pypi.org/project/sinapsis-retina-face-trt/"
 }

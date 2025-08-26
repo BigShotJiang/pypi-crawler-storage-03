@@ -1,0 +1,11 @@
+{
+  "name": "mangaba-ai",
+  "version": "1.0.0",
+  "summary": "Agente de IA inteligente e versátil",
+  "author": "Mangaba AI Team",
+  "license": null,
+  "home_page": "https://github.com/mangaba-ai/mangaba-ai",
+  "download_filename": "mangaba_ai-1.0.0.tar.gz",
+  "download_time": "2025-08-26T22:21:06.553669",
+  "package_url": "https://pypi.org/project/mangaba-ai/"
+}

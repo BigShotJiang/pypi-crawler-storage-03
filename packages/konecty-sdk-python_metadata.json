@@ -1,11 +1,11 @@
 {
   "name": "konecty-sdk-python",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "Konecty SDK Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "konecty_sdk_python-1.1.1.tar.gz",
-  "download_time": "2025-08-25T22:44:28.759003",
+  "download_filename": "konecty_sdk_python-1.2.1.tar.gz",
+  "download_time": "2025-08-26T22:20:50.014775",
   "package_url": "https://pypi.org/project/konecty-sdk-python/"
 }

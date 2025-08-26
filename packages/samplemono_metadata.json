@@ -1,0 +1,11 @@
+{
+  "name": "samplemono",
+  "version": "0.1.0",
+  "summary": "Open extrapolative generation with denoising",
+  "author": null,
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "samplemono-0.1.0.tar.gz",
+  "download_time": "2025-08-26T22:20:51.052713",
+  "package_url": "https://pypi.org/project/samplemono/"
+}

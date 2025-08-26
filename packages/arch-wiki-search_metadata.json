@@ -1,11 +1,11 @@
 {
   "name": "arch-wiki-search",
-  "version": "20250825",
+  "version": "20250826",
   "summary": "Read and search Archwiki and other wikis, online or offline, in HTML, markdown or text, on the desktop or the terminal",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arch_wiki_search-20250825.tar.gz",
-  "download_time": "2025-08-25T23:20:39.990750",
+  "download_filename": "arch_wiki_search-20250826.tar.gz",
+  "download_time": "2025-08-26T22:21:12.495092",
   "package_url": "https://pypi.org/project/arch-wiki-search/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flexlibs",
-  "version": "1.2.7",
+  "version": "1.2.7.1",
   "summary": "A library for accessing FieldWorks Language Explorer projects",
   "author": "Craig Farrow",
   "license": "\"GPL-2.0-or-later\"",
-  "home_page": "https://github.com/cdfarrow/flexlibs",
-  "download_filename": "flexlibs-1.2.7-py3-none-any.whl",
-  "download_time": "2025-08-25T07:27:07.817061",
+  "home_page": "https://github.com/cdfarrow/flexlibs/wiki",
+  "download_filename": "flexlibs-1.2.7.1-py3-none-any.whl",
+  "download_time": "2025-08-26T22:21:03.874272",
   "package_url": "https://pypi.org/project/flexlibs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flowtask",
-  "version": "5.9.8",
+  "version": "5.9.10",
   "summary": "Framework for Task orchestration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "flowtask-5.9.8-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2025-08-25T22:54:16.872449",
+  "download_filename": "flowtask-5.9.10-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2025-08-26T22:20:53.693629",
   "package_url": "https://pypi.org/project/flowtask/"
 }
