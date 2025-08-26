@@ -1,0 +1,11 @@
+{
+  "name": "airflow-model",
+  "version": "0.2.0",
+  "summary": "Custom Python library to simplify creation of Airflow DAGs and tasks",
+  "author": "Pedro Henrique Quaiato",
+  "license": null,
+  "home_page": "https://github.com/seuusuario/airflow-model",
+  "download_filename": "airflow_model-0.2.0.tar.gz",
+  "download_time": "2025-08-26T20:24:07.846223",
+  "package_url": "https://pypi.org/project/airflow-model/"
+}

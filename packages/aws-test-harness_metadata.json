@@ -1,11 +1,11 @@
 {
   "name": "aws-test-harness",
-  "version": "0.1.1a5",
+  "version": "0.1.1a6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aws_test_harness-0.1.1a5.tar.gz",
-  "download_time": "2025-08-26T13:25:25.163559",
+  "download_filename": "aws_test_harness-0.1.1a6.tar.gz",
+  "download_time": "2025-08-26T20:23:54.336853",
   "package_url": "https://pypi.org/project/aws-test-harness/"
 }

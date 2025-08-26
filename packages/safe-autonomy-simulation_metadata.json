@@ -1,0 +1,11 @@
+{
+  "name": "safe-autonomy-simulation",
+  "version": "2.2.0",
+  "summary": "A library for building continuous simulation environments, designed to support safe autonomy research.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safe_autonomy_simulation-2.2.0.tar.gz",
+  "download_time": "2025-08-26T20:24:30.294391",
+  "package_url": "https://pypi.org/project/safe-autonomy-simulation/"
+}

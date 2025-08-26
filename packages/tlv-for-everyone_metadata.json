@@ -1,0 +1,11 @@
+{
+  "name": "tlv-for-everyone",
+  "version": "0.1.0",
+  "summary": "Python BER-TLV parser/encoder for EMV & smartcard data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tlv_for_everyone-0.1.0.tar.gz",
+  "download_time": "2025-08-26T20:24:06.304100",
+  "package_url": "https://pypi.org/project/tlv-for-everyone/"
+}

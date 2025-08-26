@@ -1,0 +1,11 @@
+{
+  "name": "evomap",
+  "version": "0.5.1",
+  "summary": "A Python Toolbox for Mapping Evolving Relationship Data",
+  "author": "Maximilian Matthe, Daniel M. Ringel, Bernd Skiera",
+  "license": "MIT",
+  "home_page": "https://github.com/mpmatthe/evomap",
+  "download_filename": "evomap-0.5.1.tar.gz",
+  "download_time": "2025-08-26T20:24:19.940255",
+  "package_url": "https://pypi.org/project/evomap/"
+}
