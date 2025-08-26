@@ -1,11 +1,11 @@
 {
   "name": "creds-vault",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Secure environment variable synchronization tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "creds_vault-1.0.2.tar.gz",
-  "download_time": "2025-08-26T17:43:54.567865",
+  "download_filename": "creds_vault-1.0.3.tar.gz",
+  "download_time": "2025-08-26T19:30:26.973548",
   "package_url": "https://pypi.org/project/creds-vault/"
 }

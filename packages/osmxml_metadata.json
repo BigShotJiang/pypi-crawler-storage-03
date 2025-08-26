@@ -1,11 +1,11 @@
 {
   "name": "osmxml",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python object-oriented xml package",
   "author": "osmiumnet",
   "license": null,
   "home_page": null,
-  "download_filename": "osmxml-0.3.0.tar.gz",
-  "download_time": "2025-08-26T18:52:05.882279",
+  "download_filename": "osmxml-0.3.1.tar.gz",
+  "download_time": "2025-08-26T19:30:30.187120",
   "package_url": "https://pypi.org/project/osmxml/"
 }
