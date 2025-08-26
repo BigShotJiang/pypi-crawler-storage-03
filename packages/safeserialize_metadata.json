@@ -1,11 +1,11 @@
 {
   "name": "safeserialize",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A safe serialization library for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "safeserialize-0.0.3.tar.gz",
-  "download_time": "2025-08-26T16:27:05.342961",
+  "download_filename": "safeserialize-0.0.4.tar.gz",
+  "download_time": "2025-08-26T21:41:25.961054",
   "package_url": "https://pypi.org/project/safeserialize/"
 }

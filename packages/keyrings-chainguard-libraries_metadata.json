@@ -1,0 +1,11 @@
+{
+  "name": "keyrings-chainguard-libraries",
+  "version": "0.1.2",
+  "summary": "Chainctl keyring backend for Python package authentication",
+  "author": "Ajay Kemparaj",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/chainguard-dev/keyrings-chainguard-libraries",
+  "download_filename": "keyrings_chainguard_libraries-0.1.2.tar.gz",
+  "download_time": "2025-08-26T21:41:29.492149",
+  "package_url": "https://pypi.org/project/keyrings-chainguard-libraries/"
+}

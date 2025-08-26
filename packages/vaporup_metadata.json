@@ -1,0 +1,11 @@
+{
+  "name": "vaporup",
+  "version": "1.0.3",
+  "summary": "Vapor is a tool for classification of Influenza samples from short read sequence data, which can be apllied also to other viruses.",
+  "author": "Joel Southgate",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vaporup-1.0.3.tar.gz",
+  "download_time": "2025-08-26T21:41:39.124997",
+  "package_url": "https://pypi.org/project/vaporup/"
+}

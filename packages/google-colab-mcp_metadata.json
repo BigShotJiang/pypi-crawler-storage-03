@@ -1,0 +1,11 @@
+{
+  "name": "google-colab-mcp",
+  "version": "1.0.1",
+  "summary": "Model Context Protocol server for seamless Google Colab integration with AI assistants",
+  "author": "inkbytefo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_colab_mcp-1.0.1.tar.gz",
+  "download_time": "2025-08-26T21:41:45.048681",
+  "package_url": "https://pypi.org/project/google-colab-mcp/"
+}

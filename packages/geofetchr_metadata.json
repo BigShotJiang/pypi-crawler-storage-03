@@ -1,11 +1,11 @@
 {
   "name": "geofetchr",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Python package to search and organize GEO datasets by keyword, organism, assay type, find metadata and download.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geofetchr-0.1.3.tar.gz",
-  "download_time": "2025-08-26T18:29:52.231040",
+  "download_filename": "geofetchr-0.1.4.tar.gz",
+  "download_time": "2025-08-26T21:41:22.432065",
   "package_url": "https://pypi.org/project/geofetchr/"
 }

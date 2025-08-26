@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-dev-example",
+  "version": "2.2.0",
+  "summary": "Nautobot App to demonstrate how to create a Nautobot App.",
+  "author": "Network to Code, LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_dev_example-2.2.0.tar.gz",
+  "download_time": "2025-08-26T21:41:46.230134",
+  "package_url": "https://pypi.org/project/nautobot-dev-example/"
+}

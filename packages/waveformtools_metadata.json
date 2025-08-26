@@ -1,0 +1,11 @@
+{
+  "name": "waveformtools",
+  "version": "2025.8.26",
+  "summary": "Tools for working with numerical relativity and waveforms data ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waveformtools-2025.8.26.tar.gz",
+  "download_time": "2025-08-26T21:41:44.458936",
+  "package_url": "https://pypi.org/project/waveformtools/"
+}

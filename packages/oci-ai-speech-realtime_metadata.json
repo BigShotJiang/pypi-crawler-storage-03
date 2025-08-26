@@ -1,0 +1,11 @@
+{
+  "name": "oci-ai-speech-realtime",
+  "version": "2.2.0",
+  "summary": "Oracle Cloud Infrastructure Python SDK for Realtime Speech Service",
+  "author": "Oracle",
+  "license": "Universal Permissive License 1.0",
+  "home_page": "https://docs.oracle.com/en-us/iaas/tools/python/latest/index.html",
+  "download_filename": "oci_ai_speech_realtime-2.2.0.tar.gz",
+  "download_time": "2025-08-26T21:41:52.398667",
+  "package_url": "https://pypi.org/project/oci-ai-speech-realtime/"
+}
