@@ -1,0 +1,11 @@
+{
+  "name": "fastpluggy-debug-tools",
+  "version": "0.0.16",
+  "summary": "Debug Tools plugin for Fastpluggy",
+  "author": "FastPluggy Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpluggy_debug_tools-0.0.16.tar.gz",
+  "download_time": "2025-08-26T18:51:57.811950",
+  "package_url": "https://pypi.org/project/fastpluggy-debug-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-energetica-cooperator",
+  "version": "16.0.3.2.0",
+  "summary": "Odoo customizations for Energetica Cooperator.",
+  "author": "Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_energetica_cooperator-16.0.3.2.0.tar.gz",
+  "download_time": "2025-08-26T18:51:43.399883",
+  "package_url": "https://pypi.org/project/odoo-addon-energetica-cooperator/"
+}
