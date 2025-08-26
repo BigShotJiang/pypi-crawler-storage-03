@@ -1,11 +1,11 @@
 {
   "name": "craterstats",
-  "version": "3.5.1",
+  "version": "3.5.3",
   "summary": "Craterstats - a tool to analyse and plot crater count data for planetary surface dating",
   "author": "Greg Michael",
   "license": "BSD license",
   "home_page": "https://github.com/ggmichael/craterstats",
-  "download_filename": "craterstats-3.5.1.tar.gz",
-  "download_time": "2025-08-25T09:55:54.845043",
+  "download_filename": "craterstats-3.5.3.tar.gz",
+  "download_time": "2025-08-26T06:56:52.645559",
   "package_url": "https://pypi.org/project/craterstats/"
 }

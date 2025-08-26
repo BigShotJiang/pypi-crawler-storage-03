@@ -1,0 +1,11 @@
+{
+  "name": "jj-multi-db-mcp",
+  "version": "1.0.0",
+  "summary": "Multi-database MCP server supporting SQL Server, MySQL, Oracle, Redis and filesystem operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jj_multi_db_mcp-1.0.0.tar.gz",
+  "download_time": "2025-08-26T06:57:07.724629",
+  "package_url": "https://pypi.org/project/jj-multi-db-mcp/"
+}

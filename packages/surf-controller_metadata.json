@@ -1,0 +1,11 @@
+{
+  "name": "surf-controller",
+  "version": "0.4",
+  "summary": "CLI interface to control SURF VMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "surf_controller-0.4.tar.gz",
+  "download_time": "2025-08-26T06:57:10.965643",
+  "package_url": "https://pypi.org/project/surf-controller/"
+}

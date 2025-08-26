@@ -1,11 +1,11 @@
 {
   "name": "argflow",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "The easier and \"faster\" alternative to argparse.",
   "author": "alesisce",
   "license": "MIT",
-  "home_page": "https://github.com/tu_usuario/argflow",
-  "download_filename": "argflow-1.0.2.tar.gz",
-  "download_time": "2025-08-25T22:44:27.718309",
+  "home_page": "https://github.com/alesisce/argflow",
+  "download_filename": "argflow-1.0.3.tar.gz",
+  "download_time": "2025-08-26T06:56:43.040019",
   "package_url": "https://pypi.org/project/argflow/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nl2cmd",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Natural language to terminal command translation tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nl2cmd-1.0.0.tar.gz",
-  "download_time": "2025-08-26T05:45:32.638504",
+  "download_filename": "nl2cmd-1.1.0.tar.gz",
+  "download_time": "2025-08-26T06:57:27.911556",
   "package_url": "https://pypi.org/project/nl2cmd/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datamaxi",
+  "version": "0.26.0",
+  "summary": "Official Python SDK for DataMaxi+ API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datamaxi-0.26.0.tar.gz",
+  "download_time": "2025-08-26T06:56:46.303676",
+  "package_url": "https://pypi.org/project/datamaxi/"
+}
