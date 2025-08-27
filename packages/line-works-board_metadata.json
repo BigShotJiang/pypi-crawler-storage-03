@@ -1,11 +1,11 @@
 {
   "name": "line-works-board",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "LINE WORKS掲示板APIのPython SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "line_works_board-0.1.0.tar.gz",
-  "download_time": "2025-08-27T13:56:06.665895",
+  "download_filename": "line_works_board-0.1.1.tar.gz",
+  "download_time": "2025-08-27T14:47:03.991298",
   "package_url": "https://pypi.org/project/line-works-board/"
 }

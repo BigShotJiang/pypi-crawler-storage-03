@@ -1,0 +1,11 @@
+{
+  "name": "asksageclient",
+  "version": "1.32",
+  "summary": "Ask Sage Python Client API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asksageclient-1.32.tar.gz",
+  "download_time": "2025-08-27T14:47:02.968762",
+  "package_url": "https://pypi.org/project/asksageclient/"
+}

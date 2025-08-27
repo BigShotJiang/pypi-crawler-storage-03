@@ -1,0 +1,11 @@
+{
+  "name": "openedx-ledger",
+  "version": "1.6.7",
+  "summary": "Records transactions against a ledger, denominated in units of value.",
+  "author": "edX",
+  "license": "AGPL 3.0",
+  "home_page": "https://github.com/openedx/openedx-ledger",
+  "download_filename": "openedx_ledger-1.6.7.tar.gz",
+  "download_time": "2025-08-27T14:47:09.660330",
+  "package_url": "https://pypi.org/project/openedx-ledger/"
+}

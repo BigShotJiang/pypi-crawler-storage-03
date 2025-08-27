@@ -1,11 +1,11 @@
 {
   "name": "gofra",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "A Stack-based compiled programming language",
   "author": "Kirill Zhosul",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gofra-0.0.3.tar.gz",
-  "download_time": "2025-08-27T11:19:25.439418",
+  "download_filename": "gofra-0.0.5.tar.gz",
+  "download_time": "2025-08-27T14:46:23.943232",
   "package_url": "https://pypi.org/project/gofra/"
 }

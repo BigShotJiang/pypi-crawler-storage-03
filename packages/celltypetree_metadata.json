@@ -1,0 +1,11 @@
+{
+  "name": "celltypetree",
+  "version": "0.1.17",
+  "summary": "Single-Cell RNA-Seq label harmonization and voting on a tree of cell types",
+  "author": "Lorenzo Amir Nemati Fard",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celltypetree-0.1.17.tar.gz",
+  "download_time": "2025-08-27T14:46:29.403917",
+  "package_url": "https://pypi.org/project/celltypetree/"
+}

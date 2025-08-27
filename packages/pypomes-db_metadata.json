@@ -1,11 +1,11 @@
 {
   "name": "pypomes-db",
-  "version": "2.6.5",
+  "version": "2.6.6",
   "summary": "A collection of Python pomes, penyeach (database modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_db-2.6.5.tar.gz",
-  "download_time": "2025-08-25T18:31:17.232248",
+  "download_filename": "pypomes_db-2.6.6.tar.gz",
+  "download_time": "2025-08-27T14:46:28.891510",
   "package_url": "https://pypi.org/project/pypomes-db/"
 }
