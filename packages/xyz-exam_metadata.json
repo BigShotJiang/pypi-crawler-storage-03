@@ -1,0 +1,11 @@
+{
+  "name": "xyz-exam",
+  "version": "0.5.0",
+  "summary": "exam app",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-exam",
+  "download_filename": "xyz_exam-0.5.0-py3-none-any.whl",
+  "download_time": "2025-08-27T02:52:12.556851",
+  "package_url": "https://pypi.org/project/xyz-exam/"
+}

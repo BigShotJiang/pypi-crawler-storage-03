@@ -1,11 +1,11 @@
 {
   "name": "rfs-framework",
-  "version": "4.3.1",
+  "version": "4.3.3",
   "summary": "Enterprise-Grade Reactive Functional Serverless Framework for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rfs_framework-4.3.1.tar.gz",
-  "download_time": "2025-08-26T15:24:04.264599",
+  "download_filename": "rfs_framework-4.3.3.tar.gz",
+  "download_time": "2025-08-27T02:52:15.818923",
   "package_url": "https://pypi.org/project/rfs-framework/"
 }
