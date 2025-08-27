@@ -1,13 +1,30 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T14:59:23.354425
-- **Total Packages**: 88
-- **Total Size**: 54.62 MB
+- **Download Time**: 2025-08-27T15:24:11.121453
+- **Total Packages**: 85
+- **Total Size**: 22.58 MB
 
 ## Packages List
+- aurora-trinity
+- matrice
+- markdown-query
+- sentry-opensearch-nodestore
 - fyodorov-utils
 - fyodorov-llm-agents
+- planetmapper
+- pyskna
+- satip
+- faradaysec
+- pulumi-xyz
+- acolytes
+- pyflowercare
+- processing-pypelines
+- chATLAS_Chains
+- wexample-wex-addon-dev-javascript
+- wexample-helpers
+- ai-infra
+- simplecalculator-kj
 - doordeck-headless-sdk
 - chatlas
 - FlowCyPy
@@ -55,11 +72,9 @@
 - thousandeyes-sdk-usage
 - funcprod
 - pycrdt-store
-- pulumi-xyz
 - pydiverse-pipedag
 - tnfr
 - DepthTensor
-- pyskna
 - wexample-filestate
 - django-content-editor
 - wexample-helpers-api
@@ -76,21 +91,3 @@
 - wexample-app
 - wexample-filestate-dev
 - dara-components
-- dara-core
-- create-dara-app
-- lydwhitt-tools
-- pypomes-db
-- khutils
-- pre-commit-uv
-- thousandeyes-sdk-endpoint-agents
-- thousandeyes-sdk-credentials
-- thousandeyes-sdk-bgp-monitors
-- thousandeyes-sdk-test-results
-- thousandeyes-sdk-endpoint-test-results
-- thousandeyes-sdk-tags
-- thousandeyes-sdk-administrative
-- thousandeyes-sdk-emulation
-- thousandeyes-sdk-alerts
-- thousandeyes-sdk-event-detection
-- thousandeyes-sdk-streaming
-- thousandeyes-sdk-tests

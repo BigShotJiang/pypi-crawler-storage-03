@@ -1,0 +1,11 @@
+{
+  "name": "aurora-trinity",
+  "version": "1.1.1",
+  "summary": "Aurora Trinity-3: Fractal, Ethical, Free Electronic Intelligence",
+  "author": "Aurora Alliance",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Aurora-Program/Trinity-3",
+  "download_filename": "aurora_trinity-1.1.1.tar.gz",
+  "download_time": "2025-08-27T15:23:21.781020",
+  "package_url": "https://pypi.org/project/aurora-trinity/"
+}
