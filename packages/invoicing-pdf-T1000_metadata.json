@@ -1,0 +1,11 @@
+{
+  "name": "invoicing-pdf-T1000",
+  "version": "1.0.0",
+  "summary": "This package can be used to convert Excel invoices to PDF invoices.",
+  "author": "Ardit Sulce",
+  "license": "MIT",
+  "home_page": "https://example.com",
+  "download_filename": "invoicing_pdf_t1000-1.0.0.tar.gz",
+  "download_time": "2025-08-27T05:21:52.471456",
+  "package_url": "https://pypi.org/project/invoicing-pdf-T1000/"
+}

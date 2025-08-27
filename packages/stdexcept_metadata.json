@@ -1,0 +1,11 @@
+{
+  "name": "stdexcept",
+  "version": "0.1.0",
+  "summary": "Terminal Raise Error Tools",
+  "author": "RSC-E Studio",
+  "license": "MIT",
+  "home_page": "https://pymodule.rsc-studio.com/stdexcept",
+  "download_filename": "stdexcept-0.1.0.tar.gz",
+  "download_time": "2025-08-27T05:21:54.058959",
+  "package_url": "https://pypi.org/project/stdexcept/"
+}
