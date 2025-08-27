@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-dds20151201",
+  "version": "9.2.0",
+  "summary": "Alibaba Cloud Dds (20151201) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_dds20151201-9.2.0.tar.gz",
+  "download_time": "2025-08-27T08:28:14.513090",
+  "package_url": "https://pypi.org/project/alibabacloud-dds20151201/"
+}

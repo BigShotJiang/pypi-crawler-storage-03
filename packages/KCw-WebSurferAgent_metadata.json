@@ -1,0 +1,11 @@
+{
+  "name": "KCw-WebSurferAgent",
+  "version": "0.1.0",
+  "summary": "This is an agent package to automate KCw workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kcw_websurferagent-0.1.0.tar.gz",
+  "download_time": "2025-08-27T08:28:25.578890",
+  "package_url": "https://pypi.org/project/KCw-WebSurferAgent/"
+}

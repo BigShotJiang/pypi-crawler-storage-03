@@ -1,0 +1,11 @@
+{
+  "name": "argos",
+  "version": "0.4.5",
+  "summary": "Data inspector for HDF5, NetCDF4 and other file formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "argos-0.4.5.tar.gz",
+  "download_time": "2025-08-27T08:28:15.562611",
+  "package_url": "https://pypi.org/project/argos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "eitprocessing",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "summary": "Processing of lung image data from electrical impedance tomography.",
   "author": null,
   "license": "Apache-2.0 license",
   "home_page": null,
-  "download_filename": "eitprocessing-1.8.0.tar.gz",
-  "download_time": "2025-08-25T15:56:14.126057",
+  "download_filename": "eitprocessing-1.8.1.tar.gz",
+  "download_time": "2025-08-27T08:28:27.673703",
   "package_url": "https://pypi.org/project/eitprocessing/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "yz-rpa-utils",
+  "version": "0.1.79",
+  "summary": "整合紫鸟操作店铺API",
+  "author": "lzzkey",
+  "license": null,
+  "home_page": "https://github.com/lzzkey",
+  "download_filename": "yz_rpa_utils-0.1.79.tar.gz",
+  "download_time": "2025-08-27T08:28:17.639631",
+  "package_url": "https://pypi.org/project/yz-rpa-utils/"
+}

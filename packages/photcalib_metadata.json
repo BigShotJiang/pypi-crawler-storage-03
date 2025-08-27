@@ -1,0 +1,11 @@
+{
+  "name": "photcalib",
+  "version": "0.4",
+  "summary": "calibration tool for photometric data",
+  "author": "Zhen Yuan",
+  "license": null,
+  "home_page": "https://github.com/zyuan-astro/PhotCalib",
+  "download_filename": "photcalib-0.4.tar.gz",
+  "download_time": "2025-08-27T08:28:32.882973",
+  "package_url": "https://pypi.org/project/photcalib/"
+}
