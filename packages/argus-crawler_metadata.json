@@ -1,0 +1,11 @@
+{
+  "name": "argus-crawler",
+  "version": "1.0.0",
+  "summary": "A stealthy web crawler for intelligence gathering and cognitive noise analysis.",
+  "author": "Arifi Razzaq",
+  "license": null,
+  "home_page": "https://github.com/razzaqinspires/ORACLE",
+  "download_filename": "argus_crawler-1.0.0.tar.gz",
+  "download_time": "2025-08-27T13:20:47.136183",
+  "package_url": "https://pypi.org/project/argus-crawler/"
+}

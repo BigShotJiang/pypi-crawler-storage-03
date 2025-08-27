@@ -1,0 +1,11 @@
+{
+  "name": "remotivelabs-topology",
+  "version": "0.9.2",
+  "summary": "RemotiveLabs RemotiveTopology framework allows developers to easily create and run ECU stubs and control their behavior",
+  "author": "Remotivelabs",
+  "license": "You are using software provided by Remotive Labs AB pursuant to the terms of\n         the End User License Agreement located at https://www.remotivelabs.com/license.\n         This license sets out the only licensed rights granted to you with respect to\n         this software. By downloading or using such software, you accept and agree to\n         the terms of his license. This license is valid until  #{expiry}. After this\n         date, you need to either renew your license or cease all use of the software.",
+  "home_page": null,
+  "download_filename": "remotivelabs_topology-0.9.2.tar.gz",
+  "download_time": "2025-08-27T13:20:12.967933",
+  "package_url": "https://pypi.org/project/remotivelabs-topology/"
+}

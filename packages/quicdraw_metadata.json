@@ -1,0 +1,11 @@
+{
+  "name": "quicdraw",
+  "version": "0.0.3",
+  "summary": "QuicDraw Fuzzing and Racing HTTP/3 (over QUIC)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quicdraw-0.0.3.tar.gz",
+  "download_time": "2025-08-27T13:20:57.578901",
+  "package_url": "https://pypi.org/project/quicdraw/"
+}

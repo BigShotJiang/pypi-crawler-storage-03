@@ -1,0 +1,11 @@
+{
+  "name": "langchain-anthropic-smart-cache",
+  "version": "0.2.3",
+  "summary": "Intelligent cache management for LangChain Anthropic models with advanced optimization strategies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_anthropic_smart_cache-0.2.3.tar.gz",
+  "download_time": "2025-08-27T13:20:45.571896",
+  "package_url": "https://pypi.org/project/langchain-anthropic-smart-cache/"
+}

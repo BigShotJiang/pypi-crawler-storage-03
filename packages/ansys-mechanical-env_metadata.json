@@ -1,0 +1,11 @@
+{
+  "name": "ansys-mechanical-env",
+  "version": "0.1.17",
+  "summary": "A python wrapper for loading environment variables when using PyMechanical embedded instances in Linux.",
+  "author": "ANSYS, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/ansys/pymechanical-env",
+  "download_filename": "ansys_mechanical_env-0.1.17.tar.gz",
+  "download_time": "2025-08-27T13:20:35.182540",
+  "package_url": "https://pypi.org/project/ansys-mechanical-env/"
+}
