@@ -1,0 +1,11 @@
+{
+  "name": "geovisio",
+  "version": "2.10.0",
+  "summary": "GeoVisio API - Main",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geovisio-2.10.0-py3-none-any.whl",
+  "download_time": "2025-08-27T15:56:24.742422",
+  "package_url": "https://pypi.org/project/geovisio/"
+}

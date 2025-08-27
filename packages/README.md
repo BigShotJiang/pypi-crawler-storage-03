@@ -1,11 +1,59 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T15:45:24.190957
-- **Total Packages**: 81
-- **Total Size**: 44.08 MB
+- **Download Time**: 2025-08-27T15:57:05.815027
+- **Total Packages**: 78
+- **Total Size**: 42.83 MB
 
 ## Packages List
+- pyobis
+- geovisio
+- lvfpgahdltools
+- langfuse
+- pipecat-ai-flows
+- phandas
+- compas-pb
+- pinit-cli
+- skikitlean
+- agilab
+- petrus
+- primalschemers
+- agi-core
+- agi-cluster
+- node-installer
+- agi-node
+- agi-env
+- linux-mcp-toolkit
+- zscaler-sdk-python
+- lecrapaud
+- agatha-protobuf
+- vpmobil
+- scheduling-and-allocation
+- pyg-base
+- django-content-license
+- twigs
+- netbox-aws-vpc-plugin
+- powershell-mcp
+- bbot
+- st-oxview
+- streamlit-thesys
+- ingestr
+- mediaComp
+- ome-writers
+- coiled
+- tai-sql
+- Ryzenth
+- eodag
+- home-assistant-intents
+- svc-infra
+- galileo
+- xecm
+- lago-python-client
+- qutip-cuquantum
+- sysmaid
+- clc-by-ksdev
+- mappy-json-object-mapper
+- pycti
 - denario
 - comparesv
 - galaxy-py-misc
@@ -13,11 +61,8 @@
 - koi-net
 - dotdotdot
 - ccres-disdrometer-processing
-- mappy-json-object-mapper
 - openrewrite
-- lvfpgahdltools
 - bdext
-- powershell-mcp
 - libinephany
 - apm-cli
 - waves-workflows
@@ -32,7 +77,6 @@
 - brightdata-sdk
 - sunshine-conversations-client
 - patatune
-- petrus
 - pyspelling
 - tidy-cli
 - privateai-client
@@ -40,50 +84,3 @@
 - tinybird
 - emsuite
 - ick
-- cube-alchemy
-- laketower
-- django-content-license
-- tai-sql
-- heptapod
-- mtv-mcp
-- pyflowercare
-- brainrender-napari
-- polartools
-- moderatelyai-sdk
-- streamlit-thesys
-- ptpython
-- tofunc
-- langchain-community
-- flexibuddiesrl
-- any-guardrail
-- tidyspss
-- cawsmosis
-- panoramax_cli
-- tnfr
-- mangono-addon-odoo_cron_patch
-- verstack
-- bpynodearrange
-- erioon
-- bilichat-request
-- galaxy-py-www
-- photcalib
-- cutflow-compare
-- prompt-toolkit
-- unique_toolkit
-- clc-by-ksdev
-- torchrl-nightly
-- csv-detective
-- django-auto-drf
-- zlang
-- pulumi-provider-boilerplate
-- sl-shared-assets
-- tobiko-cloud-api-client
-- odp-sdk
-- tobiko-cloud-pydantic
-- ratio1
-- tobiko-cloud-helpers
-- processflow
-- universalinit
-- hypothesis
-- XER-Technologies-metadata-extractor
-- ccdexplorer-fundamentals

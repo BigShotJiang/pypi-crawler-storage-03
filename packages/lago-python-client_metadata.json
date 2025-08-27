@@ -1,0 +1,11 @@
+{
+  "name": "lago-python-client",
+  "version": "1.33.0",
+  "summary": "Lago Python API Client",
+  "author": "Lovro Colic",
+  "license": null,
+  "home_page": "https://github.com/getlago/lago-python-client",
+  "download_filename": "lago_python_client-1.33.0.tar.gz",
+  "download_time": "2025-08-27T15:56:46.787244",
+  "package_url": "https://pypi.org/project/lago-python-client/"
+}
