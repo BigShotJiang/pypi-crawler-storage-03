@@ -1,11 +1,11 @@
 {
   "name": "scuq",
-  "version": "0.9",
+  "version": "0.9.1",
   "summary": "Real and complex physical quantities with units with numpy support.",
   "author": "Hans Georg Krauthäuser, Thomas Reidemeister",
   "license": null,
   "home_page": null,
-  "download_filename": "scuq-0.9.tar.gz",
-  "download_time": "2025-08-26T14:22:01.138664",
+  "download_filename": "scuq-0.9.1.tar.gz",
+  "download_time": "2025-08-27T09:24:14.263114",
   "package_url": "https://pypi.org/project/scuq/"
 }

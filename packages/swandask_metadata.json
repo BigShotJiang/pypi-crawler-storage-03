@@ -1,0 +1,11 @@
+{
+  "name": "swandask",
+  "version": "0.0.6",
+  "summary": "Wrapper to run dask_jupyterlab as an external process",
+  "author": "SWAN Admins",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/swan-cern/jupyter-extensions",
+  "download_filename": "swandask-0.0.6.tar.gz",
+  "download_time": "2025-08-27T09:24:15.812684",
+  "package_url": "https://pypi.org/project/swandask/"
+}

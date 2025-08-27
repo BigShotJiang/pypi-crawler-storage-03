@@ -1,0 +1,11 @@
+{
+  "name": "cdwutils",
+  "version": "1.13.26",
+  "summary": "Common utils for CDW jobs.",
+  "author": "Common Data Warehouse team",
+  "license": null,
+  "home_page": "https://github.schibsted.io/analytical-foundations/cdw-utils",
+  "download_filename": "cdwutils-1.13.26-py3-none-any.whl",
+  "download_time": "2025-08-27T09:23:44.135721",
+  "package_url": "https://pypi.org/project/cdwutils/"
+}

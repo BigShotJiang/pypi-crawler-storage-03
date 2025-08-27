@@ -1,0 +1,11 @@
+{
+  "name": "data-science-visualization-assistant",
+  "version": "0.1.0",
+  "summary": "LLM-powered Data Science & Visualization Assistant with Streamlit",
+  "author": "Vishnu",
+  "license": "MIT",
+  "home_page": "https://github.com/Vishnuu011/data-science-visualization-assistant",
+  "download_filename": "data_science_visualization_assistant-0.1.0.tar.gz",
+  "download_time": "2025-08-27T09:23:31.925926",
+  "package_url": "https://pypi.org/project/data-science-visualization-assistant/"
+}

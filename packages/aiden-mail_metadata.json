@@ -1,0 +1,11 @@
+{
+  "name": "aiden-mail",
+  "version": "0.1.9",
+  "summary": "An email MCP server with IMAP and SMTP support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiden_mail-0.1.9.tar.gz",
+  "download_time": "2025-08-27T09:24:16.331350",
+  "package_url": "https://pypi.org/project/aiden-mail/"
+}

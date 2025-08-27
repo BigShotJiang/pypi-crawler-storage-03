@@ -1,11 +1,11 @@
 {
   "name": "agentsystems-toolkit",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Development toolkit for building AgentSystems agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentsystems_toolkit-0.1.4.tar.gz",
-  "download_time": "2025-08-27T01:32:00.163264",
+  "download_filename": "agentsystems_toolkit-0.1.6.tar.gz",
+  "download_time": "2025-08-27T09:23:52.819704",
   "package_url": "https://pypi.org/project/agentsystems-toolkit/"
 }

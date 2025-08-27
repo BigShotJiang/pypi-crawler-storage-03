@@ -1,11 +1,11 @@
 {
   "name": "dmasyncwrapper",
-  "version": "0.0.1.dev19",
+  "version": "0.0.1.dev20",
   "summary": "DaMeng Async Wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmasyncwrapper-0.0.1.dev19.tar.gz",
-  "download_time": "2025-08-22T23:20:16.672401",
+  "download_filename": "dmasyncwrapper-0.0.1.dev20.tar.gz",
+  "download_time": "2025-08-27T09:24:17.384251",
   "package_url": "https://pypi.org/project/dmasyncwrapper/"
 }

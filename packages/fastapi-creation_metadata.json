@@ -1,11 +1,11 @@
 {
   "name": "fastapi-creation",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A FastAPI project scaffolding tool",
   "author": "MrMrProgrammer",
   "license": "MIT",
   "home_page": "https://github.com/MrMrProgrammer/fastapi-creation",
-  "download_filename": "fastapi_creation-0.0.4.tar.gz",
-  "download_time": "2025-08-27T08:50:04.024559",
+  "download_filename": "fastapi_creation-0.0.5.tar.gz",
+  "download_time": "2025-08-27T09:24:00.438453",
   "package_url": "https://pypi.org/project/fastapi-creation/"
 }

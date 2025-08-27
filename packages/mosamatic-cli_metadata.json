@@ -1,11 +1,11 @@
 {
   "name": "mosamatic-cli",
-  "version": "1.6.4",
-  "summary": "A CLI tool for body composition analysis from DICOM CT scans (Windows version)",
+  "version": "1.6.5",
+  "summary": null,
   "author": "Ralph Brecheisen",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "mosamatic_cli-1.6.4.tar.gz",
-  "download_time": "2025-08-26T11:54:12.659321",
+  "download_filename": "mosamatic_cli-1.6.5.tar.gz",
+  "download_time": "2025-08-27T09:23:42.034954",
   "package_url": "https://pypi.org/project/mosamatic-cli/"
 }
