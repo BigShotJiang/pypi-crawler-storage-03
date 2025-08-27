@@ -1,11 +1,11 @@
 {
   "name": "mtcli-pa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Plugin mtcli para calcular níveis e projeções de price action",
   "author": "Valmir França da Silva",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "mtcli_pa-1.0.0.tar.gz",
-  "download_time": "2025-08-27T09:44:22.563442",
+  "download_filename": "mtcli_pa-1.0.1.tar.gz",
+  "download_time": "2025-08-27T09:55:18.119103",
   "package_url": "https://pypi.org/project/mtcli-pa/"
 }

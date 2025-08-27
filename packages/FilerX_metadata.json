@@ -1,0 +1,11 @@
+{
+  "name": "FilerX",
+  "version": "1.0.0",
+  "summary": "Universal config loader with auto-detect, nested keys, merge, and file watcher (JSON/YAML/TOML)",
+  "author": "ali-jafari",
+  "license": "MIT",
+  "home_page": "https://github.com/iTs-GoJo/FilerX",
+  "download_filename": "filerx-1.0.0.tar.gz",
+  "download_time": "2025-08-27T09:55:18.691300",
+  "package_url": "https://pypi.org/project/FilerX/"
+}

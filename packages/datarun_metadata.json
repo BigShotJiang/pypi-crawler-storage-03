@@ -1,11 +1,11 @@
 {
   "name": "datarun",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "A simple data cleansing tool using pandas",
   "author": "Arun Sundar K",
   "license": "MIT",
   "home_page": "https://github.com/arunsundark01/datarun",
-  "download_filename": "datarun-0.2.2.tar.gz",
-  "download_time": "2025-08-27T09:44:24.108759",
+  "download_filename": "datarun-0.2.4.tar.gz",
+  "download_time": "2025-08-27T09:55:39.057741",
   "package_url": "https://pypi.org/project/datarun/"
 }

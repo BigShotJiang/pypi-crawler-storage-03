@@ -1,0 +1,11 @@
+{
+  "name": "inventree-adv-sheet-label",
+  "version": "1.2.2",
+  "summary": "A label printing plugin for InvenTree which provides support for printing labels on off-the-shelf label sheet layouts and adds some more useful features.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inventree_adv_sheet_label-1.2.2.tar.gz",
+  "download_time": "2025-08-27T09:55:20.418785",
+  "package_url": "https://pypi.org/project/inventree-adv-sheet-label/"
+}

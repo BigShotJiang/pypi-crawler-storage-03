@@ -1,11 +1,11 @@
 {
   "name": "adaup",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A Python package for interacting with Cardano.",
   "author": "Sudip Bhattarai",
   "license": null,
   "home_page": "https://github.com/dquadrant/kuber",
-  "download_filename": "adaup-0.1.4.tar.gz",
-  "download_time": "2025-08-20T11:17:22.934771",
+  "download_filename": "adaup-0.1.5.tar.gz",
+  "download_time": "2025-08-27T09:55:06.687048",
   "package_url": "https://pypi.org/project/adaup/"
 }

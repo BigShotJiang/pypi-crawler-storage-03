@@ -1,13 +1,65 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T09:45:06.073416
-- **Total Packages**: 82
-- **Total Size**: 29.33 MB
+- **Download Time**: 2025-08-27T09:55:56.825418
+- **Total Packages**: 87
+- **Total Size**: 19.48 MB
 
 ## Packages List
-- nvidia-nat-zep-cloud
+- mathmaker
+- agilab
+- loky
+- adaup
+- dify-oapi2
+- airalogy
+- classy
+- agi-core
+- agi-cluster
+- agi-node
+- agi-env
+- mosamatic-cli
+- nextpoints-sdk
+- fastcaddy
+- meltingplot.duet-simplyprint-connector
+- galamo
+- pythonflex
+- pyfabricops
+- xtrade-ai
+- lecrapaud
 - mtcli-pa
+- FilerX
+- stompman
+- sysmaid
+- inventree-adv-sheet-label
+- omniopt2
+- minesweepervariants
+- bailo
+- eformer
+- nvidia-nat-opentelemetry
+- nvidia-nat-phoenix
+- enc4ppm
+- amcl
+- nvidia-nat-mem0ai
+- lmnr
+- unicorn-eval
+- MUSE-OS
+- nvidia-nat-mysql
+- aas-http-client
+- nvidia-nat-crewai
+- mayutils
+- chATLAS_Chains
+- nvidia-nat-agno
+- nvidia-nat-llama-index
+- nvidia-nat-all
+- nvidia-nat-redis
+- aisberg
+- nvidia-nat-profiling
+- qwak-core
+- manim-slides
+- nvidia-nat-ingestion
+- nvidia-nat-langchain
+- yeref
+- nvidia-nat-zep-cloud
 - tudata
 - nvidia-nat-s3
 - datarun
@@ -18,7 +70,6 @@
 - nvidia-nat-weave
 - extractreqs
 - nvidia-nat-semantic-kernel
-- omniopt2
 - gplotter
 - vsec-tls
 - nvidia-nat-test
@@ -27,7 +78,6 @@
 - aiqtoolkit-zep-cloud
 - aiqtoolkit
 - idapro
-- pythonflex
 - aiqtoolkit-agno
 - aiqtoolkit-mem0ai
 - aiqtoolkit-semantic-kernel
@@ -40,51 +90,6 @@
 - aiqtoolkit-weave
 - ASTPARSER
 - aosp-easy
-- mosamatic-cli
 - aiqtoolkit-crewai
 - mcp-quiz-generator
 - DependiPy
-- datacite-websnap
-- volcanic-checker
-- pyams-zfiles
-- huggingface-daily-paper-mcp
-- myxagent
-- standard-agent
-- scanoss
-- datasure
-- ingestr
-- neo4j-viz
-- sysmaid
-- yz-rpa-utils
-- internal
-- emiproc
-- ablelabs
-- carla-driving-simulator-client
-- tessdb-reports
-- emmaemb
-- spaceone-api
-- port-ocean
-- watsonx-haystack
-- prediction-market-agent-tooling
-- cmsdism
-- diagnosticism
-- neosqlite
-- dynsight
-- voxel_tool_client
-- PureCloudPlatformClientV2
-- foscat
-- ut-eviq
-- pystack3d
-- django-chelseru
-- pystack3d-napari
-- edx-enterprise-data
-- fastapi-creation
-- django-channel-tasks
-- galamo
-- appabuild
-- vital
-- fastcaddy
-- asksage-proxy
-- pyams-file
-- amusic
-- dataforseo-client
