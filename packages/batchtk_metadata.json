@@ -1,11 +1,11 @@
 {
   "name": "batchtk",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Batch submission toolkit for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "batchtk-0.1.1.tar.gz",
-  "download_time": "2025-08-21T07:03:39.605640",
+  "download_filename": "batchtk-0.1.2.tar.gz",
+  "download_time": "2025-08-27T06:31:07.118227",
   "package_url": "https://pypi.org/project/batchtk/"
 }

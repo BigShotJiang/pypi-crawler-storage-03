@@ -1,11 +1,11 @@
 {
   "name": "azure-ai-healthcheck",
-  "version": "0.1.1a2",
+  "version": "0.1.1",
   "summary": "Lightweight health checks for Azure OpenAI and Azure AI Vision",
   "author": "Minseok Song",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "azure_ai_healthcheck-0.1.1a2.tar.gz",
-  "download_time": "2025-08-27T04:26:00.442969",
+  "download_filename": "azure_ai_healthcheck-0.1.1.tar.gz",
+  "download_time": "2025-08-27T06:31:22.994131",
   "package_url": "https://pypi.org/project/azure-ai-healthcheck/"
 }

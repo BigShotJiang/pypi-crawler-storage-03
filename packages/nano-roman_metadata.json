@@ -1,0 +1,11 @@
+{
+  "name": "nano-roman",
+  "version": "0.1.1",
+  "summary": "Tiny Roman↔Decimal converter in ~1KB (zero deps)",
+  "author": "ozgunlu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nano_roman-0.1.1.tar.gz",
+  "download_time": "2025-08-27T06:31:18.787221",
+  "package_url": "https://pypi.org/project/nano-roman/"
+}

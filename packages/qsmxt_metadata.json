@@ -1,11 +1,11 @@
 {
   "name": "qsmxt",
-  "version": "8.1.2",
+  "version": "8.1.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qsmxt-8.1.2.tar.gz",
-  "download_time": "2025-08-27T03:37:53.864679",
+  "download_filename": "qsmxt-8.1.3.tar.gz",
+  "download_time": "2025-08-27T06:30:53.923163",
   "package_url": "https://pypi.org/project/qsmxt/"
 }
