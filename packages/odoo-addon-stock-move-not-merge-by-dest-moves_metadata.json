@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-stock-move-not-merge-by-dest-moves",
+  "version": "16.0.1.0.1",
+  "summary": "Do not merge stock moves that go to different destination moves",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-workflow",
+  "download_filename": "odoo_addon_stock_move_not_merge_by_dest_moves-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2025-08-27T11:19:49.117469",
+  "package_url": "https://pypi.org/project/odoo-addon-stock-move-not-merge-by-dest-moves/"
+}

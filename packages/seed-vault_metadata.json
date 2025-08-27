@@ -1,0 +1,11 @@
+{
+  "name": "seed-vault",
+  "version": "1.0.9",
+  "summary": "GUI and CLI utility to interface with FDSN seismic data centers to search, download, and archive event and continuous waveform data.",
+  "author": "Ben Motevalli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seed_vault-1.0.9.tar.gz",
+  "download_time": "2025-08-27T11:19:43.986507",
+  "package_url": "https://pypi.org/project/seed-vault/"
+}

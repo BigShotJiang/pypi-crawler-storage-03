@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-monday",
+  "version": "0.3.0",
+  "summary": "MCP Server for monday.com",
+  "author": "Jovan Sakovic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_monday-0.3.0.tar.gz",
+  "download_time": "2025-08-27T11:19:26.977812",
+  "package_url": "https://pypi.org/project/mcp-server-monday/"
+}

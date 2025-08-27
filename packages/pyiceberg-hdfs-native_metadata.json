@@ -1,0 +1,11 @@
+{
+  "name": "pyiceberg-hdfs-native",
+  "version": "0.2.0",
+  "summary": "Provides a pyiceberg.io.FileIO implementation for hdfs-native client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyiceberg_hdfs_native-0.2.0.tar.gz",
+  "download_time": "2025-08-27T11:19:19.252836",
+  "package_url": "https://pypi.org/project/pyiceberg-hdfs-native/"
+}

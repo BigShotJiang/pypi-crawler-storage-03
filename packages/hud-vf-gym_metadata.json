@@ -1,11 +1,11 @@
 {
   "name": "hud-vf-gym",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "HUD environments for Reinforcement Learning through Verifiers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hud_vf_gym-0.1.0.tar.gz",
-  "download_time": "2025-08-26T22:21:22.531492",
+  "download_filename": "hud_vf_gym-0.1.1.tar.gz",
+  "download_time": "2025-08-27T11:19:39.377700",
   "package_url": "https://pypi.org/project/hud-vf-gym/"
 }

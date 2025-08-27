@@ -1,0 +1,11 @@
+{
+  "name": "crem",
+  "version": "0.2.16",
+  "summary": "CReM: chemically reasonable mutations framework",
+  "author": "Pavel Polishchuk",
+  "license": null,
+  "home_page": "https://github.com/DrrDom/crem",
+  "download_filename": "crem-0.2.16.tar.gz",
+  "download_time": "2025-08-27T11:19:50.661512",
+  "package_url": "https://pypi.org/project/crem/"
+}
