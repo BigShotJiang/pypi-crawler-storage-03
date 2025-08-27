@@ -1,0 +1,11 @@
+{
+  "name": "sagemath-objects",
+  "version": "10.7",
+  "summary": "Sage: Open Source Mathematics Software: Sage objects, elements, parents, categories, coercion, metaclasses",
+  "author": null,
+  "license": "GNU General Public License (GPL) v2 or later",
+  "home_page": null,
+  "download_filename": "sagemath_objects-10.7.tar.gz",
+  "download_time": "2025-08-27T16:50:14.159326",
+  "package_url": "https://pypi.org/project/sagemath-objects/"
+}

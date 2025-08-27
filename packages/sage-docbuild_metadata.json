@@ -1,0 +1,11 @@
+{
+  "name": "sage-docbuild",
+  "version": "10.7",
+  "summary": "Sage: Open Source Mathematics Software: Build system of the Sage documentation",
+  "author": null,
+  "license": "GNU General Public License (GPL) v2 or later",
+  "home_page": null,
+  "download_filename": "sage_docbuild-10.7.tar.gz",
+  "download_time": "2025-08-27T16:50:17.841294",
+  "package_url": "https://pypi.org/project/sage-docbuild/"
+}

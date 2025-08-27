@@ -1,0 +1,11 @@
+{
+  "name": "octo-infra-aws-python",
+  "version": "2.0.2",
+  "summary": "Octo AWS infra",
+  "author": "Ofir Iluz",
+  "license": "MIT",
+  "home_page": "https://github.com/ofiriluz/octo-infra-aws-python",
+  "download_filename": "octo_infra_aws_python-2.0.2-py3-none-any.whl",
+  "download_time": "2025-08-27T16:50:08.329163",
+  "package_url": "https://pypi.org/project/octo-infra-aws-python/"
+}

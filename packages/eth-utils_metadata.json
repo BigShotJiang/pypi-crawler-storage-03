@@ -1,0 +1,11 @@
+{
+  "name": "eth-utils",
+  "version": "5.3.1",
+  "summary": "eth-utils: Common utility functions for python code that interacts with Ethereum",
+  "author": "The Ethereum Foundation",
+  "license": "MIT",
+  "home_page": "https://github.com/ethereum/eth-utils",
+  "download_filename": "eth_utils-5.3.1.tar.gz",
+  "download_time": "2025-08-27T16:50:33.153964",
+  "package_url": "https://pypi.org/project/eth-utils/"
+}

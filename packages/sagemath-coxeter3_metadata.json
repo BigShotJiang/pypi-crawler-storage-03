@@ -1,0 +1,11 @@
+{
+  "name": "sagemath-coxeter3",
+  "version": "10.7",
+  "summary": "Sage: Open Source Mathematics Software: Coxeter groups, Bruhat ordering, Kazhdan-Lusztig polynomials with coxeter3",
+  "author": null,
+  "license": "GNU General Public License (GPL) v2 or later",
+  "home_page": null,
+  "download_filename": "sagemath_coxeter3-10.7.tar.gz",
+  "download_time": "2025-08-27T16:50:15.740627",
+  "package_url": "https://pypi.org/project/sagemath-coxeter3/"
+}

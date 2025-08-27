@@ -1,0 +1,11 @@
+{
+  "name": "xyz-wechat",
+  "version": "0.3.0",
+  "summary": "wechat utils",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-wechat",
+  "download_filename": "xyz_wechat-0.3.0-py3-none-any.whl",
+  "download_time": "2025-08-27T16:50:21.081612",
+  "package_url": "https://pypi.org/project/xyz-wechat/"
+}

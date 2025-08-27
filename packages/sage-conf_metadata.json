@@ -1,0 +1,11 @@
+{
+  "name": "sage-conf",
+  "version": "10.7",
+  "summary": "Sage: Open Source Mathematics Software: Configuration module for the SageMath library",
+  "author": "The Sage Developers",
+  "license": "GNU General Public License (GPL) v3 or later",
+  "home_page": "https://www.sagemath.org",
+  "download_filename": "sage_conf-10.7.tar.gz",
+  "download_time": "2025-08-27T16:50:18.400368",
+  "package_url": "https://pypi.org/project/sage-conf/"
+}

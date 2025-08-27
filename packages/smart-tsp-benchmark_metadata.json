@@ -1,11 +1,11 @@
 {
   "name": "smart-tsp-benchmark",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "summary": "Smart TSP Benchmark is a professional algorithm testing infrastructure with customizable scenarios and detailed metrics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "smart_tsp_benchmark-0.1.7.tar.gz",
-  "download_time": "2025-08-25T06:34:12.329688",
+  "download_filename": "smart_tsp_benchmark-0.2.1.tar.gz",
+  "download_time": "2025-08-27T16:50:32.633438",
   "package_url": "https://pypi.org/project/smart-tsp-benchmark/"
 }

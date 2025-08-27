@@ -1,0 +1,11 @@
+{
+  "name": "xyz-todo",
+  "version": "0.2.0",
+  "summary": "todo",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-todo",
+  "download_filename": "xyz_todo-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T16:50:03.121275",
+  "package_url": "https://pypi.org/project/xyz-todo/"
+}

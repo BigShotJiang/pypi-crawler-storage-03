@@ -1,0 +1,11 @@
+{
+  "name": "xyz-verify",
+  "version": "0.2.0",
+  "summary": "verify",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-verify",
+  "download_filename": "xyz_verify-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T16:50:06.762795",
+  "package_url": "https://pypi.org/project/xyz-verify/"
+}

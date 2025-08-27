@@ -1,0 +1,11 @@
+{
+  "name": "xyz-course",
+  "version": "0.2.0",
+  "summary": "course",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-course",
+  "download_filename": "xyz_course-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T16:50:07.810271",
+  "package_url": "https://pypi.org/project/xyz-course/"
+}
