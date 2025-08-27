@@ -1,11 +1,11 @@
 {
   "name": "mcp-db-filesystem",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Simple and efficient MCP server for multi-database (SQL Server, MySQL) and Redis access with filesystem operations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_db_filesystem-1.1.0.tar.gz",
-  "download_time": "2025-08-27T05:43:41.810220",
+  "download_filename": "mcp_db_filesystem-1.1.1.tar.gz",
+  "download_time": "2025-08-27T05:54:07.948792",
   "package_url": "https://pypi.org/project/mcp-db-filesystem/"
 }

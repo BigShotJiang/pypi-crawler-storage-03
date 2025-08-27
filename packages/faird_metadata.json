@@ -1,11 +1,11 @@
 {
   "name": "faird",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "A SDK for working with DataFrame",
   "author": "rdcn",
   "license": null,
   "home_page": null,
-  "download_filename": "faird-1.1.7.tar.gz",
-  "download_time": "2025-08-26T10:58:36.058457",
+  "download_filename": "faird-1.1.8.tar.gz",
+  "download_time": "2025-08-27T05:54:05.332025",
   "package_url": "https://pypi.org/project/faird/"
 }

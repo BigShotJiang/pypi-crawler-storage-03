@@ -1,11 +1,11 @@
 {
   "name": "volute-xls",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "MCP server for Excel analysis and multimodal AI integration - comprehensive metadata extraction and sheet image capture for agents",
   "author": "Coritan",
   "license": "MIT",
   "home_page": "https://gitlab.com/coritan/volute-xls",
-  "download_filename": "volute_xls-1.1.1.tar.gz",
-  "download_time": "2025-08-27T05:43:39.757906",
+  "download_filename": "volute_xls-1.1.2.tar.gz",
+  "download_time": "2025-08-27T05:54:00.011279",
   "package_url": "https://pypi.org/project/volute-xls/"
 }
