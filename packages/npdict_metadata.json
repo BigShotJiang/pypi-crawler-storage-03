@@ -1,0 +1,11 @@
+{
+  "name": "npdict",
+  "version": "0.0.5",
+  "summary": "A Python dictionary wrapper for numpy arrays",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npdict-0.0.5.tar.gz",
+  "download_time": "2025-08-27T03:37:53.344852",
+  "package_url": "https://pypi.org/project/npdict/"
+}

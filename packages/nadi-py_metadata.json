@@ -1,0 +1,11 @@
+{
+  "name": "nadi-py",
+  "version": "0.7.2",
+  "summary": "Python bindings to the Network Analysis and Data Integration (NADI) System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nadi_py-0.7.2.tar.gz",
+  "download_time": "2025-08-27T03:38:03.770157",
+  "package_url": "https://pypi.org/project/nadi-py/"
+}

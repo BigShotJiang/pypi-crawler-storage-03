@@ -1,0 +1,11 @@
+{
+  "name": "littlefs-tools",
+  "version": "1.1.6",
+  "summary": "Python package to create littleFS filesystem image binaries",
+  "author": "Vysakh P Pillai",
+  "license": "MIT",
+  "home_page": "https://github.com/vppillai/littlefs_tools",
+  "download_filename": "littlefs_tools-1.1.6.tar.gz",
+  "download_time": "2025-08-27T03:37:35.569221",
+  "package_url": "https://pypi.org/project/littlefs-tools/"
+}

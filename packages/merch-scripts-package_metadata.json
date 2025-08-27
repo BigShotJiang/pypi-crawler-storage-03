@@ -1,0 +1,11 @@
+{
+  "name": "merch-scripts-package",
+  "version": "99.0.1",
+  "summary": "This package name is reserved to prevent dependency confusion attacks. Do not install.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "merch_scripts_package-99.0.1.tar.gz",
+  "download_time": "2025-08-27T03:37:32.953358",
+  "package_url": "https://pypi.org/project/merch-scripts-package/"
+}

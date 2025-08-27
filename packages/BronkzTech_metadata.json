@@ -1,0 +1,11 @@
+{
+  "name": "BronkzTech",
+  "version": "1.0.1",
+  "summary": "Cliente para a API da BronkzTech usando token",
+  "author": "Dran",
+  "license": null,
+  "home_page": "https://discord.gg/MJ5qfSqRy8",
+  "download_filename": "bronkztech-1.0.1.tar.gz",
+  "download_time": "2025-08-27T03:37:37.131691",
+  "package_url": "https://pypi.org/project/BronkzTech/"
+}
