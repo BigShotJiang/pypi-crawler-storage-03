@@ -1,11 +1,11 @@
 {
   "name": "nanoBragg-noise",
-  "version": "1.6",
+  "version": "1.9",
   "summary": "A command-line tool to add noise to simulated H5 data.",
   "author": null,
-  "license": null,
+  "license": "MIT License",
   "home_page": null,
-  "download_filename": "nanobragg_noise-1.6.tar.gz",
-  "download_time": "2025-08-27T16:27:59.276820",
+  "download_filename": "nanobragg_noise-1.9.tar.gz",
+  "download_time": "2025-08-27T17:20:25.760366",
   "package_url": "https://pypi.org/project/nanoBragg-noise/"
 }

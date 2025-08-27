@@ -1,11 +1,11 @@
 {
   "name": "holobench",
-  "version": "1.51.3",
+  "version": "1.52.0",
   "summary": "A package for benchmarking the performance of arbitrary functions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "holobench-1.51.3.tar.gz",
-  "download_time": "2025-08-27T14:46:58.286862",
+  "download_filename": "holobench-1.52.0.tar.gz",
+  "download_time": "2025-08-27T17:20:35.688242",
   "package_url": "https://pypi.org/project/holobench/"
 }

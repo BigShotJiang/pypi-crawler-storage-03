@@ -1,0 +1,11 @@
+{
+  "name": "keye-vl-utils",
+  "version": "1.5.0",
+  "summary": "Keye Vision Language Model Utils - PyTorch",
+  "author": "Kwai Keye Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "keye_vl_utils-1.5.0.tar.gz",
+  "download_time": "2025-08-27T17:20:18.882472",
+  "package_url": "https://pypi.org/project/keye-vl-utils/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pinit-cli",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A smart Python project initializer and dependency manager.",
   "author": "Bhargav",
   "license": null,
   "home_page": null,
-  "download_filename": "pinit_cli-0.1.1.tar.gz",
-  "download_time": "2025-08-27T15:56:27.932070",
+  "download_filename": "pinit_cli-0.1.3.tar.gz",
+  "download_time": "2025-08-27T17:20:27.845107",
   "package_url": "https://pypi.org/project/pinit-cli/"
 }

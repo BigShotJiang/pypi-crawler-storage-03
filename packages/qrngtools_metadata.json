@@ -1,11 +1,11 @@
 {
   "name": "qrngtools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Quantum random number generation using IBM Quantum (Qiskit)",
   "author": "INVINCIBLES",
   "license": "AUCE",
   "home_page": "https://github.com/karthikeyadusi/qrngtools",
-  "download_filename": "qrngtools-0.1.1.tar.gz",
-  "download_time": "2025-08-27T16:50:33.678697",
+  "download_filename": "qrngtools-0.1.2.tar.gz",
+  "download_time": "2025-08-27T17:20:16.774525",
   "package_url": "https://pypi.org/project/qrngtools/"
 }
