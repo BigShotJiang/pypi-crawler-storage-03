@@ -1,0 +1,11 @@
+{
+  "name": "viais-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for ViAIF pull-push service",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "viais_cli-0.1.0.tar.gz",
+  "download_time": "2025-08-27T07:42:37.822049",
+  "package_url": "https://pypi.org/project/viais-cli/"
+}

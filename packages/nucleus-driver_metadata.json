@@ -1,0 +1,11 @@
+{
+  "name": "nucleus-driver",
+  "version": "1.7.2",
+  "summary": "driver for the Nortek Nucleus",
+  "author": "Martin Bergene Johansen",
+  "license": null,
+  "home_page": "https://github.com/nortekgroup/nucleus_driver",
+  "download_filename": "nucleus_driver-1.7.2.tar.gz",
+  "download_time": "2025-08-27T07:42:38.464129",
+  "package_url": "https://pypi.org/project/nucleus-driver/"
+}

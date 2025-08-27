@@ -1,0 +1,11 @@
+{
+  "name": "blank-line-after-blocks",
+  "version": "0.1.0",
+  "summary": "A Python formatter to automatically add blank lines after if/for/while/with/try blocks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blank_line_after_blocks-0.1.0.tar.gz",
+  "download_time": "2025-08-27T07:42:24.761161",
+  "package_url": "https://pypi.org/project/blank-line-after-blocks/"
+}

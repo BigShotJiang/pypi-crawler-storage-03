@@ -1,11 +1,11 @@
 {
   "name": "dlubal.api",
-  "version": "2.11.7",
+  "version": "2.11.8",
   "summary": "Python Client Library for Dlubal Software APIs powered by gRPC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dlubal_api-2.11.7.tar.gz",
-  "download_time": "2025-08-18T13:54:15.234938",
+  "download_filename": "dlubal_api-2.11.8.tar.gz",
+  "download_time": "2025-08-27T07:42:53.689480",
   "package_url": "https://pypi.org/project/dlubal.api/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "aiosysbus",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "summary": "Provides asynchronous authentication and access to Livebox",
   "author": null,
   "license": "GPL-3",
   "home_page": null,
-  "download_filename": "aiosysbus-1.1.9.tar.gz",
-  "download_time": "2025-08-18T07:51:56.519630",
+  "download_filename": "aiosysbus-1.2.0.tar.gz",
+  "download_time": "2025-08-27T07:42:15.996847",
   "package_url": "https://pypi.org/project/aiosysbus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "netree",
-  "version": "0.1",
+  "version": "0.1.0.1",
   "summary": "Network Tree (netree)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netree-0.1.tar.gz",
-  "download_time": "2025-08-26T03:44:29.587367",
+  "download_filename": "netree-0.1.0.1.tar.gz",
+  "download_time": "2025-08-27T07:42:51.843807",
   "package_url": "https://pypi.org/project/netree/"
 }

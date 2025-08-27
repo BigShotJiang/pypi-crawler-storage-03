@@ -1,0 +1,11 @@
+{
+  "name": "ci-test",
+  "version": "0.0.6",
+  "summary": "A framework for static analysis testing of CI configurations.",
+  "author": "Evan Kohilas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ci_test-0.0.6.tar.gz",
+  "download_time": "2025-08-27T07:42:27.403273",
+  "package_url": "https://pypi.org/project/ci-test/"
+}
