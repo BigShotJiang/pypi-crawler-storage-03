@@ -1,0 +1,11 @@
+{
+  "name": "galaxy-py-misc",
+  "version": "0.0.1",
+  "summary": "Python Miscellaneous for the Galaxy Project",
+  "author": "Bastien Saltel",
+  "license": null,
+  "home_page": "https://github.com/bsaltel/galaxy-py-misc",
+  "download_filename": "galaxy_py_misc-0.0.1.tar.gz",
+  "download_time": "2025-08-27T15:44:40.555856",
+  "package_url": "https://pypi.org/project/galaxy-py-misc/"
+}

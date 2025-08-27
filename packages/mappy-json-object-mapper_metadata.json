@@ -1,0 +1,11 @@
+{
+  "name": "mappy-json-object-mapper",
+  "version": "1.0.1",
+  "summary": "MapPy Json - Object Mapper",
+  "author": "Zoltan Pazsit",
+  "license": "MIT",
+  "home_page": "https://github.com/PazsitZ/mappy-json-object-mapper",
+  "download_filename": "mappy_json_object_mapper-1.0.1.tar.gz",
+  "download_time": "2025-08-27T15:44:43.202826",
+  "package_url": "https://pypi.org/project/mappy-json-object-mapper/"
+}

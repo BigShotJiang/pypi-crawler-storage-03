@@ -1,0 +1,11 @@
+{
+  "name": "heptapod",
+  "version": "5.2.2",
+  "summary": "Heptapod server-side Mercurial hooks, extension, etc.",
+  "author": "Georges Racinet",
+  "license": "GPLv2+",
+  "home_page": "https://foss.heptapod.net/heptapod/py-heptapod",
+  "download_filename": "heptapod-5.2.2.tar.gz",
+  "download_time": "2025-08-27T15:45:00.264597",
+  "package_url": "https://pypi.org/project/heptapod/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "waves-workflows",
-  "version": "0.13.12",
+  "version": "0.13.15",
   "summary": "Computational science and engineering parameteric study workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "waves_workflows-0.13.12.tar.gz",
-  "download_time": "2025-08-18T16:54:17.420055",
+  "download_filename": "waves_workflows-0.13.15.tar.gz",
+  "download_time": "2025-08-27T15:44:47.038036",
   "package_url": "https://pypi.org/project/waves-workflows/"
 }
