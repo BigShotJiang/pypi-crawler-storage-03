@@ -1,11 +1,11 @@
 {
   "name": "bpynodearrange",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Automatic layout of nodes for Blender node trees",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "bpynodearrange-0.0.5.tar.gz",
-  "download_time": "2025-08-27T13:20:23.540063",
+  "download_filename": "bpynodearrange-0.0.6.tar.gz",
+  "download_time": "2025-08-27T13:55:41.460636",
   "package_url": "https://pypi.org/project/bpynodearrange/"
 }

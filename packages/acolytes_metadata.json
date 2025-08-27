@@ -1,0 +1,11 @@
+{
+  "name": "acolytes",
+  "version": "1.0.0",
+  "summary": "Acolytes for Claude Code - Multi-agent system with 57+ specialized AI assistants",
+  "author": "unmasSk",
+  "license": "MIT",
+  "home_page": "https://github.com/unmasSk/acolytes",
+  "download_filename": "acolytes-1.0.0.tar.gz",
+  "download_time": "2025-08-27T13:55:59.063638",
+  "package_url": "https://pypi.org/project/acolytes/"
+}

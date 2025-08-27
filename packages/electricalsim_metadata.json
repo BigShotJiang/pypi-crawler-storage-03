@@ -1,0 +1,11 @@
+{
+  "name": "electricalsim",
+  "version": "0.0.8.20",
+  "summary": "Graphical user interface for simulating electrical networks based on the pandapower library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "electricalsim-0.0.8.20.tar.gz",
+  "download_time": "2025-08-27T13:56:23.057521",
+  "package_url": "https://pypi.org/project/electricalsim/"
+}

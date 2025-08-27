@@ -1,11 +1,11 @@
 {
   "name": "methodaws",
-  "version": "0.0.44",
+  "version": "0.0.46",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "methodaws-0.0.44.tar.gz",
-  "download_time": "2025-08-26T14:46:05.322830",
+  "download_filename": "methodaws-0.0.46.tar.gz",
+  "download_time": "2025-08-27T13:56:17.150142",
   "package_url": "https://pypi.org/project/methodaws/"
 }

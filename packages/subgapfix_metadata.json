@@ -1,0 +1,11 @@
+{
+  "name": "subgapfix",
+  "version": "0.0.1",
+  "summary": "A small CLI tool to extend subtitle durations in SRT files by redefining gaps between subtitles.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "subgapfix-0.0.1.tar.gz",
+  "download_time": "2025-08-27T13:56:22.437549",
+  "package_url": "https://pypi.org/project/subgapfix/"
+}

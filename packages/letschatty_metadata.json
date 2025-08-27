@@ -1,11 +1,11 @@
 {
   "name": "letschatty",
-  "version": "0.4.137",
+  "version": "0.4.138",
   "summary": "Models and custom classes to work across the Chattyverse",
   "author": "Axel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "letschatty-0.4.137.tar.gz",
-  "download_time": "2025-08-26T19:54:00.216800",
+  "download_filename": "letschatty-0.4.138.tar.gz",
+  "download_time": "2025-08-27T13:56:11.909812",
   "package_url": "https://pypi.org/project/letschatty/"
 }
