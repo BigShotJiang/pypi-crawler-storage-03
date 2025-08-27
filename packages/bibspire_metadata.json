@@ -1,11 +1,11 @@
 {
   "name": "bibspire",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "A tool to update .bib entries with INSPIRE-HEP citations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bibspire-1.1.1.tar.gz",
-  "download_time": "2025-08-27T09:23:40.455128",
+  "download_filename": "bibspire-1.1.2.tar.gz",
+  "download_time": "2025-08-27T10:56:08.907871",
   "package_url": "https://pypi.org/project/bibspire/"
 }

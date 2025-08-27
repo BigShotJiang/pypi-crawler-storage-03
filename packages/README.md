@@ -1,13 +1,38 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T10:46:28.826866
+- **Download Time**: 2025-08-27T10:56:37.691971
 - **Total Packages**: 73
-- **Total Size**: 30.58 MB
+- **Total Size**: 2.71 MB
 
 ## Packages List
-- omniopt2
+- mayutils
+- ioa-observe-sdk
+- askui
+- fastpluggy-scheduled-query
+- wandb-workspaces
+- handy-nn
+- temfield
+- abs-auth-rbac-core
+- afp-sdk
+- mhagenta
+- robusta-api
+- zenx
+- ultralytics
+- py-yprinciple-gen
+- ten-vad
+- gofra
+- ropt-pymoo
+- cryptnoxpy
+- tmp-fat-pdocs
+- bibspire
+- pysentry-rs
 - vc-utils
+- meta-paper
+- aek-img-trainer
+- pyMetaModel
+- konduktor-nightly
+- omniopt2
 - amusic
 - ropt-nomad
 - ropt-dakota
@@ -15,22 +40,17 @@
 - trainy-policy-nightly
 - EnFROSP
 - pylint-per-file-ignores
-- ten-vad
 - azdo_pipeline
 - mcp-db-filesystem
-- zenx
 - aioduck
 - amsatop
 - graphql-mcp
 - invoke-plugin-for-pylint
 - steadytext
 - calorine
-- aek-img-trainer
 - letta-nightly
 - django-chelseru
 - dhisana
-- gofra
-- temfield
 - cga-py
 - eyantra-autoeval
 - snappi
@@ -44,7 +64,6 @@
 - aria2tui
 - sqlmesh
 - evaluation-service-base
-- mhagenta
 - chordsbert
 - holcstore
 - tau-community-detection
@@ -59,23 +78,4 @@
 - lusid-sdk
 - bool-hybrid-array
 - lightningchart-trader
-- meta-paper
 - hestia-good
-- table-file-parer
-- citysketch
-- photcalib
-- parql
-- coollog
-- libfrankapy
-- lightningchart
-- hpe
-- netbox-sync-status
-- dsetool.policy
-- dbr-test-pckg
-- langwatch
-- topmark
-- alita-sdk
-- satellome
-- brynq-sdk-bob
-- ajperry-pipeline
-- wujing

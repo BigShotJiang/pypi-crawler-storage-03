@@ -1,0 +1,11 @@
+{
+  "name": "tmp-fat-pdocs",
+  "version": "1.2.1",
+  "summary": "A simple program and library to auto generate API documentation for Python modules.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmp_fat_pdocs-1.2.1-py3-none-any.whl",
+  "download_time": "2025-08-27T10:56:08.395907",
+  "package_url": "https://pypi.org/project/tmp-fat-pdocs/"
+}
