@@ -1,19 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T03:38:09.024214
-- **Total Packages**: 72
-- **Total Size**: 19.69 MB
+- **Download Time**: 2025-08-27T03:58:19.585294
+- **Total Packages**: 75
+- **Total Size**: 0.27 MB
 
 ## Packages List
-- flekspy
-- amrita
-- odoo-addon-openupgrade-scripts
-- Geode-Hybrid-Geosciences
-- logery
-- merch-scripts-package
-- risingwave-pipeline-sdk
-- zep-cloud
 - xcmap
 - nonebot_plugin_suggarchat
 - littlefs-tools
@@ -22,6 +14,7 @@
 - BronkzTech
 - lhbtool1
 - keras-rs-nightly
+- logery
 - rodin
 - abstract-paths
 - echo-sdk
@@ -35,10 +28,12 @@
 - cf-dns-xethhung12
 - greekroom
 - python-with-braces
+- merch-scripts-package
 - mcpccc
 - minecraft-datapack-language
 - gitlab-api
 - torbi
+- risingwave-pipeline-sdk
 - make-xuml-repo
 - ncpcs-common
 - cripser
@@ -78,3 +73,11 @@
 - rwchartbuilder
 - google-cloud-aiplatform
 - odoo14-addons-oca-e-learning
+- types-networkx
+- types-cachetools
+- types-workalendar
+- types-Jetson.GPIO
+- types-convertdate
+- novus-pytils
+- types-pyluach
+- rundeck-exporter
