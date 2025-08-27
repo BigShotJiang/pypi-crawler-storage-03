@@ -1,0 +1,11 @@
+{
+  "name": "riddles-solver",
+  "version": "1.0.0",
+  "summary": "A Python library for solving riddles using repixify.com API",
+  "author": "Towux",
+  "license": "MIT",
+  "home_page": "https://github.com/Towux/riddles_solver",
+  "download_filename": "riddles_solver-1.0.0.tar.gz",
+  "download_time": "2025-08-27T07:22:10.666815",
+  "package_url": "https://pypi.org/project/riddles-solver/"
+}

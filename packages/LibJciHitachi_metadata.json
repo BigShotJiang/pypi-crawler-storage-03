@@ -1,0 +1,11 @@
+{
+  "name": "LibJciHitachi",
+  "version": "1.7.2",
+  "summary": "A library for controlling Jci Hitachi devices.",
+  "author": "Allan Lin",
+  "license": null,
+  "home_page": "https://github.com/qqaatw/LibJciHitachi",
+  "download_filename": "libjcihitachi-1.7.2.tar.gz",
+  "download_time": "2025-08-27T07:22:02.976911",
+  "package_url": "https://pypi.org/project/LibJciHitachi/"
+}

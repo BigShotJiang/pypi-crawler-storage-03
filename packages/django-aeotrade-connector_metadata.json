@@ -1,0 +1,11 @@
+{
+  "name": "django-aeotrade-connector",
+  "version": "0.1.0rc6",
+  "summary": "A connector development framework adapted to Django",
+  "author": "hero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_aeotrade_connector-0.1.0rc6.tar.gz",
+  "download_time": "2025-08-27T07:21:59.511337",
+  "package_url": "https://pypi.org/project/django-aeotrade-connector/"
+}

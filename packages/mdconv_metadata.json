@@ -1,11 +1,11 @@
 {
   "name": "mdconv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "[MDCONV](http://github.com/Juminiy/mdconv) is markdown to [json, ppt, docx, txt] converter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdconv-0.1.1.tar.gz",
-  "download_time": "2025-08-27T06:31:06.069733",
+  "download_filename": "mdconv-0.1.2.tar.gz",
+  "download_time": "2025-08-27T07:21:57.792718",
   "package_url": "https://pypi.org/project/mdconv/"
 }

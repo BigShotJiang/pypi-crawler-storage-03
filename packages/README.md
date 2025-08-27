@@ -1,13 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T06:53:26.065993
-- **Total Packages**: 78
-- **Total Size**: 18.27 MB
+- **Download Time**: 2025-08-27T07:22:28.336959
+- **Total Packages**: 81
+- **Total Size**: 57.5 MB
 
 ## Packages List
-- pulumi-tailscale
+- mergify-cli
+- abstract-gui
+- semantics.py3
+- passagemath-rankwidth
+- erioon
+- passagemath-plot
+- passagemath-planarity
+- eikonax
+- passagemath-objects
+- passagemath-homfly
+- passagemath-graphs
+- passagemath-glpk
+- passagemath-cmr
+- passagemath-cliquer
+- passagemath-cddlib
+- pandashifu
+- passagemath-categories
+- pulumi-aws-native
+- dbxsql
+- zep-livekit
+- peopledatalabs
+- tf-models-nightly
+- aliyun-python-sdk-dds
+- scriptdb
+- checkov
+- streamlit-nightly
+- cbrkit
+- griffonner
+- qqgjyx
+- fediverse-pasture
+- bkflow-django-webhook
+- Sandroid
+- pyspecan
+- wandelbots-api-client
+- mdconv
+- pulumi-wavefront
+- django-aeotrade-connector
+- ut-xls
+- iflow-mcp_mcp-email-server
+- reasoning-kernel
+- temu-api
+- LibJciHitachi
+- energy-base
+- poselib
+- vectocore
+- internal
+- mindsdb-sql-parser
+- arpakitlib
+- odoo-addon-website-search-header
+- kaldi-decoder
+- priority-config
+- mxcubeweb
 - mcp-server-tapd
+- riddles-solver
+- pulumi-tailscale
+- h2lib
 - python-urlopen
 - poemai-utils
 - jax-mda
@@ -27,60 +81,9 @@
 - mcp-server-stat
 - langchain-tool-server
 - qiskit-code-assistant-jupyterlab
-- abstract-gui
 - cascade-vad
 - scruby
 - odoo-addon-base-geoengine
 - odoo-addon-base-geoengine-demo
 - p115client
 - barcodactyl
-- wisent-guard
-- fastpluggy-tasks-worker
-- roself
-- aria2tui
-- odp-sdk
-- reviutils
-- ant-ray-cpp-nightly
-- sharepoint-graphql
-- Flask-GitHubApp
-- minvime
-- talk-box
-- rigour
-- tracecolor
-- extratools-cloud
-- isitsecure
-- nano-duration-py
-- volute-xls
-- pyhermeneus
-- kaldi-decoder
-- libdata
-- argorator
-- calculator-mcp-service
-- phylim
-- pulumi-aws-native
-- maleo-metadata
-- django-listing
-- maas-backoff-scheduler
-- qsmxt
-- letta-client
-- common-packages
-- steampunk-spotter
-- zepben.protobuf
-- wujihandpy
-- databricks-switch-plugin
-- kaldifst
-- por-que
-- metaprinter
-- mtv-mcp
-- px-rfs-project
-- upplib
-- fake-bpy-module
-- fake-bpy-module-latest
-- pg-stage
-- cdk8s-awscdk-resolver
-- aek-img-trainer
-- pgcopylib
-- mdconv
-- nonebot-plugin-abs
-- batchtk
-- langchain-google-genai

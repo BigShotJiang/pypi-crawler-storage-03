@@ -1,11 +1,11 @@
 {
   "name": "kaldi-decoder",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": null,
   "author": "The next-gen Kaldi development team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/k2-fsa/kaldi-decoder",
-  "download_filename": "kaldi-decoder-0.2.9.tar.gz",
-  "download_time": "2025-08-27T06:53:08.883600",
+  "download_filename": "kaldi-decoder-0.2.10.tar.gz",
+  "download_time": "2025-08-27T07:22:07.775068",
   "package_url": "https://pypi.org/project/kaldi-decoder/"
 }

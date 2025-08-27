@@ -1,0 +1,11 @@
+{
+  "name": "mindsdb-sql-parser",
+  "version": "0.11.4",
+  "summary": "Mindsdb SQL parser",
+  "author": "MindsDB Inc",
+  "license": "MIT",
+  "home_page": "https://github.com/mindsdb/mindsdb_sql_parser",
+  "download_filename": "mindsdb_sql_parser-0.11.4.tar.gz",
+  "download_time": "2025-08-27T07:22:05.948587",
+  "package_url": "https://pypi.org/project/mindsdb-sql-parser/"
+}
