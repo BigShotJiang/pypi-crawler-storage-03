@@ -1,11 +1,11 @@
 {
   "name": "eripotter-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Common utilities for EriPotter microservices",
   "author": "EriPotter Team",
   "license": null,
   "home_page": null,
-  "download_filename": "eripotter_common-0.1.0.tar.gz",
-  "download_time": "2025-08-26T10:00:06.816539",
+  "download_filename": "eripotter_common-0.1.1.tar.gz",
+  "download_time": "2025-08-27T07:54:42.733055",
   "package_url": "https://pypi.org/project/eripotter-common/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "superb_logger",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Superb Logger is a sleek and powerful logging utility built for Python applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superb_logger-0.2.0.tar.gz",
-  "download_time": "2025-08-26T11:20:43.437505",
+  "download_filename": "superb_logger-0.2.1.tar.gz",
+  "download_time": "2025-08-27T07:55:00.307241",
   "package_url": "https://pypi.org/project/superb_logger/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "stackit-iaas",
+  "version": "0.8.1",
+  "summary": "IaaS-API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_iaas-0.8.1.tar.gz",
+  "download_time": "2025-08-27T07:54:50.470095",
+  "package_url": "https://pypi.org/project/stackit-iaas/"
+}

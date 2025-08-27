@@ -1,0 +1,11 @@
+{
+  "name": "fa-common",
+  "version": "4.3.0",
+  "summary": "CSIRO Geoanalytics FastAPI Common Framework. Standardises Data access, authentication, task execution and provides a number of utilities and helper classes.",
+  "author": "Sam Bradley",
+  "license": "CSIRO Open Source Software License",
+  "home_page": null,
+  "download_filename": "fa_common-4.3.0.tar.gz",
+  "download_time": "2025-08-27T07:55:01.336081",
+  "package_url": "https://pypi.org/project/fa-common/"
+}
