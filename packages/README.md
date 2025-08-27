@@ -1,18 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T08:28:52.996578
-- **Total Packages**: 79
-- **Total Size**: 28.16 MB
+- **Download Time**: 2025-08-27T08:50:50.480484
+- **Total Packages**: 81
+- **Total Size**: 19.67 MB
 
 ## Packages List
-- rasa-pro
+- tomlconfigurer
+- terminal-shop
+- sysmaid
+- django-cosmograph
+- ghost-blog-smart
+- codebangla
+- amici
+- fastapi-creation
+- haiway
+- kuzu
+- eripotter-common
+- zepben.ewb
+- tzuping-algo
+- amusic
+- semantic-versioning-utility
+- mixedbread
+- minecraft-datapack-language
+- eyantra-autoeval
+- omniopt2
+- vital
+- sqlvault
+- DependiPy
+- coollog
+- webdock
 - retis
+- pymodaq_plugins_thorlabs
+- cryptocom-agent-plugin-sqlite
+- cryptocom-agent-plugin-discord
+- rasa-pro
 - akshare-one-mcp
 - anzar
 - python-dateitil
 - django-guardian
-- coollog
 - alibabacloud-dds20151201
 - nonebot-plugin-okashi
 - argos
@@ -32,7 +58,6 @@
 - calculator-mcp-server-tang
 - xproject
 - air
-- omniopt2
 - KCw-WebSurferAgent
 - apify
 - SpongeExt
@@ -62,26 +87,3 @@
 - prefect
 - aerovaldb
 - prefect-client
-- centra-sdk
-- algomanim
-- sysmaid
-- aws-lambda-powertools
-- ccxt-ir
-- DependiPy
-- mcp-server-stat
-- djhtmx
-- djangoldp-custom-dfc
-- arpakitlib
-- amulet-test-utils
-- odoo-py
-- tzuping-algo
-- mtv-mcp
-- CLHKidAI
-- richardsonpy
-- git-tag-deploy
-- dgkafka
-- opteryx
-- wittiot
-- qq
-- panda-server
-- python-urlopen

@@ -1,11 +1,11 @@
 {
   "name": "coollog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A simple and colorful logger for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "coollog-0.1.0.tar.gz",
-  "download_time": "2025-08-27T08:28:13.990815",
+  "download_filename": "coollog-0.1.1.tar.gz",
+  "download_time": "2025-08-27T08:50:14.029362",
   "package_url": "https://pypi.org/project/coollog/"
 }

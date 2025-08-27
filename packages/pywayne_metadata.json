@@ -1,11 +1,11 @@
 {
   "name": "pywayne",
-  "version": "1.0.1.5.4",
+  "version": "1.0.1.5.5",
   "summary": "Some useful tools",
   "author": "Wayne",
   "license": null,
   "home_page": "https://github.com/wangyendt/wangye_algorithm_lib",
-  "download_filename": "pywayne-1.0.1.5.4.tar.gz",
-  "download_time": "2025-08-27T08:28:18.693386",
+  "download_filename": "pywayne-1.0.1.5.5.tar.gz",
+  "download_time": "2025-08-27T08:50:25.826145",
   "package_url": "https://pypi.org/project/pywayne/"
 }

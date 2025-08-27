@@ -1,11 +1,11 @@
 {
   "name": "tzuping-algo",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Example algo package with Cython-compiled submodules",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "tzuping_algo-0.1.3-cp311-cp311-manylinux_2_28_aarch64.whl",
-  "download_time": "2025-08-27T08:28:47.184380",
+  "download_filename": "tzuping_algo-0.1.4-cp311-cp311-macosx_10_9_universal2.whl",
+  "download_time": "2025-08-27T08:50:07.439533",
   "package_url": "https://pypi.org/project/tzuping-algo/"
 }

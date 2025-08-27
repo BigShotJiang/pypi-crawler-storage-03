@@ -1,11 +1,11 @@
 {
   "name": "codebangla",
-  "version": "0.1.1",
-  "summary": "A Python transpiler to write Python code using Bangla keywords.",
-  "author": "Gemini",
+  "version": "0.2.0",
+  "summary": "Advanced Python transpiler for writing Python code using Bangla keywords",
+  "author": "CodeBangla Team",
   "license": null,
-  "home_page": "https://github.com/gemini/codebangla",
-  "download_filename": "codebangla-0.1.1.tar.gz",
-  "download_time": "2025-08-26T08:53:39.409401",
+  "home_page": "https://github.com/saky-semicolon/codebangla",
+  "download_filename": "codebangla-0.2.0.tar.gz",
+  "download_time": "2025-08-27T08:50:02.659691",
   "package_url": "https://pypi.org/project/codebangla/"
 }
