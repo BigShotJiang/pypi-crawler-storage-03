@@ -1,11 +1,11 @@
 {
   "name": "azdo_pipeline",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Call Azure DevOps pipeline and optionally search output.",
   "author": "Ahmad Ferdaus Abd Razak",
   "license": "GPL-2.0-only",
   "home_page": "https://gitlab.com/fer1035_python/modules/pypi-azdo_pipeline",
-  "download_filename": "azdo_pipeline-1.0.1.tar.gz",
-  "download_time": "2025-08-27T10:45:54.229715",
+  "download_filename": "azdo_pipeline-1.0.2.tar.gz",
+  "download_time": "2025-08-27T11:41:21.003909",
   "package_url": "https://pypi.org/project/azdo_pipeline/"
 }

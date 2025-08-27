@@ -1,0 +1,11 @@
+{
+  "name": "shapix",
+  "version": "0.1.0",
+  "summary": "A geometry engine for Python with text-based syntax and PNG export",
+  "author": "BerkayZ",
+  "license": null,
+  "home_page": "https://github.com/berkayz/shapix",
+  "download_filename": "shapix-0.1.0.tar.gz",
+  "download_time": "2025-08-27T11:41:07.939853",
+  "package_url": "https://pypi.org/project/shapix/"
+}

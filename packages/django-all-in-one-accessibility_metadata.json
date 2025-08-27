@@ -1,0 +1,11 @@
+{
+  "name": "django-all-in-one-accessibility",
+  "version": "3.0.0",
+  "summary": "All in One Accessibility widget improves Django website ADA compliance and browser experience for ADA, WCAG 2.1, Section 508, Australian DDA, European EAA EN 301 549, UK Equality Act (EA), Israeli Standard 5568, California Unruh, Ontario AODA, Canada ACA, German BITV, and France RGAA Standards",
+  "author": "Skynet Technologies USA LLC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_all_in_one_accessibility-3.0.0.tar.gz",
+  "download_time": "2025-08-27T11:41:24.632230",
+  "package_url": "https://pypi.org/project/django-all-in-one-accessibility/"
+}

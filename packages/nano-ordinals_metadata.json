@@ -1,0 +1,11 @@
+{
+  "name": "nano-ordinals",
+  "version": "0.1.0",
+  "summary": "Tiny ordinal↔cardinal converter in ~1KB (zero deps)",
+  "author": "ozgunlu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nano_ordinals-0.1.0.tar.gz",
+  "download_time": "2025-08-27T11:41:08.456985",
+  "package_url": "https://pypi.org/project/nano-ordinals/"
+}

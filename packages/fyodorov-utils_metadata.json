@@ -1,11 +1,11 @@
 {
   "name": "fyodorov-utils",
-  "version": "0.4.16",
+  "version": "0.4.18",
   "summary": "Utilities for the Fyodorov AI suite",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fyodorov_utils-0.4.16.tar.gz",
-  "download_time": "2025-08-26T23:20:33.753739",
+  "download_filename": "fyodorov_utils-0.4.18.tar.gz",
+  "download_time": "2025-08-27T11:40:58.434840",
   "package_url": "https://pypi.org/project/fyodorov-utils/"
 }
