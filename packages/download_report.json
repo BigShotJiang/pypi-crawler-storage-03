@@ -1,10 +1,8 @@
 {
-  "download_time": "2025-08-27T11:41:41.601959",
-  "total_packages_downloaded": 81,
-  "total_size_mb": 23.13,
+  "download_time": "2025-08-27T11:55:12.317420",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 1.48,
   "packages": [
-    "onql-client",
-    "internal",
     "ten-vad",
     "fyodorov-utils",
     "fyodorov-llm-agents",
@@ -26,6 +24,7 @@
     "nano-ordinals",
     "rhyolite-open-commerce-sdk",
     "aiohttp-msal",
+    "onql-client",
     "ostium-python-sdk",
     "workers-py",
     "matrice",
@@ -83,6 +82,9 @@
     "mcp-server-monday",
     "pulse-recharts",
     "firecrawl",
-    "firecrawl-py"
+    "firecrawl-py",
+    "tankoh2",
+    "o-nakala-core",
+    "example-fgen-basic"
   ]
 }
