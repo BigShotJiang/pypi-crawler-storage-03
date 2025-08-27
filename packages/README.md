@@ -1,11 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T11:55:12.317420
-- **Total Packages**: 83
-- **Total Size**: 1.48 MB
+- **Download Time**: 2025-08-27T12:42:53.861707
+- **Total Packages**: 81
+- **Total Size**: 3.62 MB
 
 ## Packages List
+- worker-automate-hub
+- ui-zero
+- onql-client
+- internal
 - ten-vad
 - fyodorov-utils
 - fyodorov-llm-agents
@@ -27,7 +31,6 @@
 - nano-ordinals
 - rhyolite-open-commerce-sdk
 - aiohttp-msal
-- onql-client
 - ostium-python-sdk
 - workers-py
 - matrice
@@ -84,8 +87,3 @@
 - doctyper
 - mcp-server-monday
 - pulse-recharts
-- firecrawl
-- firecrawl-py
-- tankoh2
-- o-nakala-core
-- example-fgen-basic

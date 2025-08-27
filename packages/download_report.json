@@ -1,8 +1,12 @@
 {
-  "download_time": "2025-08-27T11:55:12.317420",
-  "total_packages_downloaded": 83,
-  "total_size_mb": 1.48,
+  "download_time": "2025-08-27T12:42:53.861707",
+  "total_packages_downloaded": 81,
+  "total_size_mb": 3.62,
   "packages": [
+    "worker-automate-hub",
+    "ui-zero",
+    "onql-client",
+    "internal",
     "ten-vad",
     "fyodorov-utils",
     "fyodorov-llm-agents",
@@ -24,7 +28,6 @@
     "nano-ordinals",
     "rhyolite-open-commerce-sdk",
     "aiohttp-msal",
-    "onql-client",
     "ostium-python-sdk",
     "workers-py",
     "matrice",
@@ -80,11 +83,6 @@
     "cocode",
     "doctyper",
     "mcp-server-monday",
-    "pulse-recharts",
-    "firecrawl",
-    "firecrawl-py",
-    "tankoh2",
-    "o-nakala-core",
-    "example-fgen-basic"
+    "pulse-recharts"
   ]
 }
