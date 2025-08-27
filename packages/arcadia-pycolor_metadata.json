@@ -1,0 +1,11 @@
+{
+  "name": "arcadia-pycolor",
+  "version": "0.6.4",
+  "summary": "A Python package to distribute Arcadia's color and style guidelines for figures.",
+  "author": "Keith Cheveralls",
+  "license": "MIT",
+  "home_page": "https://github.com/Arcadia-Science/arcadia-pycolor",
+  "download_filename": "arcadia_pycolor-0.6.4.tar.gz",
+  "download_time": "2025-08-27T18:51:35.634093",
+  "package_url": "https://pypi.org/project/arcadia-pycolor/"
+}

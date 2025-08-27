@@ -1,0 +1,11 @@
+{
+  "name": "xroms",
+  "version": "0.6.2",
+  "summary": "Package for working with ROMS output in xarray",
+  "author": "Rob Hetland, Kristen Thyng, Veronica Ruiz Xomchuk",
+  "license": "MIT",
+  "home_page": "https://github.com/xoceanmodel/xroms",
+  "download_filename": "xroms-0.6.2-py3-none-any.whl",
+  "download_time": "2025-08-27T18:51:10.194070",
+  "package_url": "https://pypi.org/project/xroms/"
+}

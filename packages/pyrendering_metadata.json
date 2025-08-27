@@ -1,0 +1,11 @@
+{
+  "name": "pyrendering",
+  "version": "0.1.1",
+  "summary": "Python game building/rendering framework",
+  "author": "ShyMike",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyrendering-0.1.1.tar.gz",
+  "download_time": "2025-08-27T18:51:05.540234",
+  "package_url": "https://pypi.org/project/pyrendering/"
+}

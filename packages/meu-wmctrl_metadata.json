@@ -1,0 +1,11 @@
+{
+  "name": "meu-wmctrl",
+  "version": "0.2.0",
+  "summary": "Uma biblioteca Python simples para controle de janelas com wmctrl.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "meu_wmctrl-0.2.0.tar.gz",
+  "download_time": "2025-08-27T18:51:23.073077",
+  "package_url": "https://pypi.org/project/meu-wmctrl/"
+}

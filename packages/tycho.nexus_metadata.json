@@ -1,11 +1,11 @@
 {
   "name": "tycho.nexus",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "The official Python API wrapper for Nexus, by Tycho",
   "author": "Tycho",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tycho_nexus-0.0.2.tar.gz",
-  "download_time": "2025-08-27T17:43:44.533427",
+  "download_filename": "tycho_nexus-0.0.4.tar.gz",
+  "download_time": "2025-08-27T18:51:12.764172",
   "package_url": "https://pypi.org/project/tycho.nexus/"
 }

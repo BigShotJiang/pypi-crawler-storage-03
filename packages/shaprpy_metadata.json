@@ -1,0 +1,11 @@
+{
+  "name": "shaprpy",
+  "version": "0.3.0",
+  "summary": "Python wrapper for the R package shapr (via rpy2)",
+  "author": "Martin Jullum, Lars Henry Berge Olsen, Didrik Nielsen",
+  "license": "YEAR: 2019\n        COPYRIGHT HOLDER: Norsk Regnesentral\n        ",
+  "home_page": null,
+  "download_filename": "shaprpy-0.3.0.tar.gz",
+  "download_time": "2025-08-27T18:51:41.019043",
+  "package_url": "https://pypi.org/project/shaprpy/"
+}

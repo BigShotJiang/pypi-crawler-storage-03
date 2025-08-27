@@ -1,0 +1,11 @@
+{
+  "name": "uniparser-udmurt",
+  "version": "2.2.2",
+  "summary": "Rule-based morphological analysis for Udmurt",
+  "author": "Timofey Arkhangelskiy",
+  "license": null,
+  "home_page": "https://github.com/timarkh/uniparser-grammar-udm",
+  "download_filename": "uniparser_udmurt-2.2.2.tar.gz",
+  "download_time": "2025-08-27T18:51:18.458116",
+  "package_url": "https://pypi.org/project/uniparser-udmurt/"
+}

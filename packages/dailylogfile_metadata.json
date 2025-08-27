@@ -1,0 +1,11 @@
+{
+  "name": "dailylogfile",
+  "version": "0.2.1",
+  "summary": "Opinionated daily log file manager with date formatting and compression.",
+  "author": "James Reed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dailylogfile-0.2.1.tar.gz",
+  "download_time": "2025-08-27T18:51:16.365070",
+  "package_url": "https://pypi.org/project/dailylogfile/"
+}

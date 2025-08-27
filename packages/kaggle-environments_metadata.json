@@ -1,0 +1,11 @@
+{
+  "name": "kaggle-environments",
+  "version": "1.18.0",
+  "summary": "Kaggle Environments",
+  "author": "Kaggle",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Kaggle/kaggle-environments",
+  "download_filename": "kaggle_environments-1.18.0.tar.gz",
+  "download_time": "2025-08-27T18:51:24.120059",
+  "package_url": "https://pypi.org/project/kaggle-environments/"
+}
