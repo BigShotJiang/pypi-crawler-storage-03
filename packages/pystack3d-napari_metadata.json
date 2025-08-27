@@ -1,0 +1,11 @@
+{
+  "name": "pystack3d-napari",
+  "version": "2025.1",
+  "summary": "Pystack3D-napari: A Python package for fast image stack correction with its dedicated GUI",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "pystack3d_napari-2025.1.tar.gz",
+  "download_time": "2025-08-27T09:44:59.898913",
+  "package_url": "https://pypi.org/project/pystack3d-napari/"
+}

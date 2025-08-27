@@ -1,0 +1,11 @@
+{
+  "name": "galamo",
+  "version": "1.1.0",
+  "summary": "An open souce python package for comprehensive galaxy analysis, integrating machine learning and statistical methods. It provides automated tools for morphology classification, kinematics, photometry, and spectral analysis to aid astrophysical research.",
+  "author": "Jashanpreet Singh Dingra",
+  "license": null,
+  "home_page": "https://www.galamo.org",
+  "download_filename": "galamo-1.1.0.tar.gz",
+  "download_time": "2025-08-27T09:45:01.985983",
+  "package_url": "https://pypi.org/project/galamo/"
+}

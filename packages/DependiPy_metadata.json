@@ -1,11 +1,11 @@
 {
   "name": "DependiPy",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": null,
   "author": "Andrea Jacassi",
   "license": "MIT",
   "home_page": "https://github.com/ajacassi/DependiPy.git",
-  "download_filename": "dependipy-2.1.6.tar.gz",
-  "download_time": "2025-08-27T08:50:13.386025",
+  "download_filename": "dependipy-2.1.7.tar.gz",
+  "download_time": "2025-08-27T09:44:41.206484",
   "package_url": "https://pypi.org/project/DependiPy/"
 }

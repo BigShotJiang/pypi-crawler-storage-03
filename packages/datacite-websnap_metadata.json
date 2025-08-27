@@ -1,0 +1,11 @@
+{
+  "name": "datacite-websnap",
+  "version": "1.0.3",
+  "summary": "CLI tool that bulk exports DataCite metadata records for a specific repository to an S3 bucket.",
+  "author": "Rebecca Buchholz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datacite_websnap-1.0.3.tar.gz",
+  "download_time": "2025-08-27T09:44:41.720617",
+  "package_url": "https://pypi.org/project/datacite-websnap/"
+}

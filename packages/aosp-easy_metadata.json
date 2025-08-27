@@ -1,0 +1,11 @@
+{
+  "name": "aosp-easy",
+  "version": "0.2.0",
+  "summary": "make aosp easy",
+  "author": "min",
+  "license": "MIT",
+  "home_page": "https://github.com/passion-coder-min/aosp_easy",
+  "download_filename": "aosp_easy-0.2.0.tar.gz",
+  "download_time": "2025-08-27T09:44:39.141063",
+  "package_url": "https://pypi.org/project/aosp-easy/"
+}
