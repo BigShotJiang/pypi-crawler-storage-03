@@ -1,0 +1,11 @@
+{
+  "name": "odinfold",
+  "version": "1.0.0a8",
+  "summary": "OdinFold - The engine that powers FoldForever",
+  "author": "OdinFold Team",
+  "license": null,
+  "home_page": "https://github.com/euticus/openfold",
+  "download_filename": "odinfold-1.0.0a8.tar.gz",
+  "download_time": "2025-08-27T05:43:32.029312",
+  "package_url": "https://pypi.org/project/odinfold/"
+}

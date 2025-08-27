@@ -1,0 +1,11 @@
+{
+  "name": "prometrix",
+  "version": "0.2.2",
+  "summary": "A Python Prometheus client for all Prometheus instances.",
+  "author": "Avi Kotlicky",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prometrix-0.2.2.tar.gz",
+  "download_time": "2025-08-27T05:43:34.612336",
+  "package_url": "https://pypi.org/project/prometrix/"
+}

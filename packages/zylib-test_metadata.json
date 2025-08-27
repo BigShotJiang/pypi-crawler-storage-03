@@ -1,11 +1,11 @@
 {
   "name": "zylib-test",
-  "version": "0.0.132",
+  "version": "0.0.133",
   "summary": "Zylo-docs seamlessly integrates with FastAPI to automatically generate OpenAPI-compliant specs—so you can write your API docs faster and go home early.",
   "author": "zylosystems",
   "license": null,
   "home_page": null,
-  "download_filename": "zylib_test-0.0.132.tar.gz",
-  "download_time": "2025-08-27T05:21:59.317026",
+  "download_filename": "zylib_test-0.0.133.tar.gz",
+  "download_time": "2025-08-27T05:43:47.499372",
   "package_url": "https://pypi.org/project/zylib-test/"
 }

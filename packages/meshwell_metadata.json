@@ -1,0 +1,11 @@
+{
+  "name": "meshwell",
+  "version": "2.1.0",
+  "summary": "GMSH wrapper, with integrated photonics focus",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshwell-2.1.0.tar.gz",
+  "download_time": "2025-08-27T05:43:40.787705",
+  "package_url": "https://pypi.org/project/meshwell/"
+}
