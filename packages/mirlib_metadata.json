@@ -5,7 +5,7 @@
   "author": "file: AUTHORS",
   "license": null,
   "home_page": null,
-  "download_filename": "mirlib-1.27.2-cp310-cp310-macosx_13_0_x86_64.whl",
-  "download_time": "2025-08-26T15:23:28.845305",
+  "download_filename": "mirlib-1.27.2-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2025-08-27T14:58:46.286652",
   "package_url": "https://pypi.org/project/mirlib/"
 }

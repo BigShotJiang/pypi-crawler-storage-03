@@ -1,0 +1,11 @@
+{
+  "name": "solidity-audit-client",
+  "version": "2508.27.1",
+  "summary": "Solidity-Audit utility library",
+  "author": "https://github.com/ReinforcedAIAudits",
+  "license": "MIT",
+  "home_page": "https://github.com/ReinforcedAIAudits/lib",
+  "download_filename": "solidity_audit_client-2508.27.1-py3-none-any.whl",
+  "download_time": "2025-08-27T14:58:53.644820",
+  "package_url": "https://pypi.org/project/solidity-audit-client/"
+}

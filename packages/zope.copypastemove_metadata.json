@@ -1,0 +1,11 @@
+{
+  "name": "zope.copypastemove",
+  "version": "5.1",
+  "summary": "Copy, Paste and Move support for content components.",
+  "author": "Zope Foundation and Contributors",
+  "license": "ZPL-2.1",
+  "home_page": "http://github.com/zopefoundation/zope.copypastemove",
+  "download_filename": "zope_copypastemove-5.1.tar.gz",
+  "download_time": "2025-08-27T14:58:55.686314",
+  "package_url": "https://pypi.org/project/zope.copypastemove/"
+}

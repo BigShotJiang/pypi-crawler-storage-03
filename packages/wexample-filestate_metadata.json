@@ -1,0 +1,11 @@
+{
+  "name": "wexample-filestate",
+  "version": "0.0.47",
+  "summary": "Package that allows you to manage the state of files and directories using YAML configuration files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wexample_filestate-0.0.47.tar.gz",
+  "download_time": "2025-08-27T14:59:05.013676",
+  "package_url": "https://pypi.org/project/wexample-filestate/"
+}

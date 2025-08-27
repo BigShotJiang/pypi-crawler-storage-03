@@ -1,11 +1,11 @@
 {
   "name": "fyodorov-llm-agents",
-  "version": "0.5.21",
+  "version": "0.5.22",
   "summary": "LLM agents for the Fyodorov AI suite",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fyodorov_llm_agents-0.5.21.tar.gz",
-  "download_time": "2025-08-27T11:54:24.469933",
+  "download_filename": "fyodorov_llm_agents-0.5.22.tar.gz",
+  "download_time": "2025-08-27T14:58:35.791152",
   "package_url": "https://pypi.org/project/fyodorov-llm-agents/"
 }

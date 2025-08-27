@@ -1,11 +1,11 @@
 {
   "name": "tnfr",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "summary": "TNFR canónica: dinámica glífica modular sobre redes.",
   "author": "Fer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tnfr-2.0.1.tar.gz",
-  "download_time": "2025-08-27T13:56:28.263373",
+  "download_filename": "tnfr-3.0.0.tar.gz",
+  "download_time": "2025-08-27T14:59:03.478550",
   "package_url": "https://pypi.org/project/tnfr/"
 }
