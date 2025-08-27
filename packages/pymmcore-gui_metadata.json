@@ -1,0 +1,11 @@
+{
+  "name": "pymmcore-gui",
+  "version": "0.0.1rc0",
+  "summary": "A Micro-Manager GUI based on pymmcore-widgets and pymmcore-plus.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "pymmcore_gui-0.0.1rc0.tar.gz",
+  "download_time": "2025-08-27T01:32:11.074203",
+  "package_url": "https://pypi.org/project/pymmcore-gui/"
+}

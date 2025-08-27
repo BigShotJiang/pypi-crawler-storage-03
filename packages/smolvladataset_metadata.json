@@ -1,0 +1,11 @@
+{
+  "name": "smolvladataset",
+  "version": "0.1.0",
+  "summary": "Loader for SmolVLA robotics datasets with deterministic train/val/test splits; LeRobot‑compatible, cached locally, downloads precompiled bundles from the Hugging Face Hub or rebuilds from a CSV.",
+  "author": "franklintra, bonsainoodle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smolvladataset-0.1.0.tar.gz",
+  "download_time": "2025-08-27T01:32:04.893044",
+  "package_url": "https://pypi.org/project/smolvladataset/"
+}

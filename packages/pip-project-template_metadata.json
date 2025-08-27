@@ -1,0 +1,11 @@
+{
+  "name": "pip-project-template",
+  "version": "0.1.0",
+  "summary": "A Python project template for a pip package with MCP server support and agentic coding workflows (planning + test-driven development)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_project_template-0.1.0.tar.gz",
+  "download_time": "2025-08-27T01:32:09.888724",
+  "package_url": "https://pypi.org/project/pip-project-template/"
+}

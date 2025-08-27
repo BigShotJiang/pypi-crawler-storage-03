@@ -1,11 +1,11 @@
 {
   "name": "bioversions",
-  "version": "0.8.116",
+  "version": "0.8.117",
   "summary": "Get the current version for biological databases",
   "author": "Charles Tapley Hoyt",
   "license": null,
   "home_page": null,
-  "download_filename": "bioversions-0.8.116.tar.gz",
-  "download_time": "2025-08-26T01:29:25.350559",
+  "download_filename": "bioversions-0.8.117.tar.gz",
+  "download_time": "2025-08-27T01:31:54.359562",
   "package_url": "https://pypi.org/project/bioversions/"
 }

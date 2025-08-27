@@ -1,0 +1,11 @@
+{
+  "name": "mfglib",
+  "version": "0.2.0",
+  "summary": "A Library for Mean-Field Games.",
+  "author": "Xin Guo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mfglib-0.2.0.tar.gz",
+  "download_time": "2025-08-27T01:32:18.961495",
+  "package_url": "https://pypi.org/project/mfglib/"
+}
