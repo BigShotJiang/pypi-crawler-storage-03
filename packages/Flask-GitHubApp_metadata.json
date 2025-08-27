@@ -1,0 +1,11 @@
+{
+  "name": "Flask-GitHubApp",
+  "version": "0.4.0",
+  "summary": "Rapid GitHub app development in Python",
+  "author": "Jimmy Bradshaw",
+  "license": "MIT",
+  "home_page": "https://github.com/bradshjg/flask-githubapp",
+  "download_filename": "flask_githubapp-0.4.0.tar.gz",
+  "download_time": "2025-08-27T06:53:03.683275",
+  "package_url": "https://pypi.org/project/Flask-GitHubApp/"
+}

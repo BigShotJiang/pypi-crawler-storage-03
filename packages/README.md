@@ -1,12 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T06:31:30.332404
-- **Total Packages**: 81
-- **Total Size**: 32.67 MB
+- **Download Time**: 2025-08-27T06:53:26.065993
+- **Total Packages**: 78
+- **Total Size**: 18.27 MB
 
 ## Packages List
+- pulumi-tailscale
+- mcp-server-tapd
+- python-urlopen
+- poemai-utils
+- jax-mda
+- kolzchut-ragbot
+- omniopt2
+- runch
+- http_client_request
+- unique_toolkit
+- gisweb-tenants
+- geti-sdk
+- smartpi
+- orbitkit
+- agentforgeX
+- websight
+- waterfall
+- infrahub-sdk
+- mcp-server-stat
+- langchain-tool-server
+- qiskit-code-assistant-jupyterlab
+- abstract-gui
+- cascade-vad
+- scruby
+- odoo-addon-base-geoengine
+- odoo-addon-base-geoengine-demo
+- p115client
+- barcodactyl
+- wisent-guard
+- fastpluggy-tasks-worker
 - roself
+- aria2tui
+- odp-sdk
+- reviutils
+- ant-ray-cpp-nightly
+- sharepoint-graphql
+- Flask-GitHubApp
+- minvime
+- talk-box
+- rigour
+- tracecolor
+- extratools-cloud
+- isitsecure
 - nano-duration-py
 - volute-xls
 - pyhermeneus
@@ -20,13 +62,10 @@
 - django-listing
 - maas-backoff-scheduler
 - qsmxt
-- unique_toolkit
 - letta-client
 - common-packages
-- websight
 - steampunk-spotter
 - zepben.protobuf
-- mcp-server-stat
 - wujihandpy
 - databricks-switch-plugin
 - kaldifst
@@ -45,45 +84,3 @@
 - nonebot-plugin-abs
 - batchtk
 - langchain-google-genai
-- dotdict-tool
-- mllmcelltype
-- datasure
-- superb-ai-onprem
-- hud-python
-- pyg-nightly
-- novo-sdk
-- fastpluggy-tasks-worker
-- localstack-core
-- urllib3-future
-- ip-check
-- dbt-toolbox
-- alibabacloud-fc20230330
-- zepben.ewb
-- minecraft-datapack-language
-- odoo14-addon-ssi-webhook
-- coq-tools
-- sqlmesh
-- faird
-- integrate-module
-- nano-roman
-- listpick
-- robhan-cdk-lib.aws-grafana
-- orq-ai-sdk
-- robhan-cdk-lib.aws-aps
-- flowllm
-- openapiart
-- shadow-task
-- azure-ai-healthcheck
-- abstract-gui
-- matrice
-- mdbq
-- llm-profile
-- images-rs
-- furiosa-native-runtime
-- sphinx-notionbuilder
-- apis-acdhch-default-settings
-- ipynb-scrubber
-- pulumi-aws-apigateway
-- BoschMiniRpa
-- spl-core
-- iqm-exa-common

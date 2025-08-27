@@ -1,0 +1,11 @@
+{
+  "name": "geti-sdk",
+  "version": "2.12.0",
+  "summary": "Software Development Kit for the Intel® Geti™ platform",
+  "author": "Intel Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geti_sdk-2.12.0.tar.gz",
+  "download_time": "2025-08-27T06:52:49.425856",
+  "package_url": "https://pypi.org/project/geti-sdk/"
+}

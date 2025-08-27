@@ -1,0 +1,11 @@
+{
+  "name": "agentforgeX",
+  "version": "0.1.0",
+  "summary": "AgentForge: LLM-driven agent and multi-agent system generator",
+  "author": "AgentForge Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentforgex-0.1.0.tar.gz",
+  "download_time": "2025-08-27T06:52:50.978575",
+  "package_url": "https://pypi.org/project/agentforgeX/"
+}

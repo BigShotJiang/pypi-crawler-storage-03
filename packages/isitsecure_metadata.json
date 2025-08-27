@@ -1,0 +1,11 @@
+{
+  "name": "isitsecure",
+  "version": "1.0.0",
+  "summary": "A comprehensive password security scanner that analyzes strength and checks breach exposure",
+  "author": "Chris Mathew Aje",
+  "license": "MIT",
+  "home_page": "https://github.com/chrismat-05/IsItSecure",
+  "download_filename": "isitsecure-1.0.0.tar.gz",
+  "download_time": "2025-08-27T06:53:06.831453",
+  "package_url": "https://pypi.org/project/isitsecure/"
+}

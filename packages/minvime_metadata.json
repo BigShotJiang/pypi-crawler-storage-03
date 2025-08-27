@@ -1,0 +1,11 @@
+{
+  "name": "minvime",
+  "version": "1.0.3",
+  "summary": "Python Application for Estimating Minimum Viable Model Performance.",
+  "author": "John Hawkins",
+  "license": "MIT",
+  "home_page": "http://getting-data-science-done.com",
+  "download_filename": "minvime-1.0.3.tar.gz",
+  "download_time": "2025-08-27T06:53:04.193545",
+  "package_url": "https://pypi.org/project/minvime/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jax-mda",
+  "version": "0.0.1.dev0",
+  "summary": "JAX based molecular dynamic analysis tool.",
+  "author": "weihong.xu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jax_mda-0.0.1.dev0.tar.gz",
+  "download_time": "2025-08-27T06:52:45.263529",
+  "package_url": "https://pypi.org/project/jax-mda/"
+}
