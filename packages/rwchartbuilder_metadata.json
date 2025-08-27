@@ -1,11 +1,11 @@
 {
   "name": "rwchartbuilder",
-  "version": "0.0.0",
-  "summary": "Add your description here",
-  "author": null,
-  "license": null,
+  "version": "1.0.7",
+  "summary": "Reusable dual-axis chart utilities for matplotlib",
+  "author": "Ryan",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "rwchartbuilder-0.0.0.tar.gz",
-  "download_time": "2025-08-27T03:38:07.435739",
+  "download_filename": "rwchartbuilder-1.0.7.tar.gz",
+  "download_time": "2025-08-27T04:26:18.382995",
   "package_url": "https://pypi.org/project/rwchartbuilder/"
 }

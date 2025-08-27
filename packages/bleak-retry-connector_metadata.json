@@ -1,11 +1,11 @@
 {
   "name": "bleak-retry-connector",
-  "version": "4.4.0",
+  "version": "4.4.1",
   "summary": "A connector for Bleak Clients that handles transient connection failures",
   "author": "J. Nick Koston",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bleak_retry_connector-4.4.0.tar.gz",
-  "download_time": "2025-08-23T13:35:41.099474",
+  "download_filename": "bleak_retry_connector-4.4.1.tar.gz",
+  "download_time": "2025-08-27T04:26:24.129969",
   "package_url": "https://pypi.org/project/bleak-retry-connector/"
 }

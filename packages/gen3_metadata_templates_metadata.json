@@ -1,0 +1,11 @@
+{
+  "name": "gen3_metadata_templates",
+  "version": "1.0.1",
+  "summary": "Create Gen3 Metadata Submission Templates from a Gen3 JSON Schema",
+  "author": "JoshuaHarris391",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "gen3_metadata_templates-1.0.1.tar.gz",
+  "download_time": "2025-08-27T04:26:18.901694",
+  "package_url": "https://pypi.org/project/gen3_metadata_templates/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "z-zytome",
-  "version": "0.0.9",
+  "version": "0.0.12",
   "summary": "Zytome is declarative library for handling gene expression data for various data portals or datasets.",
   "author": "Marko Zolo Gozano Untalan",
   "license": "Apache-2.0",
   "home_page": "https://github.com/mzguntalan/zytome",
-  "download_filename": "z_zytome-0.0.9.tar.gz",
-  "download_time": "2025-08-26T07:54:51.209474",
+  "download_filename": "z_zytome-0.0.12.tar.gz",
+  "download_time": "2025-08-27T04:26:29.332934",
   "package_url": "https://pypi.org/project/z-zytome/"
 }

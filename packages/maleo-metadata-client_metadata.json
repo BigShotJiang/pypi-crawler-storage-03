@@ -1,11 +1,11 @@
 {
   "name": "maleo-metadata-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "MaleoMetadata client package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maleo_metadata_client-0.0.3.tar.gz",
-  "download_time": "2025-08-26T20:54:27.968188",
+  "download_filename": "maleo_metadata_client-0.0.4.tar.gz",
+  "download_time": "2025-08-27T04:26:02.518602",
   "package_url": "https://pypi.org/project/maleo-metadata-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fasterpc",
+  "version": "0.1.1",
+  "summary": "A fast and durable bidirectional JSON RPC channel over websockets and fastapi.",
+  "author": "SRSWTI Research Labs",
+  "license": null,
+  "home_page": "https://github.com/SRSWTI/fasterpc",
+  "download_filename": "fasterpc-0.1.1.tar.gz",
+  "download_time": "2025-08-27T04:25:53.639878",
+  "package_url": "https://pypi.org/project/fasterpc/"
+}

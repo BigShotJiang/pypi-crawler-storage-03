@@ -1,11 +1,11 @@
 {
   "name": "djmicrosip-exportaimportaprecios",
-  "version": "1.8.8",
+  "version": "1.8.9",
   "summary": "djmicrosip_exportaimportaprecios",
   "author": "Servicios de Ingenieria Computacional",
   "license": "BSD License",
   "home_page": null,
-  "download_filename": "djmicrosip_exportaimportaprecios-1.8.8.tar.gz",
-  "download_time": "2025-08-27T01:32:00.742792",
+  "download_filename": "djmicrosip_exportaimportaprecios-1.8.9.tar.gz",
+  "download_time": "2025-08-27T04:26:17.861176",
   "package_url": "https://pypi.org/project/djmicrosip-exportaimportaprecios/"
 }
