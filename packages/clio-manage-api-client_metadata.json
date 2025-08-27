@@ -1,0 +1,11 @@
+{
+  "name": "clio-manage-api-client",
+  "version": "0.1.4",
+  "summary": "Python Client for the Clio Manage API.",
+  "author": "Unigrated Partners",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/unigrated-solutions/clio-api-python-client",
+  "download_filename": "clio_manage_api_client-0.1.4.tar.gz",
+  "download_time": "2025-08-27T04:46:27.583189",
+  "package_url": "https://pypi.org/project/clio-manage-api-client/"
+}

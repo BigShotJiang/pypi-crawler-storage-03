@@ -1,29 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2025-08-27T04:26:30.354362
-- **Total Packages**: 85
-- **Total Size**: 29.16 MB
+- **Download Time**: 2025-08-27T04:47:09.319020
+- **Total Packages**: 82
+- **Total Size**: 20.32 MB
 
 ## Packages List
+- langsmith
+- blackbear_media_scoring
+- django-cfg
+- abstract-gui
+- clio-manage-api-client
+- optimisewait
+- fastpluggy-tasks-worker
+- nonebot-bison
+- lzl-pytools
+- project-llm-trainer
+- miniTorch
+- nautex
+- odoo-addon-helpdesk-mgmt
+- minecraft-datapack-language
+- pxpx
+- openelectricity
+- ut-aod
+- genomics-dataloader
+- batch-store
+- sanghyunjo
+- openevln
+- odoo-addon-shopfloor-reception
+- tnsa-api
+- axmp-openapi-mcp-server
+- matrice
+- fileformats-extras
+- fileformats
+- gtm-rosamii1
+- myxagent
+- clio-api-model-generator
+- fasterpc
+- ml-training-init-mcp
+- MeUtils
+- mysharelib
 - odoo-addon-stock-no-negative
 - ifkit
 - odoo-addon-stock-picking-batch-creation
-- openelectricity
 - quickdownload
 - nonebot_plugin_suggarchat
-- blackbear_media_scoring
 - renfield
 - mcp-keycloak
 - HowdenLLM
 - stigg-sidecar-sdk
 - figuratenum
-- minecraft-datapack-language
 - amcl
 - natural-pdf
-- ml-training-init-mcp
 - opendea-allys
-- fasterpc
 - ivybloom
 - python-with-braces
 - cinchdb
@@ -31,7 +60,6 @@
 - keras-nlp-nightly
 - keras-hub-nightly
 - qobuz-dlp
-- MeUtils
 - watsonx-autodeploy
 - mkdocs-media-gallery-plugin
 - mtcli-trade
@@ -41,7 +69,6 @@
 - aiwaf
 - mtcli-pa
 - maleo-metadata-client
-- fastpluggy-tasks-worker
 - sagemaker-studio-dataengineering-extensions
 - deezspot-spotizerr
 - sincpro-py-compiler
@@ -49,7 +76,6 @@
 - maleo-metadata
 - mcp-commons
 - obsidian-to-typst
-- abstract-gui
 - withpi
 - topk-sdk
 - maleo-soma
@@ -62,32 +88,3 @@
 - omlish
 - ominfra
 - omdev
-- omdev-cli
-- omdev-cext
-- django-esi
-- pulumi-juniper-mist
-- BoschRpaMagicBox
-- djmicrosip-exportaimportaprecios
-- rwchartbuilder
-- gen3_metadata_templates
-- odoo-addon-sale-loyalty-partner-applicability
-- odoo-addon-loyalty-partner-applicability
-- grpfpy
-- werkscout
-- strainpycon-inferencemethods
-- batch-store
-- hk-cdp
-- nonebot-plugin-simple-setu
-- volute-ppt
-- bleak-retry-connector
-- lightwheel-sdk
-- logery
-- acryl-datahub-cloud
-- agentscope
-- keras-nightly
-- svc-infra
-- myxagent
-- dependency-resolver
-- audx
-- z-zytome
-- zep-cloud

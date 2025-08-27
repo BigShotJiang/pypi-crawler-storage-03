@@ -1,0 +1,11 @@
+{
+  "name": "clio-api-model-generator",
+  "version": "0.2.2",
+  "summary": "A utility to generate Clio API models from OpenAPI specifications for use with our Clio API Python Client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clio_api_model_generator-0.2.2.tar.gz",
+  "download_time": "2025-08-27T04:46:41.360671",
+  "package_url": "https://pypi.org/project/clio-api-model-generator/"
+}

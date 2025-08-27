@@ -1,11 +1,11 @@
 {
   "name": "blackbear_media_scoring",
-  "version": "0.1.0",
+  "version": "0.1.0.post1",
   "summary": "LLM-based automated media scoring",
   "author": "Rivo Juicer Wowor",
   "license": null,
   "home_page": null,
-  "download_filename": "blackbear_media_scoring-0.1.0.tar.gz",
-  "download_time": "2025-08-27T04:25:47.919306",
+  "download_filename": "blackbear_media_scoring-0.1.0.post1.tar.gz",
+  "download_time": "2025-08-27T04:46:25.954607",
   "package_url": "https://pypi.org/project/blackbear_media_scoring/"
 }
