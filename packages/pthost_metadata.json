@@ -1,0 +1,11 @@
+{
+  "name": "pthost",
+  "version": "1.0.10",
+  "summary": "Default vhost tester",
+  "author": "Penterep",
+  "license": "GPLv3",
+  "home_page": "https://www.penterep.com/",
+  "download_filename": "pthost-1.0.10.tar.gz",
+  "download_time": "2025-08-27T17:54:38.209327",
+  "package_url": "https://pypi.org/project/pthost/"
+}

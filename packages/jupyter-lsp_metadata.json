@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-lsp",
+  "version": "2.3.0",
+  "summary": "Multi-Language Server WebSocket proxy for Jupyter Notebook/Lab server",
+  "author": "jupyter-lsp Contributors",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jupyter_lsp-2.3.0.tar.gz",
+  "download_time": "2025-08-27T17:54:33.934681",
+  "package_url": "https://pypi.org/project/jupyter-lsp/"
+}

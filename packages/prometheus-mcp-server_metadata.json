@@ -1,11 +1,11 @@
 {
   "name": "prometheus-mcp-server",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "MCP server for Prometheus integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prometheus_mcp_server-1.2.3.tar.gz",
-  "download_time": "2025-08-26T08:53:32.165689",
+  "download_filename": "prometheus_mcp_server-1.2.4.tar.gz",
+  "download_time": "2025-08-27T17:54:34.466954",
   "package_url": "https://pypi.org/project/prometheus-mcp-server/"
 }

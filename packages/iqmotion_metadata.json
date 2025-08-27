@@ -1,0 +1,11 @@
+{
+  "name": "iqmotion",
+  "version": "0.29.0",
+  "summary": "Python libraries to talk to IQ Motion Control devices",
+  "author": "Ben Quan, Malik B. Parker, Raphael Van Hoffelen",
+  "license": "lgpl-3.0",
+  "home_page": "https://github.com/iq-motion-control/iq-module-communication-python",
+  "download_filename": "iqmotion-0.29.0.tar.gz",
+  "download_time": "2025-08-27T17:54:21.229028",
+  "package_url": "https://pypi.org/project/iqmotion/"
+}
