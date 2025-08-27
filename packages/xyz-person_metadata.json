@@ -1,0 +1,11 @@
+{
+  "name": "xyz-person",
+  "version": "0.2.0",
+  "summary": "person",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-person",
+  "download_filename": "xyz_person-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T17:44:15.055329",
+  "package_url": "https://pypi.org/project/xyz-person/"
+}

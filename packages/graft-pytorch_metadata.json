@@ -1,0 +1,11 @@
+{
+  "name": "graft-pytorch",
+  "version": "0.1.7",
+  "summary": "Gradient-Aware Fast MaxVol Technique for Dynamic Data Sampling",
+  "author": "Ashish Jha",
+  "license": "MIT",
+  "home_page": "https://github.com/ashishjv1/GRAFT",
+  "download_filename": "graft_pytorch-0.1.7.tar.gz",
+  "download_time": "2025-08-27T17:43:50.260474",
+  "package_url": "https://pypi.org/project/graft-pytorch/"
+}

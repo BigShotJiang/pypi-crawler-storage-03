@@ -1,0 +1,11 @@
+{
+  "name": "thefuck-ai-rule",
+  "version": "0.1.0",
+  "summary": "AI-powered command correction assistant for thefuck",
+  "author": "huchiyv",
+  "license": null,
+  "home_page": "https://github.com/huchiyv/thefuckAiRule",
+  "download_filename": "thefuck_ai_rule-0.1.0.tar.gz",
+  "download_time": "2025-08-27T17:44:09.694649",
+  "package_url": "https://pypi.org/project/thefuck-ai-rule/"
+}

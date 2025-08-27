@@ -1,0 +1,11 @@
+{
+  "name": "xyz-survey",
+  "version": "0.2.0",
+  "summary": "survey",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-survey",
+  "download_filename": "xyz_survey-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T17:44:06.525363",
+  "package_url": "https://pypi.org/project/xyz-survey/"
+}

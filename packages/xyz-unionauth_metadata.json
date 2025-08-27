@@ -1,0 +1,11 @@
+{
+  "name": "xyz-unionauth",
+  "version": "0.2.0",
+  "summary": "unionauth",
+  "author": "szuprefix",
+  "license": "MIT",
+  "home_page": "https://github.com/szuprefix/py-xyz-unionauth",
+  "download_filename": "xyz_unionauth-0.2.0-py3-none-any.whl",
+  "download_time": "2025-08-27T17:43:49.741443",
+  "package_url": "https://pypi.org/project/xyz-unionauth/"
+}
