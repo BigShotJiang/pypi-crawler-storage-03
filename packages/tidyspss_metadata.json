@@ -1,11 +1,11 @@
 {
   "name": "tidyspss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for quick processing and transforming SPSS files",
   "author": "Albert Li",
   "license": null,
   "home_page": null,
-  "download_filename": "tidyspss-0.1.0.tar.gz",
-  "download_time": "2025-08-27T15:45:06.567609",
+  "download_filename": "tidyspss-0.1.1.tar.gz",
+  "download_time": "2025-08-27T16:27:33.973223",
   "package_url": "https://pypi.org/project/tidyspss/"
 }

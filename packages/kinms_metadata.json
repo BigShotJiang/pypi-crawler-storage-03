@@ -1,0 +1,11 @@
+{
+  "name": "kinms",
+  "version": "3.0.9",
+  "summary": "The KinMS (KINematic Molecular Simulation) package can be used to simulate observations of arbitary molecular/atomic cold gas distributions.",
+  "author": "Timothy A. Davis",
+  "license": "MIT",
+  "home_page": "https://github.com/TimothyADavis/KinMSpy",
+  "download_filename": "kinms-3.0.9.tar.gz",
+  "download_time": "2025-08-27T16:27:41.861546",
+  "package_url": "https://pypi.org/project/kinms/"
+}

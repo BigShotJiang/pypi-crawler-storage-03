@@ -1,0 +1,11 @@
+{
+  "name": "yeti-switch-api",
+  "version": "1.2.1",
+  "summary": "Yeti-web Admin API SDK",
+  "author": "Denys Talakevych",
+  "license": "MIT",
+  "home_page": "https://github.com/senid231/yeti-admin-python",
+  "download_filename": "yeti_switch_api-1.2.1.tar.gz",
+  "download_time": "2025-08-27T16:27:52.439756",
+  "package_url": "https://pypi.org/project/yeti-switch-api/"
+}

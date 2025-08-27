@@ -1,0 +1,11 @@
+{
+  "name": "envshield",
+  "version": "1.2.0",
+  "summary": "EnvShield: A CLI for secure local environment management and secret prevention.",
+  "author": "Rabbil Yasar Sajal",
+  "license": null,
+  "home_page": "https://github.com/rabbilyasar/envshield",
+  "download_filename": "envshield-1.2.0.tar.gz",
+  "download_time": "2025-08-27T16:27:31.890584",
+  "package_url": "https://pypi.org/project/envshield/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opaca",
+  "version": "0.0.5",
+  "summary": "Provides helpful tools for building your own OPACA Agent Container.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opaca-0.0.5.tar.gz",
+  "download_time": "2025-08-27T16:27:48.223967",
+  "package_url": "https://pypi.org/project/opaca/"
+}

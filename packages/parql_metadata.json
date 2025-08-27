@@ -1,11 +1,11 @@
 {
   "name": "parql",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A command-line tool for querying and manipulating Parquet datasets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "parql-1.0.2.tar.gz",
-  "download_time": "2025-08-27T10:46:20.160147",
+  "download_filename": "parql-1.0.3.tar.gz",
+  "download_time": "2025-08-27T16:27:49.792116",
   "package_url": "https://pypi.org/project/parql/"
 }

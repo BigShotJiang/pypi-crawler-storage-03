@@ -1,11 +1,11 @@
 {
   "name": "privateai-client",
-  "version": "4.1.0",
+  "version": "4.1.0.1",
   "summary": "A thin client for communicating with the Private AI de-identication API.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "privateai_client-4.1.0.tar.gz",
-  "download_time": "2025-08-27T15:44:55.039792",
+  "download_filename": "privateai_client-4.1.0.1.tar.gz",
+  "download_time": "2025-08-27T16:27:18.471920",
   "package_url": "https://pypi.org/project/privateai-client/"
 }
