@@ -1,0 +1,11 @@
+{
+  "name": "OPLS-MD",
+  "version": "0.1.0",
+  "summary": "PLS and OPLS regressors",
+  "author": "\"Santeri Paajanen, Shreyas Kaptan\"",
+  "license": "MIT",
+  "home_page": "https://github.com/molecularmachinist/OPLS-MD",
+  "download_filename": "opls_md-0.1.0.tar.gz",
+  "download_time": "2025-08-27T10:46:11.780644",
+  "package_url": "https://pypi.org/project/OPLS-MD/"
+}

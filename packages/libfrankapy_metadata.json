@@ -1,11 +1,11 @@
 {
   "name": "libfrankapy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python bindings for libfranka with real-time control",
   "author": "libfrankapy Team",
-  "license": null,
+  "license": "Apache-2.0",
   "home_page": "https://github.com/libfrankapy/libfrankapy",
-  "download_filename": "libfrankapy-0.1.0.tar.gz",
-  "download_time": "2025-08-26T14:56:43.380749",
+  "download_filename": "libfrankapy-0.1.1.tar.gz",
+  "download_time": "2025-08-27T10:46:21.184793",
   "package_url": "https://pypi.org/project/libfrankapy/"
 }

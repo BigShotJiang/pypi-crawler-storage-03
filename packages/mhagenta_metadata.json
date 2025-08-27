@@ -1,11 +1,11 @@
 {
   "name": "mhagenta",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "summary": "MHAgentA allows you to design and run simulations with containerized Modular Hybrid Agents.",
   "author": "Dmitry Gnatyshak",
   "license": null,
   "home_page": null,
-  "download_filename": "mhagenta-1.3.3.tar.gz",
-  "download_time": "2025-08-27T10:22:49.766023",
+  "download_filename": "mhagenta-1.3.4.tar.gz",
+  "download_time": "2025-08-27T10:46:09.696234",
   "package_url": "https://pypi.org/project/mhagenta/"
 }
