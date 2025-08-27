@@ -1,0 +1,11 @@
+{
+  "name": "global-logger",
+  "version": "0.4.7",
+  "summary": "Based on Python built-in logger, expands it, and provides a global logger to your system. Easy on-screen and/or .log files output setup without pain for Python newcomers. Python 2 and 3 compatible",
+  "author": "Alexey Rubasheff",
+  "license": null,
+  "home_page": null,
+  "download_filename": "global_logger-0.4.7.tar.gz",
+  "download_time": "2025-08-27T10:23:17.896005",
+  "package_url": "https://pypi.org/project/global-logger/"
+}

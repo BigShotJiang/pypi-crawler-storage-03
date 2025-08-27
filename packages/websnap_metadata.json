@@ -1,0 +1,11 @@
+{
+  "name": "websnap",
+  "version": "2.0.8",
+  "summary": "Copies files retrieved from an API to an S3 bucket or a local machine.",
+  "author": "Rebecca Buchholz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "websnap-2.0.8.tar.gz",
+  "download_time": "2025-08-27T10:23:24.255907",
+  "package_url": "https://pypi.org/project/websnap/"
+}

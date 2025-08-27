@@ -1,0 +1,11 @@
+{
+  "name": "openfactverification-kongzii",
+  "version": "0.5.3",
+  "summary": "Loki: An Open-source Tool for Fact Verification",
+  "author": "Hao Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/Libr-AI/OpenFactVerification/",
+  "download_filename": "openfactverification_kongzii-0.5.3.tar.gz",
+  "download_time": "2025-08-27T10:22:58.872403",
+  "package_url": "https://pypi.org/project/openfactverification-kongzii/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "molywood",
+  "version": "0.246",
+  "summary": "A script to automate the production of molecular movies in VMD",
+  "author": "Milosz Wieczor",
+  "license": "GNU GPLv3",
+  "home_page": "https://gitlab.com/KomBioMol/molywood",
+  "download_filename": "molywood-0.246.tar.gz",
+  "download_time": "2025-08-27T10:23:06.773928",
+  "package_url": "https://pypi.org/project/molywood/"
+}

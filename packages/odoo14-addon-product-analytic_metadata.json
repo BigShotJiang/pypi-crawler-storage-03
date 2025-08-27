@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-product-analytic",
+  "version": "14.0.1.1.0",
+  "summary": "Add analytic account on products and product categories",
+  "author": "Akretion, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo14_addon_product_analytic-14.0.1.1.0-py3-none-any.whl",
+  "download_time": "2025-08-27T10:23:25.948262",
+  "package_url": "https://pypi.org/project/odoo14-addon-product-analytic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-sync-status",
+  "version": "2.0.7",
+  "summary": "Sync Status for netbox objects",
+  "author": "Patrick Falk Nielsen",
+  "license": null,
+  "home_page": "https://github.com/jysk-network/netbox-sync-status",
+  "download_filename": "netbox_sync_status-2.0.7.tar.gz",
+  "download_time": "2025-08-27T10:22:43.865627",
+  "package_url": "https://pypi.org/project/netbox-sync-status/"
+}

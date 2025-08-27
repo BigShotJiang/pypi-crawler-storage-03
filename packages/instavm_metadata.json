@@ -1,11 +1,11 @@
 {
   "name": "instavm",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A simple API client for code execution",
   "author": "InstaVM Team",
   "license": null,
   "home_page": "http://instavm.io",
-  "download_filename": "instavm-0.1.4.tar.gz",
-  "download_time": "2025-08-26T14:56:32.897382",
+  "download_filename": "instavm-0.1.5.tar.gz",
+  "download_time": "2025-08-27T10:23:18.463242",
   "package_url": "https://pypi.org/project/instavm/"
 }

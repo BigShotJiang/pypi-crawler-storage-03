@@ -1,0 +1,11 @@
+{
+  "name": "christofy",
+  "version": "1.0.2",
+  "summary": "Christofy is a lightweight, modular PyTorch-based AI toolkit that unifies essential deep learning capabilities. It supports Image Classification, Segmentation, and advanced Vision Analysis with clean, easy-to-use APIs. With built-in Retrieval-Augmented Generation (RAG) powered by ChromaDB and Ollama, it seamlessly blends vision and language intelligence. Designed for flexibility and speed, Christofy is your all-in-one arsenal for building modern AI solutions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "christofy-1.0.2.tar.gz",
+  "download_time": "2025-08-27T10:23:05.103121",
+  "package_url": "https://pypi.org/project/christofy/"
+}

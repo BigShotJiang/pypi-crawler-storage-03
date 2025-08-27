@@ -1,11 +1,11 @@
 {
   "name": "virtual-stories",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Test to write virtual stories from configure.",
   "author": "Allen Chou",
   "license": "MIT",
   "home_page": "https://github.com/allen2c/virtual-stories",
-  "download_filename": "virtual_stories-0.4.2.tar.gz",
-  "download_time": "2025-08-26T11:20:45.003568",
+  "download_filename": "virtual_stories-0.4.3.tar.gz",
+  "download_time": "2025-08-27T10:23:29.382630",
   "package_url": "https://pypi.org/project/virtual-stories/"
 }

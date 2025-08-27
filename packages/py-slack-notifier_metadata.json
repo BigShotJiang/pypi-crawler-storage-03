@@ -1,0 +1,11 @@
+{
+  "name": "py-slack-notifier",
+  "version": "2.0.0",
+  "summary": "Enhanced multi-channel Slack notification system with rich formatting and environment detection",
+  "author": "XeroHome Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/xerohome/py-slack-notifier",
+  "download_filename": "py-slack-notifier-2.0.0.tar.gz",
+  "download_time": "2025-08-27T10:22:57.163137",
+  "package_url": "https://pypi.org/project/py-slack-notifier/"
+}
